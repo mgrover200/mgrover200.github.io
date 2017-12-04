@@ -494,7 +494,7 @@ h6,
 #msg-box8-1bw .mbr-section-title {
   font-size: 36px;
   font-family: 'Lora', serif;
-  color: #ffffff;
+  color: #efefef;
   text-align: center;
 }
 #msg-box8-1bw .lead {
@@ -693,6 +693,7 @@ h6,
 #content1-d5 P {
   color: #000000;
   text-align: left;
+  font-size: 17px;
 }
 #msg-box5-1c8 H3 {
   font-family: 'Slabo 27px', serif;
@@ -701,6 +702,10 @@ h6,
 }
 #msg-box5-1c8 P {
   color: #000000;
+  font-size: 17px;
+}
+#msg-box5-1c8 SPAN {
+  font-size: 18px;
 }
 #content1-11a P {
   text-align: left;
@@ -1599,24 +1604,32 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
 }
+#header3-1k6 .mbr-section-title,
+#header3-1k6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1k6 H3 {
+  color: #7e9b9f;
+  font-size: 36px;
+}
 #content1-l5 P {
   text-align: left;
 }
-#content1-14m P {
+#content1-1k2 P {
   text-align: left;
   color: #000000;
 }
-#content1-14o P {
+#content1-1k3 P {
   text-align: left;
   color: #000000;
 }
-#content1-14p P {
+#content1-1k4 P {
   text-align: left;
   color: #000000;
 }
 #content1-lb P {
-  text-align: center;
-  color: #ffffff;
+  text-align: left;
+  color: #000000;
 }
 #msg-box8-la .mbr-section-title,
 #msg-box8-la p {
