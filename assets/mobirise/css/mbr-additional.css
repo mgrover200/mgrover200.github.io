@@ -1627,9 +1627,9 @@ h6,
   text-align: left;
   color: #000000;
 }
-#content1-lb P {
-  text-align: left;
-  color: #000000;
+#content1-1kw P {
+  text-align: center;
+  color: #ffffff;
 }
 #msg-box8-la .mbr-section-title,
 #msg-box8-la p {
@@ -1768,117 +1768,6 @@ h6,
   color: #7e9b9f;
 }
 #footer1-el P {
-  color: #cccccc;
-  font-size: 15px;
-}
-
-
-
-#ext_menu-er .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-er .navbar-caption {
-  color: #ffffff;
-  font-size: 14px;
-}
-#ext_menu-er .navbar-toggler {
-  color: #efefef;
-}
-#ext_menu-er .close-icon::before,
-#ext_menu-er .close-icon::after {
-  background-color: #efefef;
-}
-#ext_menu-er .link,
-#ext_menu-er .dropdown-item {
-  color: #efefef;
-  font-family: 'Slabo 27px', serif;
-}
-#ext_menu-er .link {
-  font-size: 1.05rem;
-}
-#ext_menu-er .dropdown-item,
-#ext_menu-er .nav-dropdown-sm .link {
-  font-size: 1.137rem;
-}
-#ext_menu-er .link:hover,
-#ext_menu-er .dropdown-item:hover,
-#ext_menu-er .link:focus,
-#ext_menu-er .dropdown-item:focus {
-  color: #90a878;
-}
-#ext_menu-er .link[aria-expanded="true"],
-#ext_menu-er .dropdown-menu {
-  background: #648286;
-}
-#ext_menu-er .nav-dropdown-sm .link:focus,
-#ext_menu-er .nav-dropdown-sm .link:hover,
-#ext_menu-er .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-er .nav-dropdown-sm .dropdown-item:hover {
-  background: #759498!important;
-}
-#ext_menu-er .navbar,
-#ext_menu-er .nav-dropdown-sm,
-#ext_menu-er .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-er .nav-dropdown-sm .dropdown-menu {
-  background: #7e9b9f;
-}
-#ext_menu-er .bg-color.transparent .link {
-  color: #efefef;
-  transition: none;
-}
-#ext_menu-er .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-er .bg-color.transparent.opened .link:hover,
-#ext_menu-er .bg-color.transparent.opened .link:focus {
-  color: #90a878;
-}
-#ext_menu-er .link[aria-expanded="true"],
-#ext_menu-er .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
-}
-#msg-box8-1io .mbr-section-title,
-#msg-box8-1io p {
-  color: #fff;
-}
-#msg-box8-1io .mbr-section-title {
-  font-size: 36px;
-  font-family: 'Lora', serif;
-  color: #ffffff;
-  text-align: center;
-}
-#msg-box8-1io .lead {
-  color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 20px;
-}
-#content1-ps P {
-  text-align: left;
-}
-#content1-144 P {
-  text-align: left;
-  color: #000000;
-}
-#content1-143 P {
-  text-align: left;
-  color: #000000;
-}
-#content1-151 P {
-  text-align: center;
-  color: #ffffff;
-}
-#msg-box5-14u P {
-  text-align: left;
-}
-#content1-14w P {
-  text-align: center;
-  color: #ffffff;
-}
-#content1-v5 P {
-  text-align: center;
-  color: #7e9b9f;
-}
-#footer1-ew P {
   color: #cccccc;
   font-size: 15px;
 }
