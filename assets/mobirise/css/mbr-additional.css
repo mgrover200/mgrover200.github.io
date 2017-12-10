@@ -2828,3 +2828,100 @@ h6,
   color: #cccccc;
   font-size: 15px;
 }
+
+
+
+#ext_menu-1my .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1my .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-1my .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-1my .close-icon::before,
+#ext_menu-1my .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-1my .link,
+#ext_menu-1my .dropdown-item {
+  color: #efefef;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-1my .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1my .dropdown-item,
+#ext_menu-1my .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1my .link:hover,
+#ext_menu-1my .dropdown-item:hover,
+#ext_menu-1my .link:focus,
+#ext_menu-1my .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-1my .link[aria-expanded="true"],
+#ext_menu-1my .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-1my .nav-dropdown-sm .link:focus,
+#ext_menu-1my .nav-dropdown-sm .link:hover,
+#ext_menu-1my .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1my .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-1my .navbar,
+#ext_menu-1my .nav-dropdown-sm,
+#ext_menu-1my .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1my .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-1my .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-1my .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1my .bg-color.transparent.opened .link:hover,
+#ext_menu-1my .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-1my .link[aria-expanded="true"],
+#ext_menu-1my .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-1mz .mbr-section-title,
+#msg-box8-1mz p {
+  color: #fff;
+}
+#msg-box8-1mz .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Lora', serif;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-1mz .lead {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box8-1nh .mbr-section-title,
+#msg-box8-1nh p {
+  color: #fff;
+}
+#content1-1n4 P {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-1n5 P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#footer1-1n6 P {
+  color: #cccccc;
+  font-size: 15px;
+}
