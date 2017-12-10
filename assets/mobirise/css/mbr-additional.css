@@ -2925,3 +2925,96 @@ h6,
   color: #cccccc;
   font-size: 15px;
 }
+
+
+
+#ext_menu-1ni .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1ni .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-1ni .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-1ni .close-icon::before,
+#ext_menu-1ni .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-1ni .link,
+#ext_menu-1ni .dropdown-item {
+  color: #efefef;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-1ni .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1ni .dropdown-item,
+#ext_menu-1ni .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1ni .link:hover,
+#ext_menu-1ni .dropdown-item:hover,
+#ext_menu-1ni .link:focus,
+#ext_menu-1ni .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-1ni .link[aria-expanded="true"],
+#ext_menu-1ni .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-1ni .nav-dropdown-sm .link:focus,
+#ext_menu-1ni .nav-dropdown-sm .link:hover,
+#ext_menu-1ni .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1ni .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-1ni .navbar,
+#ext_menu-1ni .nav-dropdown-sm,
+#ext_menu-1ni .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1ni .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-1ni .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-1ni .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1ni .bg-color.transparent.opened .link:hover,
+#ext_menu-1ni .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-1ni .link[aria-expanded="true"],
+#ext_menu-1ni .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-1nj .mbr-section-title,
+#msg-box8-1nj p {
+  color: #fff;
+}
+#msg-box8-1nj .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Lora', serif;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-1nj .lead {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#content1-1nq P {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-1nr P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#footer1-1ns P {
+  color: #cccccc;
+  font-size: 15px;
+}
