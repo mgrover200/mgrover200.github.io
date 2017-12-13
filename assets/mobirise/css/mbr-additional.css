@@ -2755,3 +2755,196 @@ h6,
   color: #cccccc;
   font-size: 15px;
 }
+
+
+
+#ext_menu-1o6 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1o6 .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-1o6 .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-1o6 .close-icon::before,
+#ext_menu-1o6 .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-1o6 .link,
+#ext_menu-1o6 .dropdown-item {
+  color: #efefef;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-1o6 .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1o6 .dropdown-item,
+#ext_menu-1o6 .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1o6 .link:hover,
+#ext_menu-1o6 .dropdown-item:hover,
+#ext_menu-1o6 .link:focus,
+#ext_menu-1o6 .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-1o6 .link[aria-expanded="true"],
+#ext_menu-1o6 .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-1o6 .nav-dropdown-sm .link:focus,
+#ext_menu-1o6 .nav-dropdown-sm .link:hover,
+#ext_menu-1o6 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1o6 .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-1o6 .navbar,
+#ext_menu-1o6 .nav-dropdown-sm,
+#ext_menu-1o6 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1o6 .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-1o6 .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-1o6 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1o6 .bg-color.transparent.opened .link:hover,
+#ext_menu-1o6 .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-1o6 .link[aria-expanded="true"],
+#ext_menu-1o6 .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-1o7 .mbr-section-title,
+#msg-box8-1o7 p {
+  color: #fff;
+}
+#msg-box8-1o7 .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Lora', serif;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-1o7 .lead {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#content1-1of P {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-1og P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#footer1-1oh P {
+  color: #cccccc;
+  font-size: 15px;
+}
+
+
+
+#ext_menu-1oi .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1oi .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-1oi .navbar-toggler {
+  color: #efefef;
+}
+#ext_menu-1oi .close-icon::before,
+#ext_menu-1oi .close-icon::after {
+  background-color: #efefef;
+}
+#ext_menu-1oi .link,
+#ext_menu-1oi .dropdown-item {
+  color: #efefef;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-1oi .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1oi .dropdown-item,
+#ext_menu-1oi .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1oi .link:hover,
+#ext_menu-1oi .dropdown-item:hover,
+#ext_menu-1oi .link:focus,
+#ext_menu-1oi .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-1oi .link[aria-expanded="true"],
+#ext_menu-1oi .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-1oi .nav-dropdown-sm .link:focus,
+#ext_menu-1oi .nav-dropdown-sm .link:hover,
+#ext_menu-1oi .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1oi .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-1oi .navbar,
+#ext_menu-1oi .nav-dropdown-sm,
+#ext_menu-1oi .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1oi .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-1oi .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#ext_menu-1oi .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1oi .bg-color.transparent.opened .link:hover,
+#ext_menu-1oi .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-1oi .link[aria-expanded="true"],
+#ext_menu-1oi .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-1oj .mbr-section-title,
+#msg-box8-1oj p {
+  color: #fff;
+}
+#msg-box8-1oj .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Lora', serif;
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box8-1oj .lead {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#content1-1ok P {
+  text-align: left;
+}
+#content1-1om P {
+  text-align: left;
+  color: #000000;
+}
+#content1-1oo P {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-1op P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#footer1-1oq P {
+  color: #cccccc;
+  font-size: 15px;
+}
