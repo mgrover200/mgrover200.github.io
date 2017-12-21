@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -508,7 +509,8 @@ h6,
 }
 #header3-1ph H3 {
   color: #7e9b9f;
-  font-size: 36px;
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
 }
 #msg-box5-uu H3 {
   color: #7e9b9f;
@@ -618,6 +620,7 @@ h6,
 
 
 
+
 #ext_menu-8g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -702,7 +705,8 @@ h6,
 }
 #header3-1pl H3 {
   color: #7e9b9f;
-  font-size: 36px;
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
 }
 #content1-d5 P {
   color: #000000;
@@ -873,6 +877,7 @@ h6,
 
 
 
+
 #ext_menu-dp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -966,6 +971,11 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 30px;
   color: #7e9b9f;
+}
+#msg-box5-1pc H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
 }
 #content1-18u P {
   text-align: left;
@@ -1063,6 +1073,14 @@ h6,
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+}
+#header3-1pn .mbr-section-title,
+#header3-1pn .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1pn H3 {
+  color: #7e9b9f;
+  font-size: 36px;
 }
 #content1-cg P {
   color: #000000;
@@ -1162,6 +1180,14 @@ h6,
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+}
+#header3-1po .mbr-section-title,
+#header3-1po .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1po H3 {
+  color: #7e9b9f;
+  font-size: 36px;
 }
 #content1-oz P {
   text-align: left;
