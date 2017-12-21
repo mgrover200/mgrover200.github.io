@@ -502,9 +502,13 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
 }
-#content1-1pf P {
+#header3-1ph .mbr-section-title,
+#header3-1ph .mbr-section-subtitle {
   text-align: center;
-  color: #ffffff;
+}
+#header3-1ph H3 {
+  color: #7e9b9f;
+  font-size: 36px;
 }
 #msg-box5-uu H3 {
   color: #7e9b9f;
