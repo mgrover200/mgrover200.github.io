@@ -617,6 +617,7 @@ h6,
 
 
 
+
 #ext_menu-8g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -695,22 +696,23 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
 }
+#header3-1pl .mbr-section-title,
+#header3-1pl .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1pl H3 {
+  color: #7e9b9f;
+  font-size: 36px;
+}
 #content1-d5 P {
   color: #000000;
   text-align: left;
   font-size: 17px;
 }
-#msg-box5-1c8 H3 {
-  font-family: 'Slabo 27px', serif;
-  font-size: 20px;
+#msg-box5-1pm H3 {
   color: #7e9b9f;
-}
-#msg-box5-1c8 P {
-  color: #000000;
-  font-size: 17px;
-}
-#msg-box5-1c8 SPAN {
-  font-size: 18px;
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
 }
 #content1-11a P {
   text-align: left;
@@ -718,6 +720,11 @@ h6,
 }
 #msg-box5-1o2 P {
   text-align: left;
+}
+#msg-box5-1o2 H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
 }
 #content1-1jr P {
   text-align: center;
@@ -865,6 +872,7 @@ h6,
 
 
 
+
 #ext_menu-dp .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -953,6 +961,11 @@ h6,
 }
 #content1-1c5 P {
   text-align: left;
+}
+#msg-box5-1pb H3 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 30px;
+  color: #7e9b9f;
 }
 #content1-18u P {
   text-align: left;
