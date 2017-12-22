@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -495,29 +494,21 @@ h6,
   font-size: 36px;
   font-family: 'Lora', serif;
   color: #efefef;
-  text-align: center;
+  text-align: left;
 }
 #msg-box8-1bw .lead {
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
 }
-#content1-1qk P {
+#header3-1sm .mbr-section-title,
+#header3-1sm .mbr-section-subtitle {
   text-align: center;
-  color: #ffffff;
 }
-#msg-box5-uu H3 {
-  color: #7e9b9f;
+#header3-1sm H3 {
+  color: #cccccc;
   font-family: 'Slabo 27px', serif;
-  font-size: 30px;
-}
-#msg-box5-uu SPAN {
-  text-align: center;
-  font-size: 25px;
-}
-#msg-box5-uu P {
-  font-size: 17px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
 }
 #content1-ux P {
   text-align: center;
