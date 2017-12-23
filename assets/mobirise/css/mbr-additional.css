@@ -8,7 +8,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -500,23 +499,21 @@ h6,
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+  text-align: left;
 }
-#header3-1sm .mbr-section-title,
-#header3-1sm .mbr-section-subtitle {
-  text-align: center;
+#features7-1so .card-subtitle {
+  color: #bcbcbc;
 }
-#header3-1sm H3 {
-  color: #cccccc;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
+#features7-1so .iconbox {
+  background-color: #7e9b9f;
+  border-color: #7e9b9f;
 }
-#content1-ux P {
-  text-align: center;
-  color: #ffffff;
+#features7-1so H4 {
+  color: #7e9b9f;
 }
 #content1-uw P {
   text-align: center;
-  color: #ffffff;
+  color: #7e9b9f;
 }
 
 
@@ -707,7 +704,7 @@ h6,
   color: #fff;
 }
 #msg-box8-1i6 .mbr-section-title {
-  font-size: 36px;
+  font-size: 46px;
   font-family: 'Lora', serif;
   color: #ffffff;
   text-align: left;
@@ -834,12 +831,13 @@ h6,
   font-size: 36px;
   font-family: 'Lora', serif;
   color: #efefef;
-  text-align: center;
+  text-align: left;
 }
 #msg-box8-1rv .lead {
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+  text-align: left;
 }
 #content1-1c5 P {
   text-align: left;
@@ -1047,12 +1045,13 @@ h6,
   font-size: 36px;
   font-family: 'Lora', serif;
   color: #efefef;
-  text-align: center;
+  text-align: left;
 }
 #msg-box8-1ry .lead {
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+  text-align: left;
 }
 #content1-oz P {
   text-align: left;
@@ -1259,12 +1258,13 @@ h6,
   font-size: 36px;
   font-family: 'Lora', serif;
   color: #efefef;
-  text-align: center;
+  text-align: left;
 }
 #msg-box8-1s8 .lead {
   color: #ffffff;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
+  text-align: left;
 }
 #content1-l5 P {
   text-align: left;
