@@ -3497,3 +3497,115 @@ h6,
   color: #cccccc;
   font-size: 15px;
 }
+
+
+
+
+
+#ext_menu-1ww .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1ww .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-1ww .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1ww .close-icon::before,
+#ext_menu-1ww .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1ww .link,
+#ext_menu-1ww .dropdown-item {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-1ww .link {
+  font-size: 1.05rem;
+}
+#ext_menu-1ww .dropdown-item,
+#ext_menu-1ww .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#ext_menu-1ww .link:hover,
+#ext_menu-1ww .dropdown-item:hover,
+#ext_menu-1ww .link:focus,
+#ext_menu-1ww .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-1ww .link[aria-expanded="true"],
+#ext_menu-1ww .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-1ww .nav-dropdown-sm .link:focus,
+#ext_menu-1ww .nav-dropdown-sm .link:hover,
+#ext_menu-1ww .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1ww .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-1ww .navbar,
+#ext_menu-1ww .nav-dropdown-sm,
+#ext_menu-1ww .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1ww .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-1ww .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1ww .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1ww .bg-color.transparent.opened .link:hover,
+#ext_menu-1ww .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-1ww .link[aria-expanded="true"],
+#ext_menu-1ww .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-1wx .mbr-section-title,
+#msg-box8-1wx p {
+  color: #fff;
+}
+#msg-box8-1wx .lead {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box8-1wx .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#header3-1wy .mbr-section-title,
+#header3-1wy .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1wy H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 60px;
+}
+#header3-1wy SMALL {
+  font-size: 20px;
+}
+#header3-1wy SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 48px;
+}
+#form1-1x8 .form-control-label {
+  color: #232323;
+}
+#content1-1x5 P {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-1x6 P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#footer1-1x7 P {
+  color: #cccccc;
+  font-size: 15px;
+}
