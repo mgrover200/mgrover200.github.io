@@ -11,6 +11,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -527,6 +529,23 @@ h6,
 }
 #features7-1so H4 {
   color: #7e9b9f;
+}
+#header3-1zh .mbr-section-title,
+#header3-1zh .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1zh H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 60px;
+}
+#header3-1zh SMALL {
+  font-size: 20px;
+}
+#header3-1zh SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }
 #content1-uw P {
   text-align: center;
