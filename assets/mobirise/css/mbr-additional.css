@@ -11,8 +11,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -503,22 +501,9 @@ h6,
   color: #ffffff;
   font-family: 'Lora', serif;
 }
-#header3-1vf .mbr-section-title,
-#header3-1vf .mbr-section-subtitle {
+#content1-203 P {
   text-align: center;
-}
-#header3-1vf H3 {
-  color: #7e9b9f;
-  font-family: 'Slabo 27px', serif;
-  font-size: 60px;
-}
-#header3-1vf SMALL {
-  font-size: 20px;
-}
-#header3-1vf SPAN {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 46px;
+  color: #ffffff;
 }
 #features7-1so .card-subtitle {
   color: #bcbcbc;
@@ -529,6 +514,9 @@ h6,
 }
 #features7-1so H4 {
   color: #7e9b9f;
+}
+#features7-1so P {
+  color: #000000;
 }
 #header3-1zh .mbr-section-title,
 #header3-1zh .mbr-section-subtitle {
