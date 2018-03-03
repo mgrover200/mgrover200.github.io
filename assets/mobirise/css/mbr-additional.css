@@ -9,6 +9,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -499,6 +501,23 @@ h6,
   color: #ffffff;
   font-family: 'Lora', serif;
 }
+#header3-20v .mbr-section-title,
+#header3-20v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-20v H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 60px;
+}
+#header3-20v SMALL {
+  font-size: 20px;
+}
+#header3-20v SPAN {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 48px;
+}
 #features7-20t .card-subtitle {
   color: #bcbcbc;
 }
@@ -507,6 +526,9 @@ h6,
   border-color: #7e9b9f;
 }
 #features7-20t H4 {
+  color: #7e9b9f;
+}
+#features7-20t SPAN {
   color: #7e9b9f;
 }
 #content1-1zm P {
@@ -1171,7 +1193,7 @@ h6,
   font-size: 20px;
 }
 #header3-1vg SPAN {
-  color: #475577;
+  color: #7c706b;
   font-family: 'Lora', serif;
   font-size: 48px;
 }
