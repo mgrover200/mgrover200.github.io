@@ -2541,10 +2541,10 @@ h6,
 
 
 
-
-
-
-
+#msg-box8-24x .mbr-section-title,
+#msg-box8-24x p {
+  color: #fff;
+}
 #ext_menu-1us .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2608,35 +2608,6 @@ h6,
 #ext_menu-1us .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
-#msg-box8-1um .mbr-section-title,
-#msg-box8-1um p {
-  color: #fff;
-}
-#msg-box8-1um .lead {
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-}
-#msg-box8-1um .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-}
-#header3-1va .mbr-section-title,
-#header3-1va .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1va H3 {
-  color: #7e9b9f;
-  font-family: 'Slabo 27px', serif;
-  font-size: 60px;
-}
-#header3-1va SMALL {
-  font-size: 20px;
-}
-#header3-1va SPAN {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 48px;
-}
 #msg-box5-10y H3 {
   color: #7e9b9f;
   font-family: 'Slabo 27px', serif;
@@ -2649,10 +2620,6 @@ h6,
 #content5-1b4 .mbr-section-title,
 #content5-1b4 p {
   color: #fff;
-}
-#content1-1qi P {
-  text-align: center;
-  color: #ffffff;
 }
 #content1-oo DIV {
   text-align: center;
@@ -3827,27 +3794,9 @@ h6,
 }
 
 
-
-
-#msg-box8-24p .mbr-section-title,
-#msg-box8-24p p {
+#msg-box8-24w .mbr-section-title,
+#msg-box8-24w p {
   color: #fff;
-}
-#header3-24v .mbr-section-title,
-#header3-24v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-24v H3 {
-  color: #7e9b9f;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-}
-#header3-24v SPAN {
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box5-24u H3 {
-  color: #7e9b9f;
-  font-size: 20px;
 }
 #content1-24t P {
   text-align: center;
