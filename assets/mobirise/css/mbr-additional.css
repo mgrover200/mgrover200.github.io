@@ -2541,10 +2541,6 @@ h6,
 
 
 
-#msg-box8-24x .mbr-section-title,
-#msg-box8-24x p {
-  color: #fff;
-}
 #ext_menu-1us .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2607,6 +2603,10 @@ h6,
 #ext_menu-1us .link[aria-expanded="true"],
 #ext_menu-1us .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
+}
+#msg-box8-253 .mbr-section-title,
+#msg-box8-253 p {
+  color: #fff;
 }
 #msg-box5-10y H3 {
   color: #7e9b9f;
