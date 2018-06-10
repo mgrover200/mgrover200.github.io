@@ -2,8 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -516,13 +517,11 @@ h6,
 #features6-29u H4 {
   color: #7e9b9f;
 }
-#content5-29w .mbr-section-title,
-#content5-29w p {
-  color: #fff;
-}
-#content1-27k P {
+#content1-2al P {
   text-align: center;
-  color: #000000;
+  color: #c1c1c1;
+  font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #content1-uw P {
   text-align: center;
