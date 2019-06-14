@@ -645,6 +645,7 @@ h6,
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -750,6 +751,15 @@ h6,
 }
 #content1-1ie P {
   font-size: 17px;
+}
+#header3-2fm .mbr-section-title,
+#header3-2fm .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2fm H3 {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Slabo 27px', serif;
 }
 
 
