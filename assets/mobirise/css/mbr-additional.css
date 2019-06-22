@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -512,6 +513,23 @@ h6,
   font-size: 23px;
 }
 #content1-2fz P {
+  text-align: center;
+  color: #ffffff;
+}
+#header3-2g6 .mbr-section-title,
+#header3-2g6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2g6 H3 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 36px;
+  color: #7e9b9f;
+}
+#msg-box8-2g7 .mbr-section-title,
+#msg-box8-2g7 p {
+  color: #fff;
+}
+#content1-2g8 P {
   text-align: center;
   color: #ffffff;
 }
