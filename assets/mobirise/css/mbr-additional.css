@@ -512,31 +512,19 @@ h6,
   font-family: 'Slabo 27px', serif;
   font-size: 23px;
 }
-#content1-2h1 P {
-  font-size: 36px;
-  color: #475577;
-  text-align: center;
-}
-#msg-box5-2gw H3 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 30px;
-  color: #7e9b9f;
-}
-#content1-2gy P {
-  font-size: 36px;
-  color: #475577;
-  text-align: center;
-}
-#msg-box5-2gz P {
-  text-align: left;
-}
-#content1-2h2 P {
+#content1-2h6 P {
   text-align: center;
   color: #ffffff;
 }
 #msg-box8-2g7 .mbr-section-title,
 #msg-box8-2g7 p {
   color: #fff;
+}
+#msg-box8-2g7 .mbr-section-title {
+  text-align: right;
+  color: #efefef;
+  font-family: 'Raleway', sans-serif;
+  font-size: 48px;
 }
 #content1-2fo P {
   text-align: center;
