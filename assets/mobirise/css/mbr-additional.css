@@ -492,7 +492,7 @@ h6,
   font-family: 'PT Serif', serif;
   font-size: 48px;
   color: #efefef;
-  text-align: left;
+  text-align: center;
 }
 #msg-box8-2be .lead {
   font-family: 'Lora', serif;
@@ -521,10 +521,13 @@ h6,
   color: #fff;
 }
 #msg-box8-2g7 .mbr-section-title {
-  text-align: right;
+  text-align: center;
   color: #efefef;
   font-family: 'Raleway', sans-serif;
   font-size: 48px;
+}
+#msg-box8-2g7 .lead P {
+  color: #ffffff;
 }
 #content1-2fo P {
   text-align: center;
