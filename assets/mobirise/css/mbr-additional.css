@@ -13,6 +13,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -514,6 +516,7 @@ h6,
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
   color: #7e9b9f;
+  text-align: center;
 }
 #msg-box5-2h8 P {
   text-align: left;
@@ -530,6 +533,7 @@ h6,
   font-size: 20px;
   color: #7e9b9f;
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 #content1-2hf P {
   text-align: center;
@@ -542,6 +546,7 @@ h6,
   font-size: 20px;
   color: #7e9b9f;
   font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 #content1-2hh P {
   text-align: center;
@@ -550,12 +555,24 @@ h6,
 #msg-box5-2hi P {
   text-align: left;
 }
+#msg-box5-2hi H3 {
+  color: #7e9b9f;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
 #content1-2hj P {
   text-align: center;
   color: #ffffff;
 }
 #msg-box5-2hl P {
   text-align: left;
+}
+#msg-box5-2hl H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: #7e9b9f;
+  text-align: center;
 }
 #content1-2h7 P {
   font-size: 36px;
