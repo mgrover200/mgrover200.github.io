@@ -3403,6 +3403,7 @@ h6,
 
 
 
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3516,6 +3517,15 @@ h6,
 #header3-2j5 SPAN {
   font-size: 25px;
   font-family: 'Raleway', sans-serif;
+}
+#header3-2jj .mbr-section-title,
+#header3-2jj .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2jj H3 {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
 }
 #content1-2j7 P {
   text-align: center;
