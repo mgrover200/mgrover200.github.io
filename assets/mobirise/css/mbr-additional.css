@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
+
 
 
 
@@ -501,8 +503,9 @@ h6,
 }
 #content1-2hb P {
   font-size: 30px;
-  color: #475577;
+  color: #7e9b9f;
   text-align: center;
+  font-family: 'Lora', serif;
 }
 #content1-2o1 P {
   font-size: 19px;
@@ -513,14 +516,15 @@ h6,
   color: #bcbcbc;
 }
 #features7-2kr .iconbox {
-  background-color: #475577;
-  border-color: #475577;
+  background-color: #7e9b9f;
+  border-color: #7e9b9f;
 }
 #features7-2kr H4 {
   color: #475577;
 }
 #features7-2kr SPAN {
-  color: #475577;
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #features7-2kr P {
   color: #28324e;
@@ -674,6 +678,7 @@ h6,
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -760,7 +765,8 @@ h6,
 #content1-2bj P {
   text-align: center;
   font-size: 30px;
-  color: #475577;
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #content1-lg P {
   font-size: 17px;
@@ -778,9 +784,9 @@ h6,
   color: #000000;
 }
 #msg-box5-1id SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 #content1-224 P {
   color: #000000;
@@ -819,6 +825,8 @@ h6,
   text-align: center;
   color: #000000;
 }
+
+
 
 
 
@@ -904,7 +912,8 @@ h6,
 #content1-2bl P {
   text-align: center;
   font-size: 30px;
-  color: #475577;
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #content1-1c5 P {
   text-align: left;
@@ -915,13 +924,17 @@ h6,
   color: #7e9b9f;
 }
 #msg-box5-1pb SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 #msg-box5-2mp H3 {
   color: #475577;
   font-size: 20px;
+}
+#msg-box5-2mp SPAN {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
 }
 #content1-2fs P {
   text-align: center;
@@ -2801,7 +2814,7 @@ h6,
 }
 #content1-2bn P {
   text-align: center;
-  color: #475577;
+  color: #7e9b9f;
   font-size: 30px;
   font-family: 'Lora', serif;
 }
@@ -2810,13 +2823,13 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1xh SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
 }
 #content1-2kn P {
   text-align: center;
-  color: #475577;
-  font-size: 30px;
+  color: #7e9b9f;
+  font-size: 25px;
   font-family: 'Lora', serif;
 }
 #msg-box8-1nh .mbr-section-title,
