@@ -525,33 +525,23 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #content1-2oa P {
-  text-align: left;
+  text-align: right;
   font-size: 25px;
   color: #7e9b9f;
   font-family: 'Lora', serif;
 }
-#msg-box5-2o7 H3 {
+#msg-box5-2ou H3 {
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
   color: #7e9b9f;
 }
-#msg-box5-2o7 SPAN {
+#msg-box5-2ou SPAN {
   color: #7e9b9f;
   font-size: 20px;
   font-family: 'Lora', serif;
-  text-align: right;
-}
-#msg-box5-2o7 I {
-  color: #28324e;
-}
-#msg-box5-2o7 B {
-  color: #7e9b9f;
-}
-#msg-box5-2o7 DIV {
-  text-align: right;
 }
 #content1-2o9 P {
-  text-align: right;
+  text-align: left;
   color: #7e9b9f;
   font-size: 25px;
   font-family: 'Lora', serif;
@@ -569,7 +559,7 @@ h6,
   text-align: left;
 }
 #content1-2ob P {
-  text-align: left;
+  text-align: right;
   color: #7e9b9f;
   font-size: 25px;
   font-family: 'Lora', serif;
@@ -591,7 +581,7 @@ h6,
   color: #7e9b9f;
   font-family: 'Lora', serif;
   font-size: 25px;
-  text-align: right;
+  text-align: left;
 }
 #msg-box5-2oe H3 {
   color: #7e9b9f;
@@ -610,6 +600,7 @@ h6,
   color: #7e9b9f;
   font-family: 'Lora', serif;
   font-size: 25px;
+  text-align: right;
 }
 #msg-box5-2og H3 {
   color: #7e9b9f;
@@ -1536,6 +1527,9 @@ h6,
 #msg-box5-2n9 SPAN {
   color: #7e9b9f;
   font-family: 'Lora', serif;
+}
+#msg-box5-2n9 P {
+  text-align: left;
 }
 #msg-box5-2na H3 {
   color: #475577;
