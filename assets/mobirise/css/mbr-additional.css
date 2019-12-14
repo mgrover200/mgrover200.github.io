@@ -1869,8 +1869,6 @@ h6,
 
 
 
-
-
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1973,27 +1971,17 @@ h6,
   font-family: 'Lora', serif;
   font-size: 20px;
 }
-#header3-27b .mbr-section-title,
-#header3-27b .mbr-section-subtitle {
+#content1-2pk P {
+  color: #7e9b9f;
   text-align: center;
-}
-#header3-27b H3 {
-  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#header3-27b SMALL {
-  color: #7e9b9f;
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-}
-#header3-27b SPAN {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 #content7-2ph SPAN {
   color: #000000;
+}
+#content7-2ph P {
+  text-align: left;
 }
 #content1-2e5 P {
   text-align: center;
