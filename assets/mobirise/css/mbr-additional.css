@@ -23,6 +23,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -517,9 +518,15 @@ h6,
   text-align: center;
   font-family: 'Lora', serif;
 }
+#content1-2pv P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  color: #7e9b9f;
+}
 #content1-2p5 P {
   font-size: 19px;
-  color: #000000;
+  color: #475577;
   font-family: 'Raleway', sans-serif;
 }
 #content1-2oa P {
@@ -535,8 +542,9 @@ h6,
 }
 #msg-box5-2ou SPAN {
   color: #7e9b9f;
-  font-size: 20px;
+  font-size: 22px;
   font-family: 'Lora', serif;
+  text-align: left;
 }
 #content1-2o9 P {
   text-align: left;
