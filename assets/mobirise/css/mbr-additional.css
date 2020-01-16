@@ -3579,9 +3579,12 @@ h6,
   font-size: 30px;
 }
 #testimonials1-2fb .card-footer > div {
-  color: #c1c1c1;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 17px;
+}
+#testimonials1-2fb .card-footer > div SPAN {
+  font-size: 18px;
 }
 #content1-2f6 P {
   text-align: center;
