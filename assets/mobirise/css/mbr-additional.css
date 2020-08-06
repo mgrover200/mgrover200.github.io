@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
 
 
 
@@ -579,6 +580,20 @@ h6,
 }
 #msg-box5-2q6 P {
   text-align: center;
+}
+#msg-box8-2ua .mbr-section-title,
+#msg-box8-2ua p {
+  color: #fff;
+}
+#msg-box8-2ua .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+#msg-box8-2ua .lead {
+  color: #ffffff;
+}
+#msg-box8-2ua .mbr-section-title SPAN {
+  color: #ffffff;
 }
 #footer1-2u2 P {
   color: #ffffff;
