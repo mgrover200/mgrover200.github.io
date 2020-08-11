@@ -18,6 +18,11 @@
 
 
 
+
+
+
+
+
 body,
 input,
 textarea,
@@ -580,6 +585,35 @@ h6,
 }
 #msg-box5-2q6 P {
   text-align: center;
+}
+#content1-2uj P {
+  text-align: center;
+  color: #7e9b9f;
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+#content1-2ul P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  color: #7e9b9f;
+}
+#testimonials1-2uk .mbr-section-title {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+}
+#testimonials1-2uk .mbr-section-subtitle {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+#testimonials1-2uk .card-footer > div {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+}
+#testimonials1-2uk .card-footer > div SPAN {
+  font-size: 18px;
 }
 #msg-box8-2ua .mbr-section-title,
 #msg-box8-2ua p {
