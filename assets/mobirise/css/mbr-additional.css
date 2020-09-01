@@ -3981,3 +3981,113 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+
+
+
+
+
+
+#ext_menu-2vj .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2vj .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-2vj .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2vj .close-icon::before,
+#ext_menu-2vj .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2vj .link,
+#ext_menu-2vj .dropdown-item {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-2vj .link {
+  font-size: 1.1rem;
+}
+#ext_menu-2vj .dropdown-item,
+#ext_menu-2vj .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-2vj .link:hover,
+#ext_menu-2vj .dropdown-item:hover,
+#ext_menu-2vj .link:focus,
+#ext_menu-2vj .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-2vj .link[aria-expanded="true"],
+#ext_menu-2vj .dropdown-menu {
+  background: #648286;
+}
+#ext_menu-2vj .nav-dropdown-sm .link:focus,
+#ext_menu-2vj .nav-dropdown-sm .link:hover,
+#ext_menu-2vj .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2vj .nav-dropdown-sm .dropdown-item:hover {
+  background: #759498!important;
+}
+#ext_menu-2vj .navbar,
+#ext_menu-2vj .nav-dropdown-sm,
+#ext_menu-2vj .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2vj .nav-dropdown-sm .dropdown-menu {
+  background: #7e9b9f;
+}
+#ext_menu-2vj .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2vj .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2vj .bg-color.transparent.opened .link:hover,
+#ext_menu-2vj .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-2vj .link[aria-expanded="true"],
+#ext_menu-2vj .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-2vk .mbr-section-title,
+#msg-box8-2vk p {
+  color: #fff;
+}
+#msg-box8-2vk .mbr-section-title {
+  font-family: 'PT Serif', serif;
+  font-size: 48px;
+  color: #cccccc;
+}
+#msg-box8-2vk .lead {
+  font-family: 'Lora', serif;
+  font-size: 25px;
+  color: #efefef;
+}
+#content1-2vl P {
+  text-align: center;
+  font-size: 30px;
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+}
+#content1-2vm P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  color: #7e9b9f;
+}
+#msg-box5-2vo H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-2vo SPAN {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+}
+#footer1-2vt P {
+  color: #ffffff;
+  font-size: 16px;
+}
