@@ -14,7 +14,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -527,19 +526,6 @@ h6,
   font-family: 'Lora', serif;
   font-size: 21px;
 }
-#image1-2wo DIV {
-  font-size: 25px;
-  font-family: 'Lora', serif;
-  color: #c1c1c1;
-}
-#msg-box1-2v2 H3 {
-  font-family: 'Lora', serif;
-  color: #7e9b9f;
-  font-size: 25px;
-}
-#msg-box1-2v2 SPAN {
-  font-size: 25px;
-}
 #msg-box8-2v0 .mbr-section-title,
 #msg-box8-2v0 p {
   color: #fff;
@@ -553,6 +539,14 @@ h6,
 }
 #msg-box8-2v0 .mbr-section-title SPAN {
   color: #ffffff;
+}
+#msg-box1-2v2 H3 {
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+  font-size: 25px;
+}
+#msg-box1-2v2 SPAN {
+  font-size: 25px;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -2739,7 +2733,7 @@ h6,
   font-family: 'Lora', serif;
 }
 #msg-box5-2mm P {
-  text-align: center;
+  text-align: left;
 }
 #msg-box5-2mn H3 {
   color: #475577;
@@ -2750,7 +2744,7 @@ h6,
   font-family: 'Lora', serif;
 }
 #msg-box5-2mn P {
-  text-align: center;
+  text-align: left;
 }
 #footer1-2u2 P {
   color: #ffffff;
