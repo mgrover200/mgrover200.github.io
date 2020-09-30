@@ -858,11 +858,11 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1yl .link {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 #ext_menu-1yl .dropdown-item,
 #ext_menu-1yl .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.300rem;
 }
 #ext_menu-1yl .link:hover,
 #ext_menu-1yl .dropdown-item:hover,
@@ -3531,6 +3531,14 @@ h6,
 
 
 
+
+
+
+
+
+
+
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3551,11 +3559,11 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-2b3 .link {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 #ext_menu-2b3 .dropdown-item,
 #ext_menu-2b3 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.300rem;
 }
 #ext_menu-2b3 .link:hover,
 #ext_menu-2b3 .dropdown-item:hover,
@@ -3608,12 +3616,6 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
-#content1-2vb P {
-  font-size: 30px;
-  color: #7e9b9f;
-  text-align: center;
-  font-family: 'Lora', serif;
-}
 #content1-2fc P {
   text-align: center;
   color: #7e9b9f;
@@ -3650,9 +3652,61 @@ h6,
   color: #7e9b9f;
   font-size: 36px;
 }
-#content1-2x9 P {
+#content1-2xo P {
   text-align: center;
-  color: #efefef;
+  font-size: 30px;
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+}
+#content1-2xt P {
+  text-align: center;
+  color: #7e9b9f;
+}
+#msg-box5-2xp H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-2xp SPAN {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+}
+#msg-box5-2xp P {
+  text-align: left;
+}
+#msg-box5-2xq H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-2xq SPAN {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+}
+#msg-box5-2xr H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-2xr SPAN {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+}
+#msg-box5-2xr P {
+  text-align: left;
+}
+#msg-box5-2xs H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-2xs SPAN {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
 }
 #footer1-2u2 P {
   color: #ffffff;
