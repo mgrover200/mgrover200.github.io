@@ -1644,6 +1644,7 @@ h6,
 
 
 
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1664,11 +1665,11 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-2b3 .link {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 #ext_menu-2b3 .dropdown-item,
 #ext_menu-2b3 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.300rem;
 }
 #ext_menu-2b3 .link:hover,
 #ext_menu-2b3 .dropdown-item:hover,
@@ -1735,6 +1736,18 @@ h6,
 }
 #content1-14q P {
   text-align: left;
+}
+#header3-2y4 .mbr-section-title,
+#header3-2y4 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2y4 H3 {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+}
+#header3-2y4 SPAN {
+  color: #7e9b9f;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -2130,11 +2143,11 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #ext_menu-1yl .link {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 #ext_menu-1yl .dropdown-item,
 #ext_menu-1yl .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.300rem;
 }
 #ext_menu-1yl .link:hover,
 #ext_menu-1yl .dropdown-item:hover,
