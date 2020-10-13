@@ -491,13 +491,17 @@ h6,
 }
 #msg-box8-2be .mbr-section-title {
   font-family: 'Lora', serif;
-  font-size: 30px;
-  color: #ffffff;
+  font-size: 48px;
+  color: #cccccc;
   text-align: center;
 }
 #msg-box8-2be .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
+  color: #efefef;
+}
+#msg-box8-2be .mbr-section-title SPAN {
+  font-size: 48px;
   color: #efefef;
 }
 #content1-2hb P {
@@ -674,6 +678,7 @@ h6,
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -756,6 +761,9 @@ h6,
 }
 #msg-box8-2bg .lead P {
   font-size: 25px;
+  font-family: 'Lora', serif;
+}
+#msg-box8-2bg .mbr-section-title SPAN {
   font-family: 'Lora', serif;
 }
 #content1-2bj P {
