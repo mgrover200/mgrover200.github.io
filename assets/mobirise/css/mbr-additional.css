@@ -3839,14 +3839,16 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
-#content1-2fc P {
+#header3-2ye .mbr-section-title,
+#header3-2ye .mbr-section-subtitle {
   text-align: center;
-  color: #475577;
-  font-size: 30px;
-  font-family: 'Lora', serif;
 }
-#content1-2xt P {
-  text-align: center;
+#header3-2ye H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+}
+#header3-2ye SMALL {
   color: #475577;
 }
 #content1-2q9 P {
