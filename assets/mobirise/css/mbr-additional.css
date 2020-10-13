@@ -501,7 +501,7 @@ h6,
   color: #efefef;
 }
 #msg-box8-2be .mbr-section-title SPAN {
-  font-size: 48px;
+  font-size: 36px;
   color: #efefef;
 }
 #content1-2hb P {
@@ -538,6 +538,7 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
 
 
 
@@ -622,6 +623,10 @@ h6,
   font-family: 'Lora', serif;
   font-size: 25px;
   color: #efefef;
+}
+#msg-box8-2cd .mbr-section-title SPAN {
+  color: #efefef;
+  font-family: 'Lora', serif;
 }
 #content1-2cf P {
   text-align: center;
@@ -762,6 +767,7 @@ h6,
 #msg-box8-2bg .lead P {
   font-size: 25px;
   font-family: 'Lora', serif;
+  color: #efefef;
 }
 #msg-box8-2bg .mbr-section-title SPAN {
   font-family: 'Lora', serif;
@@ -952,6 +958,7 @@ h6,
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1022,12 +1029,15 @@ h6,
 #msg-box8-2cg .mbr-section-title {
   font-family: 'PT Serif', serif;
   font-size: 48px;
-  color: #cccccc;
+  color: #efefef;
 }
 #msg-box8-2cg .lead {
   font-family: 'Lora', serif;
-  font-size: 30px;
+  font-size: 25px;
   color: #efefef;
+}
+#msg-box8-2cg .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-2ci P {
   text-align: center;
@@ -1067,6 +1077,7 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
 
 
 
@@ -1149,9 +1160,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-2bs .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 30px;
+  font-family: 'Lora', serif;
+  font-size: 25px;
   color: #efefef;
+}
+#msg-box8-2bs .mbr-section-title SPAN {
+  color: #efefef;
+  font-family: 'Lora', serif;
 }
 #content1-2bt P {
   text-align: center;
@@ -1211,6 +1226,7 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
 
 
 
@@ -1289,12 +1305,15 @@ h6,
 #msg-box8-2c1 .mbr-section-title {
   font-family: 'PT Serif', serif;
   font-size: 48px;
-  color: #cccccc;
+  color: #efefef;
 }
 #msg-box8-2c1 .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
   color: #efefef;
+}
+#msg-box8-2c1 .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-2c2 P {
   text-align: center;
