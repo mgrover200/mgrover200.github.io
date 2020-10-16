@@ -12,6 +12,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -516,23 +517,28 @@ h6,
   font-size: 22px;
   color: #7e9b9f;
 }
-#features7-2wm .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-2wm .iconbox {
+#features1-2yi .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #475577;
-  border-color: #475577;
 }
-#features7-2wm H4 {
-  color: #7e9b9f;
+#features1-2yi .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #c1c1c1;
+}
+#features1-2yi .mbr-cards-col:nth-child(odd) .card-title {
+  color: #cccccc;
   font-family: 'Lora', serif;
-  font-size: 21px;
+  font-size: 25px;
 }
-#features7-2wm P {
-  color: #475577;
+#features1-2yi .mbr-cards-col:nth-child(odd) .card-title SPAN {
+  font-size: 25px;
 }
-#features7-2wm SPAN {
+#features1-2yi .mbr-cards-col:nth-child(even) .card-title {
   color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#content1-2yj P {
+  text-align: center;
+  color: #ffffff;
 }
 #footer1-2u2 P {
   color: #ffffff;
