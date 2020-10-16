@@ -12,7 +12,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -517,24 +516,23 @@ h6,
   font-size: 22px;
   color: #7e9b9f;
 }
-#features1-2yi .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #475577;
+#features7-2yk .card-subtitle {
+  color: #000000;
 }
-#features1-2yi .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #c1c1c1;
+#features7-2yk .iconbox {
+  background-color: #7e9b9f;
+  border-color: #7e9b9f;
 }
-#features1-2yi .mbr-cards-col:nth-child(odd) .card-title {
-  color: #cccccc;
+#features7-2yk H4 {
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 25px;
+  font-size: 21px;
 }
-#features1-2yi .mbr-cards-col:nth-child(odd) .card-title SPAN {
-  font-size: 25px;
-}
-#features1-2yi .mbr-cards-col:nth-child(even) .card-title {
+#features7-2yk P {
   color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 25px;
+}
+#features7-2yk SPAN {
+  color: #475577;
 }
 #content1-2yj P {
   text-align: center;
