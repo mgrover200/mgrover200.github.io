@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
+
 
 
 
@@ -534,9 +536,32 @@ h6,
 #features7-2yk SPAN {
   color: #475577;
 }
+#content1-2ym P {
+  font-size: 30px;
+  color: #475577;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+#msg-box8-2yl .mbr-section-title,
+#msg-box8-2yl p {
+  color: #fff;
+}
+#msg-box8-2yl .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+#msg-box8-2yl .lead {
+  color: #ffffff;
+}
+#msg-box8-2yl .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#msg-box8-2yl .lead SPAN {
+  font-size: 25px;
+}
 #content1-2yj P {
   text-align: center;
-  color: #ffffff;
+  color: #efefef;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -3239,6 +3264,10 @@ h6,
 }
 #msg-box8-2ub .mbr-section-title SPAN {
   color: #ffffff;
+}
+#content1-2yn P {
+  text-align: center;
+  color: #efefef;
 }
 #footer1-2u2 P {
   color: #ffffff;
