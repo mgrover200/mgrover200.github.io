@@ -3691,6 +3691,8 @@ h6,
 
 
 
+
+
 #ext_menu-2lh .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3821,6 +3823,17 @@ h6,
 #content1-2lp UL {
   font-size: 18px;
   text-align: right;
+}
+#content1-2zd P {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box5-2ze H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -4057,6 +4070,9 @@ h6,
 }
 #testimonials4-2z7 .mbr-section-title SPAN {
   color: #28324e;
+}
+#testimonials4-2z7 .card-footer > div {
+  color: #475577;
 }
 #form1-2z6 .form-control-label {
   color: #232323;
