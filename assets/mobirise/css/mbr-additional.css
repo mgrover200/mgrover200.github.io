@@ -14,6 +14,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -493,18 +494,23 @@ h6,
 }
 #msg-box8-2be .mbr-section-title {
   font-family: 'Lora', serif;
-  font-size: 48px;
-  color: #cccccc;
+  font-size: 36px;
+  color: #efefef;
   text-align: center;
 }
 #msg-box8-2be .lead {
   font-family: 'Lora', serif;
-  font-size: 25px;
+  font-size: 23px;
   color: #cccccc;
 }
 #msg-box8-2be .mbr-section-title SPAN {
   font-size: 36px;
-  color: #cccccc;
+  color: #efefef;
+  font-family: 'Lora', serif;
+}
+#msg-box8-2be .lead B {
+  color: #efefef;
+  font-size: 36px;
 }
 #content1-2hb P {
   font-size: 30px;
@@ -654,7 +660,7 @@ h6,
   color: #efefef;
 }
 #msg-box8-2cd .mbr-section-title SPAN {
-  color: #cccccc;
+  color: #efefef;
   font-family: 'Lora', serif;
   font-size: 36px;
 }
@@ -802,6 +808,8 @@ h6,
 #msg-box8-2bg .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
+  color: #efefef;
+  text-align: left;
 }
 #content1-2bj P {
   text-align: center;
@@ -948,6 +956,7 @@ h6,
 #msg-box8-2bh .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
+  color: #efefef;
 }
 #content1-2bl P {
   text-align: center;
@@ -1074,7 +1083,7 @@ h6,
 }
 #msg-box8-2cg .mbr-section-title SPAN {
   font-family: 'Lora', serif;
-  color: #cccccc;
+  color: #efefef;
   font-size: 36px;
 }
 #content1-2ci P {
@@ -1204,7 +1213,7 @@ h6,
   color: #efefef;
 }
 #msg-box8-2bs .mbr-section-title SPAN {
-  color: #cccccc;
+  color: #efefef;
   font-family: 'Lora', serif;
   font-size: 36px;
 }
@@ -1358,7 +1367,7 @@ h6,
 }
 #msg-box8-2c1 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
-  color: #cccccc;
+  color: #efefef;
   font-size: 36px;
 }
 #content1-2c2 P {
@@ -1494,6 +1503,9 @@ h6,
 #msg-box8-2bp .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2bp .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2bq P {
@@ -1643,6 +1655,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2df .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2dh P {
   text-align: center;
   color: #475577;
@@ -1775,6 +1790,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2cx .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2cz P {
   text-align: center;
   font-size: 30px;
@@ -1881,6 +1899,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2d0 .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2d2 P {
   text-align: center;
   color: #475577;
@@ -1983,6 +2004,9 @@ h6,
 #msg-box8-2c7 .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
+  color: #efefef;
+}
+#msg-box8-2c7 .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2c8 P {
@@ -2103,6 +2127,9 @@ h6,
 #msg-box8-2do .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2do .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2dq P {
@@ -2240,6 +2267,9 @@ h6,
   font-size: 25px;
   color: #efefef;
 }
+#msg-box8-2ca .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2o6 P {
   text-align: center;
   color: #475577;
@@ -2363,6 +2393,9 @@ h6,
 #msg-box8-2dl .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2dl .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2dn P {
@@ -2496,6 +2529,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2by .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2bz P {
   text-align: center;
   color: #475577;
@@ -2627,6 +2663,9 @@ h6,
   font-size: 25px;
   color: #efefef;
 }
+#msg-box8-2c4 .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2c6 P {
   text-align: center;
   font-size: 30px;
@@ -2746,6 +2785,9 @@ h6,
 #msg-box8-2di .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2di .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2dk P {
@@ -2871,6 +2913,9 @@ h6,
   font-size: 25px;
   color: #efefef;
 }
+#msg-box8-2ct .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2cv P {
   text-align: center;
   color: #475577;
@@ -2969,6 +3014,9 @@ h6,
 #msg-box8-2cj .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2cj .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2cl P {
@@ -3079,6 +3127,9 @@ h6,
 #msg-box8-2bi .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
+  color: #efefef;
+}
+#msg-box8-2bi .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2bn P {
@@ -3216,6 +3267,9 @@ h6,
 #msg-box8-2cq .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2cq .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2cs P {
@@ -3378,6 +3432,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2dr .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2dt P {
   text-align: center;
   color: #475577;
@@ -3507,6 +3564,9 @@ h6,
 #msg-box8-2d8 .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2d8 .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2da P {
@@ -3646,6 +3706,9 @@ h6,
   font-size: 30px;
   color: #efefef;
 }
+#msg-box8-2ju .mbr-section-title SPAN {
+  color: #efefef;
+}
 #content1-2jv P {
   text-align: center;
   color: #475577;
@@ -3769,6 +3832,9 @@ h6,
 #msg-box8-2li .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2li .mbr-section-title SPAN {
   color: #efefef;
 }
 #content1-2lj P {
@@ -3940,6 +4006,9 @@ h6,
 #msg-box8-2d3 .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
+  color: #efefef;
+}
+#msg-box8-2d3 .mbr-section-title SPAN {
   color: #efefef;
 }
 #header3-2ye .mbr-section-title,
