@@ -1446,6 +1446,7 @@ h6,
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1577,13 +1578,14 @@ h6,
 #msg-box5-2ue P {
   text-align: left;
 }
-#msg-box8-2nc .mbr-section-title,
-#msg-box8-2nc p {
-  color: #fff;
-}
-#content1-2yr P {
+#header3-2zz .mbr-section-title,
+#header3-2zz .mbr-section-subtitle {
   text-align: center;
-  color: #efefef;
+}
+#header3-2zz H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 25px;
 }
 #footer1-2u2 P {
   color: #ffffff;
