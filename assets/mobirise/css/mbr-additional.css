@@ -3938,3 +3938,131 @@ h6,
   color: #ffffff;
   font-size: 16px;
 }
+
+
+
+
+
+
+
+#ext_menu-349 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-349 .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#ext_menu-349 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-349 .close-icon::before,
+#ext_menu-349 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-349 .link,
+#ext_menu-349 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Slabo 27px', serif;
+}
+#ext_menu-349 .link {
+  font-size: 1.2rem;
+}
+#ext_menu-349 .dropdown-item,
+#ext_menu-349 .nav-dropdown-sm .link {
+  font-size: 1.300rem;
+}
+#ext_menu-349 .link:hover,
+#ext_menu-349 .dropdown-item:hover,
+#ext_menu-349 .link:focus,
+#ext_menu-349 .dropdown-item:focus {
+  color: #90a878;
+}
+#ext_menu-349 .link[aria-expanded="true"],
+#ext_menu-349 .dropdown-menu {
+  background: #343e57;
+}
+#ext_menu-349 .nav-dropdown-sm .link:focus,
+#ext_menu-349 .nav-dropdown-sm .link:hover,
+#ext_menu-349 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-349 .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#ext_menu-349 .navbar,
+#ext_menu-349 .nav-dropdown-sm,
+#ext_menu-349 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-349 .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#ext_menu-349 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-349 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-349 .bg-color.transparent.opened .link:hover,
+#ext_menu-349 .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#ext_menu-349 .link[aria-expanded="true"],
+#ext_menu-349 .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#msg-box8-34a .mbr-section-title,
+#msg-box8-34a p {
+  color: #fff;
+}
+#msg-box8-34a .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  color: #cccccc;
+}
+#msg-box8-34a .lead {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+#msg-box8-34a .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#content1-34u P {
+  text-align: center;
+  color: #475577;
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+#content1-34v P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  color: #7e9b9f;
+}
+#form1-34l .form-control-label {
+  color: #232323;
+}
+#form1-34l .mbr-section-title {
+  color: #475577;
+}
+#form1-34l .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  color: #ffffff;
+}
+#form1-34l SMALL {
+  color: #ffffff;
+}
+#testimonials3-34r .mbr-section-title {
+  color: #475577;
+}
+#testimonials3-34r .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-34r .mbr-section-subtitle {
+  color: #475577;
+}
+#testimonials3-34r .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+}
+#footer1-34h P {
+  color: #ffffff;
+  font-size: 16px;
+}
