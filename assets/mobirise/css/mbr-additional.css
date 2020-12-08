@@ -3140,6 +3140,9 @@ h6,
 #content1-31i P {
   text-align: left;
 }
+#content1-31i DIV {
+  font-size: 18px;
+}
 #msg-box5-31j H3 {
   color: #475577;
   font-size: 20px;
@@ -3150,6 +3153,7 @@ h6,
 }
 #msg-box5-31j P {
   text-align: left;
+  font-size: 18px;
 }
 #msg-box5-31k H3 {
   color: #475577;
@@ -3161,11 +3165,15 @@ h6,
 }
 #msg-box5-31k P {
   text-align: left;
+  font-size: 18px;
 }
 #msg-box5-31z H3 {
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 20px;
+}
+#msg-box5-31z P {
+  font-size: 18px;
 }
 #footer1-31m P {
   color: #ffffff;
