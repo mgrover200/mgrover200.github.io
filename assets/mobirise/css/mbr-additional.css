@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 
@@ -498,8 +498,8 @@ h6,
   color: #fff;
 }
 #msg-box8-2be .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 46px;
   color: #efefef;
   text-align: center;
 }
@@ -515,7 +515,7 @@ h6,
   text-align: left;
 }
 #msg-box8-2be .lead B {
-  color: #efefef;
+  color: #90a878;
   font-size: 36px;
 }
 #content1-2hb P {
@@ -589,14 +589,6 @@ h6,
 }
 #msg-box5-2zx P {
   font-size: 18px;
-}
-#msg-box8-36b .mbr-section-title,
-#msg-box8-36b p {
-  color: #fff;
-}
-#content1-36c P {
-  text-align: center;
-  color: #efefef;
 }
 #footer1-2u2 P {
   color: #ffffff;
