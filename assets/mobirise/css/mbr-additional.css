@@ -21,6 +21,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -611,6 +612,18 @@ h6,
 #header3-36n SMALL {
   color: #475577;
   font-size: 20px;
+}
+#header3-373 .mbr-section-title,
+#header3-373 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-373 H3 {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  color: #475577;
+}
+#header3-373 SPAN {
+  font-size: 25px;
 }
 #footer1-2u2 P {
   color: #ffffff;
