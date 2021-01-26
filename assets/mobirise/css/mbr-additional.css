@@ -3417,6 +3417,7 @@ h6,
 
 
 
+
 #ext_menu-31p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3571,6 +3572,18 @@ h6,
 #content1-36v P {
   font-size: 18px;
   color: #000000;
+}
+#header3-37b .mbr-section-title,
+#header3-37b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-37b H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+}
+#header3-37b SPAN {
+  text-align: center;
 }
 #footer1-31x P {
   color: #ffffff;
