@@ -21,7 +21,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -612,18 +611,6 @@ h6,
 #header3-36n SMALL {
   color: #475577;
   font-size: 20px;
-}
-#header3-37f .mbr-section-title,
-#header3-37f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-37f H3 {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 23px;
-}
-#header3-37f SPAN {
-  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -2797,6 +2784,7 @@ h6,
 
 
 
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2922,17 +2910,31 @@ h6,
 #content1-1np P {
   font-size: 18px;
 }
-#header3-37a .mbr-section-title,
-#header3-37a .mbr-section-subtitle {
+#content1-37k P {
   text-align: center;
-}
-#header3-37a H3 {
   color: #475577;
+  font-size: 36px;
   font-family: 'Lora', serif;
-  font-size: 23px;
 }
-#header3-37a SPAN {
+#content1-37l P {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+  font-size: 18px;
+}
+#content1-37m P {
+  font-size: 18px;
+}
+#content1-37n P {
+  font-size: 18px;
+}
+#msg-box8-37o .mbr-section-title,
+#msg-box8-37o p {
+  color: #fff;
+}
+#content1-37p P {
   text-align: center;
+  color: #efefef;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -4258,141 +4260,6 @@ h6,
   font-size: 18px;
 }
 #footer1-33n P {
-  color: #ffffff;
-  font-size: 16px;
-}
-
-
-
-
-
-
-
-#ext_menu-33t .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-33t .navbar-caption {
-  color: #ffffff;
-  font-size: 14px;
-}
-#ext_menu-33t .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-33t .close-icon::before,
-#ext_menu-33t .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-33t .link,
-#ext_menu-33t .dropdown-item {
-  color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-}
-#ext_menu-33t .link {
-  font-size: 1.2rem;
-}
-#ext_menu-33t .dropdown-item,
-#ext_menu-33t .nav-dropdown-sm .link {
-  font-size: 1.300rem;
-}
-#ext_menu-33t .link:hover,
-#ext_menu-33t .dropdown-item:hover,
-#ext_menu-33t .link:focus,
-#ext_menu-33t .dropdown-item:focus {
-  color: #90a878;
-}
-#ext_menu-33t .link[aria-expanded="true"],
-#ext_menu-33t .dropdown-menu {
-  background: #343e57;
-}
-#ext_menu-33t .nav-dropdown-sm .link:focus,
-#ext_menu-33t .nav-dropdown-sm .link:hover,
-#ext_menu-33t .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-33t .nav-dropdown-sm .dropdown-item:hover {
-  background: #414e6d!important;
-}
-#ext_menu-33t .navbar,
-#ext_menu-33t .nav-dropdown-sm,
-#ext_menu-33t .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-33t .nav-dropdown-sm .dropdown-menu {
-  background: #475577;
-}
-#ext_menu-33t .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-33t .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-33t .bg-color.transparent.opened .link:hover,
-#ext_menu-33t .bg-color.transparent.opened .link:focus {
-  color: #90a878;
-}
-#ext_menu-33t .link[aria-expanded="true"],
-#ext_menu-33t .dropdown-item[aria-expanded="true"] {
-  color: #90a878!important;
-}
-#msg-box8-33u .mbr-section-title,
-#msg-box8-33u p {
-  color: #fff;
-}
-#msg-box8-33u .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 36px;
-  color: #cccccc;
-}
-#msg-box8-33u .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
-}
-#msg-box8-33u .mbr-section-title SPAN {
-  color: #ffffff;
-  font-size: 36px;
-}
-#content1-33v P {
-  text-align: center;
-  color: #475577;
-  font-size: 36px;
-  font-family: 'Lora', serif;
-}
-#content1-33w P {
-  text-align: center;
-  font-family: 'Lora', serif;
-  font-size: 22px;
-  color: #7e9b9f;
-}
-#content1-33x P {
-  text-align: left;
-  font-family: 'Raleway', sans-serif;
-  color: #000000;
-  font-size: 18px;
-}
-#msg-box5-33y H3 {
-  color: #7e9b9f;
-  font-size: 20px;
-}
-#msg-box5-33y SPAN {
-  color: #475577;
-  font-family: 'Lora', serif;
-}
-#msg-box5-33y P {
-  font-size: 18px;
-}
-#content1-35t P {
-  font-size: 18px;
-}
-#content1-341 P {
-  font-size: 18px;
-}
-#msg-box8-343 .mbr-section-title,
-#msg-box8-343 p {
-  color: #fff;
-}
-#content1-344 P {
-  text-align: center;
-  color: #efefef;
-}
-#footer1-342 P {
   color: #ffffff;
   font-size: 16px;
 }
