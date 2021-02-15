@@ -20,6 +20,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -548,6 +549,9 @@ h6,
 #msg-box5-2zw B {
   color: #7e9b9f;
 }
+#msg-box5-2zw SPAN {
+  text-align: right;
+}
 #msg-box5-2zt H3 {
   font-family: 'Lora', serif;
   font-size: 36px;
@@ -597,6 +601,19 @@ h6,
 #msg-box5-2zx P {
   font-size: 18px;
   text-align: center;
+}
+#msg-box8-383 .mbr-section-title,
+#msg-box8-383 p {
+  color: #fff;
+}
+#msg-box8-383 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#content1-384 P {
+  text-align: center;
+  color: #efefef;
 }
 #footer1-2u2 P {
   color: #ffffff;
