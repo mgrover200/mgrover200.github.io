@@ -13,13 +13,6 @@
 
 
 
-
-
-
-
-
-
-
 body,
 input,
 textarea,
@@ -521,7 +514,7 @@ h6,
 #content1-37x P {
   text-align: center;
   color: #475577;
-  font-size: 48px;
+  font-size: 46px;
   font-family: 'Lora', serif;
 }
 #content1-2pv P {
@@ -530,83 +523,17 @@ h6,
   font-size: 22px;
   color: #7e9b9f;
 }
-#msg-box5-2zw H3 {
+#features7-38p .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-38p .iconbox {
+  background-color: #475577;
+  border-color: #475577;
+}
+#features7-38p SPAN {
   color: #475577;
   font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box5-2zw P {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-2zw I {
-  font-family: 'Lora', serif;
-  font-size: 18px;
-}
-#msg-box5-2zw B {
-  color: #7e9b9f;
-}
-#msg-box5-2zw SPAN {
-  text-align: right;
-  color: #475577;
-}
-#msg-box5-2zt H3 {
-  font-family: 'Lora', serif;
-  font-size: 36px;
-}
-#msg-box5-2zt SPAN {
-  color: #475577;
-  font-size: 30px;
-}
-#msg-box5-2zt P {
-  color: #232323;
-  text-align: center;
-  font-size: 18px;
-}
-#msg-box5-2zt I {
-  font-family: 'Lora', serif;
-  font-size: 18px;
-  color: #7e9b9f;
-}
-#msg-box5-2zt B {
-  color: #7e9b9f;
-}
-#msg-box5-2zu H3 {
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box5-2zu SPAN {
-  color: #475577;
-}
-#msg-box5-2zu P {
-  font-size: 18px;
-  text-align: center;
-}
-#msg-box5-2zv H3 {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box5-2zv P {
-  text-align: center;
-  font-size: 18px;
-}
-#msg-box5-2zv SPAN {
-  color: #475577;
-}
-#msg-box5-2zx H3 {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box5-2zx P {
-  font-size: 18px;
-  text-align: center;
-}
-#msg-box5-2zx SPAN {
-  color: #475577;
+  font-size: 23px;
 }
 #footer1-2u2 P {
   color: #ffffff;
