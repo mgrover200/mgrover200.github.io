@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
 
 
 
@@ -486,29 +487,23 @@ h6,
 #ext_menu-2b3 .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
-#msg-box8-2be .mbr-section-title,
-#msg-box8-2be p {
+#msg-box8-38q .mbr-section-title,
+#msg-box8-38q p {
   color: #fff;
 }
-#msg-box8-2be .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
-  font-size: 46px;
-  color: #efefef;
-  text-align: center;
+#msg-box8-38q .mbr-section-title {
+  font-family: 'PT Serif', serif;
+  font-size: 48px;
+  color: #cccccc;
 }
-#msg-box8-2be .lead {
+#msg-box8-38q .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
   color: #ffffff;
 }
-#msg-box8-2be .mbr-section-title SPAN {
-  font-size: 36px;
+#msg-box8-38q .mbr-section-title SPAN {
   color: #ffffff;
   font-family: 'Lora', serif;
-  text-align: left;
-}
-#msg-box8-2be .lead B {
-  color: #c1c1c1;
   font-size: 36px;
 }
 #content1-37x P {
@@ -534,6 +529,12 @@ h6,
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 23px;
+}
+#content1-38t P {
+  text-align: center;
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 21px;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -765,25 +766,24 @@ h6,
 #ext_menu-1yl .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
-#msg-box8-2bh .mbr-section-title,
-#msg-box8-2bh p {
+#msg-box8-38r .mbr-section-title,
+#msg-box8-38r p {
   color: #fff;
 }
-#msg-box8-2bh .mbr-section-title {
+#msg-box8-38r .mbr-section-title {
   font-family: 'PT Serif', serif;
   font-size: 48px;
   color: #cccccc;
 }
-#msg-box8-2bh .lead {
+#msg-box8-38r .lead {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
   color: #ffffff;
 }
-#msg-box8-2bh .mbr-section-title SPAN {
+#msg-box8-38r .mbr-section-title SPAN {
+  color: #ffffff;
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #ffffff;
-  text-align: left;
 }
 #content1-2bl P {
   text-align: center;
