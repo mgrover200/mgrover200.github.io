@@ -20,6 +20,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -583,6 +584,16 @@ h6,
   color: #475577;
 }
 #msg-box5-392 SPAN {
+  font-family: 'Lora', serif;
+  font-size: 24px;
+}
+#msg-box5-393 P {
+  text-align: center;
+}
+#msg-box5-393 H3 {
+  color: #475577;
+}
+#msg-box5-393 SPAN {
   font-family: 'Lora', serif;
   font-size: 24px;
 }
@@ -1386,7 +1397,6 @@ h6,
 
 
 
-
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1508,18 +1518,7 @@ h6,
 #msg-box5-36e SPAN {
   font-size: 24px;
 }
-#msg-box5-36h H3 {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 20px;
-}
-#msg-box5-36h P {
-  font-size: 18px;
-}
-#msg-box5-36h SPAN {
-  font-size: 24px;
-}
-#content1-35o P {
+#content1-394 P {
   font-size: 18px;
 }
 #footer1-2u2 P {
