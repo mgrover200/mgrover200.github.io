@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
@@ -423,6 +423,25 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #90a878;
 }
+#msg-box8-3ac .mbr-section-title,
+#msg-box8-3ac p {
+  color: #fff;
+}
+#msg-box8-3ac .mbr-section-title {
+  font-family: 'PT Serif', serif;
+  font-size: 48px;
+  color: #cccccc;
+}
+#msg-box8-3ac .lead {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+#msg-box8-3ac .mbr-section-title SPAN {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -485,25 +504,6 @@ h6,
 #ext_menu-2b3 .link[aria-expanded="true"],
 #ext_menu-2b3 .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
-}
-#msg-box8-38q .mbr-section-title,
-#msg-box8-38q p {
-  color: #fff;
-}
-#msg-box8-38q .mbr-section-title {
-  font-family: 'PT Serif', serif;
-  font-size: 48px;
-  color: #cccccc;
-}
-#msg-box8-38q .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
-}
-#msg-box8-38q .mbr-section-title SPAN {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-  font-size: 36px;
 }
 #content1-37x P {
   text-align: center;
