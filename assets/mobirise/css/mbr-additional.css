@@ -13,6 +13,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -522,9 +523,22 @@ h6,
   font-family: 'Lora', serif;
   font-size: 20px;
 }
-#content1-39j P {
+#msg-box5-3a7 P {
   text-align: center;
-  font-size: 18px;
+}
+#msg-box5-3a7 SPAN {
+  font-size: 21px;
+}
+#msg-box5-3b8 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#msg-box5-3b8 P {
+  text-align: right;
+}
+#msg-box5-3b8 SPAN {
+  font-size: 21px;
 }
 #footer1-2u2 P {
   color: #ffffff;
