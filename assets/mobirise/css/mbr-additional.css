@@ -14,6 +14,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -524,7 +525,7 @@ h6,
   font-size: 20px;
 }
 #msg-box5-3a7 P {
-  text-align: left;
+  text-align: center;
   font-size: 18px;
 }
 #msg-box5-3a7 SPAN {
@@ -536,11 +537,20 @@ h6,
   font-size: 20px;
 }
 #msg-box5-3b8 P {
-  text-align: right;
+  text-align: center;
   font-size: 18px;
 }
 #msg-box5-3b8 SPAN {
   font-size: 21px;
+}
+#msg-box5-3b9 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 21px;
+}
+#msg-box5-3b9 P {
+  font-size: 18px;
+  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;
