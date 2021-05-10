@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4302,
+    "uniqCompNum": 4319,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logoo.png",
     "noImageResize": "true",
@@ -233,10 +233,32 @@
           "_anchor": "content1-3bc",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>SERVICES AND MAINTENANCE ROVER 200/25/ZR</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3bl",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_tags": [
@@ -278,7 +300,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -303,7 +325,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">YXB-100350 IGNITION SWITCH</span>",
-          "text": "To fit the new YXB-100350 ignition switch, steering wheel is lowered down column covers removed, top part will just prise off, bottom part secured with 3 screws, cabin fuse box lid also needs removing, switch is attached to bottom of the key barrel. <a href=\"ignitionswitch.html\" class=\"text-info\">MORE INFO</a>&nbsp;",
+          "text": "To fit the new YXB-100350 ignition switch, steering wheel is lowered down column covers removed, top part will just prise off, bottom part secured with 3 screws, cabin fuse box lid also needs removing, switch is attached to bottom of the key barrel.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"ignitionswitch.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -346,7 +368,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -371,7 +393,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">ENGINE OIL LEVEL DIPSTICK</span>",
-          "text": "The oil level dipsticks used on the 200 and ZR are not the best for showing a precise reading, plastic one for the 200, will in most cases eventually snap leaving tip of it floundering in the sump after many years of useage, wire one is not much better. <a href=\"oilchecking.html\" class=\"text-info\">MORE INFO.</a>",
+          "text": "The oil level dipsticks used on the 200 and ZR are not the best for showing a precise reading, plastic one for the 200, will in most cases eventually snap leaving tip of it floundering in the sump after many years of useage, wire one is not much better.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"oilchecking.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -395,7 +417,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -411,7 +433,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -436,7 +458,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">INLET MANIFOLD GASKET</span>",
-          "text": "Always found the better option when replacing the inlet manifold gasket is not just detached from cylinder head while new gasket is fitted, but removed from the vehicle, its not that much more time consuming, makes it easier to work on. <a href=\"inletmanifold.html\" class=\"text-info\">MORE INFO</a>",
+          "text": "Always found the better option when replacing the inlet manifold gasket is not just detached from cylinder head while new gasket is fitted, but removed from the vehicle, its not that much more time consuming, makes it easier to work on.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"inletmanifold.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -1581,10 +1603,32 @@
           "_anchor": "content1-3ak",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>SERVICES AND MAINTENANCE ROVER 200/25/ZR</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3bm",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_tags": [
@@ -1784,10 +1828,29 @@
           "_anchor": "content1-3b7",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
+          "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor. Contents and functions of the Cabin Fuse Panel can be found <a href=\"cabinfuse.html\" class=\"text-info\">HERE</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-3by",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"coolsensor.html\" class=\"text-info\">Coolant Sensor</a> - <a href=\"dashcam.html\" class=\"text-info\">Dashcam</a> - <a href=\"satnav.html\" class=\"text-info\">Navigation</a> - <a href=\"lightcheck.html\" class=\"text-info\">Brake Lights</a> - <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a> - <a href=\"twinhorns.html\" class=\"text-info\">Twin Horns</a> - <a href=\"oilchecking.html\" class=\"text-info\">Engine Oil Check</a></p>"
         },
         {
           "_tags": [
@@ -4802,10 +4865,32 @@
           "_anchor": "content1-3b1",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>SERVICES AND MAINTENANCE ROVER 200/25/ZR</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3bx",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_tags": [
@@ -8703,7 +8788,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -9022,10 +9107,32 @@
           "_anchor": "content1-3ao",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>SERVICES AND MAINTENANCE ROVER 200/25/ZR</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3bn",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_tags": [
@@ -9623,10 +9730,32 @@
           "_anchor": "content1-3aj",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>SERVICES AND MAINTENANCE ROVER 200/25/ZR</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3bo",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_tags": [
@@ -9650,7 +9779,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "The tailgate wiring loom YMN 101940 of the 200/25/ZR do tend to cause plenty of electrical problems, especially in the section of where the wires pass from body to tailgate through small rubber sleeves located on each side of the tailgate hinges, sleeve on the left carries water supply tube for rear screen wash. The sleeve on the right carries a multitude of wires. high level brake light etc."
+          "text": "The tailgate wiring loom YMN 101940 of the 200/25/ZR do tend to cause plenty of electrical problems, especially in the section of where wires pass from body to tailgate through small rubber sleeves located on each side of the tailgate hinges, sleeve on the left contains only water supply tube for rear screen wash. The sleeve on the right carries a multitude of wires. high level brake light etc."
         },
         {
           "_tags": [
@@ -9718,7 +9847,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">TAILGATE WIRING LOOM YMN-101940</span>",
-          "text": "Always best to first decide if there actually is a problem within the harness, Could just be a blown bulb, Its rare have say 'both' brake lights out at the same time, so could be a wiring fault.&nbsp;",
+          "text": "Always best to first decide if there actually is a problem within the harness, As an example could just be a blown brake light bulb, but having say 'both' bulbs out same time, could be a wiring fault.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -9734,10 +9863,53 @@
           "_anchor": "content1-326",
           "_params": {
             "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "Wires inside the sleeve will constantly fold over each other each time the tailgate is in use, so they will fray and eventually break. Any damaged wires will eventually create really annoying electrical problems, soldering and insulating a couple of broken wires is not a problem, if its beyond a decent repair in which most are, after all these years of usage, then a replacement loom is a better option."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            "SPAN": {
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3bv",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">WIRE COLOURS AND THEIR FUNCTIONS</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-3bu",
+          "_params": {
+            "paddingTop": 1,
             "paddingBottom": "3",
             "bgColor": "#efefef"
           },
-          "text": "Wires inside the sleeve will constantly fold over each other each time the tailgate is in use, so they will fray and eventually break. Any damaged wires will eventually create really annoying electrical problems, soldering and insulating a couple of broken wires is not a problem, if its beyond a decent repair most are, after all these years of usage, then a replacement loom is a better option."
+          "text1": "<p>Black ------------ 2.5 square mm - Heated Rear Window--earth wire</p><p>Black/Green ------ 2.5 square mm - Heated Rear Window--live wire</p><p>Orange ----------- 1.0 square mm - Central Door Locking - wire 1</p><p>Pink --------------- 1.0 square mm - Central Door Locking - wire 2&nbsp;</p><p>MK1 and MK2 except for 2004 MK2 onwards (wire 2 is a earth wire)</p>",
+          "text2": "<p>Light Green/Grey -- 1.0 square mm - Rear Wiper Motor - wire 1</p><p>Brown/Green ------ 1.0 square mm - Rear Wiper Motor - wire 2</p><p>Red/Green ---------1.0 square mm - Rear Wiper Motor - wire 3</p><p>Red/Orange ------- 0.5 square mm - Number Plate Lamps - live wire</p><p>Green/Purple ----- 1.0 square mm - High Level Brake Light - live wire</p><p>Purple/Red -------- 1.0 square mm - Boot/Tailgate Door Switch.</p>"
         },
         {
           "_tags": [
