@@ -14,6 +14,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -498,50 +500,71 @@ h6,
 }
 #msg-box8-38q .lead {
   font-family: 'Lora', serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-38q .mbr-section-title SPAN {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Lora', serif;
-  font-size: 60px;
+  font-size: 48px;
 }
-#msg-box1-3f8 H3 {
+#content1-3fg P {
+  text-align: center;
+  color: #475577;
+  font-size: 36px;
+  font-family: 'Lora', serif;
+}
+#content1-3fl P {
   color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box1-3f8 SPAN {
-  font-size: 32px;
-}
-#msg-box8-3f6 .mbr-section-title,
-#msg-box8-3f6 p {
-  color: #fff;
-}
-#msg-box8-3f6 .lead P {
-  color: #000000;
-}
-#msg-box8-3f6 .mbr-section-title {
-  font-family: 'Lora', serif;
-  color: #ffffff;
-}
-#msg-box1-3fb H3 {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#msg-box1-3fb SPAN {
-  font-size: 32px;
-}
-#msg-box8-3fc .mbr-section-title,
-#msg-box8-3fc p {
-  color: #fff;
+  font-size: 22px;
+  text-align: center;
 }
 #content1-3bl P {
   text-align: center;
   font-family: 'Lora', serif;
   font-size: 22px;
   color: #7e9b9f;
+}
+#msg-box5-3fj H3 {
+  color: #7e9b9f;
+  font-size: 20px;
+}
+#msg-box5-3fj SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 19px;
+}
+#msg-box5-3fj P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box5-3fm H3 {
+  color: #475577;
+  font-size: 20px;
+}
+#msg-box5-3fm SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  text-align: center;
+  font-size: 19px;
+}
+#msg-box5-3fm P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box5-3fk H3 {
+  color: #7e9b9f;
+  font-size: 20px;
+}
+#msg-box5-3fk SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 19px;
+}
+#msg-box5-3fk P {
+  text-align: left;
+  font-size: 17px;
 }
 #content1-3e1 P {
   text-align: center;
@@ -800,13 +823,13 @@ h6,
 }
 #msg-box8-38r .lead {
   font-family: 'Lora', serif;
-  font-size: 25px;
-  color: #c1c1c1;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-38r .mbr-section-title SPAN {
   color: #efefef;
   font-family: 'Lora', serif;
-  font-size: 80px;
+  font-size: 48px;
 }
 #content1-3ck P {
   text-align: center;
