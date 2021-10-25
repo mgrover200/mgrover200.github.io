@@ -17,6 +17,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -565,6 +569,41 @@ h6,
 }
 #msg-box5-3fr P {
   font-size: 17px;
+}
+#msg-box1-3fs H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#msg-box5-3ft H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 21px;
+}
+#msg-box5-3ft P {
+  font-size: 17px;
+  text-align: left;
+}
+#msg-box5-3ft SPAN {
+  font-size: 22px;
+  color: #7e9b9f;
+}
+#msg-box5-3fu P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box5-3fu H3 {
+  color: #90a878;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-3fu SPAN {
+  color: #7e9b9f;
+  font-size: 22px;
+  font-family: 'Lora', serif;
+}
+#msg-box5-3fu B {
+  color: #7e9b9f;
 }
 #content1-3e1 P {
   text-align: center;
