@@ -16,6 +16,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -526,32 +527,19 @@ h6,
   font-size: 22px;
   color: #7e9b9f;
 }
-#msg-box5-3fj H3 {
-  color: #7e9b9f;
+#msg-box5-3fq H3 {
+  font-family: 'Slabo 27px', serif;
   font-size: 20px;
-}
-#msg-box5-3fj SPAN {
   color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 22px;
 }
-#msg-box5-3fj P {
-  text-align: left;
-  font-size: 17px;
-}
-#msg-box5-3fm H3 {
-  color: #475577;
-  font-size: 20px;
-}
-#msg-box5-3fm SPAN {
+#msg-box5-3fq SPAN {
   color: #7e9b9f;
-  font-family: 'Lora', serif;
-  text-align: center;
   font-size: 22px;
+  font-family: 'Lora', serif;
 }
-#msg-box5-3fm P {
-  text-align: left;
+#msg-box5-3fq P {
   font-size: 17px;
+  text-align: left;
 }
 #msg-box5-3fk H3 {
   color: #7e9b9f;
@@ -564,6 +552,18 @@ h6,
 }
 #msg-box5-3fk P {
   text-align: left;
+  font-size: 17px;
+}
+#msg-box5-3fr H3 {
+  color: #7e9b9f;
+  font-size: 20px;
+}
+#msg-box5-3fr SPAN {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+}
+#msg-box5-3fr P {
   font-size: 17px;
 }
 #content1-3e1 P {
@@ -694,9 +694,9 @@ h6,
   color: #475577;
 }
 #msg-box5-2mo SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-2mo P {
   font-size: 17px;
@@ -719,8 +719,8 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1o2 SPAN {
-  color: #475577;
-  font-size: 19px;
+  color: #7e9b9f;
+  font-size: 22px;
   font-family: 'Lora', serif;
 }
 #content1-1o3 P {
@@ -1017,7 +1017,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-3b3 SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-3b4 P {
   font-size: 17px;
@@ -1035,7 +1036,8 @@ h6,
   text-align: left;
 }
 #msg-box5-3b6 SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-3b7 P {
   font-size: 17px;
@@ -1170,17 +1172,17 @@ h6,
   font-size: 17px;
 }
 #msg-box5-2y9 SPAN {
-  color: #475577;
-  font-size: 19px;
+  color: #7e9b9f;
+  font-size: 22px;
 }
 #msg-box5-1vv H3 {
   color: #7e9b9f;
   font-size: 20px;
 }
 #msg-box5-1vv SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1vv P {
   text-align: left;
@@ -1324,9 +1326,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1xk SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1xk P {
   text-align: left;
@@ -1348,8 +1350,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-2sz SPAN {
-  color: #475577;
-  font-size: 19px;
+  color: #7e9b9f;
+  font-size: 22px;
 }
 #content1-1lo P {
   font-size: 17px;
@@ -1367,7 +1369,8 @@ h6,
   font-size: 20px;
 }
 #msg-box5-2t0 SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-2kx P {
   font-size: 17px;
@@ -1495,8 +1498,8 @@ h6,
   font-size: 20px;
 }
 #msg-box5-36d SPAN {
-  color: #475577;
-  font-size: 19px;
+  color: #7e9b9f;
+  font-size: 22px;
 }
 #msg-box5-36d P {
   font-size: 17px;
@@ -1514,7 +1517,8 @@ h6,
   text-align: left;
 }
 #msg-box5-36e SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-394 P {
   font-size: 17px;
@@ -1644,9 +1648,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-20e SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-20e P {
   text-align: left;
@@ -1662,7 +1666,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-3ab SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-1ld P {
   font-size: 17px;
@@ -1672,9 +1677,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-20f SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-20f P {
   text-align: left;
@@ -2073,9 +2078,9 @@ h6,
   font-size: 25px;
 }
 #msg-box5-1p8 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1p8 P {
   font-size: 17px;
@@ -2218,9 +2223,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1v1 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1v1 P {
   font-size: 17px;
@@ -2233,9 +2238,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1v3 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1v3 P {
   text-align: left;
@@ -2370,9 +2375,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1xj SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1xj P {
   font-size: 17px;
@@ -2386,9 +2391,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-3es SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-3es P {
   font-size: 17px;
@@ -2408,10 +2413,10 @@ h6,
   font-size: 20px;
 }
 #msg-box5-397 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
   text-align: center;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-397 P {
   text-align: left;
@@ -2547,9 +2552,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-10y SPAN {
-  font-size: 19px;
+  font-size: 22px;
   font-family: 'Lora', serif;
-  color: #475577;
+  color: #7e9b9f;
 }
 #msg-box5-10y P {
   font-size: 17px;
@@ -2700,9 +2705,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-2mm SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-2mm P {
   text-align: left;
@@ -2713,9 +2718,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-2mn SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-2mn P {
   text-align: left;
@@ -3017,9 +3022,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-1zp SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-1zp P {
   text-align: left;
@@ -3038,7 +3043,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-3a6 SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #msg-box5-1zq H3 {
   color: #7e9b9f;
@@ -3208,9 +3214,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-2lt SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-2lt P {
   font-size: 17px;
@@ -3227,10 +3233,10 @@ h6,
   font-size: 20px;
 }
 #msg-box5-2va SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
   text-align: center;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-2va P {
   text-align: left;
@@ -3251,7 +3257,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-2ze SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-2zf P {
   font-size: 17px;
@@ -3382,9 +3389,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-31j SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-31j P {
   text-align: left;
@@ -3395,9 +3402,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-31k SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-31k P {
   text-align: left;
@@ -3413,7 +3420,8 @@ h6,
   text-align: left;
 }
 #msg-box5-31z SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-3ej P {
   text-align: center;
@@ -3543,9 +3551,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-31u SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-31u P {
   text-align: left;
@@ -3556,10 +3564,10 @@ h6,
   font-size: 20px;
 }
 #msg-box5-31v SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
   text-align: center;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-31v P {
   text-align: left;
@@ -3574,7 +3582,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-31y SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-31w P {
   font-size: 17px;
@@ -3594,7 +3603,8 @@ h6,
   font-size: 20px;
 }
 #msg-box5-36s SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #msg-box5-36s P {
   font-size: 17px;
@@ -3734,9 +3744,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-325 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-325 P {
   font-size: 17px;
@@ -3875,9 +3885,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-32h SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-32h P {
   text-align: left;
@@ -4016,9 +4026,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-32s SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-32s P {
   font-size: 17px;
@@ -4039,8 +4049,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-32z SPAN {
-  font-size: 19px;
-  color: #475577;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-330 P {
   font-size: 17px;
@@ -4173,9 +4183,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-339 SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-339 P {
   text-align: left;
@@ -4194,7 +4204,8 @@ h6,
   font-size: 17px;
 }
 #msg-box5-33b SPAN {
-  font-size: 19px;
+  font-size: 22px;
+  color: #7e9b9f;
 }
 #content1-33c P {
   font-size: 17px;
@@ -4322,9 +4333,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-33k SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-33k P {
   text-align: left;
@@ -4341,9 +4352,9 @@ h6,
   font-size: 20px;
 }
 #msg-box5-33l SPAN {
-  color: #475577;
+  color: #7e9b9f;
   font-family: 'Lora', serif;
-  font-size: 19px;
+  font-size: 22px;
 }
 #msg-box5-33l P {
   text-align: left;
