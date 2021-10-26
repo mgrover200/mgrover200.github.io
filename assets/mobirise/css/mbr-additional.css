@@ -25,6 +25,11 @@
 
 
 
+
+
+
+
+
 body,
 input,
 textarea,
@@ -656,6 +661,41 @@ h6,
 #msg-box5-3g4 P {
   font-size: 17px;
   text-align: left;
+}
+#header3-3g5 .mbr-section-title,
+#header3-3g5 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3g5 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#msg-box5-3g6 H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+}
+#msg-box5-3g6 SPAN {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+}
+#msg-box5-3g6 P {
+  font-size: 17px;
+}
+#msg-box5-3g7 H3 {
+  color: #7e9b9f;
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+}
+#msg-box5-3g7 SPAN {
+  font-size: 22px;
+  font-family: 'Lora', serif;
+  color: #7e9b9f;
+}
+#msg-box5-3g7 P {
+  font-size: 17px;
 }
 #content1-3e1 P {
   text-align: center;
