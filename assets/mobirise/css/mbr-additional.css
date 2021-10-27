@@ -31,6 +31,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -703,6 +706,36 @@ h6,
 }
 #msg-box5-3g9 P {
   font-size: 17px;
+}
+#header3-3gb .mbr-section-title,
+#header3-3gb .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3gb H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#msg-box5-3gc H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#msg-box5-3gc P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box5-3gc SPAN {
+  font-size: 22px;
+  color: #7e9b9f;
+}
+#msg-box8-3gd .mbr-section-title,
+#msg-box8-3gd p {
+  color: #fff;
+}
+#msg-box8-3gd .mbr-section-title {
+  color: #efefef;
+  font-family: 'Lora', serif;
 }
 #content1-3e1 P {
   text-align: center;
