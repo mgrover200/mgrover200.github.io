@@ -28,12 +28,6 @@
 
 
 
-
-
-
-
-
-
 body,
 input,
 textarea,
@@ -526,17 +520,18 @@ h6,
   font-family: 'Lora', serif;
   font-size: 48px;
 }
-#content1-3fg P {
+#header3-3gk .mbr-section-title,
+#header3-3gk .mbr-section-subtitle {
   text-align: center;
-  color: #475577;
-  font-size: 36px;
-  font-family: 'Lora', serif;
 }
-#content1-3fl P {
-  color: #7e9b9f;
+#header3-3gk H3 {
+  color: #475577;
   font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-3gk SMALL {
+  color: #7e9b9f;
   font-size: 22px;
-  text-align: center;
 }
 #content1-3bl P {
   text-align: center;
@@ -563,23 +558,11 @@ h6,
   color: #fff;
 }
 #msg-box8-3g1 .lead P {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box8-3g1 .mbr-section-title {
   font-family: 'Lora', serif;
   color: #ffffff;
-}
-#msg-box5-3fr H3 {
-  color: #7e9b9f;
-  font-size: 20px;
-}
-#msg-box5-3fr SPAN {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 22px;
-}
-#msg-box5-3fr P {
-  font-size: 17px;
 }
 #header3-3g2 .mbr-section-title,
 #header3-3g2 .mbr-section-subtitle {
@@ -590,35 +573,29 @@ h6,
   font-family: 'Lora', serif;
   font-size: 36px;
 }
-#msg-box5-3ft H3 {
+#msg-box5-3gi H3 {
   color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 21px;
-}
-#msg-box5-3ft P {
-  font-size: 17px;
-  text-align: left;
-}
-#msg-box5-3ft SPAN {
-  font-size: 22px;
-  color: #7e9b9f;
-}
-#msg-box5-3fu P {
-  text-align: left;
-  font-size: 17px;
-}
-#msg-box5-3fu H3 {
-  color: #90a878;
-  font-family: 'Slabo 27px', serif;
   font-size: 20px;
 }
-#msg-box5-3fu SPAN {
+#msg-box5-3gi SPAN {
   color: #7e9b9f;
+  font-family: 'Lora', serif;
   font-size: 22px;
+}
+#msg-box5-3gi P {
+  text-align: left;
+  font-size: 17px;
+}
+#msg-box8-3gj .mbr-section-title,
+#msg-box8-3gj p {
+  color: #fff;
+}
+#msg-box8-3gj .mbr-section-title {
   font-family: 'Lora', serif;
 }
-#msg-box5-3fu B {
-  color: #7e9b9f;
+#msg-box8-3gj .lead P {
+  font-family: 'Lora', serif;
+  font-size: 23px;
 }
 #header3-3g3 .mbr-section-title,
 #header3-3g3 .mbr-section-subtitle {
@@ -628,17 +605,6 @@ h6,
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 36px;
-}
-#msg-box5-3fw H3 {
-  font-family: 'Lora', serif;
-  font-size: 20px;
-}
-#msg-box5-3fw SPAN {
-  color: #7e9b9f;
-  font-size: 22px;
-}
-#msg-box5-3fw P {
-  font-size: 17px;
 }
 #msg-box5-3g4 H3 {
   color: #7e9b9f;
@@ -660,6 +626,9 @@ h6,
 #msg-box8-3g8 .mbr-section-title {
   font-family: 'Lora', serif;
 }
+#msg-box8-3g8 .btn {
+  font-size: 14px;
+}
 #header3-3g5 .mbr-section-title,
 #header3-3g5 .mbr-section-subtitle {
   text-align: center;
@@ -668,19 +637,6 @@ h6,
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 36px;
-}
-#msg-box5-3g6 H3 {
-  color: #7e9b9f;
-  font-family: 'Slabo 27px', serif;
-  font-size: 25px;
-}
-#msg-box5-3g6 SPAN {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 22px;
-}
-#msg-box5-3g6 P {
-  font-size: 17px;
 }
 #msg-box5-3g7 H3 {
   color: #7e9b9f;
@@ -693,18 +649,6 @@ h6,
   color: #7e9b9f;
 }
 #msg-box5-3g7 P {
-  font-size: 17px;
-}
-#msg-box5-3g9 H3 {
-  color: #7e9b9f;
-  font-size: 20px;
-}
-#msg-box5-3g9 SPAN {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 22px;
-}
-#msg-box5-3g9 P {
   font-size: 17px;
 }
 #header3-3gb .mbr-section-title,
@@ -736,6 +680,9 @@ h6,
 #msg-box8-3gd .mbr-section-title {
   color: #efefef;
   font-family: 'Lora', serif;
+}
+#msg-box8-3gd .btn {
+  font-size: 14px;
 }
 #content1-3e1 P {
   text-align: center;
@@ -828,14 +775,14 @@ h6,
   color: #cccccc;
 }
 #msg-box8-2cd .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-2cd .mbr-section-title SPAN {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Lora', serif;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-2cf P {
   text-align: center;
@@ -1147,14 +1094,14 @@ h6,
   color: #efefef;
 }
 #msg-box8-2cg .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 30px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-2cg .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-3cf P {
   color: #475577;
@@ -1784,13 +1731,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-2df .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-2df .mbr-section-title SPAN {
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-3cz P {
   text-align: center;
@@ -2973,7 +2920,7 @@ h6,
 #msg-box8-2bi .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
-  color: #c1c1c1;
+  color: #ffffff;
 }
 #msg-box8-2bi .mbr-section-title SPAN {
   color: #efefef;
@@ -3141,13 +3088,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-2cq .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
+  font-family: 'Lora', serif;
+  font-size: 23px;
   color: #ffffff;
 }
 #msg-box8-2cq .mbr-section-title SPAN {
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-3cq P {
   text-align: center;
@@ -3328,13 +3275,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-2li .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-2li .mbr-section-title SPAN {
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-2lj P {
   text-align: center;
@@ -3858,13 +3805,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-321 .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-321 .mbr-section-title SPAN {
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-3ch P {
   color: #475577;
@@ -4144,7 +4091,7 @@ h6,
 #msg-box8-32o .lead {
   font-family: 'Lora', serif;
   font-size: 25px;
-  color: #c1c1c1;
+  color: #ffffff;
 }
 #msg-box8-32o .mbr-section-title SPAN {
   color: #efefef;
@@ -4299,13 +4246,13 @@ h6,
   color: #cccccc;
 }
 #msg-box8-335 .lead {
-  font-family: 'Raleway', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 23px;
+  color: #efefef;
 }
 #msg-box8-335 .mbr-section-title SPAN {
   color: #efefef;
-  font-size: 46px;
+  font-size: 48px;
 }
 #content1-3cs P {
   text-align: center;
