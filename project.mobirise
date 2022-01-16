@@ -1935,10 +1935,10 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButton": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -1953,11 +1953,11 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR NAVIGATION SYSTEM</span>",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p>Security fitted satellight navigation system, a unique and direct fit for either of the above models, has now been updated with additional features. <i><a href=\"satnav.html\" class=\"text-info\">MORE INFO</a></i> &nbsp;</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"satnav.html\" data-toolbar=\"-mbrBtnMove\">PAGE UPDATE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"satnav.html\" data-toolbar=\"-mbrBtnMove\">INFO UPDATE</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-3jk"
         },
