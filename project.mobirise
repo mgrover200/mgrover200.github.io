@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "enginefuse.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4593,
+    "uniqCompNum": 4596,
     "versionPublish": "4.12.4",
     "favicon": "@PROJECT_PATH@/assets/images/logoo.png",
     "noImageResize": "true",
@@ -304,7 +304,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
@@ -345,7 +345,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR 200 ZR</span>",
-          "text": "To install this feature the cooling system did not need to be drained off, just the coolant tank syphoned out, removed then replaced with the new one. Coolant can then be poured back into the new tank.",
+          "text": "To install this feature the cooling system did not need to be drained off, just the coolant tank syphoned out, removed then replaced with the new one. Coolant can then be poured back in.<i> <a href=\"coolsensor.html\" class=\"text-info\">MORE INFO</a></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"coolsensor.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -364,18 +364,18 @@
               "font-size": "23px"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-3ij",
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": "43",
             "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -412,8 +412,59 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">DUAL ACTIVATED DASHCAMS ZR</span>",
-          "text": "Centre position of the rear located mobius camera,shown here slipped into the &nbsp;holding bracket, high level and discreet, with the power cable fed in along the inside of the rear trim panel and along to the dual activated dashboard switch.",
+          "text": "Centre position of the rear located mobius camera,shown here slipped into the holding bracket, high level and discreet, with the power cable fed in along the inside of trim panel to a dual activated dashboard switch<a href=\"dashcam.html\"> </a><i><a href=\"dashcam.html\" class=\"text-info\">MORE INFO</a></i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"dashcam.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>MORE FROM MG-ROVER INFORMATION PAGES</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3jn",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/009-rover-services-1105x152.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3jl"
         },
         {
           "_tags": [
@@ -450,7 +501,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"coolsensor.html\" class=\"text-info\">Coolant Sensor</a> - <a href=\"dashcam.html\" class=\"text-info\">Dashcam</a> - <a href=\"satnav.html\" class=\"text-info\">Navigation</a> - <a href=\"lightcheck.html\" class=\"text-info\">Brake Lights</a> - <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a> - <a href=\"twinhorns.html\" class=\"text-info\">Twin Horns</a> - <a href=\"oilchecking.html\" class=\"text-info\">Engine Oil Check</a>&nbsp;</p>"
         },
@@ -1452,7 +1503,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><i>Coolant Sensor</i> - <a href=\"dashcam.html\" class=\"text-info\">Dashcam</a> - <a href=\"satnav.html\" class=\"text-info\">Navigation</a> - <a href=\"lightcheck.html\" class=\"text-info\">Brake Lights</a> - <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a> - <a href=\"twinhorns.html\" class=\"text-info\">Twin Horns</a> - <a href=\"oilchecking.html\" class=\"text-info\">Engine Oil Check</a>&nbsp;</p>"
         },
@@ -7770,7 +7821,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><i>Cold Cabin Heater</i> - <a href=\"coolsystem.html\" class=\"text-info\">Cooling System</a> - <a href=\"emissions.html\" class=\"text-info\">Emissions</a> - <a href=\"purgevalve.html\" class=\"text-info\">Purge Valve</a> - <a href=\"fuelfilter.html\" class=\"text-info\">Fuel Filter</a> - <a href=\"inletmanifold.html\" class=\"text-info\">Inlet Manifold Gasket</a>&nbsp;</p>"
         },
@@ -11411,7 +11462,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"cabinheater.html\" class=\"text-info\">Cold Cabin Heater</a> - <i>Cooling System</i> - <a href=\"emissions.html\" class=\"text-info\">Emissions</a> - <a href=\"purgevalve.html\" class=\"text-info\">Purge Valve</a> - <a href=\"fuelfilter.html\" class=\"text-info\">Fuel Filter</a> - <a href=\"inletmanifold.html\" class=\"text-info\">Inlet Manifold Gasket</a>&nbsp;</p>"
         },
