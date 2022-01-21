@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4603,
+    "uniqCompNum": 4604,
     "versionPublish": "4.12.4",
     "favicon": "@PROJECT_PATH@/assets/images/logoo.png",
     "noImageResize": "true",
@@ -319,7 +319,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0058-linkback-250x170.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0059-linkback-250x170.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -411,6 +411,30 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>MORE FROM MG-ROVER INFORMATION PAGES</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3jv"
         },
         {
           "_tags": [
