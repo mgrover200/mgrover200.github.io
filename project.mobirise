@@ -300,7 +300,8 @@
               "font-size": "18px"
             },
             "H5": {
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#7e9b9f"
             }
           },
           "_anchor": "features3-3ju",
@@ -312,7 +313,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -338,7 +339,7 @@
             }
           },
           "title1": "<span style=\"font-weight: normal;\">COOLING SYSTEM</span>",
-          "subtitle1": "How coolant flows around the K.16 engine. <a href=\"coolsystem.html\" class=\"text-info\">MORE</a>",
+          "subtitle1": "Coolant flow K.16 engine. <a href=\"coolsystem.html\" class=\"text-info\">MORE</a>",
           "caption1": "Around the K.16 engine. <i><a href=\"coolsystem.html\" class=\"text-info\">MORE</a></i>&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -353,7 +354,7 @@
             }
           },
           "title2": "<span style=\"font-weight: normal;\">EMISSIONS TESTING</span>",
-          "subtitle2": "A pre-emissions check before the test.<a href=\"emissions.html\" class=\"text-info\"> MORE</a>",
+          "subtitle2": "A pre-emissions check .<a href=\"emissions.html\" class=\"text-info\"> MORE</a>",
           "caption2": "Taking a pre-emissions test a few days prior to the annual M.OT&nbsp;<i><a href=\"emissions.html\" class=\"text-info\">MORE INFO&nbsp;</a></i>",
           "button2": "<a data-app-btn=\"true\" href=\"emissions.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -368,7 +369,7 @@
             }
           },
           "title3": "<span style=\"font-weight: normal;\">INLET MANIFOLD</span>",
-          "subtitle3": "Fitting LKJ-10110 inlet manifold gasket. <a href=\"inletmanifold.html\" class=\"text-info\">MORE</a>",
+          "subtitle3": "Inlet manifold gasket. <a href=\"inletmanifold.html\" class=\"text-info\">MORE</a>",
           "caption3": "Inlet manifold removed, cleaned then with new LKJ-10110 gasket fitted.&nbsp;<i><a href=\"inletmanifold.html\" class=\"text-info\">MORE INFO</a></i>",
           "button3": "<a data-app-btn=\"true\" href=\"inletmanifold.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -383,7 +384,7 @@
             }
           },
           "title4": "<span style=\"font-weight: normal;\">OIL SUMP REMOVAL</span>",
-          "subtitle4": "Sump clean out on the 1996 Rover 200.<a href=\"oilsump.html\" class=\"text-info\"> MORE</a>",
+          "subtitle4": "Sump clean Rover 200.<a href=\"oilsump.html\" class=\"text-info\"> MORE</a>",
           "caption4": "Cleaning out tarnished oil from 1996 Rover 200 oil sump. <i><a href=\"oilsump.html\" class=\"text-info\">MORE INFO</a></i>",
           "button4": "<a data-app-btn=\"true\" href=\"oilsump.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
@@ -397,8 +398,8 @@
               "title": ""
             }
           },
-          "title5": "<span style=\"font-weight: normal;\">TAILGATE HARNESS&nbsp;</span>",
-          "subtitle5": "Choose from the large selection of blocks",
+          "title5": "<span style=\"font-weight: normal;\">PURGE VALVE INFO&nbsp;</span>",
+          "subtitle5": "What purpose it serves.&nbsp;<a href=\"purgevalve.html\" class=\"text-primary\">MORE&nbsp;</a>",
           "caption5": "And some of the problems associated with it.",
           "button5": "<a data-app-btn=\"true\" href=\"tailgate.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
@@ -412,140 +413,8 @@
               "title": ""
             }
           },
-          "title6": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Fitting a new ignition switch YXB-100350 into the MG.&nbsp;",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "SPAN": {
-              "font-size": "18px"
-            },
-            "H5": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "features3-3jw",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0053-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "<span style=\"font-weight: normal;\">FUEL FILTER CHANGE&nbsp;</span>",
-          "subtitle1": "A much better and smoother tickover. <a href=\"fuelfilter.html\" class=\"text-info\">MORE&nbsp;</a>",
-          "caption1": "Fitting a new fuel filter for a smoother drive and tickover&nbsp;<i><a href=\"fuelfilter.html\" class=\"text-info\">MORE INFO</a></i>&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0057-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title2": "<span style=\"font-weight: normal;\">PURGE VALVE INFO</span>",
-          "subtitle2": "What purpose does it really serve.&nbsp;<a href=\"purgevalve.html\" class=\"text-info\">MORE</a>",
-          "caption2": "Vehicles purge valve and charcoal canister what they do.<a href=\"emissions.html\"> </a><i><a href=\"purgevalve.html\" class=\"text-info\">MORE INFO&nbsp;</a></i>",
-          "button2": "<a data-app-btn=\"true\" href=\"emissions.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0061-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title3": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
-          "subtitle3": "Replacing faulty ignition switch. <a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-info\">MORE</a>",
-          "caption3": "Attached to bottom of key barrel by cross head screws. <i><a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-info\">MORE INFO</a></i>",
-          "button3": "<a data-app-btn=\"true\" href=\"inletmanifold.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0060-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title4": "<span style=\"font-weight: normal;\">R.65 GEARBOX OIL</span>",
-          "subtitle4": "&nbsp;Gearbox oil change on 1996 Rover 200. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-info\">MORE</a>",
-          "caption4": "A none messy gearbox oil change on the 1996 Rover 200.&nbsp;<i><a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-info\">MORE INFO</a></i>",
-          "button4": "<a data-app-btn=\"true\" href=\"oilsump.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0057-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title5": "<span style=\"font-weight: normal;\">TAILGATE HARNESS&nbsp;</span>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "And some of the problems associated with it.",
-          "button5": "<a data-app-btn=\"true\" href=\"tailgate.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0053-linkback-250x170.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title6": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
-          "subtitle6": "Don't limit yourself to just one platform",
+          "title6": "<span style=\"font-weight: normal;\">FUEL FILTER CHANGE</span>",
+          "subtitle6": "A much smoother idle.&nbsp;<a href=\"fuelfilter.html\" class=\"text-info\">MORE</a>&nbsp; &nbsp;",
           "caption6": "Fitting a new ignition switch YXB-100350 into the MG.&nbsp;",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -559,7 +428,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
+              "font-size": "36px",
               "text-align": "center"
             },
             "DIV": {
