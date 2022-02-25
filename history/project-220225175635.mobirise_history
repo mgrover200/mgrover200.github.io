@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4712,
+    "uniqCompNum": 4710,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -312,7 +312,7 @@
             },
             ".mbr-section-subtitle": {
               "text-align": "left",
-              "color": "#475577"
+              "color": "#c1c1c1"
             }
           },
           "_params": {
@@ -584,59 +584,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>TOOLS AND PARTSGUIDE LIST</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3mv"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0046-rover-parts-guide-1109x202.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
-              "title": "Tools and parts applications guide ",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3mu"
         },
         {
           "_tags": [
