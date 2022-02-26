@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4715,
+    "uniqCompNum": 4712,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -250,12 +250,6 @@
           "text": "<p>SERVICE AND MAINTENANCE ROVER 200 25 ZR</p>"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>MAINTAINING THE 1996 ROVER 200 SERIES AND THE 2004 MG-ZR 120 +</p>",
           "_tags": [
             "Theme"
           ],
@@ -267,20 +261,17 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "center"
-            },
-            "DIV": {
-              "color": "#90a878"
             }
           },
-          "_anchor": "content1-3my"
-        },
-        {
+          "_anchor": "content1-3ir",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>",
+          "text": "<p><i>SERVICING-MOT-IGNITION-COOLING-TORQUE-ELECTRICS-FUEL&nbsp;</i></p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -294,7 +285,13 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3mx"
+          "_anchor": "content1-3bl",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>"
         },
         {
           "_styles": {
@@ -385,7 +382,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#90a878",
+              "color": "#7e9b9f",
               "font-size": "20px"
             },
             "SPAN": {
@@ -589,7 +586,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><i><a href=\"dashcam.html\" class=\"text-success\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-primary\">LIGHTS</a>-<a href=\"torque.html\" class=\"text-primary\">TORQUE</a>-<a href=\"audioremotes.html\" class=\"text-primary\">AUDIO</a>-<a href=\"satnav.html\" class=\"text-primary\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-primary\">COOLANT</a></i></p>"
+          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-primary\">LIGHTS</a>-<a href=\"torque.html\" class=\"text-primary\">TORQUE</a>-<a href=\"audioremotes.html\" class=\"text-primary\">AUDIO</a>-<a href=\"satnav.html\" class=\"text-primary\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-primary\">COOLANT</a></i></p>"
         },
         {
           "_tags": [
