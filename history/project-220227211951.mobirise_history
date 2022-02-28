@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4712,
+    "uniqCompNum": 4720,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -181,7 +181,8 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "48px",
-              "color": "#cccccc"
+              "color": "#ffffff",
+              "text-align": "right"
             },
             ".lead": {
               "font-family": "'Lora', serif",
@@ -203,11 +204,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-38q",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -221,7 +222,7 @@
             "overlayColor": "#7e9b9f",
             "overlayOpacity": "0.4"
           },
-          "title": "<span style=\"font-weight: normal;\">MG ROVER INFORMATION PAGES &nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">&nbsp;</span>",
           "text": "SERVICES AND MAINTENANCE ROVER 200 25 ZR &nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -251,6 +252,12 @@
           "text": "<p>SERVICE AND MAINTENANCE ROVER 200 25 ZR</p>"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>MAINTAINING THE 1996 ROVER 200 SERIES AND THE 2004 MG-ZR 120 +</p>",
           "_tags": [
             "Theme"
           ],
@@ -262,17 +269,20 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#90a878"
             }
           },
-          "_anchor": "content1-3ir",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><i>SERVICING-MOT-IGNITION-COOLING-TORQUE-ELECTRICS-FUEL&nbsp;</i></p>"
+          "_anchor": "content1-3my"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -286,13 +296,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3bl",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-3mx"
         },
         {
           "_styles": {
@@ -320,7 +324,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "title": "<span style=\"font-weight: normal;\">FUEL AND EMISSIONS SYSTEM</span>",
           "meta": "2004 MG-ZR 120 +",
@@ -383,7 +387,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#90a878",
               "font-size": "20px"
             },
             "SPAN": {
@@ -408,7 +412,7 @@
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -540,78 +544,6 @@
           "_anchor": "msg-box5-3mo"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-3jy",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>DRIVER MONITORING FEATURES 200 25 ZR</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7e9b9f",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3k2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>TOOLS AND PARTSGUIDE LIST</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3mv"
-        },
-        {
           "_params": {
             "showText": false,
             "paddingTop": "0",
@@ -638,6 +570,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3mu"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3k2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">LIGHTS</a>-<a href=\"torque.html\" class=\"text-info\">TORQUE</a>-<a href=\"audioremotes.html\" class=\"text-primary\">AUDIO</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-primary\">COOLANT</a></i></p>"
         },
         {
           "_tags": [
@@ -1204,7 +1158,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1351,11 +1305,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-38r",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -1369,7 +1323,7 @@
             "overlayColor": "#7e9b9f",
             "overlayOpacity": "0.4"
           },
-          "title": "<span style=\"font-weight: normal;\">MG ROVER INFORMATION PAGES&nbsp;</span>",
+          "title": "",
           "text": "SERVICES AND MAINTENANCE ROVER 200 25 ZR&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2168,7 +2122,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2664,7 +2618,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3250,7 +3204,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3685,7 +3639,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4248,7 +4202,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4658,7 +4612,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5061,7 +5015,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5450,7 +5404,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5911,7 +5865,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -6505,7 +6459,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -6971,7 +6925,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -7418,7 +7372,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -7560,11 +7514,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2bi",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -8044,7 +7998,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -9059,7 +9013,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -9553,7 +9507,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -10226,7 +10180,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -10629,7 +10583,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -11019,7 +10973,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -11160,11 +11114,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-32o",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -11656,7 +11610,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
             "parallax": false,
@@ -12488,7 +12442,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -12846,7 +12800,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -13124,7 +13078,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8

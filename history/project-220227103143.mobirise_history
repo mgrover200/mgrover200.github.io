@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "twinhorns.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4712,
+    "uniqCompNum": 4720,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -39,7 +39,7 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "kx7yqk7bep",
+    "mbrsiteDomain": "5if4bqiuij",
     "publishChangesOnly": true,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -60,8 +60,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "mbrsite": "mbrsite://%7B%22id%22%3A189171%2C%22domain%22%3A%22kx7yqk7bep.mobirisesite.com%22%7D"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -207,9 +206,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -251,6 +250,12 @@
           "text": "<p>SERVICE AND MAINTENANCE ROVER 200 25 ZR</p>"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>MAINTAINING THE 1996 ROVER 200 SERIES AND THE 2004 MG-ZR 120 +</p>",
           "_tags": [
             "Theme"
           ],
@@ -262,17 +267,20 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#90a878"
             }
           },
-          "_anchor": "content1-3ir",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><i>SERVICING-MOT-IGNITION-COOLING-TORQUE-ELECTRICS-FUEL&nbsp;</i></p>"
+          "_anchor": "content1-3my"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -286,13 +294,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3bl",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-3mx"
         },
         {
           "_styles": {
@@ -320,7 +322,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "title": "<span style=\"font-weight: normal;\">FUEL AND EMISSIONS SYSTEM</span>",
           "meta": "2004 MG-ZR 120 +",
@@ -383,7 +385,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#90a878",
               "font-size": "20px"
             },
             "SPAN": {
@@ -408,7 +410,7 @@
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -540,78 +542,6 @@
           "_anchor": "msg-box5-3mo"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-3jy",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>DRIVER MONITORING FEATURES 200 25 ZR</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7e9b9f",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3k2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>TOOLS AND PARTSGUIDE LIST</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3mv"
-        },
-        {
           "_params": {
             "showText": false,
             "paddingTop": "0",
@@ -638,6 +568,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3mu"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3k2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">LIGHTS</a>-<a href=\"torque.html\" class=\"text-info\">TORQUE</a>-<a href=\"audioremotes.html\" class=\"text-primary\">AUDIO</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-primary\">COOLANT</a></i></p>"
         },
         {
           "_tags": [
@@ -805,9 +757,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -1355,9 +1307,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -1746,7 +1698,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -1809,9 +1761,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -2252,7 +2204,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -2317,7 +2269,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -2748,7 +2700,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -2813,7 +2765,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -3334,7 +3286,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -3397,7 +3349,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -3830,9 +3782,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -4332,7 +4284,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -4395,7 +4347,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -4742,7 +4694,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -4805,7 +4757,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -5145,7 +5097,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -5208,7 +5160,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -5534,7 +5486,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -5595,9 +5547,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -5995,7 +5947,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -6059,7 +6011,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -6589,7 +6541,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -6650,9 +6602,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -7055,7 +7007,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -7117,9 +7069,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -7564,9 +7516,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -8044,9 +7996,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -8074,6 +8026,9 @@
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "DIV": {
+              "color": "#7e9b9f"
             }
           },
           "_anchor": "content1-3cq",
@@ -8616,9 +8571,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -9143,7 +9098,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -9206,7 +9161,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -9637,7 +9592,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -9698,9 +9653,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -10310,7 +10265,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -10371,9 +10326,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -10713,7 +10668,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -10774,9 +10729,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -11164,9 +11119,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -11656,9 +11611,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -12038,7 +11993,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -12099,9 +12054,9 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1246.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -12572,7 +12527,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -12635,7 +12590,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
@@ -12930,7 +12885,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#7e9b9f",
+            "bgColor": "#475577",
             "fontSize": "1.2",
             "fontName": {
               "name": "Slabo 27px",
@@ -12993,7 +12948,7 @@
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverheader-1600x464.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rover200-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#7e9b9f",
