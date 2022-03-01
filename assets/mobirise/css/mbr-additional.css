@@ -560,14 +560,13 @@ section.form .container {
 #content1-3he DIV {
   color: #475577;
 }
-#content1-3ir P {
+#content1-3mz DIV {
   color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 25px;
-  text-align: center;
 }
-#content1-3ir DIV {
-  color: #475577;
+#content1-3mz P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #content1-3bl P {
   text-align: center;
@@ -3779,6 +3778,7 @@ section.form .container {
 
 
 
+
 #ext_menu-32c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3896,6 +3896,14 @@ section.form .container {
 }
 #content1-32l P {
   font-size: 17px;
+}
+#msg-box5-3my H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+}
+#msg-box5-3my P {
+  text-align: left;
 }
 #content1-32m DIV {
   font-size: 17px;
