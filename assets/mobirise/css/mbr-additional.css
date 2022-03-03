@@ -1555,13 +1555,17 @@ section.form .container {
 #content1-317 P {
   font-size: 17px;
 }
-#msg-box5-3n0 H3 {
-  color: #475577;
-  font-size: 23px;
-  font-family: 'Lora', serif;
-}
 #content1-394 P {
   font-size: 17px;
+}
+#header3-3na .mbr-section-title,
+#header3-3na .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3na .mbr-section-title {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }
 #msg-box8-3hq .mbr-section-title,
 #msg-box8-3hq p {
