@@ -21,12 +21,11 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#232323",
-        "#444444"
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4754,
+    "uniqCompNum": 4747,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -594,13 +593,13 @@
             "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000-1577x117.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#7e9b9f",
             "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<p>MG-Rover Information Pages (c) All Rights Reserved</p>"
         }
@@ -10341,23 +10340,22 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"comments.html\" data-toolbar=\"-mbrBtnMove\">Comments</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"mailto:daveculpin2004@gmail.com\" data-toolbar=\"-mbrBtnMove\">Email</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
+          "_name": "buttons1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px"
             }
           },
-          "_anchor": "content1-3o1"
+          "_anchor": "buttons1-3nu"
         },
         {
           "_tags": [
@@ -10393,8 +10391,8 @@
             "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000-1577x117.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#7e9b9f",
             "overlay": true,

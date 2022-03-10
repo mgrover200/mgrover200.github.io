@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "torque.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -21,12 +21,11 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#232323",
-        "#444444"
+        "#232323"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4754,
+    "uniqCompNum": 4746,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128.png",
     "noImageResize": "true",
@@ -578,6 +577,19 @@
           "_anchor": "content1-3mw"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"comments.html\" data-toolbar=\"-mbrBtnMove\">Comments</a> <a data-app-btn=\"true\" class=\"btn btn-info-outline btn-info\" href=\"https://mobiri.se\" data-toolbar=\"-mbrBtnMove\">Email&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3nt"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -594,13 +606,13 @@
             "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000-1577x117.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#7e9b9f",
             "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "<p>MG-Rover Information Pages (c) All Rights Reserved</p>"
         }
@@ -10339,25 +10351,31 @@
           "text": "<p>Then its a light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on. An option to use the oil filter wrench to tighten it up, is not a good idea, it could puncture the thin metal canister. Using a piece of folded 'coarse' sandpaper then hand pressure only, would be sufficient to tighten it. Oil is now added, around 4.5 litres, (on a dry engine) or slightly less on a normal fill.&nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
+          "_name": "image2",
+          "_anchor": "image2-3hv",
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gb-news-channel-1105x200.jpg",
+              "width": 1400,
+              "link": "https://www.gbnews.uk/",
+              "alt": "gb-news-channel",
+              "title": ""
             },
-            "DIV": {
-              "color": "#7e9b9f"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "_anchor": "content1-3o1"
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
@@ -10393,8 +10411,8 @@
             "paddingTop": "2",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000-1577x117.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#7e9b9f",
             "overlay": true,
