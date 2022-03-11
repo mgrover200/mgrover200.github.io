@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4780,
+    "uniqCompNum": 4772,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128_1.png",
     "noImageResize": "true",
@@ -13494,7 +13494,7 @@
     "marcoscars.html": {
       "settings": {
         "title": "marcoscars",
-        "meta_descr": "A look back at marcos cars from our own historical collection of cine film, videos, images and information from 1966 to 1992 ",
+        "meta_descr": "A look back at marcos cars from our own historical collection of cine film, videos, images and information from 1967 to 1989 ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -13850,133 +13850,263 @@
           "_anchor": "msg-box5-3oa"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
+            "H3": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "17px"
+            },
+            "SPAN": {
               "font-size": "23px",
               "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<span style=\"font-weight: normal;\">MARCOS OWNERS AND ADMIRERS&nbsp;</span>",
-          "meta": "OF THIS CLASSIC SPORTS CAR&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3or"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Marcos cars were always admired in the early years, from well known names to those who for a period of time actually owned one, listed here are a just a random few from our own list which has been compiled over the years.&nbsp;<span style=\"font-size: 1.07rem;\">Rod Stewart (Singer) before he upgraded to Lamborghinis. Paul Stassino (Actor) Alan Ball (Chelsea FC) Mick Robertson (Magpie TV Presenter) John Noakes (Blue Peter) Andy Fairweather Low lead singer of Amen Corner, who had one commisioned in Pink. Simon Park (of 'eye level' fame, the Van der Valk TV Series theme tune 1972). Scott Engel and John Maus of The Walker Brothers fame both owned one each in red and blue.</span></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3ok"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>An old edition of..Record Mirror in our collection from February 1966...shows them looking out of the sunroof while kneeling on the transmission tunnel in each of their cars. Others not necessarily owners, but possibly used the vehicles for films, racing, even photo shoots etc, were Jackie Stewart, John Lennon, Cliff Richard and including the Beatles.&nbsp;<span style=\"font-size: 1.07rem;\">Roger Moore (Saint TV Series) As a racing driver, drove a white Marcos in an early February 1969 episode. 'The World Beater' this along with many more in our list of well known owners and admirers, of this classic car.</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3om"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px",
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<span style=\"font-weight: normal;\">MARCOS RALLY WESTON PARK JUNE 1989</span>",
-          "meta": "FUEL STOP ALONG THE A5 AFTER THE RALLY",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3op"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0051-marcos-at-weston-park-1105x280.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0025-rover-engine.jpg",
               "link": "",
-              "alt": "marcos cars",
+              "alt": "",
+              "title": "engine-top-cover-torque",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3on"
+          "title": "<span style=\"font-weight: normal;\">ENGINE COVER TIGHTENING</span>",
+          "text": "Prior to fitting the cam or engine top cover this required a new cam cover gasket fitted, this goes on dry with no sealant added, but needs to be fitted the correct way round its already marked up. Cam cover gasket LDR-102000 was used for this project.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-3ob"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Our appreciation to the contributor for a rare insight into their extensive collection of brochures, cine film footage, photo's and videos compiled over a period of 26 years from early 1966 to mid 1992</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3oq",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the oil filter, and a correct amount of engine oil to be added. .</p>",
+          "_anchor": "content1-3oc"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">OIL FILTER FITTING INFORMATION</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_anchor": "header3-3od"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "23px",
+              "color": "#475577"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0026-rover-oil-filter.jpg",
+              "link": "",
+              "alt": "",
+              "title": "oil-filter-lpw-100181",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">FITTING PART NUMBER LPW-100181 &nbsp;&nbsp;</span>",
+          "text": "Oil filter we used at this time, was the LPW-100181 a few suppliers may include a sump plug washer. Draper OFW-100 is used during<br>filter removal process.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-3oe"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Fitting back the new oil filter, without it first being &nbsp;primed is bad news. As the engine will be starved of lubrication during the critical few seconds, it will take before the oil filter is filled and is ready to begin circulating oil around the engine. A good method is to first add oil to the filter, and then &nbsp;rotate it several times by hand holding it at a slight angle, then top up again, it should hold about 250ml without any spillage when being fitted back to its location on the engine.&nbsp;</p>",
+          "_anchor": "content1-3of"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Then its a light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on. An option to use the oil filter wrench to tighten it up, is not a good idea, it could puncture the thin metal canister. Using a piece of folded 'coarse' sandpaper then hand pressure only, would be sufficient to tighten it. Oil is now added, around 4.5 litres, (on a dry engine) or slightly less on a normal fill.&nbsp;</p>",
+          "_anchor": "content1-3og"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3oh"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><a href=\"oilsump.html\" class=\"text-info\">Engine Oil Sump</a> - <a href=\"gearboxoil.html\" class=\"text-info\">R.65 Gearbox Oil</a> - <i>Engine Torque Settings</i> - <a href=\"partsguide.html\" class=\"text-info\">Parts Guide</a> - <a href=\"colourcodes.html\" class=\"text-info\">Colour Codes</a>&nbsp;</p>",
+          "_anchor": "content1-3oi"
         },
         {
           "_tags": [
