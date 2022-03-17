@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4785,
+    "uniqCompNum": 4781,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/logoo-128x128_1.png",
     "noImageResize": "true",
@@ -13664,7 +13664,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>1971 MARCOS 3 LITRE FORD V6</p>",
+          "text": "<p>1971 MARCOS 3 LITRE V6</p>",
           "_anchor": "content1-3o5"
         },
         {
@@ -13711,19 +13711,39 @@
           "_anchor": "content1-3o8"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
+            "imageSize": "50",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -13736,9 +13756,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/008-marcos-wetherby-502x217.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0038-marcos-in-wetherby-1976-500x215.jpg",
               "link": "",
-              "alt": "marcos-wetherby-1976 ",
+              "alt": "marcos at wetherby ",
+              "title": "cylinder-head-t0rque",
               "linkInNewWindow": false
             },
             "video": {
@@ -13754,36 +13775,45 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">WETHERBY NORTH YORKSHIRE</span>",
-          "text": "Here we have a couple of randomly selected photo's, probably from well over 40 years ago. This venue was at the Turnpike Motel in 1976 just off the A1 on a really cold february morning. Preserved from this meeting are a good number of photos, including cine film footage.",
+          "text": "Here we have a couple of randomly selected photo's, probably from well over 40 years ago. This venue was at the Turnpike Motel in 1976&nbsp; just off the A1 on a really cold february morning. Preserved from this meeting are a good number of photos, including cine film footage.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box5-3o9"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3ov",
           "_styles": {
             "H3": {
-              "font-size": "23px",
+              "color": "#475577",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#475577"
+              "text-align": "center",
+              "font-size": "23px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
             }
-          }
-        },
-        {
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -13796,9 +13826,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0011-marcos-skipton-502x217.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0044-marcos-in-skipton-1976-500x215.jpg",
               "link": "",
-              "alt": "marcos-skipton-1976",
+              "alt": "marcos in skipton",
+              "title": "camshaft-carrier-torque",
               "linkInNewWindow": false
             },
             "video": {
@@ -13814,24 +13845,9 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">SKIPTON NORTH YORKSHIRE</span>",
-          "text": "This local meeting, later in the year, was at the Cross Keys during May 1976. Regarded as the year of the heatwave and subsequent drought. It was cold wet and windy, during this photo session.",
+          "text": "This local meeting, later in the year, was at the Cross Keys during May 1976. Although regarded as the year of the heatwave and subsequent drought. It was cold wet and windy, during this photo session.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3ow",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "23px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "_anchor": "msg-box5-3oa"
         },
         {
           "_params": {
@@ -13840,7 +13856,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "60",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -13876,7 +13892,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">MARCOS RALLY DONINGTON</span>",
+          "title": "<span style=\"font-weight: normal;\">MARCOS RALLY 1976 1977 1978</span>",
           "text": "Shown here at Castle Donington leicestershire, after a drive down the M1 in convoy, after meeting up with several other marcos owners from the wooley edge services, south of wakefield.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
