@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4802,
+    "uniqCompNum": 4785,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -300,7 +300,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
@@ -309,7 +309,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -341,7 +341,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">REMOVING FUEL FILTER</span>",
-          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were used, then a 8mm spanner to release the fuel filter from the bulkhead holding clamp. <a href=\"fuelfilter.html\" class=\"text-primary\">MORE</a>.&nbsp;",
+          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were used in conjunction, and then an 8mm spanner to release the fuel filter from the bulkhead holding clamp.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"fuelfilter.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -368,7 +368,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
@@ -377,7 +377,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/000000000-1280x1024.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -408,7 +408,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
-          "text": "Shown located on top of the charcoal canister, fixed into a metal bracket containing an isolation rubber on the bulkhead, helps to eliminate the purge valve noise from inside the cabin. <a href=\"purgevalve.html\" class=\"text-primary\">MORE.</a>",
+          "text": "Shown located on top of the charcoal canister, that is fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition of the rubber, could well be a contributing factor on how annoying the audible purge valve noise can sound in the cabin.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"purgevalve.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -438,7 +438,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
@@ -447,7 +447,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -479,7 +479,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">EMISSIONS CHECK 04 ZR&nbsp;</span>",
-          "text": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot, but wont be at its full working and operating temperature. <a href=\"emissions.html\" class=\"text-primary\">MORE.</a>",
+          "text": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot, but wont be at its full working and operating temperature.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"emissions.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -510,7 +510,7 @@
             "showText": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "media": {
             "image": {
@@ -537,7 +537,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
           "_tags": [
@@ -552,13 +552,13 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3pd"
+          "_anchor": "content1-3n7"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>",
           "_tags": [
@@ -779,7 +779,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>CABIN FUSE PANEL AND RELAYS 04 ZR</p>"
         },
@@ -801,7 +801,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>FUSE IDENTIFICATION AND RELAY PLACEMENT IN THE 2004 ZR&nbsp;</i></p>"
         },
@@ -823,7 +823,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -1100,33 +1100,6 @@
           "_anchor": "content1-3n6"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3p9"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1350,7 +1323,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>ADVANCED WARNING OF COOLANT LOSS</p>"
         },
@@ -1372,7 +1345,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>AUDIBLE OR A VISUAL NOTIFICATION FOR THE ROVER 200 25 ZR</i></p>"
         },
@@ -1394,7 +1367,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -1602,34 +1575,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3p1"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3oy"
+          "_anchor": "content1-3nc"
         },
         {
           "_tags": [
@@ -1852,7 +1798,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>ENGINE FUSES AND RELAYS 2004 ZR&nbsp;</p>"
         },
@@ -1874,7 +1820,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>FUSE IDENTIFICATION AND RELAY PLACEMENT IN THE 2004 ZR&nbsp;</i></p>"
         },
@@ -1896,7 +1842,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -2131,33 +2077,6 @@
             }
           },
           "_anchor": "content1-3n5"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3p8"
         },
         {
           "_tags": [
@@ -3629,7 +3548,7 @@
           },
           "_anchor": "content1-394",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
@@ -3653,7 +3572,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">MG-ROVER NAVIGATION 2006 - 2008</span>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER NAVIGATION FROM 2006</span>",
           "meta": "GARMIN STREET PILOT i3 including GARMIN NUVI 200",
           "_tags": [
             "Theme"
@@ -3691,28 +3610,15 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>During mid 2006 we fitted the street pilot i3 a very reliable little unit, which was in regular use for the next couple of years. Although it soon became dated, with its battery operated system and thumb wheel selecting process. The vent fitting shown was for a quick release option.&nbsp;</p>",
+          "text": "<p>During mid 2006 we fitted the street pilot i3 a very reliable little unit, which was in regular use for the next couple of years. Although it soon became dated, with its battery operated system and thumb wheel selecting process, the fitting shown was for a quick release. In 2008 we replaced the navigation system, with a more secure and updated option, and shows that the new unit would have to be placed really well down into the air vent during the very early stages of planning and design, to create a fully secure fitted installation.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-3nb"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>In 2008 we replaced the navigation system, with a more secure and updated option, and shows that the new unit would have to be placed really well down into the air vent during the very early stages of planning and design, to create a fully secure fitted installation.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3ox"
         },
         {
           "_styles": {
@@ -3967,7 +3873,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>REMOVING OIL SUMP ROVER 200</p>"
         },
@@ -3989,7 +3895,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>CLEANING OIL SUMP ON 1996 ROVER 200 SERIES&nbsp;</i></p>"
         },
@@ -4011,7 +3917,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -4277,27 +4183,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>Access to 3 of the sump bolts did require that the flywheel cover plate is removed to get to them, tools that were used for this project were 19mm for sump drainage bolt 10mm for the 14 sump bolts, and 8mm for the 3 cover plate bolts, for reference the 200 oil sump drain bolt is 19mm, The drain bolt for the ZR is smaller at 15mm. This old project was completed during 2005.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3pb"
         },
         {
           "_styles": {
@@ -7848,7 +7733,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>COLD HEATER PROBLEM 2004 MG-ZR</p>"
         },
@@ -7870,7 +7755,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>A GOOD HOT HEATER DURING WINTER MONTHS IS ESSENTIAL&nbsp;</i></p>"
         },
@@ -7892,7 +7777,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -8072,27 +7957,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>With heater return hose re-attached, and heater dial still set to the 'hot' position, commenced on a 'slow' filling procedure, when free flowing coolant emerged from coolant rail, the 8mm bleed bolt was fitted back, before pouring in to a maximum fill level, engine on then a check on coolant level, new hoses etc, a fully working heater all year round, especially during the winter months is essential.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3p2"
         },
         {
           "_styles": {
@@ -8349,7 +8213,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>REPLACING THE IGNITION SWITCH</p>"
         },
@@ -8371,7 +8235,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>YXB-100350 IGNITION SWITCH ROVER 200 25 ZR</i></p>"
         },
@@ -8393,7 +8257,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -8664,31 +8528,10 @@
           "_anchor": "content1-37n",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
           "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#7e9b9f"
-            }
-          },
-          "_anchor": "content1-3p4"
         },
         {
           "_styles": {
@@ -8942,7 +8785,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>SUNROOF AND HEADLINING PROBLEM</p>"
         },
@@ -8964,7 +8807,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>PLUS FITTING AN UPGRADED SUNROOF SEAL 200 25 ZR</i></p>"
         },
@@ -8986,7 +8829,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -9332,33 +9175,6 @@
             }
           },
           "_anchor": "content1-3nf"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3pa"
         },
         {
           "_tags": [
@@ -10093,7 +9909,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>CYLINDER HEAD TORQUE SETTINGS</p>"
         },
@@ -10115,7 +9931,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>GUIDE FOR TIGHTENING SEQUENCE ROVER 200 25 ZR&nbsp;</i></p>"
         },
@@ -10137,7 +9953,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -10543,33 +10359,6 @@
           "_anchor": "content1-3o1"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3pc"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -10787,7 +10576,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>TAILGATE WIRING LOOM PROBLEMS</p>"
         },
@@ -10809,7 +10598,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>FEATURES YMN-101940 WIRING LOOM 200 25 ZR</i></p>"
         },
@@ -10831,7 +10620,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -10992,33 +10781,6 @@
               "color": "#7e9b9f"
             }
           }
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3p7"
         },
         {
           "_tags": [
@@ -11712,7 +11474,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>COOLANT CIRCULATION AROUND K16 ENGINE</p>"
         },
@@ -11734,7 +11496,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>HOW DOES IT FLOW AND WHICH WAY DOES IT GO</i></p>"
         },
@@ -11756,7 +11518,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -12005,34 +11767,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3p3"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3oz"
+          "_anchor": "content1-3nd"
         },
         {
           "_tags": [
@@ -12252,7 +11987,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>IGNITION LEADS FITTING SEQUENCE&nbsp;</p>"
         },
@@ -12274,7 +12009,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><i>HT LEADS FITTING AND GUIDE FOR 200 25 ZR</i></p>"
         },
@@ -12296,7 +12031,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -12496,34 +12231,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3p6"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gb-news-1105x150.jpg",
-              "width": 1400,
-              "link": "https://www.gbnews.uk/",
-              "alt": "gb-news channel",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3p5"
+          "_anchor": "content1-3ne"
         },
         {
           "_tags": [
@@ -13954,7 +13662,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p>1971 MARCOS 3 LITRE FORD V6</p>",
           "_anchor": "content1-3o5"
@@ -13976,7 +13684,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#ffffff"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fmarcos.html\" class=\"text-black\">Russian</a></p>",
           "_anchor": "content1-3o7"
