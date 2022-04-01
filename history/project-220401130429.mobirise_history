@@ -366,8 +366,57 @@
         },
         {
           "_params": {
+            "showText": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0046-rover-parts-guide-1109x202.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3mu"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>NEW PAGE UPDATE TO SECURE NAVIGATION SYSTEM <a href=\"satnav.html\" class=\"text-info\" style=\"font-style: normal;\">MORE INFO</a>&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3pd"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>",
