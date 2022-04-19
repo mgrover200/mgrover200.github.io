@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4859,
+    "uniqCompNum": 4854,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -370,7 +370,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><i><a href=\"satnav.html\" class=\"text-primary\">NEW UPDATE: VENT FITTED NAVIGATION SYSTEM ROVER 200 25 ZR</a></i></p>",
+          "text": "<p><i><a href=\"dashcam.html\" class=\"text-info\">DASHCAM</a>-<a href=\"lightcheck.html\" class=\"text-info\">BULB MONITOR</a>-<a href=\"twinhorns.html\" class=\"text-info\">TWIN HORNS</a>-<a href=\"audioremotes.html\" class=\"text-info\">AUDIO REMOTES</a>-<a href=\"satnav.html\" class=\"text-info\">NAVIGATION</a>-<a href=\"coolsensor.html\" class=\"text-info\">COOLSENSOR</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -384,7 +384,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3qx"
+          "_anchor": "content1-3mw"
         },
         {
           "_tags": [
@@ -3324,7 +3324,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3343,9 +3343,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0055.jpg-rover-200-25-mgzr-navigation-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0051-500x250.jpg",
               "link": "",
-              "alt": "rover-200-navigation-system",
+              "alt": "rover navigation",
               "linkInNewWindow": false
             },
             "video": {
@@ -3360,14 +3360,14 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SECURE NAVIGATION</span>",
-          "text": "The secure location of this fitting, does not need to be removed, a soft backed screen cover that mimics left air vent can be applied when not in use or during short term stops, a more secure option than actually being attached to the windscreen.",
+          "title": "<span style=\"font-weight: normal;\">CONCEALED NAVIGATION</span>",
+          "text": "The secure location of this fitting, does not need to be removed, a soft backed screen cover that mimics left air vent can be applied when not in use or during any short term stops, a more secure option than actually being attached to the windscreen. The drivers line of view was achieved with using precise adjustments to enable a correct angle of full screen viewing, navigation options, and all touch screen. operations. paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3qu",
+          "_anchor": "msg-box5-3qt",
           "_styles": {
             "H3": {
               "color": "#475577",
@@ -3378,17 +3378,35 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>The drivers line of view was achieved with using precise adjustments to enable a correct angle of full screen viewing, navigation options, and all touch screen. operations Advantages other than security, is screen being shaded away from low winter sun driving conditions, fitting of the original, and now modified air vent is removable for memory card access, and also to rear of the centre console switches.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3qy"
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-317",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>The secure location of this fitting, does not need to be removed, a soft backed screen cover that mimics left air vent can be applied when not in use or during any short term stops, a more secure option than actually being attached to the windscreen. The drivers line of view was achieved with using precise adjustments to enable a correct angle of full screen viewing, navigation options, and all touch screen. operations.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3jh",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Advantages other than security, are having the screen shaded away from low winter sun driving conditions. The fitting of the original, and now modified air vent is removable, for memory card access, and also to rear of the centre console switches and electrical connectors.</p>"
         },
         {
           "_tags": [
@@ -3499,6 +3517,40 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3ox"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3hq",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/059-simonstone.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [

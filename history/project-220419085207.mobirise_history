@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4859,
+    "uniqCompNum": 4858,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3343,7 +3343,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0055.jpg-rover-200-25-mgzr-navigation-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0051.jpg-rover-200-navigation-500x200.jpg",
               "link": "",
               "alt": "rover-200-navigation-system",
               "linkInNewWindow": false
@@ -3360,7 +3360,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SECURE NAVIGATION</span>",
+          "title": "<span style=\"font-weight: normal;\">200 25 ZR NAVIGATION</span>",
           "text": "The secure location of this fitting, does not need to be removed, a soft backed screen cover that mimics left air vent can be applied when not in use or during short term stops, a more secure option than actually being attached to the windscreen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3379,16 +3379,126 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "text": "<p>The drivers line of view was achieved with using precise adjustments to enable a correct angle of full screen viewing, navigation options, and all touch screen. operations Advantages other than security, is screen being shaded away from low winter sun driving conditions, fitting of the original, and now modified air vent is removable for memory card access, and also to rear of the centre console switches.</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0053.jpg-mgzr-navigation-500x200.jpg",
+              "link": "",
+              "alt": "mgzr-navigation system",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">SCREEN COVER REMOVED</span>",
+          "text": "The drivers line of view was achieved with using precise adjustments to enable a correct angle of full screen viewing, navigation options, and all touch screen. operations&nbsp;Advantages other than security, is screen being shaded away from low winter sun driving conditions.&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-3qy"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3qv",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0055.jpg-rover-200-25-mgzr-navigation-500x200.jpg",
+              "link": "",
+              "alt": "rover-200-25-zr-navigation",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">READY TO NAVIGATE&nbsp;</span>",
+          "text": "The fitting of the original, and now modified air vent is removable, for memory card access, and also to rear of the centre console switches and electrical connectors.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3qw",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -3397,7 +3507,7 @@
           "_name": "content1",
           "_anchor": "content1-3ji",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
