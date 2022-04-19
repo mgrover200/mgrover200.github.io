@@ -302,7 +302,7 @@
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/000000000-1280x1024.jpg",
             "parallax": true,
@@ -363,6 +363,28 @@
             }
           },
           "_anchor": "msg-box5-3mr"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i><a href=\"satnav.html\" class=\"text-primary\">NEW UPDATE: VENT FITTED NAVIGATION SYSTEM ROVER 200 25 ZR</a></i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3qx"
         },
         {
           "_tags": [
@@ -6405,8 +6427,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FLIP HD CAMCORDER&nbsp;</span>",
-          "text": "Prior to dashcams becoming more popular, we used the above video camera, shown fitted to the lower part of wind screen, with a modified and quick release satnav mount for this purpose.",
+          "title": "<span style=\"font-weight: normal;\">FLIP MINO VIDEO CAM&nbsp;</span>",
+          "text": "Prior to dashcams becoming more popular, we used a Flip Mino video camera, shown fitted to the lower part of wind screen, with a modified and quick release satnav mount for this purpose.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
