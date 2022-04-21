@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
 
 
 
@@ -581,6 +582,11 @@ section.form .container {
 #msg-box5-3mr P {
   font-size: 17px;
   text-align: left;
+}
+#content1-3r0 P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;
