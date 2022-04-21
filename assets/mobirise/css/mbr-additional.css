@@ -11,7 +11,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -582,12 +581,6 @@ section.form .container {
 #msg-box5-3mr P {
   font-size: 17px;
   text-align: left;
-}
-#content1-3mw P {
-  color: #7e9b9f;
-  font-family: 'Lora', serif;
-  font-size: 20px;
-  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -1417,6 +1410,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1522,8 +1516,10 @@ section.form .container {
 #content1-35n P {
   font-size: 17px;
 }
-#content1-317 P {
-  font-size: 17px;
+#msg-box5-3qu H3 {
+  color: #475577;
+  font-size: 22px;
+  font-family: 'Lora', serif;
 }
 #content1-394 P {
   font-size: 17px;
@@ -1536,10 +1532,6 @@ section.form .container {
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 36px;
-}
-#msg-box8-3hq .mbr-section-title,
-#msg-box8-3hq p {
-  color: #fff;
 }
 #content1-3dm P {
   text-align: center;
