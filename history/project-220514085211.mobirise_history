@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4901,
+    "uniqCompNum": 4900,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -10445,19 +10445,40 @@
           "text": "Replacing the useless single horn of the MG, and then adding a much more responsive twin horn installation much like, and if not even better than the positive sounding ones which were originally fitted as standard equipment to the old Rover 200 series. ."
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-32h",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cobbled-1600x541.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10472,7 +10493,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0034-twin-horns-mg.jpg",
               "link": "",
-              "alt": "",
+              "alt": "twin horns fitted to mgzr",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -10487,22 +10509,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">DUAL HORNS NOW FITTED</span>",
-          "text": "Fitting the horns was a straight foreward swop, made easier with the  front bumper out of the way, the old horn securing bracket was corroded from where its been located over the years, and replaced with one supplied in the new fitting kit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3s4",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "22px"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\">DUAL HORNS FITTED ZR</span>",
+          "text": "Fitting the horns was a straight foreward swop, made easier with the &nbsp;front bumper out of the way, the old horn securing bracket was corroded from where its been located over the years, and replaced with one supplied in the new fitting kit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
