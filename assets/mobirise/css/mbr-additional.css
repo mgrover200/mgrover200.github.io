@@ -13,6 +13,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -578,7 +580,7 @@ section.form .container {
   font-size: 23px;
 }
 #msg-box5-3rk H3 {
-  color: #7e9b9f;
+  color: #475577;
   font-size: 20px;
 }
 #msg-box5-3rk SPAN {
@@ -602,6 +604,38 @@ section.form .container {
 }
 #msg-box5-3rl P {
   font-size: 17px;
+}
+#header3-3sg .mbr-section-title,
+#header3-3sg .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3sg .mbr-section-title {
+  color: #475577;
+}
+#header3-3sg .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-3sg .mbr-section-subtitle {
+  color: #475577;
+}
+#features7-3se .card-subtitle {
+  color: #ffffff;
+  font-size: 15px;
+}
+#features7-3se .iconbox {
+  background-color: #7e9b9f;
+  border-color: #7e9b9f;
+}
+#features7-3se H4 {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#content1-3sf P {
+  text-align: center;
+}
+#content1-3sf DIV {
+  color: #ffffff;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -3227,6 +3261,9 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 23px;
 }
+#msg-box5-3r7 P {
+  text-align: left;
+}
 #content1-2qe P {
   font-size: 17px;
 }
@@ -3757,8 +3794,6 @@ section.form .container {
 
 
 
-
-
 #ext_menu-32c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3882,38 +3917,6 @@ section.form .container {
 }
 #content1-32m DIV {
   font-size: 17px;
-}
-#header3-3ry .mbr-section-title,
-#header3-3ry .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-3ry .mbr-section-title {
-  color: #475577;
-}
-#header3-3ry .mbr-section-title SPAN {
-  font-family: 'Lora', serif;
-  font-size: 36px;
-}
-#header3-3ry .mbr-section-subtitle {
-  color: #475577;
-}
-#features7-3rz .card-subtitle {
-  color: #ffffff;
-  font-size: 15px;
-}
-#features7-3rz .iconbox {
-  background-color: #7e9b9f;
-  border-color: #7e9b9f;
-}
-#features7-3rz H4 {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-}
-#content1-3s0 P {
-  text-align: center;
-}
-#content1-3s0 DIV {
-  color: #ffffff;
 }
 #footer1-32k P {
   color: #ffffff;
