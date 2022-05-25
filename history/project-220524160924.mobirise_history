@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4940,
+    "uniqCompNum": 4932,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -496,6 +496,37 @@
           "_anchor": "msg-box5-3rl"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sg"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -524,7 +555,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -537,7 +568,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -550,7 +581,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -563,7 +594,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -576,7 +607,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -639,7 +670,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t1"
+          "_anchor": "features7-3se"
         },
         {
           "_params": {
@@ -652,6 +683,7 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-3sf",
           "_styles": {
             "P": {
               "text-align": "center"
@@ -659,8 +691,7 @@
             "DIV": {
               "color": "#ffffff"
             }
-          },
-          "_anchor": "content1-3t2"
+          }
         },
         {
           "_tags": [
@@ -1168,6 +1199,37 @@
           "text": "<p>What is the cable and connector shown across front of the fuse panel, which Ive been asked. This formed part of a project I was still working on a couple of winters ago, The fitting of driver and front passenger heated seats, which have since been completed. Never considered this for the Rover 200 with fabric seats, but for the MG, with its half leather ones, its been a good choice, and with a warm up time of only several seconds.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sw"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -1196,7 +1258,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -1209,7 +1271,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -1222,7 +1284,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -1235,7 +1297,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -1248,7 +1310,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -1311,7 +1373,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t3"
+          "_anchor": "features7-3sx"
         },
         {
           "_params": {
@@ -2241,6 +2303,37 @@
           "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sh"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -2269,7 +2362,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -2282,7 +2375,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -2295,7 +2388,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -2308,7 +2401,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -2321,7 +2414,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -2384,7 +2477,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t7"
+          "_anchor": "features7-3si"
         },
         {
           "_params": {
@@ -5657,6 +5750,37 @@
           "text": "<p>The tapping sound given off by the purge valve, can initially be mistaken for sounding like the fuel injectors clicking, high tension leads arcing, or even the sound of a slack tappet giving an obvious cause for concern. The tapping on some purge valves, are nothing more than a nuisance, however they should just about be audible, only for short periods, but not consistant, as fumes are purged from the charcoal canister.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sn"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -5685,7 +5809,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -5698,7 +5822,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -5711,7 +5835,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -5724,7 +5848,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -5737,7 +5861,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -5800,7 +5924,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t6"
+          "_anchor": "features7-3so"
         },
         {
           "_params": {
@@ -6270,6 +6394,37 @@
           "text": "<p>To safeguard the above, usually doing up the fuel clamp holder's 8mm bolt the very last. prior to testing. the Halfords HFF-236 fuel filter that was used for this service, The new filter will need several seconds for it to prime on the very first start up of the engine, then a final check on the fuel pipe unions for any leaks, prior to a run out with now a much smoother ride and tickover.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3st"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -6298,7 +6453,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -6311,7 +6466,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -6324,7 +6479,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -6337,7 +6492,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -6350,7 +6505,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -6413,7 +6568,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t5"
+          "_anchor": "features7-3su"
         },
         {
           "_params": {
@@ -10604,7 +10759,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Fitting back the new oil filter, without it first being &nbsp;primed is bad news. As the engine will be starved of lubrication during the critical few seconds, it will take before the oil filter is filled and is ready to begin circulating oil around the engine. A good method is to first add oil to the filter, it should hold about 250ml without any spillage when its being fitted back onto its horizontal location on the engine.&nbsp;</p>"
+          "text": "<p>Fitting back the new oil filter, without it first being &nbsp;primed is bad news. As the engine will be starved of lubrication during the critical few seconds, it will take before the oil filter is filled and is ready to begin circulating oil around the engine. A good method is to first add oil to the filter, and then &nbsp;rotate it several times by hand holding it at a slight angle, then top up again, it should hold about 250ml without any spillage when being fitted back to its location on the engine.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -10624,6 +10779,37 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>Then its a light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on. An option to use the oil filter wrench to tighten it up, is not a good idea, it could puncture the thin metal canister. Using a piece of folded 'coarse' sandpaper then hand pressure only, would be sufficient to tighten it. Oil is now added, around 4.5 litres, (on a dry engine) or slightly less on a normal fill.&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sk"
         },
         {
           "_inherit": "features4",
@@ -10654,7 +10840,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -10667,7 +10853,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -10680,7 +10866,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -10693,7 +10879,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -10706,7 +10892,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
@@ -10769,7 +10955,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3t4"
+          "_anchor": "features7-3sl"
         },
         {
           "_params": {
@@ -11181,6 +11367,37 @@
           "text2": "<p>Light Green/Grey -- 1.0 square mm - Rear Wiper Motor - wire 1</p><p>Brown/Green ------ 1.0 square mm - Rear Wiper Motor - wire 2</p><p>Red/Green ---------1.0 square mm - Rear Wiper Motor - wire 3</p><p>Red/Orange ------- 0.5 square mm - Number Plate Lamps - live wire</p><p>Green/Purple ----- 1.0 square mm - High Brake Light - live wire</p><p>Purple/Red -------- 1.0 square mm - Boot/Tailgate Door Switch.</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">MONITORING AND SAFETY FEATURES&nbsp;</span>",
+          "meta": "Created for the 1996 Rover 200 Series. And our 2004 ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3sq"
+        },
+        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -11209,7 +11426,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "caution",
               "family": "et-line",
               "active": true,
               "link": "coolsensor.html",
@@ -11222,7 +11439,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "satnav.html",
@@ -11235,7 +11452,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "audioremotes.html",
@@ -11248,7 +11465,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "camera",
               "family": "et-line",
               "active": true,
               "link": "dashcam.html",
@@ -11261,7 +11478,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "search",
+              "name": "lightbulb",
               "family": "et-line",
               "active": true,
               "link": "lightcheck.html",
