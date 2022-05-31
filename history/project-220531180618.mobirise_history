@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4976,
+    "uniqCompNum": 4952,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -338,7 +338,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
-          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead, helps to eliminate purge valve noise from inside the cabin.&nbsp;",
+          "text": "Shown located on top of the charcoal canister, that is fixed into a metal bracket containing an isolation rubber on the bulkhead, helps to eliminate purge valve noise from inside the cabin.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"purgevalve.html\" data-toolbar=\"-mbrBtnMove\">MORE...</a>",
           "_tags": [
             "Theme"
@@ -785,7 +785,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Information page concentrates specifically on the 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves and protects, contents vary between different models and years, and so should only be regarded as a basic reference guide.</p>"
+          "text": "<p>Information page concentrates specifically on the 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves and protects, contents vary between different models and years, and only be regarded as a reference, and not totally relied upon.</p>"
         },
         {
           "_tags": [
@@ -1017,24 +1017,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>What is the cable and connector shown across front of the fuse panel, which Ive been asked. This formed part of a project I was still working on a couple of winters ago, The fitting of driver and front passenger heated seats, which have since been completed. Never considered this for the Rover 200 with fabric seats, but for the MG, with its half leather ones, its been a good choice, and with a warm up time of only several seconds.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tq"
         },
         {
           "_tags": [
@@ -1767,7 +1749,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide.</p>"
+          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should be used, only as a reference.</p>"
         },
         {
           "_tags": [
@@ -1959,24 +1941,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tp"
         },
         {
           "_tags": [
@@ -2461,10 +2425,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2472,9 +2436,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-3u1"
+          "_anchor": "content1-3rj"
         },
         {
           "_tags": [
@@ -3047,24 +3014,6 @@
           "text": "<p>As a last resort tried and tested my old original PC99-X04 multi stalk adaptor specified for the Rover 200/400/800 which I had as a spare, this has worked perfectly, since being fitted a number of years ago, would have seemed fair to have had this option already added to the more superior MG, audio remotes are more convenient, and a good safety feature during driving.&nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tz"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -3515,24 +3464,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3ox"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u2"
         },
         {
           "_tags": [
@@ -4085,10 +4016,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
@@ -4096,9 +4027,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-3ts"
+          "_anchor": "content1-3rh"
         },
         {
           "_tags": [
@@ -4496,24 +4430,6 @@
           "text3": "<p>SAR - Whitehall Beige&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1997-1997</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">UME - Caribbean Blue&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1990-1996</span></p><p>UMG - Polynesian&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Turquoise met 92-95</span></p><p>UMQ - Caprice&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica metallic 94-96</span></p><p>UMQ - Biarritz Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1995-1996</span></p><p>UMQ - Teal Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 2002-2003</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ZGN - Blackberry&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1970-1970</span></p><p>ZGN - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1985-1992</span></p><p>ZGN - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1998-2001</span></p><p>ZGN - Mat Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2001-2002</span></p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u3"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -4902,24 +4818,6 @@
           "text": "<p>P.A.S Belts Unipart GMB 30755. Bosch 7880. Rotor Arm HRA529. Radiator Nissens 64209.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Top Radiator Hose PCH 115731. Sparkplugs Champion RC9YCC. NGK BKR6E 6962.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sump Gasket LVF 100290. Sump Bolt Washer CL UAM2857. Starter Motor Hella CS610-1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Throttle Position Sensor MHB 10144. Tailgate Wiring Loom YMN-101940. Thermostat Seal CDU3858.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Water Pump HWP 632. Washer Pumps Valeo 140796. Wiper Motor Rear Valeo 530 08-002.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Wiper Motor Front DLB-101380.</span></p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u5"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -5254,7 +5152,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
-          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition of the rubber, could well be a contributing factor on how annoying the audible purge valve noise can sound in the cabin.",
+          "text": "Shown located on top of the charcoal canister, that is fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition of the rubber, could well be a contributing factor on how annoying the audible purge valve noise can sound in the cabin.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -5292,24 +5190,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>The tapping sound given off by the purge valve, can initially be mistaken for sounding like the fuel injectors clicking, high tension leads arcing, or even the sound of a slack tappet giving an obvious cause for concern. The tapping on some purge valves, are nothing more than a nuisance, however they should just about be audible, only for short periods, but not consistant, as fumes are purged from the charcoal canister.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u4"
         },
         {
           "_tags": [
@@ -5756,24 +5636,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>To safeguard the above, usually doing up the fuel clamp holder's 8mm bolt the very last. prior to testing. the Halfords HFF-236 fuel filter that was used for this service, The new filter will need several seconds for it to prime on the very first start up of the engine, then a final check on the fuel pipe unions for any leaks, prior to a run out with now a much smoother ride and tickover.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tw"
         },
         {
           "_tags": [
@@ -6339,24 +6201,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u0"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -6810,10 +6654,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
@@ -6821,9 +6665,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-3tx"
+          "_anchor": "content1-3ri"
         },
         {
           "_tags": [
@@ -7252,24 +7099,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>The MG doesnt use any oil between each of its twice yearly oil and filter changes, so will always show my own preference of a tad just below the maximum mark. this method shown is for 'intermittent usage'.and taken only on a cold engine, and on level ground After checking for a correct oil level reading the vehicles original dipstick can then be returned back.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tu"
         },
         {
           "_tags": [
@@ -7740,20 +7569,23 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-3rf",
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
-          },
-          "_anchor": "content1-3tk"
+          }
         },
         {
           "_tags": [
@@ -8294,7 +8126,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
             "parallax": false,
@@ -8315,10 +8147,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
@@ -8326,9 +8158,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-3tm"
+          "_anchor": "content1-3rg"
         },
         {
           "_tags": [
@@ -8967,24 +8802,6 @@
           "text": "<p>The suspect area was directly around the rear passenger roof grab handle, a simple solution of using an hair dryer to heat up the bonding glue, while constantly smoothing out the affected area, worked so far. Although no signs of damp were evident, we took the choice of removing the exterior roof strip ( shown located ) cleaned out the channel, before applying silicone sealant. &nbsp; &nbsp;&nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tr"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -9377,24 +9194,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3r4"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u6"
         },
         {
           "_tags": [
@@ -10028,24 +9827,6 @@
           "text": "<p>Then its a light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on. An option to use the oil filter wrench to tighten it up, is not a good idea, it could puncture the thin metal canister. Using a piece of folded 'coarse' sandpaper then hand pressure only, would be sufficient to tighten it. Oil is now added, around 4.5 litres, (on a dry engine) or slightly less on a normal fill.&nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tt"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -10432,24 +10213,6 @@
           },
           "text1": "<p>Black ------------ 2.5 square mm - Heated Rear Window--earth wire</p><p>Black/Green ------ 2.5 square mm - Heated Rear Window--live wire</p><p>Orange ----------- 1.0 square mm - Central Door Locking - wire 1</p><p>Pink --------------- 1.0 square mm - Central Door Locking - wire 2&nbsp;</p><p>MK1 and MK2 except for 2004 MK2 onwards (wire 2 is a earth wire)</p>",
           "text2": "<p>Light Green/Grey -- 1.0 square mm - Rear Wiper Motor - wire 1</p><p>Brown/Green ------ 1.0 square mm - Rear Wiper Motor - wire 2</p><p>Red/Green ---------1.0 square mm - Rear Wiper Motor - wire 3</p><p>Red/Orange ------- 0.5 square mm - Number Plate Lamps - live wire</p><p>Green/Purple ----- 1.0 square mm - High Brake Light - live wire</p><p>Purple/Red -------- 1.0 square mm - Boot/Tailgate Door Switch.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3to"
         },
         {
           "_tags": [
@@ -10878,24 +10641,6 @@
             "bgColor": "#ffffff"
           },
           "text": "Bumper to wing are 4 x10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts not the easiest to remove, and will be corroded with the possibilty of having to replace them, along the bottom edge 3 x 10mm bolts in the middle with 6 cross head screws, 3 located at each corner, the leading edge are 5 x 10mm bolts."
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3ty"
         },
         {
           "_tags": [
@@ -11375,24 +11120,6 @@
           "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its re-circulating cooling process. Worth taking note that the temp gauge which usually shows a tad below half after commencing a drive, wont mean its the engines actual operating temperature.&nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tl"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -11819,24 +11546,6 @@
             "bgColor": "#fff"
           },
           "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown here is really much more straight foreward, having no distributor cap or a rotor arm to be concerned. Now comprising of 2 high tension leads, attached to 2 coil packs, each secured with 2 x 8mm bolts. NGK BKR6E 6962 sparkplugs. Leoni 2015 ignition leads, and Denso 100730 coil packs.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tn"
         },
         {
           "_tags": [
@@ -12340,22 +12049,22 @@
           "text": "<p>No more coolant loss since completing the above project. So what was the detection process We had been topping up the coolant every few weeks usually adding around 150ml, first option was a new coolant cap, due to the age of the vehicle. Then added a UV dye, this did not show any external leaks, engine oil, and oil filler cap, plus coolant tank were all good and not contaminated. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "font-size": "17px"
             }
           },
-          "_anchor": "content1-3tv"
+          "_anchor": "content1-3a2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>So we put it on hold, and carried on topping up the coolant. at a later stage on checking the sparkplug condition, we found number 1 plug to be lighter in colour compared to the other 3. so the LKJ 101110 inlet manifold gasket was sourced and fitted.....problem cured. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>"
         },
         {
           "_tags": [
@@ -12699,24 +12408,6 @@
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
           "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u7"
         },
         {
           "_tags": [
