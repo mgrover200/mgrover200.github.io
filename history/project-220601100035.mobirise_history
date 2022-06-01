@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -9258,11 +9258,38 @@
         },
         {
           "_params": {
+            "showText": false,
             "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0051-rover-200-gearbox-oil-change-1105x201.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "r65-gearbox-oil-change",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3r1"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. each one of the 17mm drain and filler bolts, require being tightened to 25Nm or 18lbf ft torque, or hand tight plus.</p>",
+          "text": "<p>If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt shown left, is going to be more difficult to remove. each one of the 17mm drain and filler bolts, require being tightened to 25Nm or 18lbf ft torque, or hand tight plus.</p>",
           "_tags": [
             "Theme"
           ],
@@ -9316,7 +9343,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0058%20rover%20gearbox%20oil-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0049-rover-gearbox-fill-500x200.jpg",
               "link": "",
               "alt": "rover65 gearbox",
               "title": "",
