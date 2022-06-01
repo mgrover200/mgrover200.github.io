@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gearboxoil.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4977,
+    "uniqCompNum": 4976,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -9270,6 +9270,27 @@
           "_anchor": "content1-3r2"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "23px",
+              "color": "#475577"
+            }
+          },
+          "_anchor": "msg-box5-31z",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -9277,12 +9298,12 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9295,9 +9316,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0044%20r65%20gearbox%20oil%20change-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0051-rover%2065-gearbox-oil-483x190.jpg",
               "link": "",
-              "alt": "rover 65 gearbox oil change",
+              "alt": "rover65 gearbox",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -9312,22 +9334,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">EASY NO MESS FILLING PROCEDURE</span>",
-          "text": "Our filling procedure, was to insert into the filler hole, a clear plastic tube attached to a base removed old redex container, with oil now running directly into gearbox, At the time bluecol antifreeze is shown as being used for the cooling system back in early 2004.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3u8",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px",
-              "color": "#475577"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\">EASY NONE MESSY FILLING</span>",
+          "text": "Our filling procedure, was to insert into the filler hole, a clear plastic tube attached to a base removed old redex container,  with oil now running directly into gearbox, At the time bluecol antifreeze is shown being used for the cooling system back in early 2004.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_params": {
