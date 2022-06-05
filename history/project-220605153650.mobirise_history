@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "fuelfilter.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4979,
+    "uniqCompNum": 4978,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -338,7 +338,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
-          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead. The purge valve is just clipped on, so can be changed if required.",
+          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead. The purge valve is just clipped on, so can easily be changed.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"purgevalve.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
           "_tags": [
             "Theme"
@@ -362,7 +362,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -382,10 +382,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0031-fuel-filter.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0032-fuel-filter-clamp.jpg",
               "link": "",
               "alt": "replacing the vehicles fuel filter on the 2004 ZR",
-              "title": "Removing the fuel filter from 2004 MG-ZR",
+              "title": "Vehicles bulkhead location of the fuel filter",
               "linkInNewWindow": false
             },
             "video": {
@@ -400,8 +400,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">REMOVING FUEL FILTER</span>",
-          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. Then an 8mm spanner for releasing the fuel filter from the bulkhead holding clamp.&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">REPLACING FUEL FILTER&nbsp;</span>",
+          "text": "Makes for a much easier and a safer working area with the charcoal canister placed out of the way, shown here with holding clamp ready to accept the new replacement fuel filter.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"fuelfilter.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
           "_tags": [
             "Theme"
@@ -409,7 +409,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-size": "20px"
             },
             "SPAN": {
@@ -419,11 +419,11 @@
               "font-size": "23px"
             },
             "P": {
-              "font-size": "17px",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "17px"
             }
           },
-          "_anchor": "msg-box5-3ua"
+          "_anchor": "msg-box5-3rk"
         },
         {
           "_params": {
@@ -5649,7 +5649,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">REMOVING FUEL FILTER</span>",
-          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. Then an 8mm spanner for releasing the fuel filter from the bulkhead holding clamp.&nbsp;",
+          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were used in conjunction, and then an 8mm spanner to release the fuel filter from the bulkhead holding clamp.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
