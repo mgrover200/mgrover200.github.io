@@ -4399,6 +4399,7 @@ section.form .container {
 
 
 
+
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4516,6 +4517,17 @@ section.form .container {
 }
 #testimonials3-34r .card-footer > div {
   color: #c1c1c1;
+}
+#form1-3ub .form-control-label {
+  color: #232323;
+}
+#form1-3ub .mbr-section-title {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#form1-3ub .mbr-section-title SPAN {
+  font-size: 46px;
 }
 #content1-3u7 P {
   text-align: center;
@@ -4765,6 +4777,9 @@ section.form .container {
 #header3-3or .mbr-section-title SPAN {
   font-size: 30px;
 }
+#header3-3or .mbr-section-subtitle {
+  color: #475577;
+}
 #header3-3op .mbr-section-title,
 #header3-3op .mbr-section-subtitle {
   text-align: center;
@@ -4776,6 +4791,9 @@ section.form .container {
 }
 #header3-3op .mbr-section-title SPAN {
   font-size: 30px;
+}
+#header3-3op .mbr-section-subtitle {
+  color: #475577;
 }
 #content1-3oq P {
   text-align: center;
