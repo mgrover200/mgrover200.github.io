@@ -1864,6 +1864,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1970,11 +1972,33 @@ section.form .container {
   text-align: left;
   font-size: 17px;
 }
+#header3-3ue .mbr-section-title,
+#header3-3ue .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3ue .mbr-section-title {
+  color: #475577;
+}
+#header3-3ue .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
 #content1-29g P {
   font-size: 16px;
 }
 #content1-29h P {
   font-size: 17px;
+}
+#header3-3uf .mbr-section-title,
+#header3-3uf .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3uf .mbr-section-title {
+  color: #475577;
+}
+#header3-3uf .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }
 #content1-29i P {
   font-size: 16px;
@@ -4651,6 +4675,7 @@ section.form .container {
 
 
 
+
 #ext_menu-3o3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4737,6 +4762,12 @@ section.form .container {
   color: #475577;
   font-size: 36px;
   font-family: 'Lora', serif;
+}
+#content1-3ud P {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  text-align: center;
 }
 #content1-3o7 P {
   text-align: center;
