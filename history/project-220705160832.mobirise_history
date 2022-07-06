@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "marcos.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4991,
+    "uniqCompNum": 4990,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -13510,7 +13510,7 @@
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13571,8 +13571,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "43",
-            "paddingTop": 0,
+            "imageSize": "40",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -13591,9 +13591,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0051-bernice-dutton-marcos-rally-june-1977-490x268.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0047-bernice-dutton-marcos-rally-june%201977-490x268.jpg",
               "link": "",
-              "alt": "Marcos rally 1977",
+              "alt": "bernice dutton marcos rally june 1977",
               "linkInNewWindow": false
             },
             "video": {
@@ -13608,22 +13608,20 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">MARCOS INTERNATIONAL RALLY JUNE 1977</span>",
+          "title": "<span style=\"font-weight: normal;\">MARCOS RALLY DONINGTON</span>",
           "text": "Shown here at Castle Donington leicestershire, after a drive down the M1 in convoy. When meeting up with several other marcos owners at the Wooley Edge services, just south of Wakefield during June 1977.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3um",
+          "_anchor": "msg-box5-3os",
           "_styles": {
             "H3": {
-              "color": "#475577"
-            },
-            "SPAN": {
               "font-size": "23px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#475577"
             }
           }
         },
