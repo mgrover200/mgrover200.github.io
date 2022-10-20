@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4996,
+    "uniqCompNum": 4995,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -503,7 +503,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -556,32 +556,26 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#7e9b9f"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            }
-          },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
           },
-          "title": "<span style=\"font-weight: normal;\">MONITORING AND OTHER FEATURES ROVER 200-ZR</span>",
-          "meta": "INSTALLED INTO THE 1996 ROVER 200 SERIES AND THE 2004 MG-ZR 120 PLUS",
+          "text": "<p><i>DRIVER ASSISTED FEATURES APPLIED TO OUR ROVER 200 and MG-ZR</i></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3ur"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3uq"
         },
         {
           "_params": {
@@ -591,7 +585,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -608,7 +602,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image01-286x190.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000000000-286x190.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -619,46 +613,34 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image03-286x190.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image02-286x190.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image05-286x190.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/image04-286x190.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media6": {
@@ -670,19 +652,19 @@
             }
           },
           "title1": "<span style=\"font-weight: normal;\"><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a></span>",
-          "subtitle1": "Installed on the Rover 200-ZR",
+          "subtitle1": "Applied to Rover 200-ZR",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\"><a href=\"audioremotes.html\" class=\"text-primary\">Audio Remote Controls</a></span>",
-          "subtitle2": "Applied to the 2004 ZR",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: normal;\"><a href=\"lightcheck.html\" class=\"text-primary\">Rear Lights Monitoring</a></span>",
-          "subtitle3": "Applied to the 2004 ZR",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: normal;\"><a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></span>",
-          "subtitle4": "Installed on the Rover 200-ZR&nbsp;",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: normal;\"><a href=\"dashcam.html\" class=\"text-primary\">Dashcam System</a></span>",
-          "subtitle5": "Dashcams on the MG-ZR",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
@@ -700,13 +682,25 @@
           "_anchor": "features3-3up",
           "_styles": {
             "H4": {
-              "color": "#90a878",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-info\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-info\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-info\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-info\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3th",
+          "_styles": {
+            "P": {
+              "text-align": "center"
             }
           }
         },

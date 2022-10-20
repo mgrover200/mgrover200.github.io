@@ -14,6 +14,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -609,8 +612,23 @@ section.form .container {
   font-size: 23px;
   font-family: 'Lora', serif;
 }
-#content1-3th P {
+#header3-3ur .mbr-section-title,
+#header3-3ur .mbr-section-subtitle {
   text-align: center;
+}
+#header3-3ur .mbr-section-title {
+  color: #7e9b9f;
+}
+#header3-3ur .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 30px;
+}
+#features3-3up H4 {
+  color: #90a878;
+  font-family: 'Lora', serif;
+}
+#features3-3up SPAN {
+  font-family: 'Lora', serif;
 }
 #footer1-2u2 P {
   color: #ffffff;
