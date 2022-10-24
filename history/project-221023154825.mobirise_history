@@ -304,7 +304,7 @@
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/white%20textured-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -347,7 +347,8 @@
           "_anchor": "msg-box5-3s3",
           "_styles": {
             "H3": {
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "center"
             },
             "SPAN": {
               "font-family": "'Lora', serif",
@@ -361,12 +362,12 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/white%20textured-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -410,7 +411,8 @@
           "_styles": {
             "H3": {
               "color": "#7e9b9f",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "center"
             },
             "SPAN": {
               "color": "#475577",
@@ -481,7 +483,8 @@
               "color": "#7e9b9f",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "center"
             },
             "SPAN": {
               "font-size": "23px",
@@ -500,7 +503,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -508,7 +511,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -551,7 +554,8 @@
               "color": "#475577",
               "font-size": "23px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           }
         },
@@ -561,19 +565,22 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f"
+              "color": "#475577"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "title": "<span style=\"font-weight: normal;\">MONITORING AND OTHER FEATURES ROVER 200-ZR</span>",
           "meta": "INSTALLED INTO THE 1996 ROVER 200 SERIES AND THE 2004 MG-ZR 120 PLUS",
@@ -594,10 +601,10 @@
             "paddingBottom": "2",
             "columns": "5",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1325.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9602,15 +9609,15 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
