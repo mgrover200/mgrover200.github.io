@@ -14,9 +14,6 @@
 
 
 
-
-
-
 body,
 input,
 textarea,
@@ -560,13 +557,16 @@ section.form .container {
   text-align: center;
 }
 #content1-3q4 DIV {
-  color: #475577;
+  color: #000000;
 }
 #content1-3qq P {
   color: #7e9b9f;
   font-family: 'Lora', serif;
   font-size: 20px;
   text-align: center;
+}
+#content1-3qq DIV {
+  color: #7e9b9f;
 }
 #content1-3bl P {
   text-align: center;
@@ -583,7 +583,7 @@ section.form .container {
   font-size: 23px;
 }
 #msg-box5-3ua H3 {
-  color: #7e9b9f;
+  color: #000000;
   font-size: 20px;
   text-align: center;
 }
@@ -597,7 +597,7 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-3rl H3 {
-  color: #7e9b9f;
+  color: #000000;
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
   text-align: center;
@@ -616,26 +616,8 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: center;
 }
-#header3-3ur .mbr-section-title,
-#header3-3ur .mbr-section-subtitle {
+#content1-3vm P {
   text-align: center;
-}
-#header3-3ur .mbr-section-title {
-  color: #475577;
-}
-#header3-3ur .mbr-section-title SPAN {
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#header3-3ur .mbr-section-subtitle {
-  color: #000000;
-}
-#features3-3up H4 {
-  color: #90a878;
-  font-family: 'Lora', serif;
-}
-#features3-3up SPAN {
-  font-family: 'Lora', serif;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -909,13 +891,16 @@ section.form .container {
   text-align: center;
 }
 #content1-3pt DIV {
-  color: #475577;
+  color: #000000;
 }
 #content1-3is P {
   color: #7e9b9f;
   font-family: 'Lora', serif;
   font-size: 20px;
   text-align: center;
+}
+#content1-3is DIV {
+  color: #000000;
 }
 #content1-3c6 P {
   text-align: center;
@@ -952,7 +937,7 @@ section.form .container {
 #content1-22c P {
   font-size: 17px;
 }
-#content1-3ti P {
+#content1-3uy P {
   text-align: center;
 }
 #footer1-2u2 P {
@@ -1893,9 +1878,6 @@ section.form .container {
 }
 #content7-1m2 DIV {
   font-size: 17px;
-}
-#content1-3u3 P {
-  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;
@@ -2995,7 +2977,7 @@ section.form .container {
 #msg-box8-1nh .lead P {
   color: #000000;
 }
-#content1-3tk P {
+#content1-3ux P {
   text-align: center;
 }
 #footer1-2u2 P {
@@ -4598,9 +4580,6 @@ section.form .container {
 }
 #form1-3ub .mbr-section-title SPAN {
   font-size: 46px;
-}
-#content1-3u7 P {
-  text-align: center;
 }
 #footer1-34h P {
   color: #ffffff;
