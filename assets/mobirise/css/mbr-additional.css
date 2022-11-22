@@ -2667,11 +2667,17 @@ section.form .container {
 #content1-1w2 P {
   font-size: 17px;
 }
-#content1-3a9 P {
+#header3-3wq .mbr-section-title,
+#header3-3wq .mbr-section-subtitle {
   text-align: center;
-  color: #475577;
-  font-size: 30px;
+}
+#header3-3wq .mbr-section-title {
   font-family: 'Lora', serif;
+  font-size: 30px;
+  color: #475577;
+}
+#header3-3wq .mbr-section-subtitle {
+  color: #475577;
 }
 #msg-box5-397 H3 {
   color: #475577;
