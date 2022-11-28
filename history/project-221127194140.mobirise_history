@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5082,
+    "uniqCompNum": 5081,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -324,7 +324,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0043-mg-purge-valve-500x200.jpg",
-              "link": "purgevalve.html",
+              "link": "",
               "alt": "rover-purge-valve",
               "linkInNewWindow": false
             },
@@ -351,7 +351,7 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "font-family": "'Lora', serif",
@@ -365,7 +365,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -387,7 +387,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0057-fuel-fiter-replacement-mgzr-500x200.jpg",
-              "link": "fuelfilter.html",
+              "link": "",
               "alt": "replacing the vehicles fuel filter on the ZR",
               "title": "Removing the fuel filter from 2004 MG-ZR",
               "linkInNewWindow": false
@@ -415,7 +415,7 @@
             "H3": {
               "color": "#000000",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "color": "#475577",
@@ -457,7 +457,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0033-emissions-test.jpg",
-              "link": "emissions.html",
+              "link": "",
               "alt": "A basic emissions check, rover 200/25/zr",
               "title": "Emissions test, being carried out on the MG",
               "linkInNewWindow": false
@@ -487,7 +487,7 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "font-size": "23px",
@@ -506,7 +506,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -528,7 +528,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0054-oil-sump-rover-200-500x200.jpg",
-              "link": "oilsump.html",
+              "link": "",
               "alt": "0054-oil-sump-rover-200.JPG",
               "linkInNewWindow": false
             },
@@ -558,7 +558,7 @@
               "font-size": "23px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
+              "text-align": "center"
             },
             "P": {
               "text-align": "left"

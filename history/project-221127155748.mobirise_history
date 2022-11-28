@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5082,
+    "uniqCompNum": 5079,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -299,6 +299,124 @@
         },
         {
           "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01%20coolant%20level%20sensor%20mg%20rover-366x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "coolsensor.html",
+              "alt": "01 coolant level sensor mg rover"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/02%20cabin%20heater%20matrix%20valve-366x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "cabinheater.html",
+              "alt": "02 cabin heater matrix valve"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03%20cooling%20system%20200%2025%20zr-366x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "coolsystem.html",
+              "alt": "03 cooling system 200 25 ZR"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "COOLANT LEVEL SENSOR",
+          "subtitle1": "LOW COOLANT WARNING",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "CABIN HEATER MATRIX VALVE",
+          "subtitle2": "SAAB C900 UNIT",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "COOLING SYSTEM",
+          "subtitle3": "COOLANT FLOW ROUTE",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3x2",
+          "_styles": {
+            "H4": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -324,7 +442,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0043-mg-purge-valve-500x200.jpg",
-              "link": "purgevalve.html",
+              "link": "",
               "alt": "rover-purge-valve",
               "linkInNewWindow": false
             },
@@ -351,7 +469,7 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "font-family": "'Lora', serif",
@@ -365,7 +483,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -387,7 +505,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0057-fuel-fiter-replacement-mgzr-500x200.jpg",
-              "link": "fuelfilter.html",
+              "link": "",
               "alt": "replacing the vehicles fuel filter on the ZR",
               "title": "Removing the fuel filter from 2004 MG-ZR",
               "linkInNewWindow": false
@@ -415,7 +533,7 @@
             "H3": {
               "color": "#000000",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "color": "#475577",
@@ -457,7 +575,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0033-emissions-test.jpg",
-              "link": "emissions.html",
+              "link": "",
               "alt": "A basic emissions check, rover 200/25/zr",
               "title": "Emissions test, being carried out on the MG",
               "linkInNewWindow": false
@@ -487,7 +605,7 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "font-size": "23px",
@@ -506,7 +624,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -528,7 +646,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0054-oil-sump-rover-200-500x200.jpg",
-              "link": "oilsump.html",
+              "link": "",
               "alt": "0054-oil-sump-rover-200.JPG",
               "linkInNewWindow": false
             },
@@ -558,7 +676,7 @@
               "font-size": "23px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
+              "text-align": "center"
             },
             "P": {
               "text-align": "left"
