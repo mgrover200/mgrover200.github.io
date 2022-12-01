@@ -12,8 +12,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -582,19 +580,9 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 23px;
 }
-#msg-box5-3ua H3 {
-  color: #000000;
-  font-size: 20px;
-  text-align: left;
-}
-#msg-box5-3ua SPAN {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 23px;
-}
-#msg-box5-3ua P {
-  font-size: 17px;
-  text-align: left;
+#msg-box8-3x8 .mbr-section-title,
+#msg-box8-3x8 .lead {
+  color: #fff;
 }
 #msg-box5-3rl H3 {
   color: #000000;
@@ -609,14 +597,6 @@ section.form .container {
 }
 #msg-box5-3rl P {
   font-size: 17px;
-}
-#msg-box5-3uo H3 {
-  color: #475577;
-  font-size: 23px;
-  font-family: 'Lora', serif;
-  text-align: left;
-}
-#msg-box5-3uo P {
   text-align: left;
 }
 #content1-3vm P {
