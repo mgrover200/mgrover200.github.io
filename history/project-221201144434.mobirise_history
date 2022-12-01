@@ -256,7 +256,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p><i>SERVICES AND MAINTENANCE ON OUR 1996 ROVER 200 and 04 MG-ZR</i></p>",
+          "text": "<p><i>SERVICES AND MAINTENANCE ON OUR ROVER 200 and MG-ZR</i></p>",
           "_tags": [
             "Theme"
           ],
@@ -301,7 +301,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "1",
@@ -341,8 +341,8 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
-          "text": "Shown located on top of the charcoal canister, fixed inside a metal bracket located on the bulkhead. The valve is&nbsp; just clipped onto the top. So can easily be changed for another unit if required.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"purgevalve.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
+          "text": "Shown located on top of the charcoal canister, fixed inside a metal bracket, located on the bulkhead, with purge valve just clipped onto the top. So can be changed if required. <i><a href=\"purgevalve.html\" class=\"text-success\">More Info.</a></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"purgevalve.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
           "_tags": [
             "Theme"
           ],
@@ -381,9 +381,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#90a878",
-            "overlayOpacity": "0.1"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -398,8 +398,8 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "inverse": false,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -439,8 +439,8 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">EMISSIONS CHECK 2004 ZR&nbsp;</span>",
-          "text": "Not all emissions tests are going to be successful, a short drive to the testing station is just one of them, the engine may be hot, but wont be at its fully working, and operating temperature.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"emissions.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
+          "text": "Not all emissions tests are going to be successful, a short drive to the testing station is just one of them, the engine may be hot, but wont be at its fully working, and operating temperature. <a href=\"emissions.html\" class=\"text-primary\">More Info.&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"emissions.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO...</a>",
           "_tags": [
             "Theme"
           ],
