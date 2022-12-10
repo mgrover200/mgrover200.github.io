@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5091,
+    "uniqCompNum": 5090,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -6399,38 +6399,31 @@
           "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 16gb micro cards we have installed in the cameras, have a combined eight hours recording time before being over written. Which are sufficient to review any incidents en-route. Or to just capture this now very rare. 1971 Marcos 3 litre V6.&nbsp;</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0060-marcos-3-litre-1105x296.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/marcos-car-1600x600.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3xe"
+          "_name": "image2",
+          "_anchor": "image2-3wp"
         },
         {
           "_styles": {
@@ -6449,7 +6442,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
+            "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -6491,7 +6484,7 @@
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
