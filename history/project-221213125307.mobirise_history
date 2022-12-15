@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ignitionswitch.html",
+    "currentPage": "oilsump.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -8245,7 +8245,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel (not the switch) is factory secured with shear bolts, and does not need to be removed during this process.</p>"
+          "text": "<p>To remove the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel is factory secured with shear bolts, and does not need to be removed at any during any part of the process.</p>"
         },
         {
           "_tags": [
@@ -8342,10 +8342,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8382,8 +8382,26 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH REMOVAL</span>",
-          "text": "At this stage, switch removed from key barrel, then detached from the multi-connector. Prior to it being carefully dis-assembled.&nbsp;",
+          "text": "At this stage, the switch can be removed from the key barrel and then detached from the multi-connector. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-1np",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges, helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</span></p>"
         },
         {
           "_tags": [
@@ -8424,7 +8442,7 @@
           "_anchor": "content1-37l",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p>Ignition switch shown below after being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care and attention, the only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide selector.</p>"
@@ -8441,11 +8459,29 @@
           },
           "_anchor": "content1-37m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions thats being selected, to achieve this, lower part of the rotor has corresponding grooves and slots which will open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents under the collar of the rotor.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-37n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
         },
         {
           "_styles": {
@@ -8466,7 +8502,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -8480,42 +8516,6 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-37n",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-1np",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges, helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</span></p>"
         },
         {
           "_params": {
