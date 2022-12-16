@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cabinheater.html",
+    "currentPage": "inletmanifold.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5089,
+    "uniqCompNum": 5092,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -40,7 +40,7 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "tbronpbbey",
+    "mbrsiteDomain": "hcefr08xq3",
     "publishChangesOnly": true,
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -134,7 +134,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -153,9 +153,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rover%2020025zr-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "",
+              "alt": "mg-rover-logo",
               "link": "",
               "title": "",
               "linkInNewWindow": false
@@ -208,10 +208,10 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -276,6 +276,12 @@
           "_anchor": "content1-3qq"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -289,13 +295,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3bl",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-3xd"
         },
         {
           "_params": {
@@ -357,6 +357,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px"
+            },
+            "P": {
+              "color": "#232323"
             }
           }
         },
@@ -582,7 +585,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -601,17 +604,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -652,11 +658,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1104,7 +1110,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -1123,10 +1129,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoo-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1178,11 +1184,11 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1567,7 +1573,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -1586,17 +1592,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -1637,11 +1646,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2049,7 +2058,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -2068,17 +2077,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -2119,11 +2131,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2547,7 +2559,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -2566,17 +2578,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -2617,11 +2632,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3135,7 +3150,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -3154,17 +3169,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -3203,11 +3221,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3709,7 +3727,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -3728,17 +3746,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -3777,11 +3798,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4275,7 +4296,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -4294,17 +4315,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -4343,11 +4367,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4670,7 +4694,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -4689,17 +4713,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -4738,11 +4765,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5132,7 +5159,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5151,17 +5178,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -5200,11 +5230,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5524,7 +5554,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5543,17 +5573,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -5592,11 +5625,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5988,7 +6021,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -6007,17 +6040,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -6057,11 +6093,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -6363,31 +6399,38 @@
           "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 16gb micro cards we have installed in the cameras, have a combined eight hours recording time before being over written. Which are sufficient to review any incidents en-route. Or to just capture this now very rare. 1971 Marcos 3 litre V6.&nbsp;</p>"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0060-marcos-3-litre-1105x296.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/marcos-car-1600x600.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-3wp"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3xe"
         },
         {
           "_styles": {
@@ -6406,7 +6449,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -6448,7 +6491,7 @@
             "inverse": true,
             "imageSize": "50",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6603,7 +6646,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -6622,17 +6665,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -6671,11 +6717,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7072,7 +7118,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -7091,17 +7137,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -7141,11 +7190,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7518,7 +7567,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1yl",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -7537,21 +7586,75 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adnl</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#cccccc"
+            },
+            ".lead": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "color": "#cccccc"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "font-size": "36px",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2bi",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<span style=\"font-weight: normal;\">MG ROVER INFORMATION PAGES</span>",
+          "text": "SERVICES AND MAINTENANCE ROVER 200 25 ZR",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_params": {
@@ -7951,7 +8054,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2b3",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -7970,17 +8073,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -8019,11 +8125,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8139,7 +8245,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>To remove the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel is factory secured with shear bolts, and does not need to be removed at any during any part of the process.</p>"
+          "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel (not the switch) is factory secured with shear bolts, and does not need to be removed during this process.</p>"
         },
         {
           "_tags": [
@@ -8236,10 +8342,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8276,26 +8382,8 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH REMOVAL</span>",
-          "text": "At this stage, the switch can be removed from the key barrel and then detached from the multi-connector. &nbsp;",
+          "text": "At this stage, switch removed from key barrel, then detached from the multi-connector. Prior to it being carefully dis-assembled.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-1np",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges, helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</span></p>"
         },
         {
           "_tags": [
@@ -8336,7 +8424,7 @@
           "_anchor": "content1-37l",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "text": "<p>Ignition switch shown below after being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care and attention, the only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide selector.</p>"
@@ -8353,29 +8441,11 @@
           },
           "_anchor": "content1-37m",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
           "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions thats being selected, to achieve this, lower part of the rotor has corresponding grooves and slots which will open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents under the collar of the rotor.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-37n",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
         },
         {
           "_styles": {
@@ -8396,7 +8466,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -8410,6 +8480,42 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-37n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-1np",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges, helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</span></p>"
         },
         {
           "_params": {
@@ -8526,7 +8632,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2lh",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8545,17 +8651,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -8594,11 +8703,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9044,7 +9153,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">ISSUES WITH HEADLINING</span>",
-          "text": "This problem recently affected our 18 year old vehicle, could be age related, most probably the bonding drying out over a period of time, vehicle interior is going to look shabby if not sorted.",
+          "text": "This problem recently affected our 18 year old vehicle, could be age related, most probably the bonding drying out over a period of time.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -9064,6 +9173,69 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>The suspect area was directly around the rear passenger roof grab handle, a simple solution of using an hair dryer to heat up the bonding glue, while constantly smoothing out the affected area, worked so far. Although no signs of damp were evident, we took the choice of removing the exterior roof strip ( shown located ) cleaned out the channel, before applying silicone sealant. &nbsp; &nbsp;&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0054-headliner-spray-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">MORE ON THE HEADLINING</span>",
+          "text": "Bonding old glue did not work, Our next option, adding an extension hose to the spray can, with a 360 degree spray pattern, then inserted into lowest part of where it sags after making a fine slit in roof lining.&nbsp; &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3xf",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px",
+              "color": "#475577"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -9180,7 +9352,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-31e",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9199,17 +9371,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -9248,11 +9423,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9556,7 +9731,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-31p",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9575,17 +9750,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -9624,11 +9802,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10205,7 +10383,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-320",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -10224,17 +10402,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -10273,11 +10454,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10611,7 +10792,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-32c",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -10630,17 +10811,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -10679,11 +10863,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11117,7 +11301,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-32n",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -11136,17 +11320,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mgbadge-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -11185,11 +11372,11 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11615,7 +11802,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-334",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -11634,17 +11821,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -11683,11 +11873,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12061,7 +12251,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-33f",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -12080,17 +12270,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -12129,11 +12322,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12336,7 +12529,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>During removal of the inlet manifold, the underside nuts would have normally been difficult to get at, With throttle body removed it was made easier also givng a better reach in access, especially to each of the lower 13mm nuts, 3 on the top and 4 on the bottom.</p>"
+          "text": "<p>During removal of the inlet manifold, the underside nuts would have normally been difficult to get at, With throttle body removed it was made easier, giving a much better reach in access, especially for the 4 difficult bottom 13mm nuts, for the top 3 nuts we just used a ring spanner.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -12580,7 +12773,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-349",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -12599,17 +12792,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -12648,11 +12844,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12989,7 +13185,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-3k7",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -13008,17 +13204,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -13057,11 +13256,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -13287,7 +13486,7 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -13306,17 +13505,20 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/Ken%20Stott/AppData/Local/Mobirise.com/Mobirise/projectData/mgbadge-1_1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
+              "alt": "mg-rover-logo",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -13355,11 +13557,11 @@
             "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
