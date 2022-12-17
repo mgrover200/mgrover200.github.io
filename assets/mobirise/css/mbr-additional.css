@@ -1435,7 +1435,6 @@ section.form .container {
 
 
 
-
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1549,6 +1548,10 @@ section.form .container {
 #content1-394 P {
   font-size: 17px;
 }
+#msg-box8-3wm .mbr-section-title,
+#msg-box8-3wm .lead {
+  color: #fff;
+}
 #header3-3na .mbr-section-title,
 #header3-3na .mbr-section-subtitle {
   text-align: center;
@@ -1558,22 +1561,13 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 36px;
 }
-#msg-box5-3uk H3 {
+#header3-3na .mbr-section-subtitle {
+  font-size: 18px;
+}
+#msg-box5-3xi H3 {
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 22px;
-}
-#msg-box5-3uk P {
-  text-align: left;
-}
-#msg-box5-3ul H3 {
-  font-family: 'Lora', serif;
-  font-size: 22px;
-  color: #475577;
-}
-#msg-box8-3wm .mbr-section-title,
-#msg-box8-3wm .lead {
-  color: #fff;
 }
 #content1-3u2 P {
   text-align: center;

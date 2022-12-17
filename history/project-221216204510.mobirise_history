@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "satnav.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -3431,40 +3431,6 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/059-simonstone-1600x618.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3wm"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
@@ -3475,17 +3441,17 @@
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "font-size": "18px"
+              "font-size": "20px"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "2",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "<span style=\"font-weight: normal;\">PREVIOUS NAVIGATION 2006 - 2008</span>",
-          "meta": "FITTED TO OUR 1996 ROVER 200 SERIES&nbsp;",
+          "meta": "GARMIN STREET PILOT i3&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -3535,8 +3501,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">GARMIN STREET PILOT i3</span>",
-          "text": "During 2006 we fitted this very reliable little unit, which was in regular use for the next couple of years. But soon became dated, using the thumb wheel selector, the fitting was adapted for quick release.",
+          "title": "<span style=\"font-weight: normal;\">2006 GARMIN STREET PILOT i3</span>",
+          "text": "During mid 2006 we fitted the street pilot i3 a very reliable little unit, which was in regular use for the next couple of years. Although soon became dated, with a thumb wheel select process. The fitting shown was for a quick release.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3551,6 +3517,40 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/059-simonstone-1600x618.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3wm"
         },
         {
           "_params": {
