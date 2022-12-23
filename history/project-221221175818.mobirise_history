@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5144,
+    "uniqCompNum": 5117,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -226,18 +226,18 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
+              "color": "#475577",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "MAINTENANCE OF THE 1996 ROVER 200/2004 MG-ZR",
+          "meta": "Services and Maintenance 1996 Rover 200 / 2004 MG-ZR",
           "_tags": [
             "Theme"
           ],
@@ -248,7 +248,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
@@ -604,34 +604,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "CABIN FUSE BOX IDENTIFICATION FOR THE 2004 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yc"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q0"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>CABIN FUSE BOX IDENTIFICATION FOR THE 2004 ZR&nbsp;</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3q1"
         },
         {
           "_tags": [
@@ -1124,8 +1141,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
+              "color": "#475577",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -1135,7 +1152,7 @@
             "bgColor": "#ffffff"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "COOLANT SENSOR WARNING OF A COOLANT LOSS",
+          "meta": "Audible Notification of a Possible Coolant Loss 200/ZR",
           "_tags": [
             "Theme"
           ],
@@ -1558,34 +1575,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "ENGINE FUSE BOX IDENTIFICATION IN THE 2004 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yb"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3pz"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3iv",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>ENGINE FUSE BOX IDENTIFICATION IN THE 2004 ZR&nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -2026,34 +2060,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "INSTANT NOTIFICATION OF A BLOWN REAR BULB ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yo"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qd"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3aw",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>INSTANT NOTIFICATION OF A BLOWN REAR BULB ZR</i></p>"
         },
         {
           "_tags": [
@@ -2510,34 +2561,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "AUDIO REMOTES NOW ADDED TO THE 2004 MG-ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3ym"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qb"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3au",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>AUDIO REMOTES NOW ADDED TO THE 2004 MG-ZR</i></p>"
         },
         {
           "_tags": [
@@ -3082,34 +3150,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "SECURITY FITTED NAVIGATION SYSTEM ROVER 200/ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yp"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qe"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3ax",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>VENT FITTED NAVIGATION SYSTEM ROVER 200 / ZR</i></p>"
         },
         {
           "_tags": [
@@ -3582,34 +3667,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "OIL SUMP CLEANING ON THE 1996 ROVER 200 SERIES",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3ye"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q3"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3d0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>OIL SUMP CLEAN OUT THE 1996 ROVER 200 SERIES&nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -4134,34 +4236,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "MG-ROVER COLOUR CODES LIST FROM 1963 TO 2005",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yq"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qf"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3ay",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>MG-ROVER COLOUR CODES LIST FROM 1963 TO 2005</i></p>"
         },
         {
           "_tags": [
@@ -4515,34 +4634,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "SELECTED PARTS LISTING AND SPANNER SIZES 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3ys"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qh"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3az",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>SELECTED PARTS LIST PLUS TOOL SIZES 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -4963,34 +5099,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "PURGE VALVE AND HOW IT WORKS ROVER 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yr"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qg"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3b1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>PURGE VALVE AND HOW IT WORKS ROVER 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -5341,34 +5494,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "REPLACEMENT FUEL FILTER BEING FITTED 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yj"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q8"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3ar",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>REPLACEMENT FUEL FILTER BEING FITTED 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -5792,34 +5962,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "FRONT AND REAR DUAL ACTIVATED DASH CAMS ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yn"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qc"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3iz",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>FRONT AND REAR DUAL ACTIVATED DASH CAMS ZR</i></p>"
         },
         {
           "_tags": [
@@ -6399,34 +6586,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "EMISSIONS TEST INCLUDING ANNUAL M.O.T 2004 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yk"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q9"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3as",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>EMISSIONS INCLUDING THE ANNUAL TEST 2004 ZR</i></p>"
         },
         {
           "_tags": [
@@ -6855,34 +7059,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "PRECISE OIL LEVEL CHECK DURING INITIAL SERVICE",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yh"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q6"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3iy",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>PRECISE OIL LEVEL CHECK DURING INITIAL SERVICE &nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -7287,34 +7508,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "A GOOD HEATER IS ESSENTIAL IN WINTER MONTHS",
+          "text": "<p><b><i>MG-ROVER INFORMATION PAGES</i></b></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3y6"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3pu"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3it",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>A GOOD HEATER IN WINTER MONTHS IS ESSENTIAL&nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -7756,34 +7994,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "YXB-100350 IGNITION SWITCH FOR ROVER 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3y8"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3pw"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3hj",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>YXB-100350 IGNITION SWITCH FOR ROVER 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -8317,34 +8572,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "VARIOUS SUNROOF RELATED ARTICLES FOR 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yd"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q2"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3am",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>VARIOUS SUNROOF RELATED ARTICLES FOR 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -9020,34 +9292,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "OIL CHANGE ON THE 1996&nbsp; ROVER 200 R.65 GEARBOX",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yt"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qi"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3b0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>AN OIL CHANGE ON THE ROVER 200 R.65 GEARBOX</i></p>"
         },
         {
           "_tags": [
@@ -9382,34 +9671,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "TORQUE TIGHTENING SEQUENCE ROVER 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yg"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q5"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3ix",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>TORQUE TIGHTENING SEQUENCE ROVER 200 25 ZR&nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -10017,34 +10323,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "YMN-101940 TAILGATE WIRING LOOM FOR 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3ya"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3py"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3hl",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>YMN-101940 TAILGATE WIRING LOOM FOR 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -10409,34 +10732,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "TWIN HORNS REPLACE THE SINGLE HORN 2004 MG-ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yl"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qa"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3at",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>TWIN HORNS REPLACE THE SINGLE HORN 2004 MG-ZR</i></p>"
         },
         {
           "_tags": [
@@ -10901,34 +11241,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "HOW COOLANT CIRCULATES AROUND THE ENGINE&nbsp;",
+          "text": "<p><b><i>MG-ROVER INFORMATION PAGES</i></b></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3y7"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3pv"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3iu",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>HOW DOES IT FLOW AND WHICH WAY DOES IT GO</i></p>"
         },
         {
           "_tags": [
@@ -11385,34 +11742,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "IGNITION LEADS FITTING GUIDE FOR THE 200 25 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3y9"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3px"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3hk",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>IGNITION LEADS FITTING GUIDE FOR THE 200 25 ZR</i></p>"
         },
         {
           "_tags": [
@@ -11583,7 +11957,7 @@
             "showText": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
@@ -11817,34 +12191,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "FITTING INLET MANIFOLD GASKET ON THE 2004 ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yi"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3q7"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3aq",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>FITTING A NEW MANIFOLD GASKET ON THE 2004 ZR</i></p>"
         },
         {
           "_tags": [
@@ -12282,34 +12673,51 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "COMMENTS ABOUT OUR 1996 ROVER 200/2004 MG-ZR",
+          "text": "<p>MG-ROVER INFORMATION PAGES</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yu"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-3qj"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3j4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>INFORMATION ABOUT OUR 1996 ROVER 200/2004 ZR</i></p>"
         },
         {
           "_tags": [
@@ -12979,34 +13387,48 @@
           "_anchor": "msg-box8-3o4"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
+            "P": {
+              "text-align": "center",
               "color": "#475577",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "19px"
             }
           },
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "title": "<i>1971 MARCOS 3 LITRE FORD V6&nbsp;</i>",
-          "meta": "LOOKING BACK TO THE 1971 MARCOS 3 LITRE V6",
+          "text": "<p>1971 MARCOS 3 LITRE FORD V6</p>",
+          "_anchor": "content1-3o5"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><i>LOOKING BACK TO THE MARCOS 3 LITRE V6</i></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3yv"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3ud"
         },
         {
           "_tags": [
