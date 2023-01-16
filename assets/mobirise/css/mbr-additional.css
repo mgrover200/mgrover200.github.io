@@ -1229,7 +1229,6 @@ section.form .container {
 
 
 
-
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1349,36 +1348,11 @@ section.form .container {
   text-align: left;
   font-size: 17px;
 }
-#header3-40v .mbr-section-title,
-#header3-40v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-40v .mbr-section-title {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#header3-40v .mbr-section-title SPAN {
-  font-size: 32px;
-}
 #content1-1ln P {
   font-size: 17px;
 }
 #content1-360 P {
   font-size: 17px;
-}
-#msg-box5-411 P {
-  text-align: left;
-  font-size: 17px;
-}
-#msg-box5-411 H3 {
-  color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 20px;
-}
-#msg-box5-411 SPAN {
-  font-size: 21px;
-  color: #475577;
 }
 #header3-412 .mbr-section-title,
 #header3-412 .mbr-section-subtitle {
@@ -1390,7 +1364,7 @@ section.form .container {
   font-size: 30px;
 }
 #header3-412 .mbr-section-title SPAN {
-  font-size: 32px;
+  font-size: 30px;
 }
 #content1-1lo P {
   font-size: 17px;
@@ -1403,8 +1377,18 @@ section.form .container {
 #content1-361 P {
   font-size: 17px;
 }
-#content1-2kx P {
+#msg-box5-416 P {
+  text-align: left;
   font-size: 17px;
+}
+#msg-box5-416 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#msg-box5-416 SPAN {
+  font-size: 21px;
+  color: #475577;
 }
 #content1-3tz P {
   text-align: center;
