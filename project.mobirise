@@ -1747,30 +1747,6 @@
           "_anchor": "image2-41z"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>ENGINE FUSE BOX CONTENTS AND INFORMATION</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-41y",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          }
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1792,12 +1768,12 @@
           },
           "_anchor": "msg-box5-3b3",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1894,7 +1870,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -1937,7 +1913,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">FUSES AND RELAYS 2004 MG-ZR</span>",
-          "text": "Fuse box contents which are shown here,. may vary due to production year and model, and so may even contain more or less than the items which is actually featured in this section.",
+          "text": "The different types of fuses, which are shown here as an example, may vary due to production year and model, and so may even contain more or less than the items which are actually included in the fuse box.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
