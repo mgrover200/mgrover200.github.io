@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5372,
+    "uniqCompNum": 5367,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -270,17 +270,18 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#efefef",
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": 4,
+            "paddingBottom": 2,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -291,44 +292,44 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0085-mg-rover-coolant-tank-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0076-mgrover-ignition-leads-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "linkInNewWindow": false,
-              "link": "coolsensor.html",
-              "alt": ""
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0086-matrix-valve-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0073-rover-oil-sump-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "cabinheater.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0087-coolant-elbow-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0074-torque-settings-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "coolsystem.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0088-zr-multi-connector-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0075-purge-valve-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "inletmanifold.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -349,47 +350,57 @@
               "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor 200/MG</i></span>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\"><i>Cold Cabin Heater MG</i></span>",
-          "subtitle2": "On the 2004 MG-ZR 120",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: normal;\"><i>K Series Coolant Circulation&nbsp;</i></span>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket MG</i></span>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title1": "Ignition Leads",
+          "subtitle1": "Fitting Sequence 200-25-ZR",
+          "caption1": "The ignition leads set up in the 2004 ZR is more straight forward, having no distributor cap or a rotor arm to be concerned with.&nbsp;",
+          "title2": "Cleaning Oil Sump",
+          "subtitle2": "1996 Rover 200 Series",
+          "caption2": "Sump now cleaned, and with new gasket, ready to go back onto the 200, then filled with oil and new oil filter&nbsp; prior to a run.",
+          "title3": "Torque Settings",
+          "subtitle3": "Engine Torque Settings",
+          "caption3": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with sealant applied.",
+          "title4": "Charcoal Canister&nbsp;",
+          "subtitle4": "Changing Purge Valve&nbsp;&nbsp;",
+          "caption4": "Shown located on top of the charcoal canister, the canister is fixed into a metal bracket containing an isolation rubber on the bulkhead.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"oilsump.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"torque.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-455",
+          "_name": "features1",
+          "_anchor": "features1-3y0",
           "_styles": {
-            "H4": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#475577"
             }
           }
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
@@ -438,7 +449,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-456"
+          "_anchor": "image2-450"
         },
         {
           "_params": {

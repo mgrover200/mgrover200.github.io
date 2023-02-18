@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -563,20 +564,9 @@ section.form .container {
   font-size: 22px;
   color: #7e9b9f;
 }
-#features1-3y0 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #efefef;
-}
-#features1-3y0 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #000000;
-}
-#features1-3y0 .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
-}
-#features1-3y0 .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #000000;
-}
-#features1-3y0 .mbr-cards-col:nth-child(odd) .card-subtitle {
+#features3-455 H4 {
   color: #475577;
+  font-family: 'Lora', serif;
 }
 #content1-3vm P {
   text-align: center;
