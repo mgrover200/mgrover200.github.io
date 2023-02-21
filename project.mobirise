@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5410,
+    "uniqCompNum": 5430,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,29 +268,168 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p>Welcome to our Rover/ZR site pages, neither of&nbsp; them contain heavy footed or go faster stripes. but mainly concerned with driver and safety features, from 1998 we first installed a security fitted navigation system into our 1996 Rover 200 Series. which was then subsequently fitted into our 2004 MG-ZR 120 plus at a much later date. Our pages include fitting of basic service items, fault finding, parts information etc, along with other interesting features.&nbsp; &nbsp;<i> &nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-469",
+          "_anchor": "content1-46s",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#444444"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/000000-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0000-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
+          "subtitle1": "Fitting sequence 200/25/ZR",
+          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown here is really more straight foreward, having no distributor cap or a rotor arm.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cold heater 2004 ZR</i></span>",
+          "subtitle2": "Middle of winter with a cold heater&nbsp;",
+          "caption2": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor</i></span>",
+          "subtitle3": "As applied to the 200/ZR",
+          "caption3": "Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
+          "subtitle4": "An option for bench work",
+          "caption4": "Prior to fitting a new manifold gasket LKJ 101110 no sealant is required, the unit was cleaned internally, needs a good clean area for fuel and air mix.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"inletmanifold.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-46r",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#475577"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
             }
           }
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
@@ -312,7 +451,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-434"
+          "_anchor": "image2-46t"
         },
         {
           "_params": {
@@ -339,7 +478,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-465"
+          "_anchor": "image2-46i"
         },
         {
           "_params": {
