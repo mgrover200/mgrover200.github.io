@@ -299,7 +299,7 @@
             "columnsColor": "#efefef",
             "paddingTop": "1",
             "paddingBottom": "2",
-            "columns": "5",
+            "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -315,40 +315,37 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0071-rover-ignition-leads-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000000-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "alt": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0072-mg-rover-matrix-valve-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "alt": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0073-mg-rover-coolant-tank-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "alt": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0074-rover-inlet-manifold-gasket-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0000-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -359,13 +356,10 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0075-satellite-navigation-mg-rover-300x200.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media6": {
@@ -388,9 +382,9 @@
           "title4": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
           "subtitle4": "An option for bench work",
           "caption4": "Prior to fitting a new manifold gasket LKJ 101110 no sealant is required, the unit was cleaned internally, needs a good clean area for fuel and air mix.",
-          "title5": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
-          "subtitle5": "Shown fitted in Rover 200&nbsp;",
-          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -398,7 +392,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"inletmanifold.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
