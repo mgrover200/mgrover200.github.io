@@ -565,26 +565,29 @@ section.form .container {
   font-size: 22px;
   color: #7e9b9f;
 }
-#features1-46r .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #efefef;
+#content1-46y P {
+  font-size: 18px;
 }
-#features1-46r .mbr-cards-col:nth-child(odd) .card-title {
+#features1-478 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-478 .mbr-cards-col:nth-child(odd) .card-title {
   color: #475577;
   font-family: 'Lora', serif;
 }
-#features1-46r .mbr-cards-col:nth-child(odd) .card-text {
+#features1-478 .mbr-cards-col:nth-child(odd) .card-text {
   color: #000000;
 }
-#features1-46r .mbr-cards-col:nth-child(odd) .card-subtitle {
+#features1-478 .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #000000;
 }
-#features1-46r .mbr-cards-col:nth-child(even) .card-title {
+#features1-478 .mbr-cards-col:nth-child(even) .card-title {
   color: #475577;
 }
-#features1-46r .mbr-cards-col:nth-child(even) .card-title SPAN {
+#features1-478 .mbr-cards-col:nth-child(even) .card-title SPAN {
   font-family: 'Lora', serif;
 }
-#features1-46r .mbr-cards-col:nth-child(even) .card-subtitle {
+#features1-478 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #000000;
 }
 #content1-3vm P {
@@ -901,10 +904,10 @@ section.form .container {
   color: #475577;
   font-family: 'Lora', serif;
   font-size: 23px;
-  text-align: left;
+  text-align: right;
 }
 #msg-box5-3j6 P {
-  text-align: left;
+  text-align: right;
 }
 #content1-1tr P {
   font-size: 17px;

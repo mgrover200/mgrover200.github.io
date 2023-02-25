@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5430,
+    "uniqCompNum": 5437,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -269,25 +269,15 @@
         {
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Welcome to our Rover/ZR site pages, neither of&nbsp; them contain heavy footed or go faster stripes. but mainly concerned with driver and safety features, from 1998 we first installed a security fitted navigation system into our 1996 Rover 200 Series. which was then subsequently fitted into our 2004 MG-ZR 120 plus at a much later date. Our pages include fitting of basic service items, fault finding, parts information etc, along with other interesting features.&nbsp; &nbsp;<i> &nbsp;</i></p>",
+          "text": "<p><i>MG-Rover Information Pages: includes a multitude of information in regards to both our Rover 200/ZR. over many years from the 1990's. some included are. Cooling system, Torque settings, Ignition system, Fuel system, Colour codes, Parts guide, Oil sump....and many more features.&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-46s",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#444444"
-            }
-          }
+          "_anchor": "content1-46y"
         },
         {
           "_params": {
@@ -297,7 +287,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#efefef",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "columns": "5",
             "bgImageRadio": false,
@@ -315,7 +305,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/000000-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0071-rover-ignition-leads-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1327,7 +1317,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert. soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark..&nbsp;</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1365,7 +1355,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3717,6 +3707,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zy"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-46z"
         },
         {
           "_params": {

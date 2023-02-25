@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5430,
+    "uniqCompNum": 5446,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -269,25 +269,15 @@
         {
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Welcome to our Rover/ZR site pages, neither of&nbsp; them contain heavy footed or go faster stripes. but mainly concerned with Driver and Safety features, Back in 1998 we first installed a security fitted navigation system into our 1996 Rover 200 Series. which was subsequently fitted into our 2004 ZR 120 plus at a much later date. Our pages feature the fitting of basic service items, fault finding, some parts information etc, along with some other features.&nbsp; &nbsp;<i> &nbsp;</i></p>",
+          "text": "<p><i>MG-Rover Information Pages: includes a multitude of information in regards to both our Rover 200/ZR. over many years from the 1990's. some included are. Cooling system, Torque settings, Ignition system, Fuel system, Colour codes, Parts guide, Oil sump etc plus more features.&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-46s",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#444444"
-            }
-          }
+          "_anchor": "content1-46y"
         },
         {
           "_params": {
@@ -296,10 +286,10 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "columnsColor": "#efefef",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "columns": 4,
+            "columnsColor": "#ffffff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -315,37 +305,40 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/000000-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0071-rover-ignition-leads-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": ""
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0072-mg-rover-matrix-valve-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": ""
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0073-mg-rover-coolant-tank-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": ""
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0000-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0076-satellite-navigation-mg-rover-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -356,10 +349,13 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0075-satellite-navigation-mg-rover-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
           "media6": {
@@ -372,36 +368,35 @@
           },
           "title1": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
           "subtitle1": "Fitting sequence 200/25/ZR",
-          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown here is really much more straight foreward, having no distributor cap or a rotor arm.",
+          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown here is really more straight foreward, having no distributor cap or a rotor arm.",
           "title2": "<span style=\"font-weight: normal;\"><i>Cold heater 2004 ZR</i></span>",
           "subtitle2": "Middle of winter with a cold heater&nbsp;",
           "caption2": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
           "title3": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor</i></span>",
           "subtitle3": "As applied to the 200/ZR",
-          "caption3": "Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free.",
-          "title4": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
-          "subtitle4": "An option for bench work",
-          "caption4": "Prior to fitting a new manifold gasket LKJ 101110 no sealant is required, the unit was cleaned internally, needs a good clean area for fuel and air mix.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption3": "Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
+          "subtitle4": "Fitted into the 200/ZR",
+          "caption4": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
+          "title5": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
+          "subtitle5": "Shown fitted in Rover 200&nbsp;",
+          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"inletmanifold.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-46r",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#efefef"
+              "background-color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#475577",
@@ -424,7 +419,8 @@
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "features1-478"
         },
         {
           "_params": {
@@ -1321,7 +1317,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert. soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark..&nbsp;</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1359,7 +1355,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1411,10 +1407,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px",
-              "text-align": "left"
+              "text-align": "right"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_anchor": "msg-box5-3j6",
@@ -1422,7 +1418,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -3711,6 +3707,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zy"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-46z"
         },
         {
           "_params": {

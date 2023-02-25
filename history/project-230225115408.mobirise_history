@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5399,
+    "uniqCompNum": 5446,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,32 +268,169 @@
         },
         {
           "_params": {
-            "showText": false
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0089-hoylandswaine-1400x495.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<p><i>MG-Rover Information Pages: includes a multitude of information in regards to both our Rover 200/ZR. over many years from the 1990's. some included are. Cooling system, Torque settings, Ignition system, Fuel system, Colour codes, Parts guide, Oil sump and other info.&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-45h"
+          "_name": "content1",
+          "_anchor": "content1-46y",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0077-rover-ignition-leads-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0072-mg-rover-matrix-valve-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0078-mg-rover-coolant-tank-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0076-satellite-navigation-mg-rover-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0075-satellite-navigation-mg-rover-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
+          "subtitle1": "Fitting sequence 200/25/ZR",
+          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown here is really more straight foreward, having no distributor cap or a rotor arm.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cold heater 2004 ZR</i></span>",
+          "subtitle2": "Middle of winter with a cold heater&nbsp;",
+          "caption2": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor</i></span>",
+          "subtitle3": "As applied to the 200/ZR",
+          "caption3": "Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
+          "subtitle4": "Installed into the 200/ZR",
+          "caption4": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
+          "title5": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
+          "subtitle5": "Shown fitted in Rover 200&nbsp;",
+          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#475577"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features1-478"
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
@@ -315,7 +452,34 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-434"
+          "_anchor": "image2-46t"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-46i"
         },
         {
           "_params": {
@@ -543,7 +707,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "CABIN FUSE BOX IDENTIFICATION FOR THE 2004 ZR",
@@ -571,36 +735,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44b"
         },
         {
           "_tags": [
@@ -616,7 +753,7 @@
           },
           "_anchor": "content1-d5",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
@@ -636,7 +773,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px"
@@ -686,7 +823,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FUSE'S IN A LISTED ORDER&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUSE'S IN A LISTED ORDER&nbsp;</i></span>",
           "text": "<b>Left Column:</b> 9 headlamp washers 20amp. 8 electric sunroof 30amp. 7 electric window RH front 20amp. 6 electric window LH front 20amp. 5 interior / boot light, audio unit, clock 10amp. 4 electric window LH rear 20amp. 3 cig lighter / power socket 10amp. 2 electric window RH rear 20amp. 1 horn, rear fog lights 20amp.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -746,7 +883,7 @@
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "23px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -795,7 +932,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FUSE'S AND RELAYS</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUSE'S AND RELAYS</i></span>",
           "text": "Relay 1 Window Lift Front. Relay 2 Window Lift Rear. Relay 3 Rear Wiper. Relay 4 Seat Heat. Relay 5 Window Lift Isolate. Relay 6 Alarm Sounder Relay 7 Sunroof. Relay 8 DLR",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -879,6 +1016,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zn"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-461"
         },
         {
           "_params": {
@@ -1158,7 +1322,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert. soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark..&nbsp;</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1171,11 +1335,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
               "color": "#475577",
-              "text-align": "center"
+              "text-align": "left"
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "23px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -1196,7 +1360,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1233,7 +1397,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">COOLANT TANK RPCF000160&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT TANK RPCF000160&nbsp;</i></span>",
           "text": "To install this feature the cooling system did not need to be drained off, just the coolant tank syphoned out, removed then replaced with the new one, coolant can then be poured back into the new tank",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1248,10 +1412,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px",
-              "text-align": "center"
+              "text-align": "right"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_anchor": "msg-box5-3j6",
@@ -1259,7 +1423,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -1616,7 +1780,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "ENGINE FUSE BOX IDENTIFICATION 2004 MG-ZR",
@@ -1644,36 +1808,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44a"
         },
         {
           "_tags": [
@@ -1689,7 +1826,7 @@
           },
           "_anchor": "content1-cg",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -1711,13 +1848,13 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
           "_anchor": "msg-box5-3b3",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1759,7 +1896,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE FUSE BOX</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE FUSE BOX</i></span>",
           "text": "F1 Engine management system, automatic transmission selector, speedo 10amp (red) <br>F2 Engine management system, fuel pump 20amp (yellow) <br>F3 Engine management glowplug relay 10amp (red) <br>F4 Aircon relay, cooling fan relay 10amp (red).",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1819,7 +1956,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -1861,7 +1998,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FUSES AND RELAYS 2004 MG-ZR</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUSES AND RELAYS 2004 MG-ZR</i></span>",
           "text": "The different types of fuses, which are shown here as an example, may vary due to production year and model, and so may even contain more or less than the items which are actually included in the fuse box.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1880,7 +2017,7 @@
               "text-align": "left"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
@@ -1912,6 +2049,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zm"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-460"
         },
         {
           "_params": {
@@ -2818,7 +2982,7 @@
               "font-size": "30px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -2827,7 +2991,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">ACCESS TO THE ROTARY COUPLER MG-ZR</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ACCESS TO THE ROTARY COUPLER MG-ZR</i></span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -3551,6 +3715,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-46z"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -3772,7 +3963,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "OIL SUMP CLEANING ON THE 1996 ROVER 200 SERIES",
@@ -3800,36 +3991,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44d"
         },
         {
           "_tags": [
@@ -3844,7 +4008,7 @@
           },
           "_anchor": "content1-pd",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -3864,7 +4028,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -3915,7 +4079,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE OIL SUMP CONDITION</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE OIL SUMP CONDITION</i></span>",
           "text": "With sump removed years of tarnished oil is evident, using scraper wire wool, turps and old rags, sump was cleaned and dried. regular oil changes, wont always keep the sump clean,",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -3936,7 +4100,7 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
@@ -3984,7 +4148,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">OIL STRAINER PICK UP</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>OIL STRAINER PICK UP</i></span>",
           "text": "Engine oil strainer pick up pipe, is located to sit below the oil level, to supply and circulate oil around the engine, tip of the old yellow plastic dipstick can be seen. &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -4020,7 +4184,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -4072,7 +4236,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">LVF-100290 SUMP GASKET</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>LVF-100290 SUMP GASKET</i></span>",
           "text": "Sump now cleaned, and with new gasket, ready to go back onto the 200, then filled with oil and with new oil filter fitted, prior to a run out. With fresh oil now being supplied to the engine.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -6359,6 +6523,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -6367,7 +6534,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">MOBIUS DUAL DASHCAM SYSTEM 2014</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>MOBIUS DUAL DASHCAM SYSTEM 2014</i></span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -6527,6 +6694,9 @@
             },
             ".mbr-section-subtitle": {
               "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -6535,8 +6705,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">EARLIER INSTALLATION 2011 TO 2013</span>",
-          "meta": "LOWER SCREEN MOUNTED CAMCORDER 2011 TO 2013",
+          "title": "<span style=\"font-weight: normal;\"><i>EARLIER INSTALLATION 2011 TO 2013</i></span>",
+          "meta": "LOW SCREEN MOUNTED CAMCORDER 2011 TO 2013",
           "_tags": [
             "Theme"
           ],
@@ -7373,7 +7543,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "PRECISE OIL LEVEL CHECK DURING INITIAL SERVICE",
@@ -7401,36 +7571,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44f"
         },
         {
           "_tags": [
@@ -7446,7 +7589,7 @@
           },
           "_anchor": "content1-36g",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -7466,7 +7609,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -7517,7 +7660,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CALIBRATED DIPSTICK</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CALIBRATED DIPSTICK</i></span>",
           "text": "To solve this problem, came up with the idea of using a semi rigid plastic tube, one from an old waxoyl kit was just ideal for this. After the tube has been marked up for a correct depth of insert, including each high and low oil level reading marks.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -7535,7 +7678,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -7586,7 +7729,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">PRECISE OIL LEVEL READING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PRECISE OIL LEVEL READING</i></span>",
           "text": "On a 'cold engine' with vehicle on level ground, the tube is inserted into dipstick tube, after a few seconds thumb pressure is then applied to hold a vacuum while being withdrawn to give a positive and much clearer view of the oil level reading.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -7634,6 +7777,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zr"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-464"
         },
         {
           "_params": {
@@ -7918,13 +8088,13 @@
             "H3": {
               "color": "#7e9b9f",
               "font-size": "20px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "SPAN": {
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -7975,7 +8145,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">HEATER MATRIX VALVE&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>HEATER MATRIX VALVE</i>&nbsp;</span>",
           "text": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old. and will benefit from having new hoses..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -8438,7 +8608,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -8489,7 +8659,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">DIAL SURROUND REMOVED</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>DIAL SURROUND REMOVED</i></span>",
           "text": "With this removed it helped in gaining better access to the 2 small cross head screws which holds ignition switch to the the key barrel.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -8507,7 +8677,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -8558,7 +8728,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH REMOVAL</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>IGNITION SWITCH REMOVAL</i></span>",
           "text": "At this stage, switch removed from key barrel, then detached from the multi-connector. Prior to it being carefully dis-assembled.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -8571,7 +8741,7 @@
             "P": {
               "text-align": "center",
               "color": "#475577",
-              "font-size": "36px",
+              "font-size": "30px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -8582,7 +8752,7 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<p>YXB-100350 INSIDE VIEW&nbsp;</p>"
+          "text": "<p><i>YXB-100350 INSIDE VIEW&nbsp;</i></p>"
         },
         {
           "_tags": [
@@ -8971,7 +9141,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "VARIOUS SUNROOF RELATED ARTICLES FOR 200 25 ZR",
@@ -8999,36 +9169,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44c"
         },
         {
           "_tags": [
@@ -9048,7 +9191,7 @@
           },
           "_anchor": "content1-2lk",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -9068,7 +9211,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px",
@@ -9120,7 +9263,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SEDEMENT IN DRAINAGE TUBE</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>SEDEMENT IN DRAINAGE TUBE</i></span>",
           "text": "A length of plastic coated curtain wire broke it down while pushing through, wire wont go the full length in the lower section, pulling back the wheel arch liner will give much easier access, as shown below.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9167,7 +9310,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SHOWING A GOOD RESULT</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>SHOWING A GOOD RESULT</i></span>",
           "text": "Plastic coated wire appearing from behind the wheel arch liner, after being pushed all the way through, the now cleared drainage tube. And the resulting water injection test, showing a clear run off.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9184,6 +9327,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -9238,7 +9384,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -9289,7 +9435,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SUNROOF PANEL REMOVAL</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>SUNROOF PANEL REMOVAL</i></span>",
           "text": "Sunroof panel tilted, showing one side of the 6 bolts before removal, with panel removed and waiting for the new seal to bond, mechanism was treated to a coating of copper ease. &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9345,7 +9491,7 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
@@ -9393,7 +9539,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ISSUES WITH HEADLINING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ISSUES WITH HEADLINING</i></span>",
           "text": "This problem recently affected our 18 year old vehicle, could be age related, most probably the bonding drying out over a period of time.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9458,7 +9604,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">MORE ON THE HEADLINING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>MORE ON THE HEADLINING</i></span>",
           "text": "Bonding old glue did not work, Our next option, adding an extension hose to a bonding glue spray can with a 360 degree spray pattern, and inserted into a fine razor cut, at the lowest part where it sags.&nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9475,6 +9621,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -9504,6 +9653,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zp"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-462"
         },
         {
           "_params": {
@@ -10148,7 +10324,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "TORQUE TIGHTENING SEQUENCE ROVER 200 25 ZR",
@@ -10176,36 +10352,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-44e"
         },
         {
           "_tags": [
@@ -10222,7 +10371,7 @@
           },
           "_anchor": "content1-31t",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
@@ -10242,7 +10391,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -10293,7 +10442,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CYLINDER HEAD TIGHTENING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CYLINDER HEAD TIGHTENING</i></span>",
           "text": "Stage (1) 20Nm or 15 lbf ft Stage (2) angle tighten through 180 degrees. Stage (3) angle tighten finally through another 180 degrees. Cylinder head gasket used was LVB-0000320.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -10312,7 +10461,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -10363,7 +10512,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">CAM CARRIER TIGHTENING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CAM CARRIER TIGHTENING</i></span>",
           "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with silicone sealant applied, engine top cover was then fitted back with the 15 x 8mm bolts, torqued in sequence to 9Nm or 6lb ft.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -10383,7 +10532,7 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
@@ -10431,7 +10580,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE COVER TIGHTENING</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE COVER TIGHTENING</i></span>",
           "text": "Prior to fitting the cam or engine top cover this required a new cam cover gasket fitted, this goes on dry with no sealant added, but needs to be fitted the correct way round its already marked up. Cam cover gasket LDR-102000 was used for this project.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -10466,6 +10615,9 @@
             },
             ".mbr-section-title": {
               "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -10479,7 +10631,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "title": "<span style=\"font-weight: normal;\">OIL FILTER FITTING INFORMATION</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>OIL FILTER FITTING INFORMATION</i></span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -10495,7 +10647,7 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             },
             "P": {
@@ -10546,7 +10698,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FITTING PART NUMBER LPW-100181 &nbsp;&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FITTING PART NUMBER LPW-100181 &nbsp;&nbsp;</i></span>",
           "text": "Oil filter we used at this time, was the LPW-100181 a few suppliers may include a sump plug washer. Draper OFW-100 is used during<br>filter removal process. <br><br>. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -10613,6 +10765,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zq"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-463"
         },
         {
           "_params": {
@@ -10837,7 +11016,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "YMN-101940 TAILGATE WIRING LOOM FOR 200 25 ZR",
@@ -10865,36 +11044,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#efefef"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Russian</a></p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-449"
         },
         {
           "_tags": [
@@ -10914,7 +11066,7 @@
           },
           "_anchor": "content1-324",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
@@ -10934,7 +11086,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px",
@@ -10985,7 +11137,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">TAILGATE WIRING LOOM</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>TAILGATE WIRING LOOM</i></span>",
           "text": "Wires inside the sleeve constantly fold over each other each time the tailgate is in use, so will fray and eventually break, damaged wires will create electrical problems, soldering a couple of broken wires is not a problem, if beyond repairing a replacement loom is a better option.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -11003,6 +11155,9 @@
             "SPAN": {
               "font-size": "30px",
               "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -11016,7 +11171,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "title": "<span style=\"font-weight: normal;\">WIRE COLOURS AND THEIR FUNCTIONS</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>WIRE COLOURS AND THEIR FUNCTIONS</i></span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -11059,6 +11214,33 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3zl"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0081-mg-page-image-938x110.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-45z"
         },
         {
           "_params": {
@@ -11901,13 +12083,13 @@
             "H3": {
               "color": "#7e9b9f",
               "font-size": "20px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "SPAN": {
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px",
@@ -11958,7 +12140,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">COOLANT ELBOW LOCATION&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW LOCATION&nbsp;</i></span>",
           "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -12008,10 +12190,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "right"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "color": "#475577"
             },
             "P": {
@@ -12062,7 +12244,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">HEATER MATRIX VALVE</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>HEATER MATRIX VALVE</i></span>",
           "text": "As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -12446,7 +12628,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -12497,7 +12679,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">PLUG LEADS ROVER 200</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PLUG LEADS ROVER 200</i></span>",
           "text": "Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing, number 1 lead inserted at the top, number 3 goes to the left, number 4 goes to the bottom, and number 2 to the right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -12545,7 +12727,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">COILPACKS AND FITTING SEQUENCE MG-ZR</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COILPACKS AND FITTING SEQUENCE MG-ZR</i></span>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
