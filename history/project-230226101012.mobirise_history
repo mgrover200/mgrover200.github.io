@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5459,
+    "uniqCompNum": 5450,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -267,10 +267,44 @@
           "_anchor": "content1-3xd"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x566.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.2"
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-47b"
+        },
+        {
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#fff"
           },
           "text": "<p><i>MG-Rover Information Pages: includes a multitude of information in regards to both our Rover 200/ZR. over many years from the 1990's. some included are. Cooling system, Torque settings, Ignition system, Fuel system, Colour codes, Parts guide, Oil sump and other info.&nbsp;&nbsp;</i></p>",
           "_tags": [
@@ -282,7 +316,7 @@
               "font-size": "18px"
             }
           },
-          "_anchor": "content1-47e"
+          "_anchor": "content1-47d"
         },
         {
           "_params": {
@@ -292,7 +326,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#ffffff",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
@@ -321,11 +355,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0079-rover-purge-valve-300x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0072-mg-rover-matrix-valve-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "purgevalve.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -374,9 +408,9 @@
           "title1": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
           "subtitle1": "Fitting sequence 200/25/ZR",
           "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown here is really more straight foreward, having no distributor cap or a rotor arm.",
-          "title2": "<span style=\"font-weight: normal;\"><i>Purge Valve</i></span>",
-          "subtitle2": "Helps with controlling emissions",
-          "caption2": "Shown located on top of the charcoal canister, the canister is fixed into a metal bracket containing an isolation rubber on the bulkhead.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cold heater 2004 ZR</i></span>",
+          "subtitle2": "Middle of winter with a cold heater&nbsp;",
+          "caption2": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
           "title3": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor</i></span>",
           "subtitle3": "As applied to the 200/ZR",
           "caption3": "Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free.",
@@ -389,10 +423,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
