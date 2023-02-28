@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsystem.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5472,
+    "uniqCompNum": 5489,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -265,24 +265,6 @@
             }
           },
           "_anchor": "content1-3xd"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><i>MG-Rover Information Pages: includes a multitude of information in regards to both our Rover 200/ZR. over many years from the 1990's. some included are. Cooling system, Torque settings, Ignition system, Fuel system, Colour codes, Parts guide, Oil sump and other info.&nbsp;&nbsp;</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content1-47u"
         },
         {
           "_params": {
@@ -1325,35 +1307,6 @@
           "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.&nbsp;</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "20px",
-              "color": "#475577",
-              "text-align": "left"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-size": "20px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "P": {
-              "font-size": "17px",
-              "text-align": "left"
-            },
-            "I": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px"
-            }
-          },
-          "_anchor": "msg-box5-1pb",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -1399,31 +1352,43 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>COOLANT TANK RPCF000160&nbsp;</i></span>",
           "text": "To install this feature the cooling system did not need to be drained off, just the coolant tank syphoned out, removed then replaced with the new one, coolant can then be poured back into the new tank",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "20px",
               "color": "#475577",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px",
-              "text-align": "right"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "P": {
-              "text-align": "right"
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px"
             }
           },
-          "_anchor": "msg-box5-3j6",
+          "_anchor": "msg-box5-485"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -1463,7 +1428,24 @@
           },
           "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR OPTIONS</span>",
           "text": "Shows the coolant tank sensor RPCJ000040 along with the two optional warning modules, a dashboard bulb, and a piezo buzzer. either one of these two options can be fitted..&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-486"
         },
         {
           "_tags": [
@@ -1499,7 +1481,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out along with other routine vehicle checks and servicing This feature incorporates a manual activation mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.</p>"
+          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.</p>"
         },
         {
           "_params": {
@@ -8179,7 +8161,7 @@
           },
           "_anchor": "content1-35w",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -12076,67 +12058,63 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0085-rover-cooling-system-1024x213.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0086-rover-cooling-system-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW LOCATION</i></span>",
+          "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-47v"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><i style=\"\">COOLANT ELBOW LOCATION K SERIES ENGINE and the SAAB C900 HEATER MATRIX VALVE</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-47w",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-48a",
           "_styles": {
-            "P": {
+            "H3": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "color": "#475577"
+              "font-size": "20px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-47x"
         },
         {
           "_tags": [
@@ -12150,7 +12128,7 @@
           },
           "_anchor": "content1-32t",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
@@ -12176,16 +12154,63 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "text": "<p>As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0087-heater-matrix-valve-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>CABIN HEATER MATRIX VALVE</i></span>",
+          "text": "As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-47y"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-48e",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "color": "#475577"
+            }
+          }
         },
         {
           "_tags": [
