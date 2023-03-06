@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5526,
+    "uniqCompNum": 5523,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -9856,6 +9856,30 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><i>&nbsp; &nbsp; &nbsp;GB News&nbsp; &nbsp;Reform Party</i>&nbsp; &nbsp;<i>An Páirtí Náisiúnta</i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-49e",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
             "showText": false,
             "paddingTop": "2",
             "paddingBottom": "0",
@@ -9907,24 +9931,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-45y"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-49h"
         },
         {
           "_params": {
