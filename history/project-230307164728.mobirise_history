@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "headlining.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5512,
+    "uniqCompNum": 5537,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -462,6 +462,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-46i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49j"
         },
         {
           "_params": {
@@ -1536,6 +1554,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-451"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49i"
         },
         {
           "_params": {
@@ -5057,6 +5093,30 @@
           "_anchor": "image2-45x"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>MG-ROVER SPANNER AND PARTS GUIDE</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "content1-49b"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -8288,6 +8348,24 @@
         {
           "_params": {
             "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
@@ -8577,142 +8655,44 @@
           "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel (not the switch) is factory secured with shear bolts, and does not need to be removed during this process.</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-1zp",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0090-mg-rover-ignition-switch-1004x188.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/007-yxb.jpg",
               "link": "",
-              "alt": "Replacing the YXB-100350 Ignition Switch",
-              "title": "YXB-100350 ignition switch",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>DIAL SURROUND REMOVED</i></span>",
-          "text": "With this removed it helped in gaining better access to the 2 small cross head screws which holds ignition switch to the the key barrel.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-49r"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>With the covers removed it helped in gaining better access to the 2 small cross head screws which holds ignition switch to the the key barrel. At this stage, shows ignition switch removed, then detached from the multi-connector. Prior to it being carefully dis-assembled.&nbsp;&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-1zq",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/009-ignition-switch-500x200.jpg",
-              "link": "",
-              "alt": "Replacing the YXB-100350 Ignition Switch",
-              "title": " YXB-100350 ignition switch Rover 200/25/ZR",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>IGNITION SWITCH REMOVAL</i></span>",
-          "text": "At this stage, switch removed from key barrel, then detached from the multi-connector. Prior to it being carefully dis-assembled.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "_name": "content1",
+          "_anchor": "content1-49s"
         },
         {
           "_tags": [
@@ -8777,6 +8757,24 @@
           "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions thats being selected, to achieve this, lower part of the rotor has corresponding grooves and slots which will open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents under the collar of the rotor.</p>"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-49p"
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -8820,27 +8818,9 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-37n",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
           "_anchor": "content1-1np",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
@@ -8899,6 +8879,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-45n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49m"
         },
         {
           "_params": {
@@ -9394,6 +9392,24 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Annoyance of a sagging roof lining, how we fixed it.&nbsp;<a href=\"headlining.html\" class=\"text-primary\">READ MORE</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-494",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
             "showText": false,
             "paddingTop": "2",
             "paddingBottom": "0",
@@ -9865,6 +9881,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-45y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49h"
         },
         {
           "_params": {
@@ -12101,6 +12135,24 @@
         {
           "_params": {
             "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
@@ -12583,6 +12635,24 @@
           ],
           "_name": "image2",
           "_anchor": "image2-45o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-49n"
         },
         {
           "_params": {
@@ -14680,7 +14750,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>SEDEMENT IN DRAINAGE TUBE</i></span>",
-          "text": "<i>Although no signs of damp were evident, we took the choice of removing exterior roof strip, cleaned out the channel and applied a touch of silicone sealant.</i>",
+          "text": "<i>Although no signs of damp were evident, we took the choice of removing the roof strip, cleaned out the channel and then applied silicone sealant around the area (shown here).</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box5-48r"
         },
@@ -14690,7 +14760,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, and appeared alright, but only for a short period of time, as we expected We now needed to look at other low cost ways to solve this issue.&nbsp;</p>",
+          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, appeared alright, but only for a short period of time, as we probably expected. We now needed to look at any other low cost ways to solve this issue.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -14764,7 +14834,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>SUNROOF PANEL REMOVAL</i></span>",
-          "text": "<i> Our next option, adding an extension hose to a bonding spray can with 360 degree spray pattern, and inserted into a fine razor cut, at the lowest part where the lining sags.</i>",
+          "text": "<i> Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box5-48u"
         },
@@ -14774,7 +14844,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove any associated interior trim to to gain access to actually remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
+          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove any of the associated interior trim to to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
