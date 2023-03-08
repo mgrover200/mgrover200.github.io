@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "satnav.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5559,
+    "uniqCompNum": 5554,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -4901,24 +4901,6 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4ab"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
@@ -5404,24 +5386,6 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4ad"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
@@ -5850,24 +5814,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-45v"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4ac"
         },
         {
           "_params": {
@@ -12769,7 +12715,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>H.T LEADS 1996 ROVER 200</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PLUG LEADS ROVER 200</i></span>",
           "text": "Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing, number 1 lead inserted at the top, number 3 goes to the left, number 4 goes to the bottom, and number 2 to the right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -12792,66 +12738,73 @@
           "text": "Cylinder firing order of the K16 engine is 1-3-4-2 number one cylinder is at the cambelt end, and viewed from left to right looking at the engine while standing directly at the front of the vehicle. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm."
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3jc",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>COILPACKS AND FITTING SEQUENCE MG-ZR</i></span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3jb",
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0052-plug-leads-mgzr-1109x200.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0092-mg-zr-ignition-leads-500x200.jpg",
               "link": "",
-              "alt": "mg-zr ignition leads and coil packs",
-              "linkInNewWindow": false
+              "alt": "",
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>H.T LEADS 2004 MG-ZR</i></span>",
-          "text": "The ignition leads and the coil pack set up in the 2004 ZR shown here, comprising of Leoni high tension leads, Denso 100730 coil packs, the sparkplugs we always use are NGK BKR6E 6962.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-4ae",
-          "_styles": {
-            "H3": {
-              "color": "#475577"
-            },
-            "SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            }
-          }
+          "_name": "content1",
+          "_anchor": "content1-3jd",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown here is really much more straight foreward, having no distributor cap or a rotor arm to be concerned. Now comprising of 2 high tension leads, attached to 2 coil packs, each secured with 2 x 8mm bolts. NGK BKR6E 6962 sparkplugs. Leoni 2015 ignition leads, and Denso 100730 coil packs.</p>"
         },
         {
           "_params": {
