@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "satnav.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5587,
+    "uniqCompNum": 5581,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -754,7 +754,7 @@
           },
           "_anchor": "msg-box5-2mo",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -863,7 +863,7 @@
           },
           "_anchor": "msg-box5-1o2",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1809,7 +1809,7 @@
           },
           "_anchor": "msg-box5-3b3",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1911,7 +1911,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -3539,70 +3539,13 @@
           "_anchor": "content1-3qy"
         },
         {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0093-satnav-and-dashcam-button-500x200.jpg",
-              "link": "",
-              "alt": "0093-satnav-and-dashcam-button.JPG",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Easy access and convenient location, of the power button for the satellite navigation system. Now shown with the dual dashcam power button added in later years when transferred into the 2004 ZR&nbsp; &nbsp; &nbsp; &nbsp; .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-4b6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-3ji",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
@@ -14599,7 +14542,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove all of the associated interior trim just to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
+          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove any of the associated interior trim to to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
