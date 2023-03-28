@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5628,
+    "uniqCompNum": 5620,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -295,18 +295,19 @@
           "_anchor": "image2-4c0"
         },
         {
+          "_inherit": "features4",
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "iconsBgColor": "#475577",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/000-800x580.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -319,129 +320,115 @@
             "overlayOpacity": 0.5
           },
           "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0077-rover-ignition-leads-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "ignitionleads.html",
-              "alt": "ignition leads rover 200 25 ZR",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0079-rover-purge-valve-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "purgevalve.html",
-              "alt": "purge valve rover 200 25 ZR",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0078-mg-rover-coolant-tank-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "coolsensor.html",
-              "alt": "mg rover coolant level sensor",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0076-satellite-navigation-mg-rover-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "satnav.html",
-              "alt": "navigation system rover 200 25 ZR",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0075-satellite-navigation-mg-rover-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
+            "iconFont": {
               "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
           "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
             }
           },
-          "title1": "<span style=\"font-weight: 400;\"><i><a href=\"ignitionleads.html\" class=\"text-primary\">Ignition Leads</a></i></span>",
-          "subtitle1": "Fitting sequence 200/25/ZR",
-          "caption1": "The ignition leads and coil pack set up in the 2004 ZR shown here.",
-          "title2": "<span style=\"font-weight: normal;\"><i><a href=\"purgevalve.html\" class=\"text-primary\">Purge Valve</a></i></span>",
-          "subtitle2": "Helps with controlling emissions",
-          "caption2": "Located on top of the charcoal canister, fixed into a metal bracket.",
-          "title3": "<span style=\"font-weight: normal;\"><i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></i></span>",
-          "subtitle3": "As applied to the 200/ZR",
-          "caption3": "Installing coolant low level sensor into the old 1996 rover 200.",
-          "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation System</a></i></span>",
-          "subtitle4": "Installed into the 200/ZR",
-          "caption4": "Secure location of this fitting when not in use is a secure option.",
-          "title5": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
-          "subtitle5": "Shown fitted in Rover 200&nbsp;",
-          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+            ".card-subtitle": {
+              "color": "#bcbcbc"
             },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#475577"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#000000"
+            ".iconbox": {
+              "background-color": "#475577",
+              "border-color": "#475577"
             }
           },
-          "_anchor": "features1-4c6"
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-4c1"
         },
         {
           "_params": {
             "showText": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "media": {
@@ -463,42 +450,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4c3"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party</a>&nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">An Páirtí Náisiúnta</a>&nbsp; &nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GBNews Channel&nbsp;</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4c7"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4c8"
         },
         {
           "_tags": [
@@ -3694,7 +3645,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Easy access and convenient location, of the power switch for the satellite navigation system. Now shown alongside dual dashcam switch added in later years when transferred into the 2004 ZR&nbsp; &nbsp; &nbsp; &nbsp; .",
+          "text": "Easy access and convenient location, of the power button for the satellite navigation system. Now shown with the dual dashcam power button, added in later years when transferred into the 2004 ZR&nbsp; &nbsp; &nbsp; &nbsp; .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9228,34 +9179,6 @@
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
-              "title": "Tools and parts applications guide ",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4cb"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -9273,7 +9196,7 @@
           },
           "_anchor": "content1-2lk",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
