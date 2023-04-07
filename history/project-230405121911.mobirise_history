@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5666,
+    "uniqCompNum": 5663,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -270,13 +270,13 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
             "showButtons": false,
             "columnsColor": "#ffffff",
             "paddingTop": "2",
-            "paddingBottom": "2",
-            "columns": "5",
+            "paddingBottom": "1",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/000-800x580.jpg",
             "parallax": true,
@@ -336,12 +336,12 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0094-cooling-syatem-300x188.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0075-satellite-navigation-mg-rover-300x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "coolsystem.html",
-              "alt": "rover200 cooling system",
+              "link": "",
+              "alt": "",
               "linkInNewWindow": false
             }
           },
@@ -365,9 +365,9 @@
           "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation System</a></i></span>",
           "subtitle4": "Installed into the 200/ZR",
           "caption4": "Location of this fitting when not in use is a secure option.",
-          "title5": "<span style=\"font-weight: normal;\"><i><a href=\"coolsystem.html\" class=\"text-primary\">Cooling System</a></i></span>",
-          "subtitle5": "Rover 200/25/ZR&nbsp;",
-          "caption5": "Coolant flow route in and around the K16 engine.",
+          "title5": "<span style=\"font-weight: normal;\"><i>Navigation System</i></span>",
+          "subtitle5": "Shown fitted in Rover 200&nbsp;",
+          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -408,34 +408,6 @@
             }
           },
           "_anchor": "features1-4c6"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
-              "title": "Tools and parts applications guide ",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4dd"
         },
         {
           "_params": {
