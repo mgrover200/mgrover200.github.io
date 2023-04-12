@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5664,
+    "uniqCompNum": 5666,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -271,7 +271,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false,
             "columnsColor": "#ffffff",
             "paddingTop": "2",
@@ -367,7 +367,7 @@
           "caption4": "Location of this fitting when not in use is a secure option.",
           "title5": "<span style=\"font-weight: normal;\"><i><a href=\"coolsystem.html\" class=\"text-primary\">Cooling System</a></i></span>",
           "subtitle5": "Rover 200/25/ZR&nbsp;",
-          "caption5": "The secure location of this fitting when it is not being used, is a much more secure option than being on show attached to the windscreen.",
+          "caption5": "Coolant flow route in and around the K16 engine.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -408,6 +408,34 @@
             }
           },
           "_anchor": "features1-4c6"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4dd"
         },
         {
           "_params": {
