@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5683,
+    "uniqCompNum": 5681,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -359,12 +359,12 @@
           "title2": "<span style=\"font-weight: normal;\"><i><a href=\"purgevalve.html\" class=\"text-primary\">Purge Valve</a></i></span>",
           "subtitle2": "Helps with controlling emissions",
           "caption2": "Located top of the canister, fixed into a metal bracket.",
-          "title3": "<span style=\"font-weight: normal;\"><i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant&nbsp; Sensor</a></i></span>",
+          "title3": "<span style=\"font-weight: normal;\"><i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></i></span>",
           "subtitle3": "As applied to the 200/ZR",
           "caption3": "Installing coolant level sensor to the 1996 rover 200.",
-          "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation</a></i></span>",
+          "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation System</a></i></span>",
           "subtitle4": "Installed into the 200/ZR",
-          "caption4": "Location of this fitting when not in use is secure.",
+          "caption4": "Location of this fitting when not in use is a secure option.",
           "title5": "<span style=\"font-weight: normal;\"><i><a href=\"coolsystem.html\" class=\"text-primary\">Cooling System</a></i></span>",
           "subtitle5": "Rover 200/25/ZR&nbsp;",
           "caption5": "Coolant flow route in and around the K16 engine.",
@@ -1763,7 +1763,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1805,13 +1805,67 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-3b4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>F5 Anti theft alarm, and CDL 25amp (clear) F6 Front fog lamps 15amp (blue) F7 Hazard lights, indicators (15amp (blue) F8 Engine management 15amp (blue) F9 Air conditioning 10amp (red) F10 Fuel pump 20amp (yellow).</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-3b5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>FL 1 Alternator 150 mega amp. FL 2 Aux ignition 40 amp. FL 3 Ignition 40 amp. FL 4 Cabin fusebox 40 amp. FL 5 Not required. FL 6 Glow plug 80 amp. Mega fusible links are the metal type, the highest rated one is 150 mega amp for the alternator..</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-3b7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
             "imageSize": "48",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1871,89 +1925,7 @@
               "color": "#475577"
             }
           },
-          "_anchor": "msg-box5-4dt"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-3b4",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>F5 Anti theft alarm, and CDL 25amp (clear) F6 Front fog lamps 15amp (blue) F7 Hazard lights, indicators (15amp (blue) F8 Engine management 15amp (blue) F9 Air conditioning 10amp (red) F10 Fuel pump 20amp (yellow).</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-3b5",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>FL 1 Alternator 150 mega amp. FL 2 Aux ignition 40 amp. FL 3 Ignition 40 amp. FL 4 Cabin fusebox 40 amp. FL 5 Not required. FL 6 Glow plug 80 amp. Mega fusible links are the metal type, the highest rated one is 150 mega amp for the alternator..</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-3b7",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
-              "title": "Tools and parts applications guide ",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4du"
+          "_anchor": "msg-box5-41s"
         },
         {
           "_params": {
