@@ -413,17 +413,11 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "3",
@@ -441,7 +435,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
-          "text": "<p>YXB-100350 Ignition Switch 200/25/ZR</p>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH 200/25/ZR</a>",
           "_tags": [
             "Theme"

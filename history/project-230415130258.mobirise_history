@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5688,
+    "uniqCompNum": 5687,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -355,7 +355,7 @@
           },
           "title1": "<span style=\"font-weight: 400;\"><i><a href=\"ignitionleads.html\" class=\"text-primary\">Ignition Leads</a></i></span>",
           "subtitle1": "Fitting sequence 200/25/ZR",
-          "caption1": "The ignition leads and coil pack set up 2004 ZR.",
+          "caption1": "The ignition leads and coil pack set up in the 2004 ZR.",
           "title2": "<span style=\"font-weight: normal;\"><i><a href=\"purgevalve.html\" class=\"text-primary\">Purge Valve</a></i></span>",
           "subtitle2": "Helps with controlling emissions",
           "caption2": "Located top of the canister, fixed into a metal bracket.",
@@ -411,24 +411,18 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, p": {
+            ".mbr-section-title, .lead": {
               "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/0095-ignition-switch-mg-rover-1600x392.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -441,13 +435,13 @@
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
-          "text": "<p>YXB-100350 Ignition Switch 200/25/ZR</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH 200/25/ZR</a>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-4dz"
+          "_anchor": "msg-box8-4dy"
         },
         {
           "_params": {
