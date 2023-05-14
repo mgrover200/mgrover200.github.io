@@ -14355,7 +14355,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -14414,7 +14414,7 @@
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "20px",
+              "font-size": "22px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -14485,7 +14485,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "P": {
               "text-align": "left"

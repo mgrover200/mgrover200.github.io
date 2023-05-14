@@ -4868,6 +4868,12 @@ section.form .container {
 
 
 
+
+
+
+
+
+
 #ext_menu-4e1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4954,7 +4960,7 @@ section.form .container {
   text-align: center;
 }
 #header3-4e3 .mbr-section-title {
-  color: #475577;
+  color: #000000;
   font-size: 36px;
   font-family: 'Lora', serif;
 }
@@ -4967,6 +4973,46 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 22px;
   color: #7e9b9f;
+}
+#msg-box5-4ev H3 {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+}
+#msg-box5-4ev SPAN {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#msg-box5-4ev P {
+  font-size: 17px;
+}
+#msg-box5-4f0 H3 {
+  font-family: 'Slabo 27px', serif;
+  font-size: 20px;
+  color: #475577;
+  text-align: left;
+}
+#msg-box5-4f0 SPAN {
+  color: #475577;
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
+#msg-box5-4f0 P {
+  font-size: 17px;
+  text-align: left;
+}
+#msg-box5-4f0 I {
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+}
+#msg-box5-4f1 H3 {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: #475577;
+}
+#msg-box5-4f1 P {
+  text-align: left;
 }
 #content1-4ea P {
   text-align: center;

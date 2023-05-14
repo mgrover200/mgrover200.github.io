@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5729,
+    "uniqCompNum": 5727,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14285,7 +14285,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -14336,7 +14336,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#7e9b9f",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "25px"
@@ -14355,7 +14355,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -14397,7 +14397,7 @@
               "size": 0
             }
           },
-          "title": "<font face=\"Raleway, sans-serif\"><span style=\"font-size: 17px; font-weight: 400;\">COOLANT LEVEL SENSOR</span></font>",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT TANK RPCF000160&nbsp;</i></span>",
           "text": "Coolant level sensor. to install this feature cooling system did not need to be drained, just syphoned out, then replaced with the new one, coolant then poured back into the new tank",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -14432,13 +14432,13 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
