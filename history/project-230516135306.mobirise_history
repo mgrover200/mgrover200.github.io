@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5733,
+    "uniqCompNum": 5732,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,95 +268,187 @@
           "_anchor": "content1-3xd"
         },
         {
-          "_inherit": "testimonials1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-author-name": {
-              "color": "#ccc",
-              "font-size": "18px"
-            },
-            ".card-block": {
-              "color": "#565656"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-author-desc": {
-              "font-size": "20px",
-              "color": "#ffffff"
-            }
-          },
           "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": "3",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/0095-rover-door-lock-mechanism-1600x1200.jpg",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#ffffff",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/000-800x580.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0077-rover-ignition-leads-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "ignitionleads.html",
+              "alt": "ignition leads rover 200 25 ZR",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0079-rover-purge-valve-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "purgevalve.html",
+              "alt": "purge valve rover 200 25 ZR",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0078-mg-rover-coolant-tank-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "coolsensor.html",
+              "alt": "mg rover coolant level sensor",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0076-satellite-navigation-mg-rover-300x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "satnav.html",
+              "alt": "navigation system rover 200 25 ZR",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0094-cooling-syatem-300x188.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "coolsystem.html",
+              "alt": "rover200 cooling system",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: 400;\"><i><a href=\"ignitionleads.html\" class=\"text-primary\">Ignition Leads</a></i></span>",
+          "subtitle1": "Fitting sequence 200/25/ZR",
+          "caption1": "The ignition leads and coil pack set up 2004 ZR.",
+          "title2": "<span style=\"font-weight: normal;\"><i><a href=\"purgevalve.html\" class=\"text-primary\">Purge Valve</a></i></span>",
+          "subtitle2": "Helps with controlling emissions",
+          "caption2": "Located top of the canister, fixed into a metal bracket.",
+          "title3": "<span style=\"font-weight: normal;\"><i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant&nbsp; Sensor</a></i></span>",
+          "subtitle3": "As applied to the 200/ZR",
+          "caption3": "Installing coolant level sensor to the 1996 rover 200.",
+          "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation</a></i></span>",
+          "subtitle4": "Installed into the 200/ZR",
+          "caption4": "Location of this fitting when not in use is secure.",
+          "title5": "<span style=\"font-weight: normal;\"><i><a href=\"coolsystem.html\" class=\"text-primary\">Cooling System</a></i></span>",
+          "subtitle5": "Rover 200/25/ZR&nbsp;",
+          "caption5": "Coolant flow route in and around the K16 engine.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "<a href=\"purgevalve.html\" class=\"text-info\" style=\"\"><span style=\"font-weight: normal;\">More Info.</span></a>",
-              "authorBio": "<a href=\"purgevalve.html\" class=\"text-danger\">More Info</a>",
-              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank to store in the charcoal canister, vapors are then moved&nbsp; to be burned off within the engine.\"</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
             },
-            {
-              "authorName": "<a href=\"ignitionleads.html\" class=\"text-success\" style=\"font-weight: normal;\">More Info.</a>",
-              "authorBio": "User",
-              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs that we always use are NGK BKR6E 6962.\"&nbsp;</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
-            {
-              "authorName": "<span style=\"font-weight: normal;\"><a href=\"fuelfilter.html\" class=\"text-primary\" style=\"\">More Info.</a></span>",
-              "authorBio": "User",
-              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction. Then an 8mm spanner for releasing the fuel filter from the bulkhead clamp.\"</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#475577"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#000000"
             }
+          },
+          "_anchor": "features1-4c6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>YXB-100350 Ignition Switch 200/25/ZR</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH 200/25/ZR</a>",
+          "_tags": [
+            "Theme"
           ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-4f8"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4dz"
         },
         {
           "_params": {

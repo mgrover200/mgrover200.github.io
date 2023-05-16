@@ -8,8 +8,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -565,37 +563,22 @@ section.form .container {
   font-size: 22px;
   color: #7e9b9f;
 }
-#features1-4c6 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features1-4c6 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #475577;
-  font-family: 'Lora', serif;
-}
-#features1-4c6 .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
-}
-#features1-4c6 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features1-4c6 .mbr-cards-col:nth-child(even) .card-title {
-  color: #475577;
-}
-#features1-4c6 .mbr-cards-col:nth-child(even) .card-title SPAN {
-  font-family: 'Lora', serif;
-}
-#features1-4c6 .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #000000;
-}
-#msg-box8-4dz .mbr-section-title,
-#msg-box8-4dz p {
-  color: #fff;
-}
-#msg-box8-4dz .lead {
+#testimonials3-4f8 .mbr-section-title {
   color: #ffffff;
 }
-#msg-box8-4dz .lead P {
+#testimonials3-4f8 .mbr-author-name {
+  color: #ccc;
+  font-size: 18px;
+}
+#testimonials3-4f8 .card-block {
+  color: #565656;
+}
+#testimonials3-4f8 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#testimonials3-4f8 .mbr-author-desc {
   font-size: 20px;
+  color: #ffffff;
 }
 #content1-4cw P {
   text-align: center;
