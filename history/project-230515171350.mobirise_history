@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5732,
+    "uniqCompNum": 5731,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14301,20 +14301,20 @@
             }
           },
           "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": false,
             "showName": false,
             "showBio": false,
-            "count": "3",
+            "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/0095-rover-door-lock-mechanism-1600x1200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/church2-1271x676.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -14327,7 +14327,7 @@
             {
               "authorName": "<span style=\"font-weight: normal;\">MORE INFO.</span>",
               "authorBio": "User",
-              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors then moved from the charcoal canister to the fuel injector then burned off inside the engine.\"&nbsp;<a href=\"purgevalve.html\" class=\"text-primary\">More Info.</a></p>",
+              "text": "<p><b>PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors are then moved from the charcoal canister to the fuel injector then burned off inside the engine, The purge valve flow is monitored with sensors to determine a precise amount, helping in some way with the vehicles emissions.&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -14341,7 +14341,7 @@
             {
               "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs we always use are NGK BKR6E 6962.\" <a href=\"ignitionleads.html\" class=\"text-primary\">More Info.</a>&nbsp;</p>",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -14355,7 +14355,7 @@
             {
               "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction as shown. Then an 8mm spanner for releasing the fuel filter from the bulkhead clamp.\" <a href=\"fuelfilter.html\" class=\"text-primary\">More Info.&nbsp;</a></p>",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -14383,7 +14383,7 @@
               "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
               "width": 1400,
               "link": "",
-              "alt": "rover-door-lock-mechanism",
+              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
