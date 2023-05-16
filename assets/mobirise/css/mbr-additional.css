@@ -122,8 +122,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ffffff;
+  border-color: #ffffff;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -132,14 +132,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -243,8 +243,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #cccccc;
+  color: #cccccc;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -252,14 +252,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-info-outline {
   background: none;
@@ -4973,11 +4973,16 @@ section.form .container {
 }
 #testimonials3-4f6 .mbr-author-name {
   color: #ccc;
+  font-size: 18px;
 }
 #testimonials3-4f6 .card-block {
   color: #565656;
 }
 #testimonials3-4f6 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#testimonials3-4f6 .mbr-author-desc {
+  font-size: 20px;
   color: #ffffff;
 }
 #content1-4ea P {

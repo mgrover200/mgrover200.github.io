@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#90a878",
-        "secondaryColor": "#ffffff",
+        "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -14291,17 +14291,12 @@
               "color": "#ffffff"
             },
             ".mbr-author-name": {
-              "color": "#ccc",
-              "font-size": "18px"
+              "color": "#ccc"
             },
             ".card-block": {
               "color": "#565656"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-author-desc": {
-              "font-size": "20px",
               "color": "#ffffff"
             }
           },
@@ -14309,7 +14304,7 @@
             "showTitle": false,
             "showSubtitle": false,
             "showImages": false,
-            "showName": true,
+            "showName": false,
             "showBio": false,
             "count": "3",
             "paddingTop": 3,
@@ -14330,9 +14325,9 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "<a href=\"purgevalve.html\" class=\"text-info\" style=\"\"><span style=\"font-weight: normal;\">More Info.</span></a>",
-              "authorBio": "<a href=\"purgevalve.html\" class=\"text-danger\">More Info</a>",
-              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank to store in the charcoal canister, vapors are then moved&nbsp; to be burned off within the engine.\"</p>",
+              "authorName": "<span style=\"font-weight: normal;\">MORE INFO.</span>",
+              "authorBio": "User",
+              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank to store in the charcoal canister, vapors then moved&nbsp; to be burned off inside the engine.\"&nbsp;<a href=\"purgevalve.html\" class=\"text-primary\">More Info.</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -14344,9 +14339,9 @@
               }
             },
             {
-              "authorName": "<a href=\"ignitionleads.html\" class=\"text-success\" style=\"font-weight: normal;\">More Info.</a>",
+              "authorName": "Suffian A.",
               "authorBio": "User",
-              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs that we always use are NGK BKR6E 6962.\"&nbsp;</p>",
+              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs we always use are NGK BKR6E 6962.\" <a href=\"ignitionleads.html\" class=\"text-primary\">More Info.</a>&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -14358,9 +14353,9 @@
               }
             },
             {
-              "authorName": "<span style=\"font-weight: normal;\"><a href=\"fuelfilter.html\" class=\"text-primary\" style=\"\">More Info.</a></span>",
+              "authorName": "Jhollman C.",
               "authorBio": "User",
-              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction. Then an 8mm spanner for releasing the fuel filter from the bulkhead clamp.\"</p>",
+              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction. Then an 8mm spanner for releasing the fuel filter from the clamp.\" <a href=\"fuelfilter.html\" class=\"text-primary\">More Info.&nbsp;</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
