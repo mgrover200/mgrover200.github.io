@@ -1,13 +1,13 @@
 {
   "settings": {
-    "currentPage": "additional.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#90a878",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -22,11 +22,12 @@
       },
       "additionalSetColors": [
         "#232323",
-        "#444444"
+        "#444444",
+        "#565656"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5704,
+    "uniqCompNum": 5766,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -220,7 +221,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -234,7 +235,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "MAINTENANCE OF THE 1996 ROVER 200/2004 MG-ZR",
@@ -248,7 +249,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
@@ -267,202 +268,110 @@
           "_anchor": "content1-3xd"
         },
         {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "columnsColor": "#ffffff",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/000-800x580.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0077-rover-ignition-leads-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "ignitionleads.html",
-              "alt": "ignition leads rover 200 25 ZR",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0079-rover-purge-valve-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "purgevalve.html",
-              "alt": "purge valve rover 200 25 ZR",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0078-mg-rover-coolant-tank-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "coolsensor.html",
-              "alt": "mg rover coolant level sensor",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0076-satellite-navigation-mg-rover-300x200.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "satnav.html",
-              "alt": "navigation system rover 200 25 ZR",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0094-cooling-syatem-300x188.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "coolsystem.html",
-              "alt": "rover200 cooling system",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i><a href=\"ignitionleads.html\" class=\"text-primary\">Ignition Leads</a></i></span>",
-          "subtitle1": "Fitting sequence 200/25/ZR",
-          "caption1": "The ignition leads and coil pack set up 2004 ZR.",
-          "title2": "<span style=\"font-weight: normal;\"><i><a href=\"purgevalve.html\" class=\"text-primary\">Purge Valve</a></i></span>",
-          "subtitle2": "Helps with controlling emissions",
-          "caption2": "Located top of the canister, fixed into a metal bracket.",
-          "title3": "<span style=\"font-weight: normal;\"><i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant&nbsp; Sensor</a></i></span>",
-          "subtitle3": "As applied to the 200/ZR",
-          "caption3": "Installing coolant level sensor to the 1996 rover 200.",
-          "title4": "<span style=\"font-weight: normal;\"><i><a href=\"satnav.html\" class=\"text-primary\">Navigation</a></i></span>",
-          "subtitle4": "Installed into the 200/ZR",
-          "caption4": "Location of this fitting when not in use is secure.",
-          "title5": "<span style=\"font-weight: normal;\"><i><a href=\"coolsystem.html\" class=\"text-primary\">Cooling System</a></i></span>",
-          "subtitle5": "Rover 200/25/ZR&nbsp;",
-          "caption5": "Coolant flow route in and around the K16 engine.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          "_inherit": "testimonials1",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#475577"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "features1-4c6"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
+            ".mbr-section-title": {
               "color": "#ffffff"
             },
-            ".lead P": {
-              "font-size": "20px"
+            ".mbr-author-name": {
+              "color": "#ccc",
+              "font-size": "18px"
+            },
+            ".card-block": {
+              "color": "#565656"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-author-desc": {
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": false,
-            "showButton": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
             "paddingTop": 3,
-            "paddingBottom": "3",
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/0095-rover-door-lock-mechanism-1600x1200.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
+            "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>YXB-100350 Ignition Switch 200/25/ZR</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH 200/25/ZR</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4dz"
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "<a href=\"purgevalve.html\" class=\"text-info\" style=\"\"><span style=\"font-weight: normal;\">More Info.</span></a>",
+              "authorBio": "<a href=\"purgevalve.html\" class=\"text-danger\">More Info</a>",
+              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank to store in the charcoal canister, vapors are then moved&nbsp; to be burned off within the engine.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "<a href=\"ignitionleads.html\" class=\"text-success\" style=\"font-weight: normal;\">More Info.</a>",
+              "authorBio": "User",
+              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs that we always use are NGK BKR6E 6962.\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "<span style=\"font-weight: normal;\"><a href=\"fuelfilter.html\" class=\"text-primary\" style=\"\">More Info.</a></span>",
+              "authorBio": "User",
+              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction. Then an 8mm spanner for releasing the fuel filter from the bulkhead clamp.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-4f8"
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -475,7 +384,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dd"
+          "_anchor": "image2-4fa"
         },
         {
           "_params": {
@@ -689,7 +598,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -703,7 +612,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "CABIN FUSE BOX IDENTIFICATION FOR THE 2004 ZR",
@@ -731,7 +640,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinfuse.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -989,17 +898,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -1012,7 +921,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dj"
+          "_anchor": "image2-4g1"
         },
         {
           "_params": {
@@ -1226,7 +1135,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -1240,7 +1149,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "COOLANT SENSOR WARNING OF A COOLANT LOSS",
@@ -1268,7 +1177,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -1474,17 +1383,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -1497,7 +1406,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4df"
+          "_anchor": "image2-4fu"
         },
         {
           "_params": {
@@ -1710,7 +1619,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -1724,7 +1633,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "ENGINE FUSE BOX IDENTIFICATION 2004 MG-ZR",
@@ -1752,7 +1661,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fenginefuse.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -1970,17 +1879,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -1993,7 +1902,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4du"
+          "_anchor": "image2-4g0"
         },
         {
           "_params": {
@@ -2206,7 +2115,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -2220,7 +2129,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "INSTANT NOTIFICATION OF A BLOWN REAR BULB ZR",
@@ -2248,7 +2157,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Flightcheck.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -2481,6 +2390,34 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fk"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -2690,7 +2627,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -2704,7 +2641,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "AUDIO REMOTES NOW ADDED TO THE 2004 MG-ZR",
@@ -2732,7 +2669,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Faudioremotes.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -3074,17 +3011,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -3097,7 +3034,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dn"
+          "_anchor": "image2-4fi"
         },
         {
           "_params": {
@@ -3308,7 +3245,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -3322,7 +3259,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "SECURITY FITTED NAVIGATION SYSTEM ROVER 200/ZR",
@@ -3350,7 +3287,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -3610,6 +3547,34 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fl"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -3817,7 +3782,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -3831,7 +3796,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "OIL SUMP CLEANING ON THE 1996 ROVER 200 SERIES",
@@ -3859,7 +3824,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -4162,6 +4127,34 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fb"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -4369,7 +4362,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -4383,7 +4376,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "MG-ROVER COLOUR CODES LIST FROM 1963 TO 2005",
@@ -4411,7 +4404,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcolourcodes.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -4562,17 +4555,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -4585,7 +4578,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dp"
+          "_anchor": "image2-4fm"
         },
         {
           "_params": {
@@ -4796,7 +4789,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -4810,7 +4803,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "SELECTED PARTS LISTING AND SPANNER SIZES 200 25 ZR",
@@ -4838,7 +4831,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpartsguide.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -4860,6 +4853,34 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the 200/25/ZR parts guide and numbers for easy reference. Although available at the time, some parts numbers may now be obsolete, and should not be totally relied upon.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4g5"
         },
         {
           "_tags": [
@@ -4969,17 +4990,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -4992,7 +5013,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d6"
+          "_anchor": "image2-4fo"
         },
         {
           "_params": {
@@ -5203,7 +5224,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -5217,7 +5238,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "PURGE VALVE AND HOW IT WORKS ROVER 200 25 ZR",
@@ -5245,7 +5266,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -5375,17 +5396,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -5398,7 +5419,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dq"
+          "_anchor": "image2-4fn"
         },
         {
           "_params": {
@@ -5609,7 +5630,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -5623,7 +5644,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "REPLACEMENT FUEL FILTER BEING FITTED 200 25 ZR",
@@ -5651,7 +5672,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ffuelfilter.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -5853,17 +5874,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -5876,7 +5897,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d4"
+          "_anchor": "image2-4ff"
         },
         {
           "_params": {
@@ -6088,7 +6109,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -6102,7 +6123,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "FRONT AND REAR DUAL ACTIVATED DASH CAMS ZR",
@@ -6130,7 +6151,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fdashcam.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -6494,6 +6515,34 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4g4"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -6701,7 +6750,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -6715,7 +6764,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "EMISSIONS TEST INCLUDING ANNUAL M.O.T 2004 ZR",
@@ -6743,7 +6792,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Femissions.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -6946,6 +6995,34 @@
           },
           "title": "BACKGROUND IMAGE",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fg"
         },
         {
           "_params": {
@@ -7157,7 +7234,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -7171,7 +7248,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "PRECISE OIL LEVEL CHECK DURING INITIAL SERVICE",
@@ -7199,7 +7276,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilchecking.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -7382,17 +7459,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -7405,7 +7482,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d2"
+          "_anchor": "image2-4fd"
         },
         {
           "_params": {
@@ -7617,7 +7694,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -7631,7 +7708,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "A GOOD HEATER IS ESSENTIAL IN WINTER MONTHS",
@@ -7659,7 +7736,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -7880,6 +7957,34 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fv"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#fff"
@@ -8087,7 +8192,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -8101,7 +8206,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "YXB-100350 IGNITION SWITCH FOR ROVER 200 25 ZR",
@@ -8129,7 +8234,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -8330,6 +8435,34 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fx"
         },
         {
           "_params": {
@@ -8540,7 +8673,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -8554,7 +8687,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "VARIOUS SUNROOF RELATED ARTICLES FOR 200 25 ZR",
@@ -8582,7 +8715,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -8826,17 +8959,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -8849,7 +8982,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dk"
+          "_anchor": "image2-4g2"
         },
         {
           "_params": {
@@ -9060,7 +9193,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -9074,7 +9207,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "OIL CHANGE ON THE 1996&nbsp; ROVER 200 R.65 GEARBOX",
@@ -9102,7 +9235,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -9220,17 +9353,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -9243,7 +9376,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d7"
+          "_anchor": "image2-4fp"
         },
         {
           "_params": {
@@ -9454,7 +9587,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -9468,7 +9601,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "TORQUE TIGHTENING SEQUENCE ROVER 200 25 ZR",
@@ -9496,7 +9629,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftorque.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -9886,17 +10019,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -9909,7 +10042,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d1"
+          "_anchor": "image2-4fc"
         },
         {
           "_params": {
@@ -10120,7 +10253,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -10134,7 +10267,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "YMN-101940 TAILGATE WIRING LOOM FOR 200 25 ZR",
@@ -10162,7 +10295,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -10309,17 +10442,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -10332,7 +10465,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dh"
+          "_anchor": "image2-4fz"
         },
         {
           "_params": {
@@ -10543,7 +10676,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -10557,7 +10690,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "TWIN HORNS REPLACE THE SINGLE HORN 2004 MG-ZR",
@@ -10585,7 +10718,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftwinhorns.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -10838,17 +10971,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -10861,7 +10994,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d5"
+          "_anchor": "image2-4fh"
         },
         {
           "_params": {
@@ -11072,7 +11205,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -11086,7 +11219,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "HOW COOLANT CIRCULATES AROUND THE ENGINE&nbsp;",
@@ -11114,7 +11247,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -11351,17 +11484,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -11374,7 +11507,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dg"
+          "_anchor": "image2-4fw"
         },
         {
           "_params": {
@@ -11585,7 +11718,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -11599,7 +11732,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "IGNITION LEADS FITTING GUIDE FOR THE 200 25 ZR",
@@ -11627,7 +11760,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionleads.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -11747,7 +11880,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -11804,17 +11937,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -11827,7 +11960,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d0"
+          "_anchor": "image2-4fy"
         },
         {
           "_params": {
@@ -12038,7 +12171,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -12052,7 +12185,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "FITTING INLET MANIFOLD GASKET ON THE 2004 ZR",
@@ -12080,7 +12213,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Finletmanifold.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -12297,17 +12430,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -12320,7 +12453,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4d3"
+          "_anchor": "image2-4fe"
         },
         {
           "_params": {
@@ -12531,7 +12664,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -12545,7 +12678,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "COMMENTS ABOUT OUR 1996 ROVER 200/2004 MG-ZR",
@@ -12573,7 +12706,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -12932,13 +13065,16 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           },
           "_anchor": "content1-3k9",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p>WEBSITE COOKIES POLICY</p>"
         },
@@ -12960,7 +13096,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffffff"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>"
         },
@@ -13011,10 +13147,38 @@
           "_anchor": "content1-3ki",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<p>We use both session and persistant cookies on the Service, and we use different types of cookies to run the Service. Essential cookies, we may use essential cookies to authenticate users, and prevent fraudulent use of users accounts. In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of our website pages.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "rover-door-lock-mechanism",
+              "title": "Tools and parts applications guide ",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4fq"
         },
         {
           "_params": {
@@ -13774,7 +13938,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -13788,7 +13952,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "VARIOUS SUNROOF RELATED ARTICLES FOR 200 25 ZR",
@@ -13815,7 +13979,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>",
           "_anchor": "content1-48p"
@@ -14003,17 +14167,17 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -14026,7 +14190,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4dl"
+          "_anchor": "image2-4g3"
         },
         {
           "_params": {
@@ -14074,10 +14238,10 @@
         }
       ]
     },
-    "additional.html": {
+    "testpage.html": {
       "settings": {
-        "title": "Rover 200/25/ZR Additional ",
-        "meta_descr": "Whats the actual function of the combined EVAP Canister and Purge valve, and how does it help with controlling the vehicles emissions.",
+        "title": "Rover 200/25/ZR Testpage",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -14237,7 +14401,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -14251,10 +14415,10 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "LOW AND NO COST ITEMS FOR THE ROVER 200 25 ZR",
+          "meta": "IMAGE AND TEXT TEST PAGE FOR THE ROVER 200 25 ZR",
           "_tags": [
             "Theme"
           ],
@@ -14278,65 +14442,116 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#c1c1c1"
           },
           "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fpurgevalve.html\" class=\"text-black\">Russian</a></p>",
           "_anchor": "content1-4e4"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0096-mg-zr-boot-tool-storage-1109x386.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            ".mbr-author-name": {
+              "color": "#ccc",
+              "font-size": "18px"
+            },
+            ".card-block": {
+              "color": "#565656"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-author-desc": {
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4ee"
-        },
-        {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/0095-rover-door-lock-mechanism-1600x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "<p>We created this all wood, parts and tools multi section boot storage unit in 2010 designed specifically for the MG-ZR. An ideal companion for those away days. No drilling required, the unit is slipped in from top of the rear seat frame at a 90% angle, then auto locked when laid flat.&nbsp; &nbsp; &nbsp;</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-4ef"
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "<a href=\"purgevalve.html\" class=\"text-info\" style=\"\"><span style=\"font-weight: normal;\">More Info.</span></a>",
+              "authorBio": "<a href=\"purgevalve.html\" class=\"text-danger\">More Info</a>",
+              "text": "<p><b>\"PURGE VALVE:</b>&nbsp;An electrically operated solenoid collects fuel vapors from the fuel tank to store in the charcoal canister, vapors are then moved&nbsp; to be burned off within the engine.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "<a href=\"ignitionleads.html\" class=\"text-success\" style=\"font-weight: normal;\">More Info.</a>",
+              "authorBio": "User",
+              "text": "<p><b>“IGNITION LEADS:</b> Ignition leads and coil pack set up in our 2004 ZR comprise of Leoni high tension leads, Denso 100730 coil packs, sparkplugs that we always use are NGK BKR6E 6962.\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "<span style=\"font-weight: normal;\"><a href=\"fuelfilter.html\" class=\"text-primary\" style=\"\">More Info.</a></span>",
+              "authorBio": "User",
+              "text": "<p><b>“FUEL FILTER:</b>&nbsp;To release the fuel filter unions a 14mm and 19mm open ended spanners were both used in conjunction. Then an 8mm spanner for releasing the fuel filter from the bulkhead clamp.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-4f6"
         },
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0082-mg-rover-parts-guide-1109x135.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "Parts Guide and Tool Sizes Rover 200/25/ZR",
+              "alt": "rover-door-lock-mechanism",
               "title": "Tools and parts applications guide ",
               "linkInNewWindow": false
             },
@@ -14349,7 +14564,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4e9"
+          "_anchor": "image2-4f2"
         },
         {
           "_params": {

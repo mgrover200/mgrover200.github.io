@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "torque.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5766,
+    "uniqCompNum": 5768,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -9880,71 +9880,19 @@
           "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the oil filter, and a correct amount of engine oil to be added. .</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-36t",
           "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>OIL FILTER FITTING INFORMATION</i></span>",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "font-size": "20px",
-              "color": "#475577"
-            },
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-36s",
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "50",
+            "inverse": false,
+            "imageSize": "36",
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9957,10 +9905,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0026-rover-oil-filter.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0096-rover-oil-filter-356x165.jpg",
               "link": "",
               "alt": "",
-              "title": "oil-filter-lpw-100181",
               "linkInNewWindow": false
             },
             "video": {
@@ -9975,9 +9922,26 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FITTING PART NUMBER LPW-100181 &nbsp;&nbsp;</i></span>",
-          "text": "Oil filter we used at this time, was the LPW-100181 a few suppliers may include a sump plug washer. Draper OFW-100 is used during<br>filter removal process. <br><br>. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "<span style=\"font-weight: normal;\"><i>OIL FILTER FITTING INFORMATION</i></span>",
+          "text": "Oil filter we used at this time, was the LPW-100181 a few suppliers may include a sump plug washer. Draper OFW-100 is used during filter removal process.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4g6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px",
+              "color": "#475577",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
