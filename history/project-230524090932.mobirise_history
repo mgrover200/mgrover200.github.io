@@ -9885,7 +9885,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Fitting the oil filter, without it first being &nbsp;primed is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before it is actually filled, and ready to begin circulating the fresh oil around the engine. Oil filter we used at this time, was LPW-100181.</p>",
+          "text": "<p>Fitting the oil filter, without it first being &nbsp;primed is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before canister is actually filled and is ready to begin circulating oil around the engine. Oil filter we used at this time, was LPW-100181.</p>",
           "_tags": [
             "Theme"
           ],
@@ -9903,7 +9903,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Applying a light smear of oil to the filters rubber gasket wont 'scrunch' it up when screwing back on, then using some folded 'coarse' sandpaper along with hand pressure only, would be sufficient to tighten it up. Then its a good deserved run out to circulate all fluids.</p>",
+          "text": "<p>A light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on, to tighten it up, some folded 'coarse' sandpaper using hand pressure only, is sufficient to tighten it up. Then its a good deserved run out to circulate all fluids.</p>",
           "_tags": [
             "Theme"
           ],
@@ -14471,6 +14471,163 @@
           ],
           "_name": "testimonials3",
           "_anchor": "testimonials3-4f6"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0025-rover-engine.jpg",
+              "link": "",
+              "alt": "",
+              "title": "engine-top-cover-torque",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE COVER TIGHTENING</i></span>",
+          "text": "Prior to fitting the cam or engine top cover this required a new cam cover gasket fitted, this goes on dry with no sealant added, but needs to be fitted the correct way round its already marked up. Cam cover gasket LDR-102000 was used for this project.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "17px"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "color": "#475577"
+            }
+          },
+          "_anchor": "msg-box5-4gf"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the oil filter, correct amount of engine oil and coolant to be added. .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-4gg"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>Fitting the oil filter, without it first being &nbsp;primed is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before canister is actually filled and is ready to begin circulating oil around the engine. Oil filter we used at this time, was LPW-100181.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-4gi"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>A light smear of oil to the filters rubber gasket, so it wont 'scrunch' up when screwing back on. Use of an oil filter wrench to tighten it up, is not a good idea, it could puncture the thin metal canister. A piece of folded 'coarse' sandpaper with hand pressure only, is sufficient to tighten it.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-4gj"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mgzr-yetton-1600x633.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4gh"
         },
         {
           "_params": {
