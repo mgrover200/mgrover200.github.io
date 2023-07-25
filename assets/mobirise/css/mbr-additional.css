@@ -4546,6 +4546,7 @@ section.form .container {
 
 
 
+
 #ext_menu-3o3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4686,6 +4687,16 @@ section.form .container {
 }
 #header3-3or .mbr-section-subtitle {
   color: #475577;
+}
+#msg-box8-4i5 .mbr-section-title,
+#msg-box8-4i5 .lead {
+  color: #fff;
+}
+#msg-box8-4i5 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-4i5 .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-3oq P {
   text-align: center;
