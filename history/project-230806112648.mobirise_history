@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "partsguide.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5912,
+    "uniqCompNum": 5910,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -4685,14 +4685,14 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#ffffff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000000-1182x90.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -4707,7 +4707,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4k7"
+          "_anchor": "image2-4k5"
         },
         {
           "_params": {
