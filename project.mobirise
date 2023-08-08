@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5912,
+    "uniqCompNum": 5942,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -221,13 +221,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -235,7 +235,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "MAINTENANCE OF THE 1996 ROVER 200/2004 MG-ZR",
@@ -249,9 +249,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -265,7 +265,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3xd"
+          "_anchor": "content1-4ky"
         },
         {
           "_params": {
@@ -816,6 +816,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kj"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -1026,13 +1053,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -1040,7 +1067,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "COOLANT SENSOR WARNING OF A COOLANT LOSS",
@@ -1051,6 +1078,12 @@
           "_anchor": "header3-3y4"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1064,13 +1097,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3c6",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-4kz"
         },
         {
           "_tags": [
@@ -1267,16 +1294,43 @@
           "_anchor": "content1-22c",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.</p>"
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kv"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
           "_tags": [
@@ -1286,9 +1340,12 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-4cx"
+          "_anchor": "content1-4kw"
         },
         {
           "_tags": [
@@ -1739,6 +1796,33 @@
             "bgColor": "#efefef"
           },
           "text": "<p>Midi Fusible Links: FL 7 Starter 40 amp (green) FL 8 Cooling 20 amp (blue) FL 9 Lights 40 amp (green) FL 10 Blower 30 amp (pink) FL 11 Cooling 30 amp (pink) FL 12 ABS 40 amp (green). Relay 1 Fuel Pump. Relay 2 Starter Motor.Relay 3 Cooling Fan. Relay 4 Main Relay. Relay 5 Blower Motor. Relay 6 Front Fog Lights. Relay 7 A/C Compressor.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4ki"
         },
         {
           "_params": {
@@ -7040,6 +7124,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4ko"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -7248,13 +7359,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -7262,7 +7373,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "A GOOD HEATER IS ESSENTIAL IN WINTER MONTHS",
@@ -7273,6 +7384,12 @@
           "_anchor": "header3-3y6"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -7286,13 +7403,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3c8",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcabinheater.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-4l0"
         },
         {
           "_tags": [
@@ -7513,7 +7624,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
           "_tags": [
@@ -7525,7 +7636,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-4cz"
+          "_anchor": "content1-4kx"
         },
         {
           "_tags": [
@@ -7990,6 +8101,33 @@
             }
           },
           "_anchor": "content1-4bu"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kf"
         },
         {
           "_params": {
@@ -8485,6 +8623,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kk"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -8875,7 +9040,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "center"
             }
           },
           "_anchor": "footer1-31m",
@@ -9818,6 +9984,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kh"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -10526,13 +10719,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -10540,7 +10733,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "HOW COOLANT CIRCULATES AROUND THE ENGINE&nbsp;",
@@ -10551,6 +10744,12 @@
           "_anchor": "header3-3y7"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -10564,13 +10763,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3ca",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-4l1"
         },
         {
           "_tags": [
@@ -10804,9 +10997,36 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4ke"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
           "_tags": [
@@ -11226,6 +11446,33 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kg"
         },
         {
           "_params": {
@@ -12954,6 +13201,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kn"
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
@@ -13386,6 +13660,33 @@
           ],
           "_name": "content1",
           "_anchor": "content1-493"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kl"
         },
         {
           "_params": {
