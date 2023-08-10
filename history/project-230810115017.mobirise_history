@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "comments.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6031,
+    "uniqCompNum": 6030,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -12569,7 +12569,7 @@
             "showBio": false,
             "count": 3,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -12584,21 +12584,45 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
             ".mbr-section-title": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
+              "font-size": "46px"
             },
-            ".lead": {
-              "color": "#ffffff"
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">A LOOK INSIDE THE YXB-100350 IGNITION SWITCH</span>",
+          "meta": "And the internal items that could wear out after many years of usage.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4nh"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "3",
@@ -12615,35 +12639,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "INSIDE THE YXB-100350 IGNITION SWITCH",
-          "text": "<p>And internal items that could wear out after many years of usage</p>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4ng"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"mailto:daveculpin2004@gmail.com\" class=\"text-primary\">daveculpin2004@gmail.com</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4ni",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#efefef"
-            }
-          }
         },
         {
           "_params": {
