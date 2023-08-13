@@ -1128,7 +1128,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1170,7 +1170,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>COOLANT TANK RPCF000160&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">COOLANT TANK RPCF000160&nbsp;</span>",
           "text": "To install this feature cooling system did not need to be drained, just syphoned out, then replaced with the new one, coolant then poured back into the new tank",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1182,12 +1182,12 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
-              "color": "#475577",
+              "color": "#000000",
               "text-align": "left"
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "20px",
+              "font-size": "22px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -1205,7 +1205,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1264,6 +1264,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "22px"
             }
           },
           "_anchor": "msg-box5-486"
@@ -7641,7 +7644,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-size": "20px",
               "text-align": "left"
             },
@@ -7649,7 +7652,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "22px"
             },
             "P": {
               "text-align": "left",
@@ -7658,7 +7661,7 @@
           },
           "_anchor": "msg-box5-1xh",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -8106,13 +8109,13 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8147,43 +8150,24 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
           "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4a2"
-        },
-        {
+          "_anchor": "msg-box5-4a2",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
+            "H3": {
               "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "46px"
+              "font-size": "22px"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">A LOOK INSIDE THE YXB-100350 IGNITION SWITCH</span>",
-          "meta": "And the internal items that could wear out after many years of usage.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4gu"
+          }
         },
         {
           "_tags": [
@@ -11043,7 +11027,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11084,7 +11068,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW LOCATION</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW&nbsp;</i></span>",
           "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11098,6 +11082,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "22px"
             }
           }
         },
@@ -11139,7 +11126,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11180,7 +11167,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CABIN HEATER MATRIX VALVE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>HEATER MATRIX VALVE</i></span>",
           "text": "As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11197,6 +11184,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "22px"
             }
           }
         },
@@ -11571,7 +11561,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "22px"
             },
             "P": {
               "text-align": "left",
@@ -11580,7 +11570,7 @@
           },
           "_anchor": "msg-box5-339",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11646,7 +11636,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11702,7 +11692,7 @@
             "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "22px"
             }
           }
         },

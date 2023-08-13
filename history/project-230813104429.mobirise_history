@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "partsguide.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5990,
+    "uniqCompNum": 6031,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -818,7 +818,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -844,20 +844,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tq"
+          "_anchor": "content1-4mz"
         },
         {
           "_tags": [
@@ -1329,23 +1334,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-4ms",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
               "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
-          },
-          "_anchor": "content1-4kw"
+          }
         },
         {
           "_tags": [
@@ -1801,7 +1808,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -1827,20 +1834,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tp"
+          "_anchor": "content1-4my"
         },
         {
           "_tags": [
@@ -2312,7 +2324,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2338,20 +2350,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3u1"
+          "_anchor": "content1-4na"
         },
         {
           "_tags": [
@@ -2931,7 +2948,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2957,20 +2974,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tz"
+          "_anchor": "content1-4n8"
         },
         {
           "_tags": [
@@ -3492,33 +3514,27 @@
           "_anchor": "image2-4m1"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "color": "#efefef"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "title": "SATELLITE NAVIGATION SYSTEM",
-          "meta": "A DIRECT FITTING FOR THE ROVER 200/25/ZR",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4m0"
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nb"
         },
         {
           "_tags": [
@@ -4055,24 +4071,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3ts"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -4481,33 +4479,27 @@
           "_anchor": "image2-4m4"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "color": "#efefef"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            }
-          },
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "title": "MG-ROVER COLOUR CODES",
-          "meta": "VEHICLE COLOUR CODES LIST FROM 1963 TO 2005",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4m3"
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nc"
         },
         {
           "_tags": [
@@ -4901,7 +4893,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -4927,41 +4919,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u5"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4md"
+          "_anchor": "content1-4ne"
         },
         {
           "_tags": [
@@ -5327,7 +5303,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -5353,41 +5329,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4mb"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4m8",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content1-4nd"
         },
         {
           "_tags": [
@@ -5825,7 +5785,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -5851,20 +5811,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tw"
+          "_anchor": "content1-4n4"
         },
         {
           "_tags": [
@@ -6466,7 +6431,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -6492,20 +6457,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3u0"
+          "_anchor": "content1-4n9"
         },
         {
           "_tags": [
@@ -6943,24 +6913,6 @@
           },
           "title": "BACKGROUND IMAGE",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tx"
         },
         {
           "_tags": [
@@ -7406,20 +7358,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tu"
+          "_anchor": "content1-4n2"
         },
         {
           "_tags": [
@@ -7873,24 +7830,6 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4kx"
         },
         {
           "_tags": [
@@ -8360,7 +8299,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -8386,20 +8325,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tm"
+          "_anchor": "content1-4mv"
         },
         {
           "_tags": [
@@ -8879,7 +8823,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -8905,20 +8849,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tr"
+          "_anchor": "content1-4n0"
         },
         {
           "_tags": [
@@ -9111,13 +9060,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -9125,7 +9074,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "OIL CHANGE ON THE 1996&nbsp; ROVER 200 R.65 GEARBOX",
@@ -9136,6 +9085,12 @@
           "_anchor": "header3-3yt"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -9149,13 +9104,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3de",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-4mi"
         },
         {
           "_tags": [
@@ -9270,21 +9219,53 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4mk"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3u6"
+          "_anchor": "content1-4nf"
         },
         {
           "_tags": [
@@ -9842,24 +9823,6 @@
           "_anchor": "msg-box8-4gp"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3tt"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -10240,7 +10203,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -10266,20 +10229,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3to"
+          "_anchor": "content1-4mx"
         },
         {
           "_tags": [
@@ -10768,7 +10736,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -10794,20 +10762,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3ty"
+          "_anchor": "content1-4n5"
         },
         {
           "_tags": [
@@ -11306,20 +11279,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#c1c1c1"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tl"
+          "_anchor": "content1-4mu"
         },
         {
           "_tags": [
@@ -11758,20 +11736,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tn"
+          "_anchor": "content1-4mw"
         },
         {
           "_tags": [
@@ -12224,7 +12207,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -12250,20 +12233,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tv"
+          "_anchor": "content1-4n3"
         },
         {
           "_tags": [
@@ -12456,13 +12444,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#efefef",
               "font-size": "19px"
             }
           },
@@ -12470,7 +12458,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
           "meta": "COMMENTS ABOUT OUR 1996 ROVER 200/2004 MG-ZR",
@@ -12481,6 +12469,12 @@
           "_anchor": "header3-3yu"
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-white\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -12494,13 +12488,7 @@
               "color": "#7e9b9f"
             }
           },
-          "_anchor": "content1-3di",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>"
+          "_anchor": "content1-4ml"
         },
         {
           "_inherit": "testimonials1",
@@ -12595,70 +12583,90 @@
           "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
-            "showTitle": false,
-            "showSubTitle": false,
-            "labelsColor": "#232323",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "form": {
-            "action": "crescent85@pobroadband.co.uk",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
+          "title": "INSIDE THE YXB-100350 IGNITION SWITCH",
+          "text": "<p>And internal items that could wear out after many years of usage</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-3ub",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4ng"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"mailto:daveculpin2004@gmail.com\" class=\"text-primary\">daveculpin2004@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4ni",
           "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
+            "P": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px"
+            "DIV": {
+              "color": "#efefef"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4n6"
         },
         {
           "_tags": [
@@ -13973,7 +13981,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -13999,20 +14007,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-48z"
+          "_anchor": "content1-4n1"
         },
         {
           "_tags": [

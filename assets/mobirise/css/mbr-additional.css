@@ -876,12 +876,12 @@ section.form .container {
 #msg-box5-485 H3 {
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
-  color: #475577;
+  color: #000000;
   text-align: left;
 }
 #msg-box5-485 SPAN {
   color: #475577;
-  font-size: 20px;
+  font-size: 22px;
   font-family: 'Lora', serif;
 }
 #msg-box5-485 P {
@@ -900,6 +900,9 @@ section.form .container {
 }
 #msg-box5-486 P {
   text-align: left;
+}
+#msg-box5-486 SPAN {
+  font-size: 22px;
 }
 #content1-1tr P {
   font-size: 17px;
@@ -2935,14 +2938,14 @@ section.form .container {
   font-size: 17px;
 }
 #msg-box5-1xh H3 {
-  color: #7e9b9f;
+  color: #475577;
   font-size: 20px;
   text-align: left;
 }
 #msg-box5-1xh SPAN {
   color: #475577;
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 22px;
 }
 #msg-box5-1xh P {
   text-align: left;
@@ -3088,17 +3091,12 @@ section.form .container {
 #content1-1nn P {
   font-size: 17px;
 }
-#header3-4gu .mbr-section-title,
-#header3-4gu .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4gu .mbr-section-title {
+#msg-box5-4a2 H3 {
   color: #475577;
-  font-family: 'Lora', serif;
-  font-size: 46px;
+  font-size: 22px;
 }
-#header3-4gu .mbr-section-title SPAN {
-  font-size: 30px;
+#msg-box5-4a2 SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-37l P {
   text-align: left;
@@ -4037,6 +4035,9 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 20px;
 }
+#msg-box5-48a SPAN {
+  font-size: 22px;
+}
 #content1-32t DIV {
   font-size: 17px;
 }
@@ -4050,6 +4051,9 @@ section.form .container {
 }
 #msg-box5-48e P {
   text-align: left;
+}
+#msg-box5-48e SPAN {
+  font-size: 22px;
 }
 #content1-330 P {
   font-size: 17px;
@@ -4189,7 +4193,7 @@ section.form .container {
 #msg-box5-339 SPAN {
   color: #475577;
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 22px;
 }
 #msg-box5-339 P {
   text-align: left;
@@ -4203,7 +4207,7 @@ section.form .container {
 }
 #msg-box5-4ae SPAN {
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 22px;
 }
 #content1-4mw DIV {
   color: #efefef;
