@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "satnav.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -5198,7 +5198,7 @@
           },
           "_anchor": "msg-box5-1p8",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9075,7 +9075,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9116,7 +9116,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>OUR FILLING PROCEDURE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>NO MESS FILLING PROCEDURE</i></span>",
           "text": "Our none messy filling procedure, to insert into the filler hole, a clear plastic tube attached to a base removed old redex container, with oil now running directly into gearbox, At the time bluecol antifreeze is shown as being used in the 200 cooling system in early 2004.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9130,7 +9130,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px",
               "color": "#475577",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "font-size": "20px"
@@ -12487,6 +12487,48 @@
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
           "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "INSIDE THE YXB-100350 IGNITION SWITCH",
+          "text": "<p>And internal items that could wear out after many years of usage</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4ng"
         },
         {
           "_params": {
