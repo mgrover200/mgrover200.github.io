@@ -564,6 +564,9 @@ section.form .container {
   font-size: 22px;
   color: #7e9b9f;
 }
+#image1-4je DIV {
+  color: #efefef;
+}
 #header3-4k4 .mbr-section-title,
 #header3-4k4 .mbr-section-subtitle {
   text-align: center;
@@ -574,7 +577,7 @@ section.form .container {
   font-size: 30px;
 }
 #header3-4k4 .mbr-section-title SPAN {
-  font-size: 36px;
+  font-size: 25px;
 }
 #header3-4k4 .mbr-section-title {
   color: #7e9b9f;
@@ -1195,18 +1198,10 @@ section.form .container {
   text-align: left;
   font-size: 17px;
 }
-#msg-box5-2y9 H3 {
-  font-family: 'Lora', serif;
-  font-size: 20px;
-  color: #7e9b9f;
-}
-#msg-box5-2y9 P {
-  text-align: left;
-  font-size: 17px;
-}
-#msg-box5-2y9 SPAN {
+#msg-box5-4no H3 {
   color: #475577;
   font-size: 20px;
+  font-family: 'Lora', serif;
 }
 #msg-box5-1vv H3 {
   color: #7e9b9f;
@@ -2813,6 +2808,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2952,6 +2948,13 @@ section.form .container {
 }
 #msg-box8-1nh .lead P {
   color: #000000;
+}
+#content1-4nn DIV {
+  color: #efefef;
+}
+#content1-4nn P {
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #footer1-2u2 P {
   color: #ffffff;

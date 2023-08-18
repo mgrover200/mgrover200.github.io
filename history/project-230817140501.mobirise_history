@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lightcheck.html",
+    "currentPage": "cabinfuse.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6038,
+    "uniqCompNum": 6036,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -284,17 +284,12 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "NORTH YORKSHIRE TOUR 2014",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-4je",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            }
-          }
+          "_anchor": "image1-4je"
         },
         {
           "_styles": {
@@ -308,14 +303,14 @@
               "font-size": "30px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "36px"
             },
             ".mbr-section-title": {
               "color": "#7e9b9f"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#000000"
@@ -2121,13 +2116,34 @@
           "text": "<p>Generally doing a check on my lights every week or so, I could not have known when a blown bulb had actually occured during any period from that time, so on deciding that the tail, and especially the brake lights are important for safety and legal requirements, so a bulb monitoring system was now being considered to be created and installed into the MG over next few days, using solid core end glow fibre optic cables.</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "color": "#7e9b9f"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box5-2y9",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
+            "imageSize": "49",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2146,9 +2162,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0036-bulb-blown-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0091-rover-bulb-monitor-500x200.jpg",
               "link": "",
-              "alt": "showing a blown tail light bulb",
+              "alt": "brake light monitoring mg-zr",
+              "title": "notifier",
               "linkInNewWindow": false
             },
             "video": {
@@ -2163,22 +2180,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">MONITORING THE REAR BULBS</span>",
-          "text": "The optic cables were inserted into rear of the dial panel, to show through directly under the cabin's temp gauge placed in a specific sequence. The outer ones are the brake light bulbs, and inner ones, tail light bulbs. This example shows a blown offside tail light bulb. .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-4no",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\"><i>SHOWN UNDER TEMP GAUGE </i>&nbsp;&nbsp;</span>",
+          "text": "The optic cables were inserted into rear of the dial panel, to show through an unused section directly under the cabin's temp gauge. placed in a specific sequence, the outer ones being the brake light bulbs, and inner ones, tail light bulbs, as shown in this illustration.&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -2245,7 +2249,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FIBRE OPTIC CABLES INSERTED&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FIBRE OPTIC CABLES INSERTED&nbsp;</i></span>",
           "text": "One of the light units, shown removed from vehicle complete with the fibre optic cables inserted after trial and error getting a correct position for a good light output from each of the rear bulbs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
