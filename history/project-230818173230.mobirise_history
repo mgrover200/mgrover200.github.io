@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "lightcheck.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6040,
+    "uniqCompNum": 6038,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -269,91 +269,64 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-4nq"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/videorun-1400x707.jpg",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0098-mgzr-engine-fuse-box-814x415.jpg",
               "link": "",
-              "alt": "mg-zr-fuse-box",
-              "title": "",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>ENGINE FUSE BOX</i></span>",
-          "text": "F1 Engine management system, automatic transmission selector, speedo 10amp (red) <br>F2 Engine management system, fuel pump 20amp (yellow) <br>F3 Engine management glowplug relay 10amp (red) <br>F4 Aircon relay, cooling fan relay 10amp (red).",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "NORTH YORKSHIRE TOUR 2014",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
+          "_name": "image1",
+          "_anchor": "image1-4je",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
             "H3": {
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "21px"
+              "font-size": "30px"
             },
-            "P": {
-              "font-size": "17px"
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             },
-            "SPAN": {
-              "font-size": "20px",
-              "color": "#475577"
+            ".mbr-section-title": {
+              "color": "#7e9b9f"
             }
           },
-          "_anchor": "msg-box5-4nr"
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2014</span>",
+          "meta": "2004 MG-ZR 120 Plus",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4k4"
         },
         {
           "_tags": [
@@ -8127,7 +8100,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0038-mg-rover-ignition-switch-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0097-rover-ignition-switch-500x200.jpg",
               "link": "",
               "alt": "mg rover ignition switch",
               "linkInNewWindow": false
@@ -8145,7 +8118,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
-          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached as shown, from the multi-connector.",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
