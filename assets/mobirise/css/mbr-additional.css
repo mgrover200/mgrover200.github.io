@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -565,10 +566,19 @@ section.form .container {
   font-size: 22px;
   color: #7e9b9f;
 }
-#content1-4nq P {
-  color: #000000;
-  text-align: left;
-  font-size: 17px;
+#header3-4nv .mbr-section-title,
+#header3-4nv .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4nv .mbr-section-title {
+  color: #475577;
+}
+#header3-4nv .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-4nv .mbr-section-subtitle {
+  color: #475577;
 }
 #msg-box5-4nr H3 {
   color: #475577;
@@ -581,6 +591,11 @@ section.form .container {
 #msg-box5-4nr SPAN {
   font-size: 20px;
   color: #475577;
+}
+#content1-4nw P {
+  color: #000000;
+  text-align: left;
+  font-size: 17px;
 }
 #content1-4nt DIV {
   color: #efefef;
@@ -3430,6 +3445,7 @@ section.form .container {
 
 
 
+
 #ext_menu-31p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3588,6 +3604,13 @@ section.form .container {
 #msg-box8-4gp .mbr-section-title,
 #msg-box8-4gp .lead {
   color: #fff;
+}
+#content1-4nu DIV {
+  color: #efefef;
+}
+#content1-4nu P {
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #footer1-31x P {
   color: #ffffff;

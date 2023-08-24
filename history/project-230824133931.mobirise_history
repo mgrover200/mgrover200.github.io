@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "cabinheater.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6046,
+    "uniqCompNum": 6043,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,35 +268,24 @@
           "_anchor": "content1-4ky"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            }
-          },
           "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">2004 MG-ZR ENGINE BAY FUSE BOX</span>",
-          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
+          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide. <a href=\"enginefuse.html\" class=\"text-primary\">MORE INFO.</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4nv"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-4nq"
         },
         {
           "_params": {
@@ -365,53 +354,6 @@
             }
           },
           "_anchor": "msg-box5-4nr"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide. <a href=\"enginefuse.html\" class=\"text-primary\">MORE INFO.</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-4nw"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4nx"
         },
         {
           "_params": {
