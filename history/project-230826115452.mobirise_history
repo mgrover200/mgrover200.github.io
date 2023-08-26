@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "partsguide.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6060,
+    "uniqCompNum": 6052,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -278,7 +278,7 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "color": "#475577"
@@ -287,10 +287,10 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
+          "title": "<span style=\"font-weight: normal;\">2004 MG-ZR ENGINE BAY FUSE BOX</span>",
           "meta": "The above, including more features and projects, are shown on our site&nbsp;",
           "_tags": [
             "Theme"
@@ -300,91 +300,91 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-4o6"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0098-mgzr-engine-fuse-box-814x415.jpg",
               "link": "",
-              "alt": "mg rover parts guide",
+              "alt": "mg-zr-fuse-box",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE FUSE BOX</i></span>",
+          "text": "F1 Engine management system, automatic transmission selector, speedo 10amp (red) <br>F2 Engine management system, fuel pump 20amp (yellow) <br>F3 Engine management glowplug relay 10amp (red) <br>F4 Aircon relay, cooling fan relay 10amp (red).",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-4o7"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Crankshaft Sensor</b> ADU 7340. <b>Distributor Cap</b> HDC504. <b>Door Switches</b> YUE-100570. <b>Fuel Filter</b> HFF-236.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Fuel Rail</b> O Ring BAU-5325. <b>Fuel</b> <b>VaporTrap</b> NPC 10001. <b>Fuel Pressure Regulator</b>. NNK-10001.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HT Leads</b> Bosch B731. Leoni 2015 ZR. <b>Heater Control Valve</b> JJB100240. <b>Heater</b> <b>Risistor Pack</b> JGM 10002.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Heater Matrix Valve</b> PCH003300.<b> Inlet Manifold Gasket</b>. LKJ 101110. <b>Idle Air Control Valve</b> MLZ 100090.</span></p><p><b>Lambda Sensor</b> MHK-10006.<b> Oil Filters </b>Champion B-104. HOF-213.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
+          "_name": "msg-box5",
           "_styles": {
-            "P": {
-              "font-size": "16px"
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "21px"
             },
-            "DIV": {
+            "P": {
+              "font-size": "17px"
+            },
+            "SPAN": {
+              "font-size": "20px",
               "color": "#475577"
             }
           },
-          "_anchor": "content1-4o8"
+          "_anchor": "msg-box5-4nr"
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Listed above are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon. <a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-primary\">VIEW MORE.</a></p>",
+          "text": "<p>Information page concentrates specifically on the 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide. <a href=\"enginefuse.html\" class=\"text-primary\">MORE INFO.</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
+              "color": "#000000",
               "text-align": "left",
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-4o9"
+          "_anchor": "content1-4nw"
         },
         {
           "_params": {
@@ -4823,43 +4823,6 @@
           "_anchor": "content1-4mc"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
-          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4oa"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4870,7 +4833,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-4ob"
+          "_anchor": "content1-185",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the 200/25/ZR parts guide and numbers for easy reference. Although available at the time, some parts numbers may now be obsolete, and should not be totally relied upon.&nbsp;</p>"
         },
         {
           "_tags": [

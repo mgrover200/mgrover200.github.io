@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6060,
+    "uniqCompNum": 6058,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -373,7 +373,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Listed above are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon. <a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-primary\">VIEW MORE.</a></p>",
+          "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the above and numbers for easy reference. Although available at the time, some may now be obsolete, and not to be totally relied upon. VIEW MORE ITEMS.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4823,43 +4823,6 @@
           "_anchor": "content1-4mc"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
-          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4oa"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4870,7 +4833,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-4ob"
+          "_anchor": "content1-185",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the 200/25/ZR parts guide and numbers for easy reference. Although available at the time, some parts numbers may now be obsolete, and should not be totally relied upon.&nbsp;</p>"
         },
         {
           "_tags": [
