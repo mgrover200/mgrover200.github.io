@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6060,
+    "uniqCompNum": 6069,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -6455,7 +6455,7 @@
               "color": "#475577"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -6539,23 +6539,20 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>FLIP MINO HD CAMCORDER&nbsp;</i></span>",
-          "text": "Prior to dashcams becoming more popular, we used the cisco video camera, shown fitted to the lower part of wind screen, with modified and quick release satnav mount for this purpose.",
+          "text": "Prior to dashcams becoming more popular, we used the cisco video camera, shown fitted to the lower part of wind screen, with slide out quick release camera option, modified from an old satnav mount.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0073-north-yorkshire-tour-2013-1400x400.jpg",
               "width": 1400,
               "link": "",
-              "alt": "",
+              "alt": "north yorkshire tour 2013",
               "linkInNewWindow": false
             },
             "video": {
@@ -6566,8 +6563,40 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-4lq"
+          "_name": "image1",
+          "_anchor": "image1-4od"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2013</span>",
+          "meta": "WITH CAMERA LOCATED IN A DYNAMIC OFF CENTER POSITION",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4oj"
         },
         {
           "_params": {
@@ -13462,7 +13491,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0051-bernice-dutton-marcos-rally-june-1977-490x268.jpg",
               "link": "",
-              "alt": "Marcos rally 1977",
+              "alt": "Marcos rally June 1977",
               "linkInNewWindow": false
             },
             "video": {

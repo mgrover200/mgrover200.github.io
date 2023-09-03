@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "dashcam.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6036,
+    "uniqCompNum": 6067,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,13 +268,135 @@
           "_anchor": "content1-4ky"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
           "_params": {
-            "showText": false
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
+          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4nv"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4o6"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/videorun-1400x707.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4o7"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Crankshaft Sensor</b> ADU 7340. <b>Distributor Cap</b> HDC504. <b>Door Switches</b> YUE-100570. <b>Fuel Filter</b> HFF-236.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Fuel Rail</b> O Ring BAU-5325. <b>Fuel</b> <b>VaporTrap</b> NPC 10001. <b>Fuel Pressure Regulator</b>. NNK-10001.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HT Leads</b> Bosch B731. Leoni 2015 ZR. <b>Heater Control Valve</b> JJB100240. <b>Heater</b> <b>Risistor Pack</b> JGM 10002.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Heater Matrix Valve</b> PCH003300.<b> Inlet Manifold Gasket</b>. LKJ 101110. <b>Idle Air Control Valve</b> MLZ 100090.</span></p><p><b>Lambda Sensor</b> MHK-10006.<b> Oil Filters </b>Champion B-104. HOF-213.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4o8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed above are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon. <a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-primary\">VIEW MORE.</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-4o9"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -284,49 +406,35 @@
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "text": "NORTH YORKSHIRE TOUR 2014",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-4je",
+          "_name": "image2",
+          "_anchor": "image2-4nx"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
             "DIV": {
               "color": "#efefef"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
             },
-            "H3": {
-              "color": "#475577",
+            "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            },
-            ".mbr-section-title": {
-              "color": "#7e9b9f"
+              "text-align": "center"
             }
           },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000000"
-          },
-          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2014</span>",
-          "meta": "2004 MG-ZR 120 Plus",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4k4"
+          "_anchor": "content1-4nt"
         },
         {
           "_tags": [
@@ -2121,34 +2229,13 @@
           "text": "<p>Generally doing a check on my lights every week or so, I could not have known when a blown bulb had actually occured during any period from that time, so on deciding that the tail, and especially the brake lights are important for safety and legal requirements, so a bulb monitoring system was now being considered to be created and installed into the MG over next few days, using solid core end glow fibre optic cables.</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "color": "#7e9b9f"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-2y9",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "49",
-            "paddingTop": "0",
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2167,10 +2254,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0091-rover-bulb-monitor-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0026-mg-rover-bulb-monitoring-500x200.jpg",
               "link": "",
-              "alt": "brake light monitoring mg-zr",
-              "title": "notifier",
+              "alt": "showing a blown tail light bulb",
               "linkInNewWindow": false
             },
             "video": {
@@ -2185,9 +2271,22 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SHOWN UNDER TEMP GAUGE </i>&nbsp;&nbsp;</span>",
-          "text": "The optic cables were inserted into rear of the dial panel, to show through an unused section directly under the cabin's temp gauge. placed in a specific sequence, the outer ones being the brake light bulbs, and inner ones, tail light bulbs, as shown in this illustration.&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "<span style=\"font-weight: normal;\">MONITORING THE REAR BULBS</span>",
+          "text": "The optic cables were inserted into rear of the dial panel, to show through directly under the cabin's temp gauge placed in a specific sequence. The outer ones are the brake light bulbs, and inner ones, tail light bulbs. This example shows a blown offside tail light bulb. .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4no",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2254,7 +2353,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FIBRE OPTIC CABLES INSERTED&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">FIBRE OPTIC CABLES INSERTED&nbsp;</span>",
           "text": "One of the light units, shown removed from vehicle complete with the fibre optic cables inserted after trial and error getting a correct position for a good light output from each of the rear bulbs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -4724,6 +4823,43 @@
           "_anchor": "content1-4mc"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
+          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4oa"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4734,13 +4870,7 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-185",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the 200/25/ZR parts guide and numbers for easy reference. Although available at the time, some parts numbers may now be obsolete, and should not be totally relied upon.&nbsp;</p>"
+          "_anchor": "content1-4ob"
         },
         {
           "_tags": [
@@ -4755,13 +4885,13 @@
               "color": "#475577"
             }
           },
-          "_anchor": "content1-29g",
+          "_anchor": "content1-29i",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Alternator</b><i style=\"font-weight: bold;\">&nbsp;</i>8..10..13..15mm. <b>Air Temp Sensor</b>&nbsp;19mm. <b>Armrest</b> 7..8..10mm. <b>Air bag</b> T.30. <b>Bonnet catch</b> 10mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Battery clamp</b> 13mm. <b>Brake caliper</b> 12mm. <b>Coolant temp sensor</b> 19mm. <b>Coolant elbow</b> 8mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> 8mm. <b>Coolant bleed screw</b> 8mm. <b>Cylinder head cover</b> 8mm. <b>Cylinder</b> <b>head bolts</b> 12 torx.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cam sprockets</b> 17mm. <b>Camshaft carrier</b> 8mm. <b>Crankshaft bolt</b> 22mm. <b>Cambelt cover </b>8..10mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cambelt tensioner</b> 8mm. <b>Engine mount</b> 15..18mm. <b>Exhaust manifold</b> 17mm.</span></p>"
+          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>"
         },
         {
           "_params": {
@@ -4788,49 +4918,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4ju"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-29h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Front bumper</b> 10mm. <b>Fuel filter</b> 8..14..19mm. <b>Fuel inlet union</b> 8mm. <b>Gearbox</b> drain / fill 17mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Glovebox</b> 8mm. <b>Inlet manifold</b> 13mm.<b> I.A.C.V</b> T.20..T.30..10mm. <b>Lambda sensor</b> 22mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Light lens</b> (rear) 8mm. <b>Rotor arm</b> 8mm. <b>Seats</b> (rear) 10mm. <b>Seat frame</b> Star 50. <b>Sump plug</b> 19mm</span></p><p><b>Sump bolts</b> 10mm. <b>Sparkplugs</b> 16mm. <b>Starter motor</b> 13mm. <b>Sunroof</b> glass panel T.25.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wheel nuts</b> 19mm. <b>Wiper arms</b> 13mm.</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-29i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>"
+          "_anchor": "image2-4o0"
         },
         {
           "_tags": [
@@ -4869,10 +4957,81 @@
           "_anchor": "content1-29k",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p><b>P.A.S Belts </b>Unipart GMB 30755. Bosch 7880. <b>Rotor Arm</b> HRA529. <b>Radiator</b> Nissens 64209.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Top Radiator Hose</b> PCH 115731. <b>Sparkplugs</b> Champion RC9YCC. NGK BKR6E 6962.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Sump Gasket</b> LVF 100290. <b>Sump Bolt Washer</b> CL UAM2857. <b>Starter Motor</b> Hella CS610-1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Throttle Position</b> <b>Sensor</b> MHB 10144. <b>Tailgate Wiring Loom</b> YMN-101940. <b>Thermostat Seal</b> CDU3858.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Water Pump</b> HWP 632. <b>Washer Pumps</b> Valeo 140796. <b>Wiper Motor Rear </b>Valeo 530 08-002.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wiper Motor Front</b> DLB-101380.</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">SPANNER AND SOCKET SIZES</span>",
+          "meta": "A random selection of emissions results taken over a 10 year period",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4o2"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Alternator</b><i style=\"font-weight: bold;\">&nbsp;</i>8..10..13..15mm. <b>Air Temp Sensor</b>&nbsp;19mm. <b>Armrest</b> 7..8..10mm. <b>Air bag</b> T.30. <b>Bonnet catch</b> 10mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Battery clamp</b> 13mm. <b>Brake caliper</b> 12mm. <b>Coolant temp sensor</b> 19mm. <b>Coolant elbow</b> 8mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> 8mm. <b>Coolant bleed screw</b> 8mm. <b>Cylinder head cover</b> 8mm. <b>Cylinder</b> <b>head bolts</b> 12 torx.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cam sprockets</b> 17mm. <b>Camshaft carrier</b> 8mm. <b>Crankshaft bolt</b> 22mm. <b>Cambelt cover </b>8..10mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cambelt tensioner</b> 8mm. <b>Engine mount</b> 15..18mm. <b>Exhaust manifold</b> 17mm.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ny"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Front bumper</b> 10mm. <b>Fuel filter</b> 8..14..19mm. <b>Fuel inlet union</b> 8mm. <b>Gearbox</b> drain / fill 17mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Glovebox</b> 8mm. <b>Inlet manifold</b> 13mm.<b> I.A.C.V</b> T.20..T.30..10mm. <b>Lambda sensor</b> 22mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Light lens</b> (rear) 8mm. <b>Rotor arm</b> 8mm. <b>Seats</b> (rear) 10mm. <b>Seat frame</b> Star 50. <b>Sump plug</b> 19mm</span></p><p><b>Sump bolts</b> 10mm. <b>Sparkplugs</b> 16mm. <b>Starter motor</b> 13mm. <b>Sunroof</b> glass panel T.25.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wheel nuts</b> 19mm. <b>Wiper arms</b> 13mm.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4nz"
         },
         {
           "_params": {
@@ -6296,7 +6455,7 @@
               "color": "#475577"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -6384,19 +6543,48 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577",
+              "font-size": "14px"
+            }
+          },
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
+            "showMeta": true,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2013</span>",
+          "meta": "WITH CAMERA LOCATED IN A DYNAMIC OFF CENTER POSITION",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4oi"
+        },
+        {
+          "_params": {
+            "showText": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0073-north-yorkshire-tour-2013-1400x400.jpg",
               "width": 1400,
               "link": "",
-              "alt": "",
+              "alt": "north yorkshire tour 2013",
               "linkInNewWindow": false
             },
             "video": {
@@ -6407,8 +6595,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-4lq"
+          "_name": "image1",
+          "_anchor": "image1-4od"
         },
         {
           "_params": {
@@ -8109,7 +8297,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0097-rover-ignition-switch-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0038-mg-rover-ignition-switch-500x200.jpg",
               "link": "",
               "alt": "mg rover ignition switch",
               "linkInNewWindow": false
@@ -8127,7 +8315,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
-          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached as shown, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9782,6 +9970,29 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4gp"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nu"
         },
         {
           "_tags": [
@@ -13280,7 +13491,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0051-bernice-dutton-marcos-rally-june-1977-490x268.jpg",
               "link": "",
-              "alt": "Marcos rally 1977",
+              "alt": "Marcos rally June 1977",
               "linkInNewWindow": false
             },
             "video": {

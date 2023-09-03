@@ -2365,6 +2365,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2519,7 +2520,7 @@ section.form .container {
   color: #475577;
 }
 #header3-3wq .mbr-section-title SPAN {
-  font-size: 25px;
+  font-size: 36px;
 }
 #msg-box5-397 H3 {
   color: #475577;
@@ -2534,6 +2535,21 @@ section.form .container {
 #msg-box5-397 P {
   text-align: left;
   font-size: 17px;
+}
+#header3-4oj .mbr-section-title,
+#header3-4oj .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4oj .mbr-section-title {
+  color: #475577;
+  font-family: 'Lora', serif;
+}
+#header3-4oj .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#header3-4oj .mbr-section-subtitle {
+  color: #475577;
+  font-size: 14px;
 }
 #content1-4n9 DIV {
   color: #efefef;

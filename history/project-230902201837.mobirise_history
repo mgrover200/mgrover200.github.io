@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "emissions.html",
+    "currentPage": "dashcam.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6017,
+    "uniqCompNum": 6061,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -268,13 +268,135 @@
           "_anchor": "content1-4ky"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
           "_params": {
-            "showText": false
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
+          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4nv"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4o6"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/videorun-1400x707.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4o7"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Crankshaft Sensor</b> ADU 7340. <b>Distributor Cap</b> HDC504. <b>Door Switches</b> YUE-100570. <b>Fuel Filter</b> HFF-236.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Fuel Rail</b> O Ring BAU-5325. <b>Fuel</b> <b>VaporTrap</b> NPC 10001. <b>Fuel Pressure Regulator</b>. NNK-10001.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HT Leads</b> Bosch B731. Leoni 2015 ZR. <b>Heater Control Valve</b> JJB100240. <b>Heater</b> <b>Risistor Pack</b> JGM 10002.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Heater Matrix Valve</b> PCH003300.<b> Inlet Manifold Gasket</b>. LKJ 101110. <b>Idle Air Control Valve</b> MLZ 100090.</span></p><p><b>Lambda Sensor</b> MHK-10006.<b> Oil Filters </b>Champion B-104. HOF-213.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4o8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed above are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon. <a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-primary\">VIEW MORE.</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-4o9"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -288,40 +410,31 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-4je"
+          "_name": "image2",
+          "_anchor": "image2-4nx"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px"
-            },
-            ".mbr-section-title": {
-              "color": "#7e9b9f"
-            }
-          },
           "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#000000"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2014</span>",
-          "meta": "2004 MG-ZR 120 Plus",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4k4"
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nt"
         },
         {
           "_tags": [
@@ -534,7 +647,7 @@
             "bgColor": "#475577"
           },
           "title": "<i>MG-ROVER INFORMATION PAGES</i>",
-          "meta": "CABIN FUSE BOX IDENTIFICATION FOR THE 2004 ZR",
+          "meta": "CABIN FUSE BOX IDENTIFICATION 2004 ZR",
           "_tags": [
             "Theme"
           ],
@@ -647,7 +760,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FUSE'S IN A LISTED ORDER&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUSE'S IN LISTED ORDER&nbsp;</i></span>",
           "text": "<b>Left Column:</b> 9 headlamp washers 20amp. 8 electric sunroof 30amp. 7 electric window RH front 20amp. 6 electric window LH front 20amp. 5 interior / boot light, audio unit, clock 10amp. 4 electric window LH rear 20amp. 3 cig lighter / power socket 10amp. 2 electric window RH rear 20amp. 1 horn, rear fog lights 20amp.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -700,7 +813,7 @@
               "font-size": "17px"
             },
             "H3": {
-              "color": "#90a878",
+              "color": "#475577",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px"
@@ -1124,11 +1237,11 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.&nbsp;</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1170,8 +1283,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>COOLANT TANK RPCF000160&nbsp;</i></span>",
-          "text": "To install this feature cooling system did not need to be drained, just syphoned out, then replaced with the new one, coolant then poured back into the new tank",
+          "title": "<span style=\"font-weight: normal;\">COOLANT TANK RPCF000160&nbsp;</span>",
+          "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank, and then the coolant just poured back in.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1182,7 +1295,7 @@
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
-              "color": "#475577",
+              "color": "#000000",
               "text-align": "left"
             },
             "SPAN": {
@@ -1205,7 +1318,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1248,7 +1361,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR OPTIONS</span>",
-          "text": "Shows the coolant tank sensor RPCJ000040 along with the two optional warning modules, a dashboard bulb, and a piezo buzzer. either one of these two options can be fitted..&nbsp;",
+          "text": "Shows the coolant tank sensor RPCJ000040 along with the two optional warning modules, a dashboard bulb, and a piezo buzzer.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1264,6 +1377,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           },
           "_anchor": "msg-box5-486"
@@ -1284,7 +1400,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank, part number RPCF000160, and a coolant reed sensor part number RPCJ000040, with an option as shown to fit just one, or both of the warning modules, so we chose to fit both of them.&nbsp;&nbsp;</p>"
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank, Part number RPCF000160, and a coolant reed sensor part number RPCJ000040, with an option fit just one, or both of the warning modules, so we chose to fit both of them.</p>"
         },
         {
           "_tags": [
@@ -1299,10 +1415,10 @@
           "_anchor": "content1-22c",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.</p>"
+          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out. Along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp;&nbsp;</p>"
         },
         {
           "_params": {
@@ -1337,7 +1453,7 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1686,7 +1802,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "48",
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -1725,7 +1841,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FUSES AND RELAYS 2004 MG-ZR</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUSES AND RELAYS 04 ZR</i></span>",
           "text": "The different types of fuses, which are shown here as an example, may vary due to production year and model, and so may even contain more or less than the items which are actually included in the fuse box.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2113,34 +2229,13 @@
           "text": "<p>Generally doing a check on my lights every week or so, I could not have known when a blown bulb had actually occured during any period from that time, so on deciding that the tail, and especially the brake lights are important for safety and legal requirements, so a bulb monitoring system was now being considered to be created and installed into the MG over next few days, using solid core end glow fibre optic cables.</p>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "color": "#7e9b9f"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-2y9",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "49",
-            "paddingTop": "0",
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2159,10 +2254,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0091-rover-bulb-monitor-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0026-mg-rover-bulb-monitoring-500x200.jpg",
               "link": "",
-              "alt": "brake light monitoring mg-zr",
-              "title": "notifier",
+              "alt": "showing a blown tail light bulb",
               "linkInNewWindow": false
             },
             "video": {
@@ -2177,9 +2271,22 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SHOWN UNDER TEMP GAUGE </i>&nbsp;&nbsp;</span>",
-          "text": "The optic cables were inserted into rear of the dial panel, to show through an unused section directly under the cabin's temp gauge. placed in a specific sequence, the outer ones being the brake light bulbs, and inner ones, tail light bulbs, as shown in this illustration.&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "<span style=\"font-weight: normal;\">MONITORING THE REAR BULBS</span>",
+          "text": "The optic cables were inserted into rear of the dial panel, to show through directly under the cabin's temp gauge placed in a specific sequence. The outer ones are the brake light bulbs, and inner ones, tail light bulbs. This example shows a blown offside tail light bulb. .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4no",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2204,7 +2311,7 @@
           },
           "_anchor": "msg-box5-1vv",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -2246,7 +2353,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FIBRE OPTIC CABLES INSERTED&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">FIBRE OPTIC CABLES INSERTED&nbsp;</span>",
           "text": "One of the light units, shown removed from vehicle complete with the fibre optic cables inserted after trial and error getting a correct position for a good light output from each of the rear bulbs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -2324,7 +2431,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2350,20 +2457,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3u1"
+          "_anchor": "content1-4na"
         },
         {
           "_tags": [
@@ -2647,7 +2759,7 @@
           },
           "_anchor": "msg-box5-1xk",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2730,35 +2842,6 @@
           "text": "<p>To install the steering wheel fitted audio remote control, careful and precise cutting soon had it looking as good as a factory fit, the two black remote control wires were then pinned into horn connector to left of the red horn wire, the air bag now placed back and secured, blue and yellow airbag connector seated correctly with a good positive click, or the SRS light will be constantly flashing.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>ACCESS TO THE ROTARY COUPLER MG-ZR</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-412"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2778,7 +2861,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2859,10 +2942,10 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -2943,7 +3026,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2969,20 +3052,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3tz"
+          "_anchor": "content1-4n8"
         },
         {
           "_tags": [
@@ -3241,7 +3329,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3282,7 +3370,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SECURE NAVIGATION ROVER 200</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>NAVIGATION ROVER 200</i></span>",
           "text": "The secure location of this fitting, does not need to be removed, a soft backed screen cover that mimics left air vent can be applied when not in use or during short term stops, a more secure option than actually being attached to the windscreen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3317,7 +3405,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -3358,7 +3446,7 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "<span style=\"font-weight: normal;\">NAVIGATION POWER SWITCH</span>",
           "text": "Easy access and convenient location, of the power switch for the satellite navigation system. Now shown alongside dual dashcam switch added in later years when transferred into the 2004 ZR&nbsp; &nbsp; &nbsp; &nbsp; .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -3369,6 +3457,12 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           }
         },
@@ -3415,11 +3509,11 @@
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "font-size": "18px",
-              "color": "#000000"
+              "font-size": "15px",
+              "color": "#475577"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "32px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -3480,7 +3574,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -3506,41 +3600,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4mf"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4me"
+          "_anchor": "content1-4nb"
         },
         {
           "_tags": [
@@ -3821,7 +3899,7 @@
           },
           "_anchor": "msg-box5-20e",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3863,7 +3941,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>ENGINE OIL SUMP CONDITION</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE SUMP CONDITION</i></span>",
           "text": "With sump removed years of tarnished oil is evident, using scraper wire wool, turps and old rags, sump was cleaned and dried. regular oil changes, wont always keep the sump clean,",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -3890,10 +3968,10 @@
           },
           "_anchor": "msg-box5-3ab",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -3978,7 +4056,7 @@
           },
           "_anchor": "msg-box5-20f",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -4020,7 +4098,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>LVF-100290 SUMP GASKET</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>OIL SUMP GASKET</i></span>",
           "text": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back onto the 200, filled with oil and new oil filter fitted, prior to a run out, with fresh oil now being supplied to the engine.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -4461,7 +4539,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -4487,41 +4565,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4mh"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4mg"
+          "_anchor": "content1-4nc"
         },
         {
           "_tags": [
@@ -4761,6 +4823,43 @@
           "_anchor": "content1-4mc"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
+          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4oa"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -4771,13 +4870,7 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-185",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Listed here a small and random selection from our original 2004 spanners, and sockets, applications guide for the 200/25/ZR parts guide and numbers for easy reference. Although available at the time, some parts numbers may now be obsolete, and should not be totally relied upon.&nbsp;</p>"
+          "_anchor": "content1-4ob"
         },
         {
           "_tags": [
@@ -4792,13 +4885,13 @@
               "color": "#475577"
             }
           },
-          "_anchor": "content1-29g",
+          "_anchor": "content1-29i",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><b>Alternator</b><i style=\"font-weight: bold;\">&nbsp;</i>8..10..13..15mm. <b>Air Temp Sensor</b>&nbsp;19mm. <b>Armrest</b> 7..8..10mm. <b>Air bag</b> T.30. <b>Bonnet catch</b> 10mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Battery clamp</b> 13mm. <b>Brake caliper</b> 12mm. <b>Coolant temp sensor</b> 19mm. <b>Coolant elbow</b> 8mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> 8mm. <b>Coolant bleed screw</b> 8mm. <b>Cylinder head cover</b> 8mm. <b>Cylinder</b> <b>head bolts</b> 12 torx.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cam sprockets</b> 17mm. <b>Camshaft carrier</b> 8mm. <b>Crankshaft bolt</b> 22mm. <b>Cambelt cover </b>8..10mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cambelt tensioner</b> 8mm. <b>Engine mount</b> 15..18mm. <b>Exhaust manifold</b> 17mm.</span></p>"
+          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>"
         },
         {
           "_params": {
@@ -4825,49 +4918,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4ju"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-29h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Front bumper</b> 10mm. <b>Fuel filter</b> 8..14..19mm. <b>Fuel inlet union</b> 8mm. <b>Gearbox</b> drain / fill 17mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Glovebox</b> 8mm. <b>Inlet manifold</b> 13mm.<b> I.A.C.V</b> T.20..T.30..10mm. <b>Lambda sensor</b> 22mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Light lens</b> (rear) 8mm. <b>Rotor arm</b> 8mm. <b>Seats</b> (rear) 10mm. <b>Seat frame</b> Star 50. <b>Sump plug</b> 19mm</span></p><p><b>Sump bolts</b> 10mm. <b>Sparkplugs</b> 16mm. <b>Starter motor</b> 13mm. <b>Sunroof</b> glass panel T.25.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wheel nuts</b> 19mm. <b>Wiper arms</b> 13mm.</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "16px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-29i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>"
+          "_anchor": "image2-4o0"
         },
         {
           "_tags": [
@@ -4906,16 +4957,87 @@
           "_anchor": "content1-29k",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p><b>P.A.S Belts </b>Unipart GMB 30755. Bosch 7880. <b>Rotor Arm</b> HRA529. <b>Radiator</b> Nissens 64209.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Top Radiator Hose</b> PCH 115731. <b>Sparkplugs</b> Champion RC9YCC. NGK BKR6E 6962.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Sump Gasket</b> LVF 100290. <b>Sump Bolt Washer</b> CL UAM2857. <b>Starter Motor</b> Hella CS610-1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Throttle Position</b> <b>Sensor</b> MHB 10144. <b>Tailgate Wiring Loom</b> YMN-101940. <b>Thermostat Seal</b> CDU3858.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Water Pump</b> HWP 632. <b>Washer Pumps</b> Valeo 140796. <b>Wiper Motor Rear </b>Valeo 530 08-002.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wiper Motor Front</b> DLB-101380.</span></p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">SPANNER AND SOCKET SIZES</span>",
+          "meta": "A random selection of emissions results taken over a 10 year period",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4o2"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Alternator</b><i style=\"font-weight: bold;\">&nbsp;</i>8..10..13..15mm. <b>Air Temp Sensor</b>&nbsp;19mm. <b>Armrest</b> 7..8..10mm. <b>Air bag</b> T.30. <b>Bonnet catch</b> 10mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Battery clamp</b> 13mm. <b>Brake caliper</b> 12mm. <b>Coolant temp sensor</b> 19mm. <b>Coolant elbow</b> 8mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> 8mm. <b>Coolant bleed screw</b> 8mm. <b>Cylinder head cover</b> 8mm. <b>Cylinder</b> <b>head bolts</b> 12 torx.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cam sprockets</b> 17mm. <b>Camshaft carrier</b> 8mm. <b>Crankshaft bolt</b> 22mm. <b>Cambelt cover </b>8..10mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cambelt tensioner</b> 8mm. <b>Engine mount</b> 15..18mm. <b>Exhaust manifold</b> 17mm.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ny"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><b>Front bumper</b> 10mm. <b>Fuel filter</b> 8..14..19mm. <b>Fuel inlet union</b> 8mm. <b>Gearbox</b> drain / fill 17mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Glovebox</b> 8mm. <b>Inlet manifold</b> 13mm.<b> I.A.C.V</b> T.20..T.30..10mm. <b>Lambda sensor</b> 22mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Light lens</b> (rear) 8mm. <b>Rotor arm</b> 8mm. <b>Seats</b> (rear) 10mm. <b>Seat frame</b> Star 50. <b>Sump plug</b> 19mm</span></p><p><b>Sump bolts</b> 10mm. <b>Sparkplugs</b> 16mm. <b>Starter motor</b> 13mm. <b>Sunroof</b> glass panel T.25.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wheel nuts</b> 19mm. <b>Wiper arms</b> 13mm.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4nz"
+        },
+        {
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -4941,41 +5063,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u5"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4md"
+          "_anchor": "content1-4ne"
         },
         {
           "_tags": [
@@ -5256,7 +5362,7 @@
           },
           "_anchor": "msg-box5-1p8",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5341,7 +5447,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -5367,41 +5473,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4mb"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4m8",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content1-4nd"
         },
         {
           "_tags": [
@@ -5684,7 +5774,7 @@
           },
           "_anchor": "msg-box5-1v1",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5771,10 +5861,10 @@
           },
           "_anchor": "msg-box5-1v3",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -6165,13 +6255,13 @@
           },
           "_anchor": "msg-box5-1xj",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6210,35 +6300,6 @@
           "title": "<span style=\"font-weight: normal;\"><i>DVR 207 DASHCAM 2013 to 2014 &nbsp;</i></span>",
           "text": "Opposed to using the supplied screen mount, an alloy support bracket was created and is shown located above right of rear view mirror, with the camera viewing screen in a closed position",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>MOBIUS DUAL DASHCAM SYSTEM 2014</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3lb"
         },
         {
           "_tags": [
@@ -6281,7 +6342,7 @@
           },
           "_anchor": "msg-box5-3es",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -6398,7 +6459,7 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
@@ -6435,7 +6496,7 @@
           },
           "_anchor": "msg-box5-397",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -6485,7 +6546,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -6511,20 +6572,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3u0"
+          "_anchor": "content1-4n9"
         },
         {
           "_tags": [
@@ -6805,7 +6871,7 @@
           },
           "_anchor": "msg-box5-10y",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -7244,7 +7310,7 @@
           },
           "_anchor": "msg-box5-2mm",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -7313,7 +7379,7 @@
           },
           "_anchor": "msg-box5-2mn",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -7355,7 +7421,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>PRECISE OIL LEVEL READING</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PRECISE LEVEL READING</i></span>",
           "text": "On a 'cold engine' with vehicle on level ground, the tube is inserted into dipstick tube, after a few seconds thumb pressure is then applied to hold a vacuum while being withdrawn to give a positive and much clearer view of the oil level reading.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -7690,7 +7756,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-size": "20px",
               "text-align": "left"
             },
@@ -7707,7 +7773,7 @@
           },
           "_anchor": "msg-box5-1xh",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -7749,7 +7815,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>HEATER MATRIX VALVE</i>&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">HEATER MATRIX VALVE&nbsp;</span>",
           "text": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old. and will benefit from having new hoses..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -7879,6 +7945,29 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nn"
         },
         {
           "_tags": [
@@ -8155,13 +8244,13 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8179,7 +8268,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0097-rover-ignition-switch-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0038-mg-rover-ignition-switch-500x200.jpg",
               "link": "",
               "alt": "mg rover ignition switch",
               "linkInNewWindow": false
@@ -8196,43 +8285,25 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
+          "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH</span>",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached as shown, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4a2"
-        },
-        {
+          "_anchor": "msg-box5-4a2",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
+            "H3": {
               "color": "#475577",
+              "font-size": "22px"
+            },
+            "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "46px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
+              "font-size": "20px"
             }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">A LOOK INSIDE THE YXB-100350 IGNITION SWITCH</span>",
-          "meta": "And the internal items that could wear out after many years of usage.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4gu"
+          }
         },
         {
           "_tags": [
@@ -8679,7 +8750,7 @@
           },
           "_anchor": "msg-box5-2lt",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -8721,7 +8792,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SEDEMENT IN DRAINAGE TUBE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CLEARING DRAINAGE TUBE</i></span>",
           "text": "A length of plastic coated curtain wire broke it down while pushing through, wire wont go the full length in the lower section, pulling back the wheel arch liner gives easier access.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -8786,10 +8857,10 @@
           },
           "_anchor": "msg-box5-2va",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -9191,7 +9262,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9232,7 +9303,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>NO MESS FILLING PROCEDURE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>OUR FILLING PROCEDURE</i></span>",
           "text": "Our none messy filling procedure, to insert into the filler hole, a clear plastic tube attached to a base removed old redex container, with oil now running directly into gearbox, At the time bluecol antifreeze is shown as being used in the 200 cooling system in early 2004.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9246,7 +9317,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px",
               "color": "#475577",
-              "text-align": "center"
+              "text-align": "left"
             },
             "SPAN": {
               "font-size": "20px"
@@ -9270,7 +9341,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -9296,41 +9367,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-3u6"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4mj"
+          "_anchor": "content1-4nf"
         },
         {
           "_tags": [
@@ -9614,7 +9669,7 @@
           },
           "_anchor": "msg-box5-31u",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9656,7 +9711,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CYLINDER HEAD TIGHTENING</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CYLINDER HEAD&nbsp;</i></span>",
           "text": "Stage (1) 20Nm or 15 lbf ft Stage (2) angle tighten through 180 degrees. Stage (3) angle tighten finally through another 180 degrees. Cylinder head gasket used was LVB-0000320.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9684,10 +9739,10 @@
           },
           "_anchor": "msg-box5-31v",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "1",
@@ -9726,7 +9781,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CAM CARRIER TIGHTENING</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CAM CARRIER</i></span>",
           "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with silicone sealant applied, engine top cover was then fitted back with the 15 x 8mm bolts, torqued in sequence to 9Nm or 6lb ft.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9752,7 +9807,7 @@
           },
           "_anchor": "msg-box5-31y",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9794,7 +9849,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>ENGINE COVER TIGHTENING</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>ENGINE TOP COVER</i></span>",
           "text": "Prior to fitting the cam or engine top cover this required a new cam cover gasket fitted, this goes on dry with no sealant added, but needs to be fitted the correct way round its already marked up. Cam cover gasket LDR-102000 was used for this project.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9886,6 +9941,29 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4gp"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4nu"
         },
         {
           "_tags": [
@@ -10155,7 +10233,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-size": "20px"
             },
             "SPAN": {
@@ -10171,7 +10249,7 @@
           },
           "_anchor": "msg-box5-325",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -10216,39 +10294,6 @@
           "title": "<span style=\"font-weight: normal;\"><i>TAILGATE WIRING LOOM</i></span>",
           "text": "Wires inside the sleeve constantly fold over each other each time the tailgate is in use, so will fray and eventually break, damaged wires will create electrical problems, soldering a couple of broken wires is not a problem, if beyond repairing a replacement loom is a better option.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            "SPAN": {
-              "font-size": "30px",
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3bv",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>WIRE COLOURS AND THEIR FUNCTIONS</i></span>",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -10571,7 +10616,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -10652,10 +10697,10 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": 0,
@@ -10736,7 +10781,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -10777,7 +10822,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>INNER CABLE OIL IJECTOR</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CABLE OIL INJECTOR</i></span>",
           "text": "This single action, one way valve oil injector being used on our 1996 rover 200 bonnet release cable. can also be used for. accelerator cable, including manual choke cables on older vehicles",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -10801,7 +10846,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "media": {
@@ -10827,20 +10872,25 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-black\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-black\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-black\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-black\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-black\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
             "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-3ty"
+          "_anchor": "content1-4n5"
         },
         {
           "_tags": [
@@ -11103,7 +11153,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11144,7 +11194,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW LOCATION</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COOLANT ELBOW&nbsp;</i></span>",
           "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11157,6 +11207,9 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "SPAN": {
               "font-size": "20px"
             }
           }
@@ -11199,7 +11252,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11240,7 +11293,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CABIN HEATER MATRIX VALVE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>HEATER MATRIX VALVE</i></span>",
           "text": "As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11257,6 +11310,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -11640,7 +11696,7 @@
           },
           "_anchor": "msg-box5-339",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11706,7 +11762,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12094,7 +12150,7 @@
           },
           "_anchor": "msg-box5-33k",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12199,10 +12255,10 @@
           },
           "_anchor": "msg-box5-33l",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -12644,67 +12700,22 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showSubTitle": false,
-            "labelsColor": "#232323",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#475577"
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "form": {
-            "action": "crescent85@pobroadband.co.uk",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
+          "text": "<p><a href=\"mailto:daveculpin2004@gmail.com\" class=\"text-primary\">daveculpin2004@gmail.com</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-3ub",
+          "_name": "content1",
+          "_anchor": "content1-4ni",
           "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
+            "P": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px"
+            "DIV": {
+              "color": "#efefef"
             }
           }
         },
@@ -12714,20 +12725,22 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p>desktop app.</p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#475577"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-4mm"
+          "_anchor": "content1-4n6"
         },
         {
           "_tags": [
@@ -13349,6 +13362,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#475577"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -13412,6 +13428,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         },
@@ -13443,7 +13462,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0051-bernice-dutton-marcos-rally-june-1977-490x268.jpg",
               "link": "",
-              "alt": "Marcos rally 1977",
+              "alt": "Marcos rally June 1977",
               "linkInNewWindow": false
             },
             "video": {
@@ -13471,7 +13490,7 @@
               "color": "#475577"
             },
             "SPAN": {
-              "font-size": "23px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -13894,7 +13913,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -13936,7 +13955,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SEDEMENT IN DRAINAGE TUBE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CLEARING DRAINAGE TUBE</i></span>",
           "text": "Although no signs of damp were evident, we took the choice of removing the roof strip, cleaned out the channel and then applied silicone sealant around the area (shown here).",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box5-48r"
@@ -13978,10 +13997,10 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -14020,7 +14039,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SUNROOF PANEL REMOVAL</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
           "text": " Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box5-48u"
