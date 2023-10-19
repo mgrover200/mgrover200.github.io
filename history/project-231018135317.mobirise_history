@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6144,
+    "uniqCompNum": 6137,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -9765,7 +9765,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "1",
@@ -9805,7 +9805,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>CAM CARRIER</i></span>",
-          "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with silicone sealant applied, then the camshaft cover gasket can now be fitted.",
+          "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with silicone sealant applied, engine top cover was then fitted back with the 15 x 8mm bolts, torqued in sequence to 9Nm or 6lb ft.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -9889,8 +9889,7 @@
               "font-size": "20px"
             },
             "P": {
-              "font-size": "17px",
-              "text-align": "left"
+              "font-size": "17px"
             },
             "SPAN": {
               "font-size": "20px",
@@ -9902,7 +9901,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "1",
@@ -9942,7 +9941,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>ENGINE TOP COVER</i></span>",
-          "text": "Engine top cover now fitted can be torqued up in the sequence shown here. 15 x 8mm bolts, to 9Nm or 6lb ft. or just hand tight&nbsp; diagram of ignition leads, distributor cap to plugs is now used.&nbsp; &nbsp;",
+          "text": "Engine top cover now fitted can be torqued up in the sequences as shown, then its just the correct way round of the ignition leads from distributor to sparkplugs to fit. a diagram at this stage is very useful&nbsp; &nbsp;.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -9951,7 +9950,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the air filter, oil filter, correct amount of engine oil, and coolant to be added. .</p>",
+          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the oil filter, correct amount of engine oil and coolant to be added. .</p>",
           "_tags": [
             "Theme"
           ],
@@ -9964,44 +9963,12 @@
           "_anchor": "content1-4gm"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>OIL FILTER INFORMATION</i></span>",
-          "meta": "LOW SCREEN MOUNTED CAMCORDER",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4qi"
-        },
-        {
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Fitting the oil filter, without it first being&nbsp; 'primed' is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before it is actually filled, and ready to begin circulating the fresh oil around the engine.</p>",
+          "text": "<p>Fitting the oil filter, without it first being &nbsp;primed is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before it is actually filled, and ready to begin circulating the fresh oil around the engine.</p>",
           "_tags": [
             "Theme"
           ],
@@ -10065,29 +10032,6 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4q8"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4qj"
         },
         {
           "_tags": [
