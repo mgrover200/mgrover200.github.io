@@ -3374,6 +3374,7 @@ section.form .container {
 
 
 
+
 #ext_menu-31e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3480,6 +3481,11 @@ section.form .container {
 #content1-31i DIV {
   font-size: 17px;
 }
+#msg-box5-4r7 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
 #msg-box5-3u8 H3 {
   font-family: 'Lora', serif;
   font-size: 23px;
@@ -3488,6 +3494,9 @@ section.form .container {
 }
 #msg-box5-3u8 SPAN {
   font-size: 20px;
+}
+#msg-box5-3u8 P {
+  text-align: left;
 }
 #content1-4nf DIV {
   color: #efefef;
