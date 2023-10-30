@@ -572,6 +572,7 @@ section.form .container {
 #msg-box5-4qo H3 {
   color: #475577;
   font-family: 'Lora', serif;
+  text-align: center;
 }
 #msg-box5-4qo SPAN {
   font-size: 25px;
@@ -1690,6 +1691,10 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 22px;
   color: #7e9b9f;
+}
+#msg-box8-4rm .mbr-section-title,
+#msg-box8-4rm .lead {
+  color: #fff;
 }
 #content1-pd P {
   text-align: left;
