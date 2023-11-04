@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsensor.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6229,
+    "uniqCompNum": 6245,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -228,12 +228,13 @@
             },
             ".lead P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -251,7 +252,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>2004 MG-ZR 1996 ROVER 200 SERIES</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -269,7 +270,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/istockphoto-1296954261-612x408.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -277,9 +278,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -314,13 +315,35 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-4qo"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site. applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t5",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#a38f84"
+            }
+          }
         },
         {
           "_params": {
@@ -551,7 +574,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -569,7 +592,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>CABIN FUSE BOX ROVER 200</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -619,7 +642,7 @@
           },
           "_anchor": "msg-box5-2mo",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -728,7 +751,7 @@
           },
           "_anchor": "msg-box5-1o2",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1061,12 +1084,13 @@
             },
             ".lead P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -1084,48 +1108,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>COOLANT LEVEL SENSOR&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4rz"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">Coolant Level Sensor</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4su"
         },
         {
           "_tags": [
@@ -1151,7 +1140,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1228,7 +1217,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1585,7 +1574,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -1603,7 +1592,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>ENGINE FUSEBOX 2004 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1653,7 +1642,7 @@
           },
           "_anchor": "msg-box5-3b3",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1719,7 +1708,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2077,7 +2066,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -2124,7 +2113,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2205,7 +2194,7 @@
           },
           "_anchor": "msg-box5-1vv",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -2576,7 +2565,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -2645,7 +2634,7 @@
           },
           "_anchor": "msg-box5-1xk",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2747,7 +2736,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -2828,7 +2817,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3161,7 +3150,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -3207,7 +3196,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3283,7 +3272,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -3371,105 +3360,10 @@
           "_anchor": "content1-394",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>When not in use, the unit remains un-detectable from inside of the vehicle, and more importantly from the outside, all wiring being &nbsp;concealed in the dashboard, and with no signs of cradle suction marks being evident on any part of the windscreen, a good safety feature, and kept away from prying eyes. Created for the 1996 Rover 200 Series. Project Design and Installation (c) 2008.</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "15px",
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">PREVIOUS NAVIGATION 2006 - 2008</span>",
-          "meta": "GARMIN STREET PILOT I.3 FITTED TO OUR 1996 ROVER 200&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4qu"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0078-garmin-street-pilot-600x370.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">SOLID COLOR INTRO WITH IMAGE</span>",
-          "text": "During 2006 we fitted this very reliable little battery operated unit, that was in regular use for the next couple of years, soon became dated, using the thumb wheel selector. Location was ideal for the screen size. And shown adapted for a quick release option.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-4rd",
-          "_styles": {
-            "H3": {
-              "color": "#475577"
-            },
-            "SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            }
-          }
         },
         {
           "_params": {
@@ -3724,7 +3618,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -3742,7 +3636,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>ENGINE OIL SUMP ROVER 200</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3792,7 +3686,7 @@
           },
           "_anchor": "msg-box5-20e",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3861,7 +3755,7 @@
           },
           "_anchor": "msg-box5-3ab",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3949,7 +3843,7 @@
           },
           "_anchor": "msg-box5-20f",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -4250,7 +4144,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -4673,7 +4567,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -4700,39 +4594,8 @@
           "_anchor": "msg-box8-4sp"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            }
-          },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">ROVER 200 25 ZR PARTS GUIDE</span>",
-          "meta": "The above, including more features and projects, are shown on our site&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4oa"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -4838,35 +4701,6 @@
             "bgColor": "#efefef"
           },
           "text": "<p><b>P.A.S Belts </b>Unipart GMB 30755. Bosch 7880. <b>Rotor Arm</b> HRA529. <b>Radiator</b> Nissens 64209.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Top Radiator Hose</b> PCH 115731. <b>Sparkplugs</b> Champion RC9YCC. NGK BKR6E 6962.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Sump Gasket</b> LVF 100290. <b>Sump Bolt Washer</b> CL UAM2857. <b>Starter Motor</b> Hella CS610-1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Throttle Position</b> <b>Sensor</b> MHB 10144. <b>Tailgate Wiring Loom</b> YMN-101940. <b>Thermostat Seal</b> CDU3858.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Water Pump</b> HWP 632. <b>Washer Pumps</b> Valeo 140796. <b>Wiper Motor Rear </b>Valeo 530 08-002.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wiper Motor Front</b> DLB-101380.</span></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">SPANNER AND SOCKET SIZES</span>",
-          "meta": "A random selection of emissions results taken over a 10 year period",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4o2"
         },
         {
           "_params": {
@@ -5163,7 +4997,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -5231,7 +5065,7 @@
           },
           "_anchor": "msg-box5-1p8",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5565,7 +5399,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -5635,7 +5469,7 @@
           },
           "_anchor": "msg-box5-1v1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5704,7 +5538,7 @@
           },
           "_anchor": "msg-box5-1v3",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -6040,7 +5874,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -6108,7 +5942,7 @@
           },
           "_anchor": "msg-box5-1xj",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -6155,38 +5989,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>MOBIUS DASHCAMS 2014 TO PRESENT</i></span>",
-          "meta": "LOW SCREEN MOUNTED CAMCORDER",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4om"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -6227,7 +6029,7 @@
           },
           "_anchor": "msg-box5-3es",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -6289,155 +6091,22 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 16gb micro cards we have installed in the cameras, have a combined eight hours recording time before being over written. Which are sufficient to review any incidents en-route. Or to capture this now very rare. 1971 Marcos 3 litre V6.&nbsp;</p>"
+          "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 16gb micro cards we have installed in the cameras, have a combined eight hours recording time before being over written. Which are sufficient to review any incidents en-route.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": false,
             "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/marcos-car-1600x600.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3xe"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>EARLIER INSTALLATION 2011 TO 2013</i></span>",
-          "meta": "LOW SCREEN MOUNTED CAMCORDER",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3wq"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-397",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "50",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
           "media": {
             "image": {
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0042-flip-mino-camcorder-500x200.jpg",
-              "link": "",
-              "alt": "Flip mino video camera installed in the 2004 mg-zr",
-              "title": "Flip mino video camera",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>FLIP MINO HD CAMCORDER&nbsp;</i></span>",
-          "text": "Prior to dashcams becoming more popular, we used the cisco video camera, shown fitted to the lower part of wind screen, with slide out quick release camera option, modified from an old satnav mount.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0073-north-yorkshire-tour-2013-1400x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
               "width": 1400,
               "link": "",
-              "alt": "north yorkshire tour 2013",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -6448,40 +6117,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-4od"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">NORTH YORKSHIRE TOUR 2013</span>",
-          "meta": "WITH CAMERA LOCATED IN A DYNAMIC OFF CENTER POSITION",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4oj"
+          "_name": "image2",
+          "_anchor": "image2-4t6"
         },
         {
           "_params": {
@@ -6709,7 +6346,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -6777,7 +6414,7 @@
           },
           "_anchor": "msg-box5-10y",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -6842,39 +6479,13 @@
           "text": "<p>Our own procedure before taking the pre-booked annual test, is to add some fuel additive, then a good long drive to achieve the vehicles fully operating and running temperatures, then arriving at the test station a few minutes before our appointment, knowing &nbsp;that the successful emissions test done several days earlier, should not be much, if anything of the slightest concern.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3c3",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">M.O.T EMISSIONS TESTS 2010-2020</span>",
-          "meta": "A random selection of emissions results taken over a 10 year period"
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
           "_anchor": "content7-3c1",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -7068,7 +6679,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -7139,7 +6750,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -7208,7 +6819,7 @@
           },
           "_anchor": "msg-box5-2mm",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -7277,7 +6888,7 @@
           },
           "_anchor": "msg-box5-2mn",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -7590,12 +7201,13 @@
             },
             ".lead P": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -7613,48 +7225,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>CABIN HEATER</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s0"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">Cabin Heater&nbsp;</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4sv"
         },
         {
           "_tags": [
@@ -7698,7 +7275,7 @@
           },
           "_anchor": "msg-box5-1xh",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -8097,7 +7674,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -8115,48 +7692,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>IGNITION SWITCH 200 25 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s2"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">YXB Ignition Switch&nbsp;</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4sx"
         },
         {
           "_tags": [
@@ -8196,7 +7738,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -8447,7 +7989,7 @@
     },
     "sunroof.html": {
       "settings": {
-        "title": "Rover 200/25/ZR Sunroof Headlining",
+        "title": "Rover 200/25/ZR Sunroof ",
         "meta_descr": "Noticed recently the front corner of the MG passenger side roof headlining was showing signs of being damp, after a heavy and sustained rainfall, water would collect in that area.",
         "header_custom": "",
         "footer_custom": "",
@@ -8620,7 +8162,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -8638,42 +8180,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>SUNROOF PANEL 200 25 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s7"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">CLEARING A BLOCKED DRAINAGE TUBE</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4s8"
         },
         {
           "_tags": [
@@ -8693,7 +8206,7 @@
           },
           "_anchor": "content1-2lk",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -8768,35 +8281,6 @@
           "title": "<span style=\"font-weight: normal;\"><i>CLEARING DRAINAGE TUBE</i></span>",
           "text": "A length of plastic coated curtain wire broke it down while pushing through. The wire wont go the full length in the lower section, pulling back the wheel arch liner for easier access, was required..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">REPLACING SUNROOF RUBBER SEAL</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4ra"
         },
         {
           "_tags": [
@@ -8942,46 +8426,114 @@
           "text": "<p>Good preparation and using quality silicone sealant should make this fitting a one off for the life of the vehicle, A new type of seal available&nbsp; has a 'soft close' velvet edge, compared to an older all rubber seal, that can grab at the roof opening, lifting it away from the glass panel after years of use. Some older cars still having the original factory fitted ones.</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
-            }
-          },
           "_params": {
-            "showMeta": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">PROBLEM OF A SAGGING ROOF LINING</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4rb"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Issues with the vehicles roof headlining, this problem recently affected our 19 year old vehicle, could be age related, most probably the bonding of the adhesive had dried out over a very long period of time. Further information at: <a href=\"https://mgrover200.github.io/headlining.html\" class=\"text-primary\">mgrover200.github.io/headlining.html&nbsp;</a> &nbsp;</p>",
+          "text": "<p>Issues with the vehicles roof headlining, this problem recently affected our 19 year old vehicle, could be age related, most probably the bonding of the adhesive had dried out over a very long period of time.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4rc"
+          "_anchor": "content1-4t7"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, appeared alright, but only for a short period of time, as we probably expected. We now needed to look at any other low cost ways to solve this issue.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t8"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0090-mg-rover-headlining-453x175.jpg",
+              "link": "",
+              "alt": "",
+              "title": "mg-rover glass sunroof",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
+          "text": " Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-4t9"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove all of the associated interior trim just to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4ta"
         },
         {
           "_params": {
@@ -9236,7 +8788,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -9285,7 +8837,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9345,7 +8897,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -9677,7 +9229,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -9747,7 +9299,7 @@
           },
           "_anchor": "msg-box5-31u",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9817,7 +9369,7 @@
           },
           "_anchor": "msg-box5-31v",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -9865,7 +9417,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -9954,7 +9506,7 @@
           },
           "_anchor": "msg-box5-31y",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -10017,38 +9569,6 @@
             }
           },
           "_anchor": "content1-4gm"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>OIL FILTER INFORMATION</i></span>",
-          "meta": "LOW SCREEN MOUNTED CAMCORDER",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4qi"
         },
         {
           "_params": {
@@ -10174,7 +9694,7 @@
     },
     "tailgate.html": {
       "settings": {
-        "title": "Rover 200/25/ZR Tailgate wiring loom",
+        "title": "Rover 200/25/ZR Tailgate loom",
         "meta_descr": "The tailgate wiring loom YMN 101940 of the 200/25/ZR also including various other models, do tend to cause plenty of electrical problems.",
         "header_custom": "",
         "footer_custom": "",
@@ -10347,7 +9867,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -10365,48 +9885,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>TAILGATE LOOM 200 25 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s4"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">TAILGATE WIRING LOOM&nbsp;</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4sz"
         },
         {
           "_tags": [
@@ -10455,7 +9940,7 @@
           },
           "_anchor": "msg-box5-325",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -10768,7 +10253,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -10814,7 +10299,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11164,7 +10649,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -11182,48 +10667,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>COOLING SYSTEM 200 25 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s1"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">K.16 Cooling System</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4sw"
         },
         {
           "_tags": [
@@ -11249,7 +10699,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11348,7 +10798,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11714,7 +11164,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -11732,48 +11182,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
+          "text": "<p>IGNITION LEADS 200 25 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4s3"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">Fitting Ignition Leads</span>",
-          "meta": "TO THE R0VER 200 AND MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4sy"
         },
         {
           "_tags": [
@@ -11819,7 +11234,7 @@
           },
           "_anchor": "msg-box5-339",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11885,7 +11300,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12198,7 +11613,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -12265,7 +11680,7 @@
           },
           "_anchor": "msg-box5-33k",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12370,7 +11785,7 @@
           },
           "_anchor": "msg-box5-33l",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12514,7 +11929,7 @@
     },
     "comments.html": {
       "settings": {
-        "title": "Rover 200/25/ZR Information Pages",
+        "title": "Rover 200/25/ZR comments",
         "meta_descr": "view our site comments and give some feedback on our well established Rover 200/25/ZR Information Pages",
         "header_custom": "",
         "footer_custom": "",
@@ -12687,7 +12102,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -13286,7 +12701,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_anchor": "ext_menu-3o3"
         },
         {
@@ -13357,7 +12772,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -13764,465 +13179,6 @@
           },
           "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved",
           "_anchor": "footer1-3oj"
-        }
-      ]
-    },
-    "headlining.html": {
-      "settings": {
-        "title": "Rover 200/25/ZR Roof Lining",
-        "meta_descr": "Noticed recently the front corner of the MG passenger side roof headlining was showing signs of being damp, after a heavy and sustained rainfall, water would collect in that area.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 11
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-family": "'Slabo 27px', serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Slabo 27px",
-              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "css": "'Slabo 27px', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
-              "height": 128,
-              "alt": "mg-rover-logo",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_anchor": "ext_menu-48m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#cccccc"
-            },
-            ".lead": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px",
-              "color": "#cccccc"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#cccccc",
-              "font-size": "46px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<span style=\"font-weight: normal;\">MG ROVER INFORMATION PAGES</span>",
-          "text": "SERVICES AND MAINTENANCE ROVER 200 25 ZR",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-48n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#efefef"
-            },
-            ".lead P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
-          },
-          "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>MAINTENANCE AND SEVICING 2004 ZR/1996 200</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4s9"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Issues with the vehicles roof headlining, this problem recently affected our 19 year old vehicle, could be age related, most probably the bonding of the adhesive had dried out over a very long period of time. The interior part of the suspected area, was above rear window.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-491"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "font-size": "17px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0088-roof-headlining-mg-rover-500x200.jpg",
-              "link": "",
-              "alt": "Sunroof and damp headlining Rover 200/25/ZR",
-              "title": "MG passenger side damp roof headlining",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=UMVjToYOjbM&list=RDUMVjToYOjbM&start_radio=1",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>REMOVING ROOF STRIP</i></span>",
-          "text": "Although no signs of damp were evident, we took the choice of removing the roof strip, cleaned out the channel and then applied silicone sealant around the area (shown here).",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box5-48r"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, appeared alright, but only for a short period of time, as we probably expected. We now needed to look at any other low cost ways to solve this issue.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-492"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px",
-              "text-align": "right"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "50",
-            "paddingTop": 0,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0090-mg-rover-headlining-453x175.jpg",
-              "link": "",
-              "alt": "",
-              "title": "mg-rover glass sunroof",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
-          "text": " Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box5-48u"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove all of the associated interior trim just to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-493"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4kl"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4n1"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved",
-          "_anchor": "footer1-490"
         }
       ]
     }
