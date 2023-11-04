@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "headlining.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6235,
+    "uniqCompNum": 6286,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -229,7 +229,7 @@
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -266,7 +266,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "50",
+            "imageSize": "40",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -286,9 +286,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0080-rover-200-oil-sump-600x370.jpg",
-              "link": "",
-              "alt": "rover200 oil sump",
+              "src": "@PROJECT_PATH@/assets/images/0068-mg-rover-coolant-tank-500x200.jpg",
+              "link": "coolsensor.html",
+              "alt": "",
+              "title": "coolant tank",
               "linkInNewWindow": false
             },
             "video": {
@@ -303,9 +304,85 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Rover 200 Oil Sump&nbsp;&nbsp;</span>",
-          "text": "Sump now cleaned, and with new LVF-100290 gasket fitted, ready to go back onto the vehicle, fresh clean oil is now being supplied to the engine internals. Oil filter used was Champion B-104 <a href=\"oilsump.html\" class=\"text-info\">MORE INFO&nbsp;</a>&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"oilsump.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR 200 ZR&nbsp;</span>",
+          "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank. <a href=\"coolsensor.html\" class=\"text-primary\">MORE INFO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "20px",
+              "color": "#a38f84",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-size": "17px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            "I": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-4to"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0038-mg-rover-ignition-switch-500x200.jpg",
+              "link": "",
+              "alt": "mg rover ignition switch",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">IGNITION SWITCH ZR&nbsp;&nbsp;</span>",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to the key barrel.&nbsp;<a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\">MORE INFO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -313,15 +390,154 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+              "font-size": "22px"
             },
             "SPAN": {
-              "font-size": "25px"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
             }
           },
-          "_anchor": "msg-box5-4qo"
+          "_anchor": "msg-box5-4tp"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0043-mg-purge-valve-500x200.jpg",
+              "link": "purgevalve.html",
+              "alt": "Charcoal canister, and purge valve 200/25/ZR",
+              "title": "Purge valve located top of charcoal canister",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>PURGE VALVE 200 ZR</i></span>",
+          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber. <a href=\"purgevalve.html\" class=\"text-primary\">MORE INFO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "25px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-4tq"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0089-mg-rover-charcoal-canister-500x200.jpg",
+              "link": "fuelfilter.html",
+              "alt": "replacing the vehicles fuel filter on the 2004 ZR",
+              "title": "Vehicles bulkhead location of the fuel filter",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>FUEL FILTER ZR&nbsp;</i></span>",
+          "text": "As stated, makes for an easier working area with the charcoal canister out of the way, Once the bond between. <a href=\"fuelfilter.html\" class=\"text-primary\">MORE INFO&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-4tt"
         },
         {
           "_params": {
@@ -329,7 +545,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>All information on this site. applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
@@ -337,10 +553,11 @@
           "_anchor": "content1-4t5",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
-              "color": "#a38f84"
+              "color": "#475577"
             }
           }
         },
@@ -836,7 +1053,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -858,6 +1075,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kj"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u1"
         },
         {
           "_params": {
@@ -1322,7 +1561,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -1344,6 +1583,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kv"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4tu"
         },
         {
           "_params": {
@@ -1814,7 +2075,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -1836,6 +2097,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4ki"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u0"
         },
         {
           "_params": {
@@ -2313,7 +2596,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2335,6 +2618,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4ls"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u9"
         },
         {
           "_params": {
@@ -2900,7 +3205,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -2922,6 +3227,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4lo"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u7"
         },
         {
           "_params": {
@@ -3367,8 +3694,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -3390,6 +3717,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4m1"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ua"
         },
         {
           "_params": {
@@ -4747,7 +5096,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -4769,6 +5118,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4k7"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ud"
         },
         {
           "_params": {
@@ -5149,7 +5520,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -5171,6 +5542,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4m9"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4uc"
         },
         {
           "_params": {
@@ -5623,7 +6016,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -5645,6 +6038,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4li"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u5"
         },
         {
           "_params": {
@@ -6096,7 +6511,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -6118,6 +6533,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4t6"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u8"
         },
         {
           "_params": {
@@ -6955,7 +7392,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -6977,6 +7414,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4ko"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u3"
         },
         {
           "_params": {
@@ -7912,7 +8371,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -7934,6 +8393,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kf"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4tx"
         },
         {
           "_params": {
@@ -8426,9 +8907,119 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Issues with the vehicles roof headlining, this problem recently affected our 19 year old vehicle, could be age related, most probably the bonding of the adhesive had dried out over a very long period of time.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t7"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, appeared alright, but only for a short period of time, as we probably expected. We now needed to look at any other low cost ways to solve this issue.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4t8"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "50",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0090-mg-rover-headlining-453x175.jpg",
+              "link": "",
+              "alt": "",
+              "title": "mg-rover glass sunroof",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
+          "text": " Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-4t9"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove all of the associated interior trim just to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4ta"
+        },
+        {
+          "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -8450,6 +9041,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kk"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u2"
         },
         {
           "_params": {
@@ -8868,7 +9481,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -8890,6 +9503,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4pd"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ue"
         },
         {
           "_params": {
@@ -9893,7 +10528,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -9915,6 +10550,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kh"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4tz"
         },
         {
           "_params": {
@@ -10289,7 +10946,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -10311,6 +10968,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4ll"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u6"
         },
         {
           "_params": {
@@ -10804,7 +11483,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -10826,6 +11505,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4ke"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4tw"
         },
         {
           "_params": {
@@ -11253,7 +11954,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -11275,6 +11976,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kg"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ty"
         },
         {
           "_params": {
@@ -11742,7 +12465,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -11764,6 +12487,28 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4lf"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4u4"
         },
         {
           "_params": {
@@ -12108,6 +12853,55 @@
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
           "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4uf"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4ug"
         },
         {
           "_params": {
@@ -13068,465 +13862,6 @@
           },
           "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved",
           "_anchor": "footer1-3oj"
-        }
-      ]
-    },
-    "headlining.html": {
-      "settings": {
-        "title": "Rover 200/25/ZR Roof Lining",
-        "meta_descr": "Noticed recently the front corner of the MG passenger side roof headlining was showing signs of being damp, after a heavy and sustained rainfall, water would collect in that area.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 11
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "14px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-family": "'Slabo 27px', serif"
-            },
-            ".link": {
-              "font-size": "1.2rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": "1.2",
-            "fontName": {
-              "name": "Slabo 27px",
-              "url": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "css": "'Slabo 27px', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mg-roverlogo-158x106.jpg",
-              "height": 128,
-              "alt": "mg-rover-logo",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"contact.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cooling</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsystem.html\">Cooling System</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"coolsensor.html\">Coolant Sensor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinheater.html\">Cabin Heater</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ignition</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionswitch.html\">Ignition Switch</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ignitionleads.html\">Ignition Leads</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Electrics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tailgate.html\">Tailgate Wiring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"enginefuse.html\">Engine Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cabinfuse.html\">Cabin Fuses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sunroof.html\">Sun Roof</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Engine</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilsump.html\">Sump Removal</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"torque.html\">Torque Settings</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oilchecking.html\">Oil Level Check</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inletmanifold.html\">Inlet Manifold</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"fuelfilter.html\">Fuel Filter ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"emissions.html\">Emissions&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Installs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"twinhorns.html\">Dual Horns ZR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audioremotes.html\">Audio Remotes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dashcam.html\">Dual Dashcam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lightcheck.html\">Bulb Monitor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"satnav.html\">Navigation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">More</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"colourcodes.html\">Colour Codes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"purgevalve.html\">Purge Valve</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"partsguide.html\">Parts Guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gearboxoil.html\">Gearbox Oil</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comments.html\">Comments</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_anchor": "ext_menu-48m"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#cccccc"
-            },
-            ".lead": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "23px",
-              "color": "#cccccc"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#cccccc",
-              "font-size": "46px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<span style=\"font-weight: normal;\">MG ROVER INFORMATION PAGES</span>",
-          "text": "SERVICES AND MAINTENANCE ROVER 200 25 ZR",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_anchor": "msg-box8-48n"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#efefef"
-            },
-            ".lead P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
-          },
-          "title": "MG-ROVER INFORMATION PAGES",
-          "text": "<p>ROOF HEADLINING 200 25 ZR</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-4s9"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Issues with the vehicles roof headlining, this problem recently affected our 19 year old vehicle, could be age related, most probably the bonding of the adhesive had dried out over a very long period of time. The interior part of the suspected area, was above rear window.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-491"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "font-size": "17px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0088-roof-headlining-mg-rover-500x200.jpg",
-              "link": "",
-              "alt": "Sunroof and damp headlining Rover 200/25/ZR",
-              "title": "MG passenger side damp roof headlining",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=UMVjToYOjbM&list=RDUMVjToYOjbM&start_radio=1",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>REMOVING ROOF STRIP</i></span>",
-          "text": "Although no signs of damp were evident, we took the choice of removing the roof strip, cleaned out the channel and then applied silicone sealant around the area (shown here).",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box5-48r"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>A simple solution of using an hair dryer to heat up the adhesive bonding, while constantly smoothing out the affected area, appeared alright, but only for a short period of time, as we probably expected. We now needed to look at any other low cost ways to solve this issue.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-492"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-size": "20px",
-              "text-align": "right"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "50",
-            "paddingTop": 0,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0090-mg-rover-headlining-453x175.jpg",
-              "link": "",
-              "alt": "",
-              "title": "mg-rover glass sunroof",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
-          "text": " Our next option, adding an extension hose to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_anchor": "msg-box5-48u"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The above solution worked very well indeed, and did not require the time consuming hassle of having to remove all of the associated interior trim just to gain access to actually having to remove the whole headlining roof panel from the vehicle.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-493"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4kl"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4n1"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved",
-          "_anchor": "footer1-490"
         }
       ]
     }
