@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6319,
+    "uniqCompNum": 6313,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1032,183 +1032,6 @@
             "inverse": true,
             "imageSize": "40",
             "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0076%20rover%20gearbox%20oil-500x190.jpg",
-              "link": "https://mgrover200.github.io/gearboxoil.html",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">LOCATION OF DRAIN /FILL BOLTS</span>",
-          "text": "If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-primary\">More.</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "msg-box5-4vc"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Engine Oil Sump 200</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vf"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "40",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0020-rover-oil-sump.jpg",
-              "link": "oilsump.html",
-              "alt": "Oil sump removal on the 1996 Rover 200 Series",
-              "title": "Rover 200 cleaning the oil sump",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>ENGINE SUMP CONDITION</i></span>",
-          "text": "With sump removed years of tarnished oil is evident, using scraper wire wool, turps and old rags, sump was cleaned and dried.<a href=\"oilsump.html\" class=\"text-primary\"> More.</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-4vg"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Oil Level Check</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vh"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "40",
-            "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1227,10 +1050,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0027-engine-dipstick.jpg",
-              "link": "oilchecking.html",
-              "alt": "A precise oil level check on the 2004 MG-ZR",
-              "title": "oil level checking",
+              "src": "@PROJECT_PATH@/assets/images/0076%20rover%20gearbox%20oil-500x190.jpg",
+              "link": "",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -1245,8 +1067,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CALIBRATED DIPSTICK</i></span>",
-          "text": "To solve this problem, came up with the idea of using a semi rigid plastic tube, one from an old waxoyl kit was just ideal for this. <a href=\"oilchecking.html\" class=\"text-primary\">More.</a>",
+          "title": "<span style=\"font-weight: normal;\">LOCATION OF DRAIN /FILL BOLTS</span>",
+          "text": "If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. More.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1255,20 +1077,12 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
             }
           },
-          "_anchor": "msg-box5-4vi"
+          "_anchor": "msg-box5-4vc"
         },
         {
           "_params": {
