@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6334,
+    "uniqCompNum": 6331,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1610,7 +1610,7 @@
             "inverse": true,
             "imageSize": "40",
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1669,94 +1669,6 @@
             }
           },
           "_anchor": "msg-box5-4vu"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Navigation 200 ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vx"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "40",
-            "paddingTop": 0,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0093-satnav-and-dashcam-button-500x200.jpg",
-              "link": "satnav.html",
-              "alt": "0093-satnav-and-dashcam-button.JPG",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">NAVIGATION POWER SWITCH</span>",
-          "text": "Easy access and convenient location, of the power switch for the satellite navigation system. Now shown alongside dashcam switch. <a href=\"satnav.html\" class=\"text-primary\">More.</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-4vw"
         },
         {
           "_params": {
