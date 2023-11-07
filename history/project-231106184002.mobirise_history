@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6329,
+    "uniqCompNum": 6325,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -259,33 +259,6 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4ri"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4vs"
         },
         {
           "_params": {
@@ -1422,7 +1395,7 @@
             "inverse": true,
             "imageSize": "40",
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1487,7 +1460,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text": "<p>Emissions Testing ZR</p>",
