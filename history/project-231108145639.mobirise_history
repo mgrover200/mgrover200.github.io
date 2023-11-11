@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6357,
+    "uniqCompNum": 6350,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -339,7 +339,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0068-mg-rover-coolant-tank-500x200.jpg",
               "link": "coolsensor.html",
-              "alt": "coolant level sensor",
+              "alt": "",
               "title": "coolant tank",
               "linkInNewWindow": false
             },
@@ -440,7 +440,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0086-rover-cooling-system-500x200.jpg",
               "link": "coolsystem.html",
-              "alt": "K.16 Cooling System",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -527,9 +527,8 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0087-heater-matrix-valve-500x200.jpg",
-              "link": "cabinheater.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "link": "",
+              "alt": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -544,7 +543,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old. <a href=\"cabinheater.html\" class=\"text-primary\">More.</a>",
+          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9566,7 +9565,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted, and then a correct fill of 5.5 litres of OAT coolant.</p>"
+          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted. No further information is available from this page..&nbsp;</p>"
         },
         {
           "_params": {
@@ -9576,7 +9575,7 @@
             "inverse": true,
             "imageSize": "40",
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -9619,58 +9618,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-4vy"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Using a further trial and elimination process, the cabin heater control dial was set to hot position, radiator bottom hose detached and coolant drained off yet again. The first to check were the heater control valve, the cabin heater control dial, and then the heater matrix..</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4we"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">Cabin heater controlled coolant valve JJB-100240 attached to the bulkhead, is just a simple sliding coolant regulator or shut off valve, operated when rotating cabin's heater dial, this had no issues. rotated a few times to confirm that the steel operating control rod was working correctly.</span><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4wf"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident. The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process.&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4wg"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, during the winter months is essential.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4wi"
         },
         {
           "_styles": {
