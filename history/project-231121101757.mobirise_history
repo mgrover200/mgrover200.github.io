@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6371,
+    "uniqCompNum": 6365,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,28 +41,17 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "msqzd150jw",
+    "mbrsiteDomain": "uacwpe7l0x",
     "publishChangesOnly": true,
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#7e9b9f",
+      "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    }
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -521,7 +510,7 @@
             "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/000000000-482x181.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -2405,7 +2394,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4wy"
+          "_anchor": "image2-4un"
         },
         {
           "_params": {
@@ -2418,6 +2407,7 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-4t5",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -2426,8 +2416,7 @@
             "DIV": {
               "color": "#475577"
             }
-          },
-          "_anchor": "content1-4wx"
+          }
         },
         {
           "_params": {
