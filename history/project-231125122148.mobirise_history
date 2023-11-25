@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6410,
+    "uniqCompNum": 6407,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -263,7 +263,7 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -855,6 +855,7 @@
               "src": "@PROJECT_PATH@/assets/images/0018-sunroof-seal.jpg",
               "link": "https://mgrover200.github.io/sunroof.html",
               "alt": "",
+              "title": "mg-rover glass sunroof",
               "linkInNewWindow": false
             },
             "video": {
@@ -869,7 +870,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Sunroof Panel</span>",
+          "title": "",
           "text": "Sunroof panel tilted, showing one side of the 6 bolts before removal. With panel removed, and waiting for the new seal to bond. <a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -879,15 +880,22 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "right"
             },
             "SPAN": {
-              "font-size": "25px"
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
             }
           },
-          "_anchor": "msg-box5-4xz"
+          "_anchor": "msg-box5-4va"
         },
         {
           "_params": {
@@ -1092,12 +1100,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Fuel Filter Change</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4vj"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1134,7 +1166,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Fuel Filter&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>FUEL FILTER LOCATION&nbsp;</i></span>",
           "text": "As stated, makes for an easier working area with the charcoal canister out of the way, Once the bond between gasket and bracket. <a href=\"fuelfilter.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1150,7 +1182,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -1161,12 +1193,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Purge Valve Info</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4vl"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1203,7 +1259,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Purge Valve Info</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PURGE VALVE LOCATION</i></span>",
           "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation.&nbsp;<a href=\"purgevalve.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1221,7 +1277,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px"
@@ -1231,12 +1287,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Emissions Test ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4vn"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1273,7 +1353,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Emissions Check&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>EMISSIONS CHECK 04 ZR&nbsp;</i></span>",
           "text": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them. <a href=\"emissions.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1288,7 +1368,7 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "25px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#475577"
@@ -1301,12 +1381,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Torque Settings</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4vt"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1343,7 +1447,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Torque Settings</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CAMSHAFT GASKET</i></span>",
           "text": "A new cam cover gasket was fitted, this went on dry with no sealant added, needs to be fitted the correct way round.&nbsp;<a href=\"torque.html\" class=\"text-primary\">More.</a>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1361,7 +1465,7 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "25px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
@@ -1369,12 +1473,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Navigation 200 ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4vx"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1410,7 +1538,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Navigation</span>",
+          "title": "<span style=\"font-weight: normal;\">NAVIGATION POWER SWITCH</span>",
           "text": "Easy access and convenient location, of the power switch for the satellite navigation system. Now shown alongside.&nbsp;<a href=\"satnav.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1427,21 +1555,42 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-4vw"
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Clown Catchers ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4w1"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1478,7 +1627,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Clown Catchers&nbsp;&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>LOCATION OF REAR CAMERA &nbsp;</i></span>",
           "text": "Centre position of the rear located mobius camera, shown slipped into the supplied holding bracket, high level and discreet.&nbsp;<a href=\"dashcam.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1494,7 +1643,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px",
@@ -1505,12 +1654,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Twin Horns ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4w3"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1546,7 +1719,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Dual Horns</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>TWIN HORNS NOW FITTED</i></span>",
           "text": "Fitting the horns was a straight foreward swop, made easier with the  front bumper out of the way, the old horn.&nbsp;<a href=\"twinhorns.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1561,19 +1734,43 @@
               "font-size": "22px"
             },
             "SPAN": {
-              "font-size": "25px"
+              "font-size": "20px"
             }
           },
           "_anchor": "msg-box5-4w4"
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Colour Codes List</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4w5"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1609,31 +1806,47 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Colour Codes</span>",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "<br>A list which is most, or all of the MG-Rover original vehicle paint codes listed as AAC to ZGN from year 1963 to 2005.&nbsp;<a href=\"https://mgrover200.github.io/colourcodes.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4w6",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            }
-          }
+          "_anchor": "msg-box5-4w6"
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Inlet Manifold</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4w9"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1670,7 +1883,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Inlet Manifold</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>MULTI CONNECTOR</i></span>",
           "text": "Removal process of the inlet manifold. after the multi-connector, with the sliding locking tab (shown in open position).&nbsp;<a href=\"inletmanifold.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1686,7 +1899,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -1697,12 +1910,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Bulb Monitoring ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4wa"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1739,7 +1976,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Bulb Monitoring</span>",
+          "title": "<span style=\"font-weight: normal;\">FIBRE OPTIC CABLES INSERTED&nbsp;</span>",
           "text": "One of the light units, shown removed from vehicle complete with the fibre optic cables inserted after trial and error.&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1755,7 +1992,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -1766,12 +2003,36 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Audio Controls ZR</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-4wc"
+        },
+        {
+          "_params": {
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1808,7 +2069,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Audio Controls</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>KENWOO KDC 3031A CD/RADIO</i></span>",
           "text": "On this particular model, the acceptance of fitting steering wheel audio remote controls is shown, and can be seen.&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1824,7 +2085,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -1832,6 +2093,34 @@
             }
           },
           "_anchor": "msg-box5-4wd"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">OUR ARCHIVED SOLUTIONS</span>",
+          "meta": "<a href=\"archived.html\" class=\"text-primary\">By John Smith posted July 20, 2016</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4xt"
         },
         {
           "_params": {

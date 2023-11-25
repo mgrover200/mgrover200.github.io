@@ -261,9 +261,40 @@
           "_anchor": "msg-box8-4ri"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">OUR ARCHIVED SOLUTIONS</span>",
+          "meta": "1996 Rover 200 Series/2004 MG-ZR 120&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4y1"
+        },
+        {
           "_params": {
             "showText": false,
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
