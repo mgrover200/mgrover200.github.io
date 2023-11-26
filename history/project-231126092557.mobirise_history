@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lightcheck.html",
+    "currentPage": "ignitionleads.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6360,
+    "uniqCompNum": 6418,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,11 +41,11 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "uacwpe7l0x",
+    "mbrsiteDomain": "7xzvamcjvt",
     "publishChangesOnly": true,
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#7e9b9f",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
@@ -263,7 +263,7 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -289,36 +289,12 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Coolant Level Sensor</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4ur",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -355,7 +331,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Coolant Level Sensor&nbsp;&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Coolant Sensor&nbsp;&nbsp;</span>",
           "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank. <b><a href=\"coolsensor.html\" class=\"text-primary\">More.</a></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -390,36 +366,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>K.16 Cooling System&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4uv"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -455,7 +407,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">K.16 Cooling System&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Cooling System&nbsp;</span>",
           "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine.&nbsp;<a href=\"coolsystem.html\" class=\"text-primary\">More.&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -478,39 +430,15 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Matrix Heater Valve</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vz"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/000000000-482x181.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -543,47 +471,33 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached.&nbsp;<a href=\"cabinheater.html\" class=\"text-primary\">More.</a>",
+          "title": "<span style=\"font-weight: normal;\">Heater Valve</span>",
+          "text": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached.&nbsp;<a href=\"cabinheater.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4w0"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Ignition Switch</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
+          "_anchor": "msg-box5-4w0",
           "_styles": {
-            "DIV": {
+            "H3": {
               "color": "#475577"
             },
-            "P": {
+            "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
+              "font-size": "25px"
             }
-          },
-          "_anchor": "content1-4ux"
+          }
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -620,7 +534,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Ignition Switch</span>",
-          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition. <a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\">More.&nbsp;</a>",
+          "text": "With column covers removed, gave better access to the&nbsp; screws that holds ignition. <a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\">More.&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -642,36 +556,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Ignition Leads</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4uy"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -707,8 +597,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: 400;\">Ignition Leads ZR</span>",
-          "text": "Ignition leads and coil pack set up in the 2004 ZR shown, comprising of Leoni high tension leads, Denso 100730 coil packs.<a href=\"ignitionleads.html\" class=\"text-primary\"> More.</a>",
+          "title": "<span style=\"font-weight: 400;\">Ignition Leads</span>",
+          "text": "Ignition leads and coil pack set up in the 2004 ZR comprises of Leoni high tension leads, Denso 100730 coil packs.<a href=\"ignitionleads.html\" class=\"text-primary\"> More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -729,36 +619,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Engine Fusebox ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4v0"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -795,7 +661,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FUSES AND RELAYS 2004 ZR</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Engine Fuse Box&nbsp;<i> &nbsp;</i></span>",
           "text": "The different types of fuses, and relays shown here as an example, may vary due to production year and model, and may contain.&nbsp;<a href=\"enginefuse.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -814,7 +680,7 @@
               "text-align": "left"
             },
             "SPAN": {
-              "font-size": "20px",
+              "font-size": "25px",
               "color": "#475577"
             }
           },
@@ -822,36 +688,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Cabin Fusebox ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4v2"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "57",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -888,8 +730,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FUSE'S AND RELAYS</i></span>",
-          "text": "Fuses in the main panel are usually colour coded, and range from 5 amp to 30 amp The fuse panel will only accept the narrow. <a href=\"cabinfuse.html\" class=\"text-primary\">More.</a>",
+          "title": "<span style=\"font-weight: normal;\">Cabin Fuse Panel</span>",
+          "text": "Fuses in the main panel are usually colour coded, and range from 5 amp to 30 amp, fuse panel only accepts the narrow. <a href=\"cabinfuse.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -908,7 +750,7 @@
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "20px",
+              "font-size": "25px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -917,36 +759,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Tailgate Loom</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4v5"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -983,7 +801,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>WIRING LOOM</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Tailgate Wiring</span>",
           "text": "Wires inside the sleeve constantly fold over each other each time the tailgate is in use, so will fray and eventually break.&nbsp;<a href=\"tailgate.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -999,7 +817,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "font-size": "17px",
@@ -1010,36 +828,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Sunroof Seal</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4v9"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1061,7 +855,6 @@
               "src": "@PROJECT_PATH@/assets/images/0018-sunroof-seal.jpg",
               "link": "https://mgrover200.github.io/sunroof.html",
               "alt": "",
-              "title": "mg-rover glass sunroof",
               "linkInNewWindow": false
             },
             "video": {
@@ -1076,7 +869,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>SUNROOF PANEL REMOVAL</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Sunroof Panel</span>",
           "text": "Sunroof panel tilted, showing one side of the 6 bolts before removal. With panel removed, and waiting for the new seal to bond. <a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1086,55 +879,24 @@
           "_styles": {
             "H3": {
               "color": "#475577",
-              "font-size": "20px",
-              "text-align": "right"
-            },
-            "SPAN": {
-              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
               "font-size": "20px"
             },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
+            "SPAN": {
+              "font-size": "25px"
             }
           },
-          "_anchor": "msg-box5-4va"
+          "_anchor": "msg-box5-4xz"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Gearbox Oil 200</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vb"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1170,8 +932,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">LOCATION OF DRAIN /FILL BOLTS</span>",
-          "text": "If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-primary\">More.</a>",
+          "title": "<span style=\"font-weight: normal;\">Gearbox Oil Change</span>",
+          "text": "If the oil has never been drained off, it can be assumed the drain bolt, is difficult to remove. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1183,42 +945,21 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-4vc"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Engine Sump 200</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vf"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1255,7 +996,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>ENGINE SUMP CONDITION</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Engine Oil Sump</span>",
           "text": "With sump removed years of tarnished oil is evident, using scraper wire wool, turps and old rags, sump was cleaned. <a href=\"oilsump.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1271,7 +1012,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -1282,36 +1023,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Oil Level Checking</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vh"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1348,7 +1065,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CALIBRATED DIPSTICK</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Engine Oil Level</span>",
           "text": "To solve this problem, came up with the idea of using a semi rigid plastic tube, one from an old waxoyl kit was ideal for this. <a href=\"oilchecking.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1364,7 +1081,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -1375,36 +1092,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Fuel Filter Change</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vj"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1441,7 +1134,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>FUEL FILTER LOCATION&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Fuel Filter&nbsp;</span>",
           "text": "As stated, makes for an easier working area with the charcoal canister out of the way, Once the bond between gasket and bracket. <a href=\"fuelfilter.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1457,7 +1150,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -1468,36 +1161,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Purge Valve Info</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vl"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1534,7 +1203,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>PURGE VALVE LOCATION</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Purge Valve Info</span>",
           "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation.&nbsp;<a href=\"purgevalve.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1552,7 +1221,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "font-size": "17px"
@@ -1562,36 +1231,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Emissions Test ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vn"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1628,7 +1273,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>EMISSIONS CHECK 04 ZR&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Emissions Check&nbsp;</span>",
           "text": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them. <a href=\"emissions.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1643,7 +1288,7 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "20px",
+              "font-size": "25px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#475577"
@@ -1656,36 +1301,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Torque Settings</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vt"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1722,7 +1343,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CAMSHAFT GASKET</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Torque Settings</span>",
           "text": "A new cam cover gasket was fitted, this went on dry with no sealant added, needs to be fitted the correct way round.&nbsp;<a href=\"torque.html\" class=\"text-primary\">More.</a>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1740,7 +1361,7 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "20px",
+              "font-size": "25px",
               "color": "#475577"
             }
           },
@@ -1748,36 +1369,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Navigation 200 ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4vx"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1813,7 +1410,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">NAVIGATION POWER SWITCH</span>",
+          "title": "<span style=\"font-weight: normal;\">Navigation</span>",
           "text": "Easy access and convenient location, of the power switch for the satellite navigation system. Now shown alongside.&nbsp;<a href=\"satnav.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1830,42 +1427,21 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-4vw"
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Clown Catchers ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4w1"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1902,7 +1478,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>LOCATION OF REAR CAMERA &nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Clown Catchers&nbsp;&nbsp;</span>",
           "text": "Centre position of the rear located mobius camera, shown slipped into the supplied holding bracket, high level and discreet.&nbsp;<a href=\"dashcam.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1918,7 +1494,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "font-size": "17px",
@@ -1929,36 +1505,12 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Twin Horns ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4w3"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1994,7 +1546,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>TWIN HORNS NOW FITTED</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Dual Horns</span>",
           "text": "Fitting the horns was a straight foreward swop, made easier with the  front bumper out of the way, the old horn.&nbsp;<a href=\"twinhorns.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2009,43 +1561,19 @@
               "font-size": "22px"
             },
             "SPAN": {
-              "font-size": "20px"
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box5-4w4"
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Colour Codes List</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4w5"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2081,47 +1609,31 @@
               "size": 0
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "title": "<span style=\"font-weight: normal;\">Colour Codes</span>",
           "text": "<br>A list which is most, or all of the MG-Rover original vehicle paint codes listed as AAC to ZGN from year 1963 to 2005.&nbsp;<a href=\"https://mgrover200.github.io/colourcodes.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4w6"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Inlet Manifold</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
+          "_anchor": "msg-box5-4w6",
           "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
+            "H3": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
+              "font-size": "25px"
             }
-          },
-          "_anchor": "content1-4w9"
+          }
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2158,7 +1670,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MULTI CONNECTOR</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Inlet Manifold</span>",
           "text": "Removal process of the inlet manifold. after the multi-connector, with the sliding locking tab (shown in open position).&nbsp;<a href=\"inletmanifold.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2174,7 +1686,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -2185,36 +1697,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Bulb Monitoring ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4wa"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2251,7 +1739,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">FIBRE OPTIC CABLES INSERTED&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Bulb Monitoring</span>",
           "text": "One of the light units, shown removed from vehicle complete with the fibre optic cables inserted after trial and error.&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2267,7 +1755,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -2278,36 +1766,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Audio Controls ZR</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-4wc"
-        },
-        {
-          "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2344,7 +1808,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>KENWOO KDC 3031A CD/RADIO</i></span>",
+          "title": "<span style=\"font-weight: normal;\">Audio Controls</span>",
           "text": "On this particular model, the acceptance of fitting steering wheel audio remote controls is shown, and can be seen.&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">More.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2360,7 +1824,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "25px"
             },
             "P": {
               "text-align": "left",
@@ -2394,7 +1858,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-4un"
+          "_anchor": "image2-4wy"
         },
         {
           "_params": {
@@ -2407,7 +1871,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-4t5",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -2416,7 +1879,8 @@
             "DIV": {
               "color": "#475577"
             }
-          }
+          },
+          "_anchor": "content1-4wx"
         },
         {
           "_params": {
@@ -2477,7 +1941,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -3013,7 +2477,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -3231,7 +2695,20 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, and then transferred into the MG during 2010, its been trouble free over many years of service with a good reliable safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature.</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4wq"
         },
         {
           "_params": {
@@ -3278,7 +2755,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Replacement Tank&nbsp;</span>",
-          "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank, and then the coolant just poured back in.",
+          "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3355,7 +2832,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Coolant Sensor Options</span>",
-          "text": "Shows the coolant tank sensor RPCJ000040 along with the two optional warning modules, a dashboard bulb, and a piezo buzzer.",
+          "text": "Shows the coolant tank sensor RPCJ000040 with the warning modules, piezo buzzer, and a&nbsp; dashboard bulb.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3394,7 +2871,20 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank, Part number RPCF000160, and a coolant reed sensor part number RPCJ000040, with an option fit just one, or both of the warning modules, so we chose to fit both of them.</p>"
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Part number RPCF000160, and a coolant reed sensor part number RPCJ000040, with an option fit just one, or both of the warning modules, so we chose to fit both of them.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4wr"
         },
         {
           "_tags": [
@@ -3412,7 +2902,20 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out. Along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp;&nbsp;</p>"
+          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4ws"
         },
         {
           "_params": {
@@ -3521,7 +3024,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -4035,7 +3538,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 22
+        "order": 20
       },
       "components": [
         {
@@ -4444,10 +3947,29 @@
           "_anchor": "content1-35m",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>The main aspect of this motoring safety feature as applied to the 2004 MG-ZR. is knowing instantly when a tail or brake light bulb is out, and with an immediate notification to show exactly which one of the blown bulbs that needs to be replaced, when it happens, so keeping safe and also driving legal. You never know, who is going to sneak in behind you. Project Design and Installation. (c) 2016.&nbsp;</p>"
+          "text": "<p>The main aspect of this motoring safety feature as applied to the 2004 MG-ZR. is knowing instantly when a tail or brake light bulb is out, and with an immediate notification to show exactly which one of the blown bulbs that needs to be replaced, as it happens, keeping safe and also driving legal. You never know, who is going to sneak in behind you.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Project Design and Installation (c) 2016.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-4wp"
         },
         {
           "_params": {
@@ -4556,7 +4078,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 20
+        "order": 18
       },
       "components": [
         {
@@ -5165,7 +4687,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 23
+        "order": 21
       },
       "components": [
         {
@@ -5674,7 +5196,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 10
       },
       "components": [
         {
@@ -6200,7 +5722,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 24
+        "order": 22
       },
       "components": [
         {
@@ -6623,7 +6145,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 26
+        "order": 24
       },
       "components": [
         {
@@ -7075,7 +6597,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 25
+        "order": 23
       },
       "components": [
         {
@@ -7499,7 +7021,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 17
+        "order": 15
       },
       "components": [
         {
@@ -7995,7 +7517,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 21
+        "order": 19
       },
       "components": [
         {
@@ -8490,7 +8012,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 18
+        "order": 16
       },
       "components": [
         {
@@ -8893,7 +8415,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 15
+        "order": 13
       },
       "components": [
         {
@@ -9371,7 +8893,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -9585,7 +9107,20 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted, and then a correct fill of 5.5 litres of OAT coolant.</p>"
+          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted, and then a correct fill of 5.5 litres of OAT coolant.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4xq"
         },
         {
           "_params": {
@@ -9631,7 +9166,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old. and would benefit from having these new coolant hoses fitted.",
+          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9671,12 +9206,25 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident. The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process.&nbsp;</p>",
+          "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-4wg"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4xy"
         },
         {
           "_params": {
@@ -9786,7 +9334,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -9996,7 +9544,20 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>An annoying problem encountered some time ago, was initially with a suspected fault within the vehicles ignition switch, no dash panel lights, just the sound of the fuel pump being primed for the starting procedure. Only time to get a panel display, was with initiating 'quick and positive' turns of the ignition key. for an eventual start-up. So we ruled out any other ignition related problems, and fitted a new switch.</p>"
+          "text": "<p>An annoying problem encountered some time ago, was initially with a suspected fault within the vehicles ignition switch, no dash panel lights, just the sound of the fuel pump being primed for the starting procedure.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Only time to get a panel display, was with initiating 'quick and positive' turns of the ignition key. for an eventual start-up. So we ruled out any other ignition related problems, and fitted a new switch.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y2"
         },
         {
           "_tags": [
@@ -10014,7 +9575,20 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws. Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel (not the switch) is factory secured with shear bolts, and does not need to be removed during this process.</p>"
+          "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered down, and column covers removed. Top part will just prise off, bottom part is secured with 3 screws.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Cabin fuse box lid also needs removing, switch is attached to bottom of key barrel with two small cross head screws. The ignition key barrel (not the switch) is factory secured with shear bolts, and does not need to be removed during this process.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y3"
         },
         {
           "_params": {
@@ -10024,7 +9598,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10095,11 +9669,24 @@
           },
           "_anchor": "content1-37l",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Ignition switch shown below after being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care and attention, the only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide selector.</p>"
+          "text": "<p>Ignition switch shown below after being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care and attention.</p>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide selector.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y4"
         },
         {
           "_tags": [
@@ -10113,19 +9700,32 @@
           },
           "_anchor": "content1-37m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions thats being selected, to achieve this, lower part of the rotor has corresponding grooves and slots which will open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents under the collar of the rotor.</p>"
+          "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions that is being selected, to achieve this, lower part of the rotor has corresponding grooves and slots.&nbsp;</p>"
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Which will open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents under the collar of the rotor.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y5"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures  the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>",
+          "text": "<p>On assembly, spring loaded guide selector placed back first, then the rotating selector placed onto the centre spindle with spring tang 'facing' the multi-connector, which needs to be placed back correctly onto the spindle.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -10136,6 +9736,19 @@
             }
           },
           "_anchor": "content1-49p"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures the spring resistance for ignition key quick return as during the normal engine starting procedures.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y6"
         },
         {
           "_styles": {
@@ -10174,10 +9787,10 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges, helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</span></p>",
+          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the serated edges.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -10188,6 +9801,19 @@
             }
           },
           "_anchor": "content1-4bu"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Which helps loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother and glide free key action. This applies only to our own personal experience.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y7"
         },
         {
           "_params": {
@@ -10296,7 +9922,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -10944,7 +10570,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 27
+        "order": 25
       },
       "components": [
         {
@@ -11407,7 +11033,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -12045,7 +11671,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -12453,7 +12079,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 19
+        "order": 17
       },
       "components": [
         {
@@ -12871,7 +12497,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -13408,7 +13034,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -13621,7 +13247,20 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "Removing ignition leads from distributor cap, or from sparkplugs on the rover 200 without first making a note of the correct fitting sequence is an easy mistake to do, the ignition leads on the distributor cap requires that number 1 plug lead being inserted into uppermost connection,while others are placed in an anticlockwise direction of 3-4-2 for a correct firing order of the K16 engine."
+          "text": "Removing ignition leads from distributor cap, or from sparkplugs on the rover 200 without first making a note of the correct fitting sequence is an easy mistake to do, the ignition leads on the distributor cap requires.&nbsp;"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>That number 1 plug lead being inserted into uppermost connection,while others are placed in an anticlockwise direction of 3-4-2 for a correct firing order of the K16 engine.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y8"
         },
         {
           "_tags": [
@@ -13708,7 +13347,20 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "Cylinder firing order of the K16 engine is 1-3-4-2 number one cylinder is at the cambelt end, and viewed from left to right looking at the engine while standing directly at the front of the vehicle. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm."
+          "text": "Cylinder firing order of the K16 engine is 1-3-4-2 number one cylinder is at the cambelt end, and viewed from left to right looking at the engine while standing directly at the front of the vehicle.&nbsp;"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4y9"
         },
         {
           "_params": {
@@ -13879,7 +13531,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 14
       },
       "components": [
         {
@@ -14390,7 +14042,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 28
+        "order": 26
       },
       "components": [
         {
@@ -15109,7 +14761,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
