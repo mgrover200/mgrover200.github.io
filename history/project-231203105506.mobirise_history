@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6438,
+    "uniqCompNum": 6434,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,7 +41,7 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "ujxe6qfn1u",
+    "mbrsiteDomain": "spwq6ajpj1",
     "publishChangesOnly": true,
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -51,7 +51,18 @@
     },
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
-    "cookiesAlert": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    }
   },
   "pages": {
     "index.html": {
@@ -265,27 +276,30 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
+            "showText": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120&nbsp;&nbsp;</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-4ys",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          }
+          "_name": "image2",
+          "_anchor": "image2-4vs"
         },
         {
           "_params": {
@@ -294,7 +308,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -572,7 +586,7 @@
             "inverse": true,
             "imageSize": "40",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -631,33 +645,6 @@
             }
           },
           "_anchor": "msg-box5-4vu"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-4yt"
         },
         {
           "_styles": {
@@ -1442,7 +1429,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -5519,7 +5506,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8230,7 +8217,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8753,7 +8740,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9864,7 +9851,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/roverinterior-1600x464.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
