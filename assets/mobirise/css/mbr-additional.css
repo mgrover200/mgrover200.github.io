@@ -21,6 +21,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -581,24 +584,44 @@ section.form .container {
 #content1-4ys DIV {
   color: #475577;
 }
-#msg-box5-4to H3 {
+#header3-4z9 .mbr-section-title,
+#header3-4z9 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4z9 .mbr-section-title {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 30px;
+  text-align: left;
+}
+#msg-box5-4z8 H3 {
   font-family: 'Slabo 27px', serif;
   font-size: 20px;
   color: #a38f84;
   text-align: left;
 }
-#msg-box5-4to SPAN {
+#msg-box5-4z8 SPAN {
   color: #475577;
   font-size: 25px;
   font-family: 'Lora', serif;
 }
-#msg-box5-4to P {
+#msg-box5-4z8 P {
   font-size: 17px;
   text-align: left;
 }
-#msg-box5-4to I {
+#msg-box5-4z8 I {
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
+}
+#msg-box5-4za H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#msg-box5-4zb H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 25px;
 }
 #msg-box5-4tp H3 {
   color: #475577;
