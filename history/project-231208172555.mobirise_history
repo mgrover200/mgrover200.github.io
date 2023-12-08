@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6496,
+    "uniqCompNum": 6495,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -299,12 +299,39 @@
           }
         },
         {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-50e"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
@@ -313,9 +340,7 @@
               "color": "#475577"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -324,7 +349,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">COOLING and IGNITION</span>",
+          "title": "<span style=\"font-weight: normal;\">COOLING SYSTEM and IGNITION</span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -466,7 +491,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
@@ -475,9 +500,7 @@
               "color": "#475577"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -502,7 +525,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -579,13 +602,13 @@
           },
           "title1": "<span style=\"font-weight: normal;\">Ignition System</span>",
           "subtitle1": "PLUG LEADS SEQUENCE",
-          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown above right. Comprises of Leoni high tension leads.",
+          "caption1": "Ignition leads and coil pack set up in the 2004 ZR shown above. Comprises of Leoni high tension leads, Denso 100730 coil packs.",
           "title2": "<span style=\"font-weight: normal;\">Emissions&nbsp;</span>",
           "subtitle2": "PURGE VALVE LOCATION",
-          "caption2": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead.",
+          "caption2": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber.",
           "title3": "<span style=\"font-weight: normal;\">Emissions</span>",
           "subtitle3": "M.O.T EMISSIONS TEST",
-          "caption3": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot.",
+          "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached.",
           "title4": "<span style=\"font-weight: normal;\">Vehicle Ignition&nbsp;</span>",
           "subtitle4": "&nbsp;YXB-100350 IGNITION SWITCH",
           "caption4": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to the key barrel.",

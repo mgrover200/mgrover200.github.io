@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6496,
+    "uniqCompNum": 6493,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -304,27 +304,21 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
               "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">COOLING and IGNITION</span>",
+          "title": "<span style=\"font-weight: normal;\">Cooling System and Ignition</span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -466,27 +460,21 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#475577",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
               "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">IGNITION and EMISSIONS</span>",
+          "title": "<span style=\"font-weight: normal;\">Ignition and Emissions</span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -502,7 +490,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -530,7 +518,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0056-purge-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0061-engine-cooling-system-500x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -541,7 +529,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0057-mg-zr-emissions-test-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0054-matrix-heater-valve-500x200.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -579,13 +567,13 @@
           },
           "title1": "<span style=\"font-weight: normal;\">Ignition System</span>",
           "subtitle1": "PLUG LEADS SEQUENCE",
-          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown above right. Comprises of Leoni high tension leads.",
-          "title2": "<span style=\"font-weight: normal;\">Emissions&nbsp;</span>",
-          "subtitle2": "PURGE VALVE LOCATION",
-          "caption2": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead.",
-          "title3": "<span style=\"font-weight: normal;\">Emissions</span>",
-          "subtitle3": "M.O.T EMISSIONS TEST",
-          "caption3": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot.",
+          "caption1": "Ignition leads and coil pack set up in the 2004 ZR shown above. Comprises of Leoni high tension leads, Denso 100730 coil packs.",
+          "title2": "<span style=\"font-weight: normal;\">Cooling System</span>",
+          "subtitle2": "ENGINE COOLANT ROUTE",
+          "caption2": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series.&nbsp;",
+          "title3": "<span style=\"font-weight: normal;\">Cooling System</span>",
+          "subtitle3": "COLD CABIN HEATER",
+          "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old.",
           "title4": "<span style=\"font-weight: normal;\">Vehicle Ignition&nbsp;</span>",
           "subtitle4": "&nbsp;YXB-100350 IGNITION SWITCH",
           "caption4": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to the key barrel.",
@@ -595,9 +583,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"emissions.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",

@@ -1,7 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
+
+
+
+
+
 
 
 
@@ -571,6 +578,22 @@ section.form .container {
 #content1-4ys DIV {
   color: #475577;
 }
+#header3-50a .mbr-section-title,
+#header3-50a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-50a .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#header3-50a .mbr-section-subtitle {
+  color: #475577;
+}
+#header3-50a .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
 #features3-506 H4 {
   color: #7e9b9f;
   font-family: 'Lora', serif;
@@ -579,6 +602,33 @@ section.form .container {
   color: #475577;
 }
 #features3-506 SPAN {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#header3-50c .mbr-section-title,
+#header3-50c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-50c .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#header3-50c .mbr-section-subtitle {
+  color: #475577;
+}
+#header3-50c .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
+#features3-50b H4 {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+}
+#features3-50b H5 {
+  color: #475577;
+}
+#features3-50b SPAN {
   font-family: 'Lora', serif;
   font-size: 20px;
 }
