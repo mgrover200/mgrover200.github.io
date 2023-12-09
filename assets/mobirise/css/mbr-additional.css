@@ -18,6 +18,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -629,6 +633,33 @@ section.form .container {
   color: #475577;
 }
 #features3-50b SPAN {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#header3-50i .mbr-section-title,
+#header3-50i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-50i .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#header3-50i .mbr-section-subtitle {
+  color: #475577;
+}
+#header3-50i .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
+#features3-50h H4 {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+}
+#features3-50h H5 {
+  color: #475577;
+}
+#features3-50h SPAN {
   font-family: 'Lora', serif;
   font-size: 20px;
 }
