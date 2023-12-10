@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6514,
+    "uniqCompNum": 6513,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -320,7 +320,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -340,7 +340,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -415,15 +415,15 @@
               "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
-          "subtitle1": "ENGINE FUSE BOX",
-          "caption1": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, of which circuit each fuse, fusible links, and relays serves.",
-          "title2": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
-          "subtitle2": "CABIN FUSE BOX",
-          "caption2": "Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves.",
+          "title1": "<span style=\"font-weight: normal;\">Cooling System</span>",
+          "subtitle1": "REPLACEMENT TANK",
+          "caption1": "Replacement part number RPCF000160, prior to fitting a coolant level sensor cooling system did not need to be drained.",
+          "title2": "<span style=\"font-weight: normal;\">Cooling System</span>",
+          "subtitle2": "ENGINE COOLANT ROUTE",
+          "caption2": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine.",
           "title3": "<span style=\"font-weight: normal;\">Cooling System</span>",
           "subtitle3": "COLD CABIN HEATER",
-          "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes with new coolant hoses already attached.",
+          "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes with new coolant hoses attached.",
           "title4": "<span style=\"font-weight: normal;\">Cooling System&nbsp;</span>",
           "subtitle4": "&nbsp;ENGINE COOLANT ROUTE",
           "caption4": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine.",
@@ -433,8 +433,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"enginefuse.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"cabinfuse.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -459,40 +459,6 @@
             }
           },
           "_anchor": "features3-506"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#7e9b9f",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"infopage2 .html\" class=\"text-primary\">Tap to view more features</a></span>",
-          "meta": "Rover 200/25/ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-50x"
         },
         {
           "_tags": [
@@ -13857,7 +13823,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
