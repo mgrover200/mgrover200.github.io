@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "infopage3.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6523,
+    "uniqCompNum": 6522,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -417,7 +417,7 @@
           },
           "title1": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
           "subtitle1": "ENGINE FUSE BOX",
-          "caption1": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, of which circuit each fuse, fusible links, and relays.",
+          "caption1": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, of which circuit each fuse, fusible links, and relays serves.",
           "title2": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
           "subtitle2": "CABIN FUSE BOX",
           "caption2": "Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves.",
@@ -426,7 +426,7 @@
           "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes with new coolant hoses already attached.",
           "title4": "<span style=\"font-weight: normal;\">Cooling System&nbsp;</span>",
           "subtitle4": "&nbsp;ENGINE COOLANT ROUTE",
-          "caption4": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the K series.",
+          "caption4": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -486,7 +486,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"infopage2 .html\" class=\"text-primary\">Tap to view more features&nbsp;(2)</a></span>",
+          "title": "<span style=\"font-weight: normal;\"><a href=\"infopage2 .html\" class=\"text-primary\">Tap to view more features</a></span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -13877,7 +13877,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -13960,10 +13960,10 @@
           "caption2": "With column covers removed, gave better access to the 2 small screws that holds switch to the key barrel.",
           "title3": "<span style=\"font-weight: normal;\">Emissions</span>",
           "subtitle3": "M.O.T EMISSIONS TEST",
-          "caption3": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine.",
+          "caption3": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot.",
           "title4": "<span style=\"font-weight: normal;\">Emissions&nbsp;</span>",
           "subtitle4": "&nbsp;PURGE VALVE",
-          "caption4": "Located on top of the charcoal canister, fixed into a metal bracket containing an isolation rubber on the bulkhead.",
+          "caption4": "Located on top of the charcoal canister, fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -13996,40 +13996,6 @@
             }
           },
           "_anchor": "features3-50w"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#7e9b9f",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"infopage3.html\" class=\"text-primary\">Tap to view more features&nbsp;(3)</a></span>",
-          "meta": "Rover 200/25/ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-516"
         },
         {
           "_tags": [
@@ -14318,7 +14284,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">Driver and Monitoring Systems&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Ignition and Emissions</span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -14366,7 +14332,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "lightcheck.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14377,7 +14343,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "coolsensor.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14388,7 +14354,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "satnav.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14453,6 +14419,134 @@
             }
           },
           "_anchor": "features3-515"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0055-mg-rover-ignition-leads-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0053-mg-rover-ignition-switch-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0057-mg-zr-emissions-test-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0056-purge-valve-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Ignition System</span>",
+          "subtitle1": "PLUG LEADS SEQUENCE",
+          "caption1": "The ignition leads and the coil pack set up in the 2004 ZR shown above right. Comprises of Leoni high tension leads.",
+          "title2": "<span style=\"font-weight: normal;\">Ignition System&nbsp;</span>",
+          "subtitle2": "YXB-100350 IGNITION SWITCH",
+          "caption2": "With column covers removed, gave better access to the 2 small screws that holds switch to the key barrel.",
+          "title3": "<span style=\"font-weight: normal;\">Emissions</span>",
+          "subtitle3": "M.O.T EMISSIONS TEST",
+          "caption3": "Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot.",
+          "title4": "<span style=\"font-weight: normal;\">Emissions&nbsp;</span>",
+          "subtitle4": "&nbsp;PURGE VALVE",
+          "caption4": "Located on top of the charcoal canister, fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"ignitionleads.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"emissions.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/purgevalve.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H5": {
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "features3-513"
         },
         {
           "_tags": [
