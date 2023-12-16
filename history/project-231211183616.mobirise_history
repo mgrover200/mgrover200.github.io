@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6543,
+    "uniqCompNum": 6524,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -324,7 +324,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">Charcoal canister and Purge Valve</span>",
+          "title": "<span style=\"font-weight: normal;\">COOLING System and Fuses</span>",
           "meta": "Rover 200/25/ZR",
           "_tags": [
             "Theme"
@@ -334,13 +334,14 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -351,46 +352,147 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media": {
+          "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/0064-engine-fuse-box-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0056-purge-valve-500x200.jpg",
-              "linkInNewWindow": false,
-              "link": "purgevalve.html",
-              "alt": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 0
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Whats the function of the purge valve, and how it helps with the vehicles emissions.&nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0063-mg-zr-cabin-fuse-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0054-matrix-heater-valve-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0061-engine-cooling-system-500x200.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
+          "subtitle1": "ENGINE FUSE BOX",
+          "caption1": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, of which circuit each fuse, fusible links, and relays.",
+          "title2": "<span style=\"font-weight: normal;\">Fuses and Relays</span>",
+          "subtitle2": "CABIN FUSE BOX",
+          "caption2": "Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves.",
+          "title3": "<span style=\"font-weight: normal;\">Cooling System</span>",
+          "subtitle3": "COLD CABIN HEATER",
+          "caption3": "The heater matrix valve is basically a SAAB C900 unit usually comes with new coolant hoses already attached.",
+          "title4": "<span style=\"font-weight: normal;\">Cooling System&nbsp;</span>",
+          "subtitle4": "&nbsp;ENGINE COOLANT ROUTE",
+          "caption4": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the K series.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"enginefuse.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"cabinfuse.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"cabinheater.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-51o",
+          "_name": "features3",
           "_styles": {
-            "P": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px",
-              "color": "#7e9b9f"
+            "H4": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H5": {
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "features3-506"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#7e9b9f",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><a href=\"infopage2 .html\" class=\"text-primary\">Tap to view more features&nbsp;(2)</a></span>",
+          "meta": "Rover 200/25/ZR",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-50x"
         },
         {
           "_tags": [
@@ -1192,7 +1294,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1210,7 +1312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/009-coolant-tank-500x279.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0068-mg-rover-coolant-tank-500x200.jpg",
               "link": "",
               "alt": "Coolant loss, monitoring system 200/25/ZR ",
               "title": "coolant tank",
@@ -1229,7 +1331,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Replacement Tank&nbsp;</span>",
-          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with the new tank, coolant tank sensor RPCJ000040 with optional warning modules, piezo buzzer, and a dashboard bulb. &nbsp;",
+          "text": "To install this feature cooling system did not need to be drained, just syphoned out, and replaced with the new tank.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1260,6 +1362,74 @@
             }
           },
           "_anchor": "msg-box5-485"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0096-coolant-level-sensors-491x112.jpg",
+              "link": "",
+              "alt": "mg rover coolant level sensor",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Coolant Sensor Options</span>",
+          "text": "Shows the coolant tank sensor RPCJ000040 with the warning modules, piezo buzzer, and a&nbsp; dashboard bulb.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box5-486"
         },
         {
           "_tags": [
@@ -1301,7 +1471,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -1323,6 +1493,51 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kv"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-4tu"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4ms",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -7359,7 +7574,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "50",
+            "imageSize": "40",
             "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -7379,7 +7594,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0087-mg-rover-matrix-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0087-heater-matrix-valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -7500,7 +7715,7 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -7515,7 +7730,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-51c"
+          "_anchor": "content1-4nn"
         },
         {
           "_tags": [
@@ -10971,7 +11186,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -10991,7 +11206,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0088-saab-c90-matrix-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0087-heater-matrix-valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
