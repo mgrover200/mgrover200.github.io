@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6568,
+    "uniqCompNum": 6566,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1229,7 +1229,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Replacement Tank&nbsp;</span>",
-          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new tank coolant tank. RPCF000160 with optional warning modules, of either a piezo buzzer, or a warning bulb. &nbsp;",
+          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with the new tank, coolant tank sensor RPCJ000040 with optional warning modules, piezo buzzer, and a dashboard bulb. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1300,8 +1300,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "media": {
@@ -1323,51 +1323,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-4kv"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR&nbsp; .</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "15px"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-52f"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-52e"
         },
         {
           "_tags": [
@@ -11128,7 +11083,7 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
