@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6660,
+    "uniqCompNum": 6665,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1255,7 +1255,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/009-coolant-tank-500x279.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0009-coolant-level-sensor-mg-rover-500x200.jpg",
               "link": "",
               "alt": "Coolant loss, monitoring system 200/25/ZR ",
               "title": "coolant tank",
@@ -4010,6 +4010,28 @@
           "text": "<p>Access to 3 of the sump bolts did require that the flywheel cover plate is removed to get to them, tools that were used for this project were 19mm for sump drainage bolt 10mm for the 14 sump bolts, and 8mm for the 3 cover plate bolts, for reference the 200 oil sump drain bolt is 19mm, The drain bolt for the ZR is smaller at 15mm. This old project was completed during 2005.</p>"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-551"
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -5213,10 +5235,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0043-mg-purge-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00043-mg-rover-purge-valve-500x200.jpg",
               "link": "",
               "alt": "Charcoal canister, and purge valve 200/25/ZR",
-              "title": "Purge valve located top of charcoal canister"
+              "title": "Purge valve located top of charcoal canister",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -7513,7 +7536,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0087-mg-rover-matrix-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00087-mg-rover-heater-matrix-valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -7590,6 +7613,28 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4wi"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-550"
         },
         {
           "_styles": {
@@ -7942,7 +7987,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0038-mg-rover-ignition-switch-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00038-ignition-switch-mg-rover-500x200.jpg",
               "link": "",
               "alt": "mg rover ignition switch",
               "linkInNewWindow": false
@@ -7960,7 +8005,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Ignition Switch&nbsp;&nbsp;</span>",
-          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached as shown, from the multi-connector.",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9867,6 +9912,28 @@
           "_anchor": "content1-4go"
         },
         {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-552"
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -11026,7 +11093,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0086-rover-cooling-system-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00086-rover-cooling-system-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -11125,7 +11192,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0088-saab-c90-matrix-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00088-mg-rover-matrix-valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -11538,61 +11605,107 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0036-mg-rover-plugleads-1109x200.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0074-rover-200-ignition-leads-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing, number 1 lead inserted at the top, number 3 goes to the left, number 4 goes to the bottom, and number 2 to the right..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-52i"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-554"
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
             "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "text": "<p>Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing, number 1 lead inserted at the top, number 3 goes to the left, number 4 goes to the bottom, and number 2 to the right.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-4yg"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "font-size": "17px"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0073-mgzr-plugleads-guide-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_anchor": "content1-33e",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "Cylinder firing order of the K16 engine is 1-3-4-2 number one cylinder is at the cambelt end, and viewed from left to right looking at the engine while standing directly at the front of the vehicle."
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Cylinder firing order of the K16 engine is 1-3-4-2 number one cylinder is at the cambelt end, and viewed from left to right looking at the engine while standing directly at the front of the vehicle.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-553"
         },
         {
           "_params": {
@@ -11600,7 +11713,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown above right. Comprises of Leoni high tension leads, Denso 100730 coil packs, NGK BKR6E 6962 Sparkplugs. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm..</p>",
+          "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown directly above Comprises of Leoni high tension leads, Denso 100730 coil packs, NGK BKR6E 6962 Sparkplugs. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm..</p>",
           "_tags": [
             "Theme"
           ],
