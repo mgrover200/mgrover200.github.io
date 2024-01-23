@@ -34,6 +34,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -630,11 +633,6 @@ section.form .container {
   font-size: 30px;
   color: #7e9b9f;
 }
-#msg-box5-55y P {
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-  color: #7e9b9f;
-}
 #msg-box5-55z P {
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
@@ -733,6 +731,32 @@ section.form .container {
   color: #7e9b9f;
   font-family: 'Indie Flower', cursive;
   font-size: 30px;
+}
+#header3-56b .mbr-section-title,
+#header3-56b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-56b .mbr-section-title {
+  color: #7e9b9f;
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#header3-56b .mbr-section-subtitle {
+  color: #475577;
+}
+#header3-56b .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box5-56c P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  color: #7e9b9f;
+}
+#msg-box5-56d P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  color: #7e9b9f;
 }
 #content1-533 P {
   text-align: center;
@@ -4826,8 +4850,6 @@ section.form .container {
 
 
 
-
-
 #ext_menu-53t .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4937,17 +4959,7 @@ section.form .container {
 }
 #msg-box5-54d P {
   font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-  color: #7e9b9f;
-}
-#msg-box5-54e P {
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-  color: #7e9b9f;
-}
-#msg-box5-54n P {
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
   color: #7e9b9f;
 }
 #msg-box5-54q P {
