@@ -265,8 +265,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
           "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
@@ -294,8 +294,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
