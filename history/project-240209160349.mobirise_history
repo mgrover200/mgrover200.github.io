@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6752,
+    "uniqCompNum": 6750,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -351,24 +351,25 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://nationalparty.ie/\" class=\"text-primary\">Irish National Party</a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GB News: Britain's News Channel&nbsp;</a> &nbsp; &nbsp; &nbsp;<a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party UK</a></p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-57i",
           "_styles": {
             "P": {
-              "font-size": "17px",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
             }
-          }
+          },
+          "_anchor": "content1-533"
         },
         {
           "_params": {

@@ -352,10 +352,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://nationalparty.ie/\" class=\"text-primary\">Irish National Party</a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GB News: Britain's News Channel&nbsp;</a> &nbsp; &nbsp; &nbsp;<a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party UK</a></p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Irish National Party</a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GB News</a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform Party UK</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -363,12 +363,34 @@
           "_anchor": "content1-57i",
           "_styles": {
             "P": {
-              "font-size": "17px",
+              "font-size": "20px",
               "text-align": "left",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "content1-533"
         },
         {
           "_params": {
