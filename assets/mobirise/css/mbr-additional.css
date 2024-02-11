@@ -574,7 +574,7 @@ section.form .container {
 }
 #msg-box5-573 SPAN {
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 #msg-box5-573 H3 {
   color: #565656;
@@ -3401,6 +3401,7 @@ section.form .container {
 
 
 
+
 #ext_menu-31p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3507,7 +3508,7 @@ section.form .container {
 #msg-box5-31u SPAN {
   color: #475577;
   font-family: 'Lora', serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 #msg-box5-31u P {
   text-align: left;
@@ -3521,7 +3522,7 @@ section.form .container {
   color: #475577;
   font-family: 'Lora', serif;
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
 }
 #msg-box5-31v P {
   text-align: left;
@@ -3536,7 +3537,7 @@ section.form .container {
   font-size: 17px;
 }
 #msg-box5-4qg SPAN {
-  font-size: 20px;
+  font-size: 18px;
   color: #475577;
 }
 #msg-box5-31y H3 {
@@ -3549,11 +3550,24 @@ section.form .container {
   text-align: left;
 }
 #msg-box5-31y SPAN {
-  font-size: 20px;
+  font-size: 18px;
   color: #475577;
 }
 #content1-4gm P {
   font-size: 17px;
+}
+#header3-57l .mbr-section-title,
+#header3-57l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-57l .mbr-section-title {
+  color: #565656;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  text-align: left;
+}
+#header3-57l .mbr-section-title SPAN {
+  font-size: 18px;
 }
 #content1-4gn P {
   font-size: 17px;
