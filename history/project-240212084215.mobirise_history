@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6760,
+    "uniqCompNum": 6757,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -342,7 +342,7 @@
             "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "18px"
             },
             "H3": {
               "color": "#565656"
@@ -8415,6 +8415,35 @@
           "_anchor": "msg-box8-4s7"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#565656",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">CLEARING A BLOCKED DRAINAGE TUBE</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-57c"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -8432,7 +8461,7 @@
           },
           "_anchor": "content1-2lk",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -8452,7 +8481,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "20px"
             },
             "P": {
               "font-size": "17px",
@@ -8462,7 +8491,7 @@
           },
           "_anchor": "msg-box5-2lt",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -8509,6 +8538,35 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#565656",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\">REPLACING THE SUNROOF SEAL</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-57b"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -8520,21 +8578,44 @@
           },
           "_anchor": "content1-2qe",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
           "text": "<p>At this stage we decided to replace the ageing sunroof seal. With plastic side trims removed (shown) the six securing bolts were all removed using a T25 star bit, with the panel in its (closed position) then pushed out from inside the vehicle while a second person retrieves it, better safe than sorry, glass panel now on a blanket covered flat area, old seal was removed, and glass edge now cleaned, sealant is applied to the new seal, and bonded. to the glass panel. With the joining being at the (rear) then left to cure for several hours.</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-size": "20px",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-2va",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8555,6 +8636,7 @@
               "src": "@PROJECT_PATH@/assets/images/0018-sunroof-seal.jpg",
               "link": "",
               "alt": "",
+              "title": "mg-rover glass sunroof",
               "linkInNewWindow": false
             },
             "video": {
@@ -8569,22 +8651,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">REMOVING ROOF PANEL&nbsp;</span>",
-          "text": "Sunroof panel tilted, showing one side of the 6 bolts, after removing the two plastic side panel covers, access to removing these can be done with sunroof in its closed position, and a safer option.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-57p",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px",
-              "color": "#565656"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\"><i>SUNROOF PANEL REMOVAL</i></span>",
+          "text": "Sunroof panel tilted, showing one side of the 6 bolts, after removing the two plastic side panel covers, access to removing these can be done with sunroof in its closed position, and a safer option",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_params": {
@@ -8634,7 +8703,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "16px"
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -9560,7 +9629,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "18px"
             },
             "P": {
               "text-align": "left",
@@ -9611,7 +9680,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CYLINDER HEAD&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CYLINDER HEAD SEQUENCE&nbsp;</i></span>",
           "text": "Stage (1) 20Nm or 15 lbf ft Stage (2) angle tighten through 180 degrees. Stage (3) angle tighten finally through another 180 degrees. Cylinder head gasket used was LVB-0000320.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9630,7 +9699,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
-              "font-size": "16px"
+              "font-size": "18px"
             },
             "P": {
               "text-align": "left",
@@ -9642,7 +9711,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "1",
@@ -9681,7 +9750,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CAMSHAFT CARRIER</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CAMSHAFT CARRIER SEQUENCE</i></span>",
           "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. with silicone sealant applied, then the camshaft cover gasket can now be fitted.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -9747,21 +9816,42 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "16px",
+              "font-size": "18px",
               "color": "#475577"
             }
           },
           "_anchor": "msg-box5-4qg"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "18px",
+              "color": "#475577"
+            }
+          },
+          "_anchor": "msg-box5-31y",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -9779,9 +9869,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0092-mg-rover-engine-top-cover-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0025-rover-engine.jpg",
               "link": "",
               "alt": "",
+              "title": "engine-top-cover-torque",
               "linkInNewWindow": false
             },
             "video": {
@@ -9796,30 +9887,17 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ENGINE TOP COVER</span>",
-          "text": "Engine top cover was torqued up in the sequence shown here. 15 x 8mm bolts, to 9Nm or 6lb ft. or just hand tight, a diagram of ignition leads from distributor cap to plugs, is always a good reference.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-57r",
-          "_styles": {
-            "H3": {
-              "color": "#565656",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\"><i>FINAL TIGHTENING SEQUENCE</i></span>",
+          "text": "Engine top cover now fitted can be torqued up in the sequence shown here. 15 x 8mm bolts, to 9Nm or 6lb ft. or just hand tight&nbsp; diagram of ignition leads, distributor cap to plugs is now used.&nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the air filter, oil filter. And the correct amount of engine oil, and coolant to be added. .</p>",
+          "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the air filter, oil filter. With a correct amount of engine oil, and coolant to be added. .</p>",
           "_tags": [
             "Theme"
           ],
@@ -9844,7 +9922,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "16px"
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -9897,33 +9975,6 @@
             }
           },
           "_anchor": "content1-4go"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-57q"
         },
         {
           "_params": {
