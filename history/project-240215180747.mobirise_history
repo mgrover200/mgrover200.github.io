@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6767,
+    "uniqCompNum": 6763,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3728,14 +3728,14 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#565656",
+              "color": "#7e9b9f",
               "font-size": "20px"
             },
             "SPAN": {
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -3744,7 +3744,7 @@
           },
           "_anchor": "msg-box5-20e",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3797,7 +3797,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#565656",
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "24px"
@@ -3807,13 +3807,13 @@
               "font-size": "17px"
             },
             "SPAN": {
-              "font-size": "16px",
+              "font-size": "20px",
               "color": "#475577"
             }
           },
           "_anchor": "msg-box5-3ab",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3884,14 +3884,14 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#565656",
+              "color": "#7e9b9f",
               "font-size": "20px"
             },
             "SPAN": {
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -3901,7 +3901,7 @@
           },
           "_anchor": "msg-box5-20f",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -12942,6 +12942,28 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "color": "#7e9b9f"
+            }
+          },
+          "_anchor": "content1-3kb",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Italian</a> <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_anchor": "content1-3kf",
           "_params": {
             "paddingTop": 1,
@@ -13316,10 +13338,10 @@
               "font-size": "23px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#565656"
+              "color": "#475577"
             },
             "SPAN": {
-              "font-size": "16px"
+              "font-size": "20px"
             }
           }
         },
@@ -13376,7 +13398,7 @@
           "_anchor": "msg-box5-3ow",
           "_styles": {
             "H3": {
-              "color": "#565656",
+              "color": "#475577",
               "font-size": "23px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -13385,7 +13407,7 @@
               "text-align": "left"
             },
             "SPAN": {
-              "font-size": "16px"
+              "font-size": "20px"
             }
           }
         },
@@ -13442,10 +13464,10 @@
           "_anchor": "msg-box5-3um",
           "_styles": {
             "H3": {
-              "color": "#565656"
+              "color": "#475577"
             },
             "SPAN": {
-              "font-size": "16px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -13499,7 +13521,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "text": "<p>An old edition of..Record Mirror in our collection from February 1966...shows them looking out of the sunroof while kneeling on the transmission tunnel in each of their cars. Others not necessarily owners, but possibly used the vehicles for films, racing, even photo shoots etc, were Jackie Stewart, John Lennon, Cliff Richard and including the Beatles.&nbsp;<span style=\"font-size: 1.07rem;\">Roger Moore (Saint TV Series) As a racing driver, drove a white Marcos in an early February 1969 episode. 'The World Beater' this along with many more in our list of well known owners and admirers, of this classic car.&nbsp;</span></p>",
@@ -13508,24 +13530,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3om"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Our appreciation to the contributor for a short and rare insight into their extensive collection of brochures, cine film footage, photo's and videos compiled over a period of 26 years from early 1966 to mid 1992</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-57w"
         },
         {
           "_styles": {
@@ -13567,6 +13571,51 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4i5"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4kn"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Our appreciation to the contributor for a short and rare insight into their extensive collection of brochures, cine film footage, photo's and videos compiled over a period of 26 years from early 1966 to mid 1992</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3oq",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
