@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6760,
+    "uniqCompNum": 6763,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -265,7 +265,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -639,7 +639,7 @@
           },
           "_anchor": "content1-d5",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -1615,7 +1615,7 @@
           },
           "_anchor": "content1-cg",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -2128,7 +2128,7 @@
           },
           "_anchor": "content1-oz",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -2600,7 +2600,7 @@
           },
           "_anchor": "content1-qe",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -3715,7 +3715,7 @@
           },
           "_anchor": "content1-pd",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -4263,7 +4263,7 @@
           },
           "_anchor": "content1-14q",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -4675,7 +4675,7 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -5137,7 +5137,7 @@
           },
           "_anchor": "content1-20h",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -5566,7 +5566,7 @@
           },
           "_anchor": "content1-op",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -6553,11 +6553,11 @@
           },
           "_anchor": "content1-35r",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>On a vehicle which has passed all of the required criteria, steering, brakes, electrics and then fails on just the emissions, can be a problem and  inconvenience especially on these cars, when this could have been checked before hand by doing an emissions test prior to the mot, most smaller garages will offer to do a basic emissions test with no charge, or maybe for just a couple of quid.</p>"
+          "text": "<p>On a vehicle which has passed all of the required criteria, steering, brakes, electrics and then fails on just the emissions, can be a problem and  inconvenience, especially on these cars. When this could have been checked before hand by doing an emissions test prior to the mot, most smaller garages will offer to do a basic emissions test with no charge, or maybe for just a couple of quid.</p>"
         },
         {
           "_tags": [
@@ -6658,9 +6658,18 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text1": "<p></p><p>Year 2010 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.00 % vol</p><p>HC----------------------10 ppm</p><p>Lambda-----------------1.00</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natural Idle Test</span><br></p><p>Engine Speed---manual check</p>CO-------------------0.00 % vol<p></p><p></p><p><br></p><p></p>",
+          "text1": "<p></p><p>Year 2010 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.00 % vol</p><p>HC----------------------10 ppm</p><p>Lambda-----------------1.00</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natural Idle Test</span><br></p><p>Engine Speed---manual check</p><p>CO--------------------0.00 % vol</p><p><br></p><p></p><p></p><p></p>",
           "text2": "<p>Year 2015 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.03 % vol</p><p>HC----------------------12 ppm</p><p>Lambda-----------------1.01</p><p>Natural Idle Test</p><p>Engine Speed---manual check</p><p>CO--------------------0.04 % vol</p>",
-          "text3": "<p>Year 2020 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed-----2700 rpm</p><p>CO----------------0.00 % vol</p><p>HC-------------------11 ppm</p><p>Lambda--------------1.00</p><p>Natural Idle Test</p><p>Engine Speed------850 rpm</p><p>CO----------------0.00 % vol</p>"
+          "text3": "<p>Year 2020 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed-----2700 rpm</p><p>CO----------------0.00 % vol</p><p>HC-------------------11 ppm</p><p>Lambda--------------1.00</p><p>Natural Idle Test</p><p>Engine Speed------850 rpm</p><p>CO----------------0.00 % vol</p>",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".lead": {
+              "color": "#565656"
+            }
+          }
         },
         {
           "_tags": [
@@ -6981,7 +6990,7 @@
           },
           "_anchor": "content1-36g",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -9048,7 +9057,7 @@
           },
           "_anchor": "content1-31i",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -10235,7 +10244,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#565656",
               "font-size": "20px"
             },
             "SPAN": {
@@ -10293,7 +10302,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>TAILGATE WIRING LOOM</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>YMN 101940 WIRING LOOM</i></span>",
           "text": "Wires inside the sleeve constantly fold over each other every time the tailgate is in use, so will fray and eventually break, damaged wires will create electrical problems, soldering a couple of broken wires is not a problem, although a replacement loom is a better option.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -10624,7 +10633,7 @@
           },
           "_anchor": "content1-35u",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -12034,7 +12043,7 @@
           },
           "_anchor": "content1-35l",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -13266,7 +13275,7 @@
             }
           },
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
