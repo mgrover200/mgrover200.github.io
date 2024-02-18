@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6789,
+    "uniqCompNum": 6786,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -386,7 +386,7 @@
             "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             "H3": {
               "color": "#565656"
@@ -450,9 +450,6 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "18px"
             }
           }
         },
@@ -513,9 +510,6 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "18px"
             }
           }
         },
@@ -1401,7 +1395,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -1443,7 +1437,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR CONNECTOR&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">Replacement Tank&nbsp;</span>",
           "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new tank coolant tank. RPCF000160 with optional warning modules, of either a piezo buzzer, or a warning bulb. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1456,11 +1450,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px",
               "color": "#475577",
-              "text-align": "left"
+              "text-align": "center"
             },
             "SPAN": {
               "color": "#475577",
-              "font-size": "18px",
+              "font-size": "20px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -3408,50 +3402,6 @@
           "_anchor": "msg-box8-4sm"
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>SATELLITE NAVIGATION SYSTEM</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-58i"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsatnav.html\" class=\"text-black\">Russian</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content1-58j"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -3463,7 +3413,7 @@
           },
           "_anchor": "content1-35n",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -3471,7 +3421,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -3528,7 +3478,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "SPAN": {
-              "font-size": "18px"
+              "font-size": "20px"
             }
           }
         },
@@ -3547,7 +3497,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -3606,9 +3556,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
               "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "18px"
             }
           }
         },
@@ -7823,21 +7770,14 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SOLID COLOR INTRO WITH IMAGE</span>",
-          "text": "<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old, so these items were replaced during this maintenance procedure..",
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<br>\n<br>The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old, so these items were replaced during this maintenance procedure..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-4vy",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
-            }
-          }
+          "_anchor": "msg-box5-4vy"
         },
         {
           "_params": {
@@ -7881,7 +7821,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, during the winter months is essential.</p>",
@@ -7890,33 +7830,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4wi"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-58k"
         },
         {
           "_params": {
@@ -8260,7 +8173,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fignitionswitch.html\" class=\"text-black\">Russian</a></p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsystem.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -8352,7 +8265,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">REPLACING IGNITION SWITCH</span>",
+          "title": "<span style=\"font-weight: normal;\">REPLACING&nbsp; IGNITION&nbsp; SWITCH</span>",
           "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -8368,7 +8281,7 @@
             "SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         },
@@ -8456,7 +8369,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "18px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -8465,7 +8378,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">IGNITION KEY INFORMATION</span>",
+          "title": "<span style=\"font-weight: normal;\">IGNITION&nbsp; KEY&nbsp; INFORMATION</span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -8859,7 +8772,7 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             "P": {
               "font-size": "17px",
@@ -8911,7 +8824,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>CLEARING DRAINAGE TUBE</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>CLEARING&nbsp; DRAINAGE&nbsp; TUBE</i></span>",
           "text": "A length of plastic coated curtain wire broke it down while pushing through. The wire wont go the full length in the lower section, pulling back the wheel arch liner for easier access, was required..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -8976,7 +8889,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">REMOVING ROOF PANEL&nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\">REMOVING&nbsp; ROOF&nbsp; PANEL&nbsp;</span>",
           "text": "Sunroof panel tilted, showing one side of the 6 bolts, after removing the two plastic side panel covers, access to removing these can be done with sunroof in its closed position, and a safer option.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -8990,9 +8903,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px",
               "color": "#565656"
-            },
-            "SPAN": {
-              "font-size": "18px"
             }
           }
         },
@@ -9044,7 +8954,7 @@
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "18px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -9053,7 +8963,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">SAGGING HEADLINING ISSUES</span>",
+          "title": "<span style=\"font-weight: normal;\">SAGGING&nbsp; HEADLINING&nbsp; ISSUES</span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -11475,7 +11385,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>ENGINE COOLING SYSTEM</p>",
+          "text": "<p>COOLING SYSTEM</p>",
           "_tags": [
             "Theme"
           ],
@@ -11537,7 +11447,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11578,7 +11488,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">COOLANT ELBOW JOINT</span>",
+          "title": "<span style=\"font-weight: normal;\">Coolant Elbow Joint&nbsp;</span>",
           "text": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11594,7 +11504,7 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "font-size": "18px"
+              "font-size": "25px"
             }
           }
         },
@@ -11636,7 +11546,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -11677,7 +11587,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SAAB C900 MATRIX VALVE</span>",
+          "title": "<span style=\"font-weight: normal;\">SAAB C900 Matrix Valve</span>",
           "text": "As vehicles heater control knob is rotated to cold position, the control valve located on bulkhead will close, so no hot coolant will circulate within the cabin heater, via the SAAB C900 heater matrix valve.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -11696,7 +11606,7 @@
               "text-align": "left"
             },
             "SPAN": {
-              "font-size": "18px"
+              "font-size": "25px"
             }
           }
         },
