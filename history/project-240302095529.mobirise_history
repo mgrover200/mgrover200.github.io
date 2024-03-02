@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "comments.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6844,
+    "uniqCompNum": 6840,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1513,8 +1513,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1532,9 +1532,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0010-coolant-level-sender-rover-mg-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0016-coolant-level-%20sensor%20mg-rover-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "Coolant loss, monitoring system 200/25/ZR ",
+              "title": "coolant tank",
               "linkInNewWindow": false
             },
             "video": {
@@ -1549,22 +1550,38 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">SHOWING SENSOR CONNECTOR</span>",
-          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new tank coolant tank. RPCF000160 with optional warning modules, of either a piezo buzzer, or a warning bulb.",
+          "title": "<span style=\"font-weight: normal;\">COOLANT SENSOR CONNECTOR&nbsp;</span>",
+          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new tank coolant tank. RPCF000160 with optional warning modules, of either a piezo buzzer, or a warning bulb. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-5a1",
           "_styles": {
             "H3": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "20px",
               "color": "#475577",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-size": "18px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            "I": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
             }
-          }
+          },
+          "_anchor": "msg-box5-485"
         },
         {
           "_tags": [
@@ -5824,13 +5841,35 @@
           "text": "<p>The purge valve an electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors are then moved from the charcoal canister to the fuel injector then burned off inside the engine, The purge valve flow is monitored with sensors to determine a precise amount, helping in some way with the vehicles emissions.</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "25px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-1p8",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5849,9 +5888,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0015-mg-rover-purge-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00043-mg-rover-purge-valve-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "Charcoal canister, and purge valve 200/25/ZR",
+              "title": "Purge valve located top of charcoal canister",
               "linkInNewWindow": false
             },
             "video": {
@@ -5866,22 +5906,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">PURGE VALVE LOCATION</span>",
+          "title": "<span style=\"font-weight: normal;\"><i>PURGE VALVE LOCATION</i></span>",
           "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition of the rubber, could well be a contributing factor on how annoying the audible purge valve noise can sound in the cabin.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5a3",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -5971,7 +5998,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": 1,
             "bgColor": "#475577"
           },
           "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
@@ -5990,24 +6017,6 @@
             }
           },
           "_anchor": "content1-4nd"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#475577"
-          },
-          "text": "<p><a href=\"mailto:daveculpin2004@gmail.com\" class=\"text-primary\">daveculpin2004@gmail.com</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-5a2"
         },
         {
           "_tags": [
@@ -8433,7 +8442,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/009-matrix-heater-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0015-saab-coolant%20valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -8457,13 +8466,13 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-5a0",
+          "_anchor": "msg-box5-58l",
           "_styles": {
             "H3": {
-              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#565656"
             }
           }
         },
@@ -13956,7 +13965,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>COMMENTS and REVIEWS</p>",
+          "text": "<p>COMMENTS</p>",
           "_tags": [
             "Theme"
           ],
