@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "comments.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6855,
+    "uniqCompNum": 6850,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -376,7 +376,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">REPLACING SUN ROOF SEAL</span>",
           "text": "At this stage we decided to replace the ageing sunroof seal. With plastic side trims removed (shown) the six securing bolts were all&nbsp; accessed using a T25 star bit.&nbsp;<a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-primary\">More Info.</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -527,7 +527,7 @@
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -584,30 +584,24 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "1",
+            "paddingTop": 1,
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<p>&nbsp;&nbsp;<a href=\"https://nationalparty.ie/\" class=\"text-primary\">Irish National Party</a>&nbsp;&nbsp;<a href=\"https://www.gbnews.com/\" class=\"text-primary\">GB News</a>&nbsp;&nbsp;<a href=\"https://www.reformparty.uk/\" class=\"text-primary\">Reform UK</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-5ab"
+          "_name": "content1",
+          "_anchor": "content1-57i",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_params": {
@@ -1556,7 +1550,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">SHOWING SENSOR CONNECTOR</span>",
-          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. With the optional warning modules, of either a piezo buzzer, or a warning light.",
+          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new tank coolant tank. RPCF000160 with optional warning modules, of either a piezo buzzer, or a warning bulb.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1588,7 +1582,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040, with an option fit just one, or both of the warning modules, so we chose to fit both of them.&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -11000,7 +10994,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Applying a light smear of oil to the filters rubber gasket wont 'scrunch' it up when screwing back on, then using some folded 'coarse' sandpaper along with hand pressure only, would be sufficient to tighten it up, then a good run out to circulate all fluids. Rover 200 project from 2004.&nbsp;</p>",
+          "text": "<p>Applying a light smear of oil to the filters rubber gasket wont 'scrunch' it up when screwing back on, then using some folded 'coarse' sandpaper along with hand pressure only, would be sufficient to tighten it up. Then its a good deserved run out to circulate all fluids.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
