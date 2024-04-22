@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-
 
 
 
@@ -591,16 +589,9 @@ section.form .container {
 #content1-4ys DIV {
   color: #475577;
 }
-#content1-5bw DIV {
-  color: #475577;
-}
-#content1-5bw P {
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
-}
 #msg-box5-573 SPAN {
   font-family: 'Lora', serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 #msg-box5-573 H3 {
   color: #565656;
@@ -611,14 +602,8 @@ section.form .container {
   font-size: 16px;
 }
 #msg-box5-581 SPAN {
-  font-size: 18px;
-}
-#content1-5br DIV {
-  color: #475577;
-}
-#content1-5br P {
-  font-family: 'Indie Flower', cursive;
-  font-size: 30px;
+  font-size: 25px;
+  font-family: 'Lora', serif;
 }
 #msg-box5-58d H3 {
   color: #565656;
@@ -626,7 +611,7 @@ section.form .container {
   font-size: 16px;
 }
 #msg-box5-58d SPAN {
-  font-size: 18px;
+  font-size: 25px;
 }
 #msg-box5-58y H3 {
   color: #565656;
@@ -635,6 +620,9 @@ section.form .container {
 }
 #msg-box5-58y P {
   text-align: left;
+}
+#msg-box5-58y SPAN {
+  font-size: 25px;
 }
 #content1-5bt P {
   text-align: center;
