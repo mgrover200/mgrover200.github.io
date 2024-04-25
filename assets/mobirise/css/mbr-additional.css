@@ -2937,7 +2937,7 @@ section.form .container {
 #msg-box8-4sd .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #efefef;
+  color: #c1c1c1;
 }
 #msg-box8-4sd .lead P {
   font-family: 'Lora', serif;
@@ -5083,18 +5083,23 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 36px;
   color: #efefef;
+  text-align: left;
 }
 #msg-box8-4sc .lead P {
+  font-family: 'Lora', serif;
+  text-align: center;
+}
+#msg-box8-4sc .mbr-section-title I {
   font-family: 'Lora', serif;
 }
 #content1-5bz P {
   color: #475577;
-  font-family: 'Lora', serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 30px;
   text-align: center;
 }
 #content1-5bz DIV {
-  color: #000000;
+  color: #475577;
 }
 #content1-5c0 P {
   text-align: center;
@@ -5134,24 +5139,31 @@ section.form .container {
   font-size: 22px;
   font-family: 'Raleway', sans-serif;
 }
-#header3-3or .mbr-section-title,
-#header3-3or .mbr-section-subtitle {
+#content1-5c4 P {
   text-align: center;
+  font-size: 30px;
 }
-#header3-3or .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 23px;
+#content1-5c4 DIV {
   color: #475577;
 }
-#header3-3or .mbr-section-title SPAN {
-  font-size: 32px;
-}
-#header3-3or .mbr-section-subtitle {
-  color: #475577;
-  font-family: 'Raleway', sans-serif;
+#content1-5c5 P {
+  text-align: center;
   font-size: 22px;
 }
+#content1-5c5 DIV {
+  color: #475577;
+}
 #content1-57w P {
+  text-align: center;
+}
+#content1-5c3 P {
+  text-align: center;
+}
+#content1-5c2 DIV {
+  color: #efefef;
+}
+#content1-5c2 P {
+  font-family: 'Lora', serif;
   text-align: center;
 }
 #footer1-3oj P {

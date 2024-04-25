@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6918,
+    "uniqCompNum": 6916,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7894,7 +7894,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p><i>PRECISE OIL LEVEL CHECK</i></p>",
+          "text": "<p><i style=\"\">PRECISE OIL LEVEL CHECK</i></p>",
           "_tags": [
             "Theme"
           ],
@@ -7902,8 +7902,8 @@
           "_styles": {
             "P": {
               "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "30px",
               "text-align": "center"
             },
@@ -14953,48 +14953,41 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><i>MARCOS OWNERS and ADMIRERS</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5c4",
           "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "30px"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "DIV": {
-              "color": "#475577"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><i>Of This Classic British Sports Car</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5c5",
-          "_styles": {
-            "P": {
-              "text-align": "center",
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "23px",
+              "color": "#565656"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
-            },
-            "DIV": {
-              "color": "#475577"
             }
-          }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MARCOS OWNERS AND ADMIRERS&nbsp;</i></span>",
+          "meta": "Of This Classic British Sports Car&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3or"
         },
         {
           "_params": {
@@ -15073,7 +15066,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><i>Info supplied from:</i>&nbsp;<a href=\"https://mgrover200.github.io/index.html\" class=\"text-primary\">https://mgrover200.github.io&nbsp;</a></p>",
+          "text": "<p>Info supplied from&nbsp;<a href=\"https://mgrover200.github.io/index.html\" class=\"text-primary\">https://mgrover200.github.io&nbsp;</a></p>",
           "_tags": [
             "Theme"
           ],
