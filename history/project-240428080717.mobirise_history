@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "cabinfuse.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7002,
+    "uniqCompNum": 6967,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -2370,8 +2370,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#efefef",
-              "text-align": "center"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -2389,7 +2388,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/policecar.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2427,7 +2426,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Generally doing a check on our lights every week or so, I could not have known when a blown bulb had actually occurred during any period from that time. As the tail and especially the brake lights are important for safety and legal requirements, a monitoring system was now being considered, to be installed into the MG over next few weeks, with using solid core end glow fibre optic cables.</p>"
+          "text": "<p>Generally doing a check on my lights every week or so, I could not have known when a blown bulb had actually occurred during any period from that time. As the tail and especially the brake lights are important for safety and legal requirements, a monitoring system was now being considered, to be installed into the MG over next few weeks, with using solid core end glow fibre optic cables.</p>"
         },
         {
           "_params": {
@@ -2601,33 +2600,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dx"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -2648,26 +2620,58 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5dy"
+          "_anchor": "content1-54z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/policecar.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4z1"
         },
         {
           "_params": {
@@ -3239,33 +3243,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5e3"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -3286,26 +3263,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5e4"
+          "_anchor": "content1-4u7"
         },
         {
           "_params": {
@@ -3780,33 +3755,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5e8"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -3827,26 +3775,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5e9"
+          "_anchor": "content1-4ua"
         },
         {
           "_params": {
@@ -4065,7 +4011,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -4083,7 +4029,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/oilsump.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -4096,7 +4042,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
-          "text": "<p>OIL SUMP ROVER 200</p>",
+          "text": "<p>ENGINE OIL SUMP ROVER 200</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -4371,33 +4317,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dm"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -4418,49 +4337,58 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5do"
+          "_anchor": "content1-551"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#475577"
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#efefef"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2oo",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/oilsump.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
-            }
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "_anchor": "content1-5dl"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -5294,33 +5222,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5ec"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -5341,26 +5242,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5ed"
+          "_anchor": "content1-4ud"
         },
         {
           "_params": {
@@ -5739,33 +5638,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5ea"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -5786,26 +5658,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5eb"
+          "_anchor": "content1-4uc"
         },
         {
           "_params": {
@@ -6260,33 +6130,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dv"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -6307,26 +6150,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5dw"
+          "_anchor": "content1-4u5"
         },
         {
           "_params": {
@@ -6780,33 +6621,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5e7"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -6827,26 +6641,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5e6"
+          "_anchor": "content1-4u8"
         },
         {
           "_params": {
@@ -7083,7 +6895,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/emissions000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7269,34 +7081,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Video capture shown above was taken from the MG during a warm up run prior to the 2011 M.O.T&nbsp;</p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dz"
+          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Video capture shown below was taken from the MG during a warm up run prior to the 2011 M.O.T&nbsp;</p>"
         },
         {
           "_params": {
@@ -7320,26 +7105,59 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5e0"
+          "_anchor": "content1-54y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1b4",
+          "_params": {
+            "showTitle": false,
+            "showCaption": false,
+            "paddingTop": "2",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/emissions000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
           "_params": {
@@ -7780,33 +7598,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dr"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -7827,26 +7618,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5ds"
+          "_anchor": "content1-4u3"
         },
         {
           "_params": {
@@ -8084,7 +7873,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cabinheater003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8311,6 +8100,43 @@
             }
           },
           "_anchor": "content1-5d6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1nh",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cabinheater003.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_params": {
@@ -8547,7 +8373,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8857,6 +8683,40 @@
             }
           },
           "_anchor": "content1-5da"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4jv"
         },
         {
           "_params": {
@@ -9350,7 +9210,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Headlining Problem</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>Problem with a Sagging Headlining&nbsp;</i></span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -9386,7 +9246,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -9428,7 +9288,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Bonding&nbsp; the headlining</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>BONDING THE HEADLINING</i></span>",
           "text": " Our next option, adding an extension tube to a bonding spray can with a 360 degree spray pattern, then to be inserted into a fine razor cut, at the lowest part where the lining sags the worst.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -9443,10 +9303,10 @@
             },
             "SPAN": {
               "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
-              "font-size": "22px"
+              "font-size": "20px"
             },
             "P": {
               "text-align": "left",
@@ -9467,6 +9327,25 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4ta"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-5cf"
         },
         {
           "_params": {
@@ -9493,26 +9372,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-5dj"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fsunroof.html\" class=\"text-black\">Russian</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content1-5cf"
+          "_anchor": "image2-4kk"
         },
         {
           "_params": {
@@ -9520,23 +9380,21 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5dn"
+          "_anchor": "content1-57a"
         },
         {
           "_params": {
@@ -9773,7 +9631,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/oilsump.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9964,33 +9822,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5ee"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -10011,26 +9842,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5ef"
+          "_anchor": "content1-4ue"
         },
         {
           "_params": {
@@ -10250,7 +10079,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -10673,33 +10502,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dp"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -10720,26 +10522,58 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5dq"
+          "_anchor": "content1-552"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/oilsump.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4q8"
         },
         {
           "_params": {
@@ -11489,7 +11323,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Twin Horns Now Fitted ZR&nbsp;</i></span>",
-          "text": "Fitting the horns was a straight foreward swop, made easier with the  front bumper out of the way, the old horn securing bracket was so corroded from where its located. This was then replaced with an alloy one that was supplied in the fitting kit.",
+          "text": "Fitting the horns was a straight foreward swop, made easier with the  front bumper out of the way, the old horn securing bracket was so corroded from where its located. This was then replaced with an alloy one that was supplied in the new fitting kit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -11548,33 +11382,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5e1"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -11595,26 +11402,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5e2"
+          "_anchor": "content1-4u6"
         },
         {
           "_params": {
@@ -12907,7 +12712,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00110-manifold-1600x365.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -13140,33 +12945,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5dt"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -13187,26 +12965,24 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
+          "text": "<p>All information on this site, applies 'only' to our own 1996 Rover 200 Series and the 2004 MG-ZR 120+&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#475577"
             }
           },
-          "_anchor": "content1-5du"
+          "_anchor": "content1-4u4"
         },
         {
           "_params": {
@@ -13558,33 +13334,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5eg"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -13601,30 +13350,6 @@
             }
           },
           "_anchor": "content1-5cw"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Information supplied on this site. Including Vehicle Servicing. General Maintenance, and a few of our Project Designs are referenced only to our own 1996 Rover 200 Series, and the 2004 MG-ZR 120+&nbsp;&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#475577"
-            }
-          },
-          "_anchor": "content1-5eh"
         },
         {
           "_params": {
