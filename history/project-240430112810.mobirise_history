@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsensor.html",
+    "currentPage": "lightcheck.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7003,
+    "uniqCompNum": 7002,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1521,69 +1521,6 @@
             "bgColor": "#efefef"
           },
           "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00110-modules-493x117.jpg",
-              "link": "",
-              "alt": "mg-rover coolant sensor modules",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Warning Modules</i></span>",
-          "text": "Showing the optional coolant low level warning modules, that we fitted along with the new coolant tank during this process.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5ei",
-          "_styles": {
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#475577"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
         },
         {
           "_tags": [

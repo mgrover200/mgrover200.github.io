@@ -568,7 +568,7 @@ section.form .container {
   font-size: 22px;
 }
 #msg-box8-4ri .lead {
-  color: #ffffff;
+  color: #efefef;
 }
 #msg-box8-4ri .mbr-section-title I {
   font-family: 'Lora', serif;
@@ -818,6 +818,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -907,11 +908,13 @@ section.form .container {
 #msg-box8-4rz .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #efefef;
+  color: #ffffff;
+  text-align: center;
 }
 #msg-box8-4rz .lead P {
   font-family: 'Lora', serif;
   font-size: 22px;
+  text-align: center;
 }
 #msg-box8-4rz .lead {
   color: #ffffff;
@@ -934,6 +937,14 @@ section.form .container {
 }
 #content1-1tr P {
   font-size: 17px;
+}
+#msg-box5-5ei H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  color: #475577;
+}
+#msg-box5-5ei P {
+  text-align: left;
 }
 #content1-22c P {
   font-size: 17px;
@@ -3028,7 +3039,7 @@ section.form .container {
 #msg-box8-4s0 .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #efefef;
+  color: #ffffff;
 }
 #msg-box8-4s0 .lead P {
   font-family: 'Lora', serif;
