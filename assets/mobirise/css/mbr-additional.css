@@ -816,6 +816,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -940,6 +941,14 @@ section.form .container {
 #content1-5c7 P {
   text-align: center;
   font-size: 18px;
+}
+#content1-5fm P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+#content1-5fm DIV {
+  color: #565656;
 }
 #content1-52e DIV {
   color: #efefef;
@@ -4608,6 +4617,7 @@ section.form .container {
 
 
 
+
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4721,11 +4731,17 @@ section.form .container {
 #testimonials3-34r .card-footer > div {
   color: #c1c1c1;
 }
-#content1-5fg P {
+#content1-5fp P {
+  text-align: center;
+  font-size: 18px;
+}
+#content1-5fq P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
   text-align: center;
 }
-#content1-5fg DIV {
-  color: #cccccc;
+#content1-5fq DIV {
+  color: #565656;
 }
 #footer1-34h P {
   color: #ffffff;
