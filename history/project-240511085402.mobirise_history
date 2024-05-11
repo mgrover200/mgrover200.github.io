@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7042,
+    "uniqCompNum": 7039,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1445,7 +1445,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or a warning light are shown below, along with the reed sensor.</p>",
+          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or a warning light are shown below, along with the reed sensor, above shows the wiring connectors..&nbsp;&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1457,7 +1457,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -7243,12 +7243,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed.</p>",
           "_tags": [
             "Theme"
           ],
@@ -7258,7 +7252,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-5fl"
+          "_anchor": "content1-yj",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Video capture shown above was taken from the MG during a warm up run prior to the 2011 M.O.T&nbsp;</p>"
         },
         {
           "_params": {

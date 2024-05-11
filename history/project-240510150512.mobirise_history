@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7042,
+    "uniqCompNum": 7037,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1434,23 +1434,10 @@
           "_anchor": "content1-1c5",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature. That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or a warning light are shown below, along with the reed sensor.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5fh"
         },
         {
           "_params": {
@@ -1459,7 +1446,90 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00105-coolant-sensor-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor&nbsp;</i></span>",
+          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. With the optional warning modules, of either a piezo buzzer, or a warning light.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5a1",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-1tr",
+          "_params": {
             "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1495,13 +1565,14 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Coolant Warning Modules</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>Warning Modules</i></span>",
           "text": "Showing the 'reed sensor' and the optional coolant low level warning modules we fitted with the new coolant tank during this process.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_anchor": "msg-box5-5ei",
           "_styles": {
             "H3": {
               "font-family": "'Raleway', sans-serif",
@@ -1512,26 +1583,7 @@
             "P": {
               "text-align": "left"
             }
-          },
-          "_anchor": "msg-box5-5fi"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-1tr",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
+          }
         },
         {
           "_tags": [
@@ -7243,12 +7295,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed.</p>",
           "_tags": [
             "Theme"
           ],
@@ -7258,7 +7304,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-5fl"
+          "_anchor": "content1-yj",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Video capture shown above was taken from the MG during a warm up run prior to the 2011 M.O.T&nbsp;</p>"
         },
         {
           "_params": {
