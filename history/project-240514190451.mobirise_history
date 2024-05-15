@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7070,
+    "uniqCompNum": 7069,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,7 +41,7 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "q9bhn1xpvc",
+    "mbrsiteDomain": "yfadzjhije",
     "publishChangesOnly": true,
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
@@ -13609,8 +13609,8 @@
             "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13621,10 +13621,10 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Submit your own personal reviews",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "daveculpin2004@gmail.com",
+            "action": "crescent85@pobroadband.co.uk",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -13654,18 +13654,21 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-5gd",
+          "_anchor": "form1-5gc",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
             }
           }
         },

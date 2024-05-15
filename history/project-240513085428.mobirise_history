@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7070,
+    "uniqCompNum": 7063,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,16 +41,16 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "q9bhn1xpvc",
+    "mbrsiteDomain": "7ff4nj5oqp",
     "publishChangesOnly": true,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "gdpr": {
       "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
+      "colorLink": "#7e9b9f",
       "underlineLink": false,
-      "text": "I accept information supplied, can not always be featured on these pages.   "
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "cookiesAlert": false
   },
   "pages": {
@@ -13536,7 +13536,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": true,
             "showBio": false,
@@ -13556,7 +13556,7 @@
             "Theme"
           ],
           "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
-          "subtitle": "About features, and information on our MG-Rover Information Pages&nbsp;",
+          "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR",
           "testimonial": [
             {
               "text": "<p>\"The rear light and brake light bulb checking system is a very interesting project, but no real information on how this was fully implemented, would like to have known more specific info on this, thanks for your nice site”</p>",
@@ -13607,7 +13607,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": false,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -13621,7 +13621,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "MG-Rover Information Pages",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "daveculpin2004@gmail.com",
@@ -13654,7 +13654,7 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-5gd",
+          "_anchor": "form1-5g0",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
@@ -13671,11 +13671,38 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5fo"
+        },
+        {
+          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a>&nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a>&nbsp; &nbsp; &nbsp; &nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -13694,7 +13721,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p><i>&nbsp; &nbsp;Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
+          "text": "<p><i>Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
@@ -13718,14 +13745,14 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact</a></i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "color": "#efefef"
+              "color": "#90a878"
             },
             "P": {
               "font-family": "'Lora', serif",
@@ -13733,7 +13760,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5g7"
+          "_anchor": "content1-5g6"
         },
         {
           "_tags": [

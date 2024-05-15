@@ -4623,6 +4623,7 @@ section.form .container {
 
 
 
+
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4720,31 +4721,32 @@ section.form .container {
 #msg-box8-4sr .lead {
   color: #ffffff;
 }
-#form1-5g0 .form-control-label {
-  color: #232323;
-}
-#form1-5g0 .mbr-section-title {
+#testimonials3-5g5 .mbr-section-title {
   color: #475577;
 }
-#form1-5g0 .mbr-section-title SPAN {
-  font-family: 'Lora', serif;
-  font-size: 36px;
-}
-#testimonials3-34r .mbr-section-title {
-  color: #475577;
-}
-#testimonials3-34r .mbr-author-name {
+#testimonials3-5g5 .mbr-author-name {
   color: #000000;
   font-family: 'Lora', serif;
 }
-#testimonials3-34r .mbr-section-subtitle {
+#testimonials3-5g5 .mbr-section-subtitle {
   color: #475577;
 }
-#testimonials3-34r .mbr-section-title SPAN {
+#testimonials3-5g5 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
+  font-size: 36px;
 }
-#testimonials3-34r .card-footer > div {
+#testimonials3-5g5 .card-footer > div {
   color: #c1c1c1;
+}
+#form1-5gd .form-control-label {
+  color: #232323;
+}
+#form1-5gd .mbr-section-title {
+  color: #475577;
+}
+#form1-5gd .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
 }
 #content1-5fp P {
   text-align: center;
@@ -4757,6 +4759,13 @@ section.form .container {
 }
 #content1-5fq DIV {
   color: #565656;
+}
+#content1-5g7 DIV {
+  color: #efefef;
+}
+#content1-5g7 P {
+  font-family: 'Lora', serif;
+  text-align: center;
 }
 #footer1-34h P {
   color: #ffffff;
