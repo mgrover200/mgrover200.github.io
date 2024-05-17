@@ -23,11 +23,12 @@
       "additionalSetColors": [
         "#232323",
         "#444444",
-        "#565656"
+        "#565656",
+        "#222222"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7074,
+    "uniqCompNum": 7077,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1437,7 +1438,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature. That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
         },
         {
           "_params": {
@@ -1445,7 +1446,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or a warning light are shown below, along with the reed sensor.</p>",
+          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or warning light are shown below, along with the reed sensor.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1531,7 +1532,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel, parts required for this project, were a replacement coolant tank.Part number RPCF000160, and the reed sensor part number RPCJ000040. For completing this installation, each of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1624,10 +1625,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -1642,7 +1643,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-52e"
+          "_anchor": "content1-5gi"
         },
         {
           "_tags": [
@@ -8170,7 +8171,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted, and then a correct fill of 5.5 litres of OAT coolant.&nbsp;</p>"
+          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix, top and bottom radiator hoses were fitted, then a correct fill of 5.5 litres of OAT coolant.&nbsp;</p>"
         },
         {
           "_params": {
@@ -8216,7 +8217,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Matrix Heater Valve</i></span>",
-          "text": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old, so these items were replaced during this maintenance procedure.",
+          "text": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old, so this was replaced during a more in depth fault finding procedure.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8256,7 +8257,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">Cabin heater controlled coolant valve JJB-100240 attached to the bulkhead, is just a simple sliding coolant regulator or shut off valve, operated when rotating cabin's heater dial, this had no issues. rotated a few times to confirm that the steel operating control rod was working correctly.</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Cabin heater controlled coolant valve JJB-100240 attached to the bulkhead, is just a simple sliding coolant regulator or shut off valve, operated when rotating cabin heater dial, this had no issues. rotated a few times to confirm that the steel operating control rod was working correctly.</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -8362,10 +8363,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual&nbsp;Dashcams</a>&nbsp;&nbsp;<a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -8380,7 +8381,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-51c"
+          "_anchor": "content1-5gk"
         },
         {
           "_tags": [
@@ -12232,10 +12233,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -12250,7 +12251,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-4mu"
+          "_anchor": "content1-5gj"
         },
         {
           "_tags": [
@@ -13618,7 +13619,7 @@
             "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",

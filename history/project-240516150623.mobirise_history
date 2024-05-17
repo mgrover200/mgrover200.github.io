@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "cabinheater.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -23,11 +23,12 @@
       "additionalSetColors": [
         "#232323",
         "#444444",
-        "#565656"
+        "#565656",
+        "#222222"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7048,
+    "uniqCompNum": 7075,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -41,16 +42,16 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "imageResize": true,
-    "mbrsiteDomain": "7ff4nj5oqp",
+    "mbrsiteDomain": "q9bhn1xpvc",
     "publishChangesOnly": true,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#7e9b9f",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "publishType": "local",
     "publishPath": "@PROJECT_PATH@",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "I accept information supplied, can not always be featured on these pages.   "
+    },
     "cookiesAlert": false
   },
   "pages": {
@@ -560,7 +561,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black text-primary\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1437,7 +1438,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature. That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature, that will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark.</p>"
         },
         {
           "_params": {
@@ -1445,7 +1446,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or a warning light are shown below, along with the reed sensor.</p>",
+          "text": "<p>Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160. The optional warning modules, of either a piezo buzzer, or warning light are shown below, along with the reed sensor.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1531,7 +1532,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel such as the coolant tank, The parts needed for this project, were a replacement coolant tank.Part number RPCF000160, and a coolant reed sensor part number RPCJ000040. To complete the installation, both of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
+          "text": "<p>Attempting to drill a hole in the original tank to accept the sensor, as already asked, is not really a good idea on a pressurised vessel, parts required for this project, were a replacement coolant tank.Part number RPCF000160, and the reed sensor part number RPCJ000040. For completing this installation, each of the warning modules, are an easy fit so we chose to fit both of them.&nbsp;&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1624,10 +1625,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -1642,7 +1643,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-52e"
+          "_anchor": "content1-5gi"
         },
         {
           "_tags": [
@@ -5381,7 +5382,7 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Navigation</a>&nbsp;&nbsp;<a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -5396,7 +5397,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-4ne"
+          "_anchor": "content1-5gh"
         },
         {
           "_tags": [
@@ -7272,7 +7273,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed.</p>",
+          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Below on a warm up run prior to the 2011 mot, using the cisco flip video camera, prior to dashcams becoming popular.&nbsp;&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -7285,9 +7286,43 @@
           "_anchor": "content1-5fl"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00116-mg-rover-emissions-1600x608.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5ft"
+        },
+        {
           "_params": {
             "showText": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -8136,7 +8171,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix. So new top and bottom radiator hoses were fitted, and then a correct fill of 5.5 litres of OAT coolant.&nbsp;</p>"
+          "text": "<p>The only really serious problem with the cooling system since getting the one owner ZR in 2010 was the experience of having no heat in the cabin. We had replaced the radiator, that was very badly corroded along the bottom edge. This being most probably due to a long term weak and incorrect coolant mix, top and bottom radiator hoses were fitted, then a correct fill of 5.5 litres of OAT coolant.&nbsp;</p>"
         },
         {
           "_params": {
@@ -8222,7 +8257,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><span style=\"font-size: 1.07rem;\">Cabin heater controlled coolant valve JJB-100240 attached to the bulkhead, is just a simple sliding coolant regulator or shut off valve, operated when rotating cabin's heater dial, this had no issues. rotated a few times to confirm that the steel operating control rod was working correctly.</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Cabin heater controlled coolant valve JJB-100240 attached to the bulkhead, is just a simple sliding coolant regulator or shut off valve, operated when rotating cabin heater dial, this had no issues. rotated a few times to confirm that the steel operating control rod was working correctly.</span><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -13493,16 +13528,36 @@
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
             },
             ".card-footer > div": {
               "color": "#c1c1c1"
             }
           },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1023.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials3",
+          "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
+          "subtitle": "About features, and information on our MG-Rover Information Pages&nbsp;",
           "testimonial": [
             {
               "text": "<p>\"The rear light and brake light bulb checking system is a very interesting project, but no real information on how this was fully implemented, would like to have known more specific info on this, thanks for your nice site”</p>",
@@ -13547,62 +13602,81 @@
               "authorBio": "User"
             }
           ],
-          "_anchor": "testimonials3-34r",
-          "_params": {
-            "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1023.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">WHAT OUR FANTASTIC VISITORS SAY</span>",
-          "subtitle": "All content on this site, relates 'only' to our own personalised driver assisted features, and basic information of the 200/25/ZR"
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-5g5"
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00117-form-image-1280x1024.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "daveculpin2004@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-5fo"
+          "_name": "form1",
+          "_anchor": "form1-5gd",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black text-primary\">Russian</a></p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -13613,31 +13687,30 @@
               "font-size": "18px"
             }
           },
-          "_anchor": "content1-5fp"
+          "_anchor": "content1-5gg"
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<p><i>Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
-              "text-align": "center"
-            },
             "DIV": {
-              "color": "#565656"
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
-          "_anchor": "content1-5fq"
+          "_anchor": "content1-5ge"
         },
         {
           "_tags": [
