@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7082,
+    "uniqCompNum": 7081,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -5377,22 +5377,17 @@
             "paddingBottom": 1,
             "bgColor": "#475577"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact</a></i>&nbsp;&nbsp;<a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p><i><a href=\"satnav.html\" class=\"text-primary\">Navigation</a></i>&nbsp; <i><a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a></i>&nbsp; <i><a href=\"dashcam.html\" class=\"text-primary\">Dashcam</a></i><a href=\"dashcam.html\" class=\"text-primary\">&nbsp;</a> <i><a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></i>&nbsp; <i><a href=\"comments.html\" class=\"text-primary\">Contact Form</a>.</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5gp"
+          "_anchor": "content1-5go"
         },
         {
           "_tags": [
