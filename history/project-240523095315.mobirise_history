@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7113,
+    "uniqCompNum": 7103,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1633,12 +1633,12 @@
             "Theme"
           ],
           "_name": "content1",
+          "_anchor": "content1-5gl",
           "_styles": {
             "P": {
               "text-align": "center"
             }
-          },
-          "_anchor": "content1-5hg"
+          }
         },
         {
           "_tags": [
@@ -8371,7 +8371,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5hi"
+          "_anchor": "content1-5gm"
         },
         {
           "_tags": [
@@ -8912,7 +8912,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5hk"
+          "_anchor": "content1-5gt"
         },
         {
           "_tags": [
@@ -12231,7 +12231,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5hj"
+          "_anchor": "content1-5gn"
         },
         {
           "_tags": [
@@ -13496,15 +13496,15 @@
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#475577"
             },
             ".mbr-author-name": {
-              "color": "#ffffff",
+              "color": "#c1c1c1",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "color": "#c1c1c1"
+              "color": "#475577"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -13521,14 +13521,14 @@
             "showImages": false,
             "showName": true,
             "showBio": false,
-            "count": "4",
+            "count": 3,
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1023.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#565656",
+            "bgColor": "#efefef",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -13580,20 +13580,6 @@
               },
               "authorName": "Louise Chelsea London SW3",
               "authorBio": "User"
-            },
-            {
-              "authorName": "Emma Yorkshire",
-              "authorBio": "Developer",
-              "text": "<p>“amazing website very well put together through alot of hardwork very straight to the point on car resolutions just shows how much with experience over the years of love of cars keep it up”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
             }
           ],
           "_name": "testimonials3",
