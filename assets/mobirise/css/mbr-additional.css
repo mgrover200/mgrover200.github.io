@@ -3984,6 +3984,7 @@ section.form .container {
 
 
 
+
 #ext_menu-32c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4104,6 +4105,16 @@ section.form .container {
 #msg-box5-5hw P {
   text-align: left;
 }
+#header3-5ib .mbr-section-title,
+#header3-5ib .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5ib .mbr-section-title {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  text-align: left;
+}
 #content1-32m DIV {
   font-size: 17px;
 }
@@ -4119,10 +4130,10 @@ section.form .container {
 #content1-5f2 DIV {
   color: #565656;
 }
-#content1-5i8 DIV {
+#content1-5ic DIV {
   color: #efefef;
 }
-#content1-5i8 P {
+#content1-5ic P {
   font-family: 'Lora', serif;
   text-align: center;
 }
@@ -4631,7 +4642,6 @@ section.form .container {
 
 
 
-
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4758,17 +4768,6 @@ section.form .container {
 }
 #form1-5gd .mbr-section-subtitle {
   color: #475577;
-}
-#content1-5gg P {
-  text-align: center;
-  font-size: 18px;
-}
-#content1-5ge DIV {
-  color: #efefef;
-}
-#content1-5ge P {
-  font-family: 'Lora', serif;
-  text-align: center;
 }
 #footer1-34h P {
   color: #ffffff;

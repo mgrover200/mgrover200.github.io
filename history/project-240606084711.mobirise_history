@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7142,
+    "uniqCompNum": 7137,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -11620,7 +11620,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Cable Oil Injector</i></span>",
-          "text": "Shown in use on the old 200 bonnet release cable, also ideal for applying a light oil injection to accelerator cable, and including vehicles that have a manual choke cable system, etc. .",
+          "text": "Shown in use on the old 200 bonnet release cable, also ideal for applying a light oil injection to accelerator cable, including vehicles that have the old manual choke cable system.&nbsp; .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -11640,33 +11640,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Front Bumper Removal</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5ib"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -11678,11 +11651,11 @@
           },
           "_anchor": "content1-32m",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "Bumper to wing are 4 x10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts are not the easiest to remove, and will be corroded with the possibility of having to replace each of them. Along the bottom edge are 3 x 10mm bolts, in the middle 6 cross head screws, 3 located at each corner, leading edge 5 x 10mm bolts.<a href=\"comments.html#form1-5gd\" class=\"text-primary\"> review this page</a>"
+          "text": "Bumper to wing are 4 x10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts not the easiest to remove, and will be corroded with the possibilty of having to replace them, along the bottom edge 3 x 10mm bolts in the middle with 6 cross head screws, 3 located at each corner, the leading edge are 5 x 10mm bolts."
         },
         {
           "_params": {
@@ -11775,7 +11748,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5ic"
+          "_anchor": "content1-5i8"
         },
         {
           "_tags": [
@@ -13776,6 +13749,48 @@
               "color": "#475577"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcomments.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-5gg"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-5ge"
         },
         {
           "_tags": [
