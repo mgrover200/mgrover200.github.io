@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7145,
+    "uniqCompNum": 7142,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -11682,7 +11682,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "Bumper to wing are 4 x10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts are not the easiest to remove, and will be corroded with the possibility of having to replace each of them. Along the bottom edge are 3 x 10mm bolts, in the middle 6 cross head screws, 3 located at each corner, leading edge 5 x 10mm bolts.<a href=\"comments.html\" class=\"text-primary\"> </a><i><a href=\"comments.html\" class=\"text-primary\">review this page</a></i>"
+          "text": "Bumper to wing are 4 x10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts are not the easiest to remove, and will be corroded with the possibility of having to replace each of them. Along the bottom edge are 3 x 10mm bolts, in the middle 6 cross head screws, 3 located at each corner, leading edge 5 x 10mm bolts.<a href=\"comments.html#form1-5gd\" class=\"text-primary\"> review this page</a>"
         },
         {
           "_params": {
@@ -13603,11 +13603,17 @@
           "_anchor": "msg-box8-4sr"
         },
         {
+          "_inherit": "testimonials1",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
             ".mbr-section-title": {
+              "color": "#475577"
+            },
+            ".mbr-author-name": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-subtitle": {
               "color": "#475577"
             },
             ".mbr-section-title SPAN": {
@@ -13615,124 +13621,93 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px"
             },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
+            ".card-footer > div": {
+              "color": "#c1c1c1"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS SAY</span>",
-          "meta": "About features, and information on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5ie"
-        },
-        {
-          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "showImages": false,
-            "showTitles": false,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
+            "showName": true,
+            "showBio": false,
+            "count": "4",
             "paddingTop": "1",
-            "paddingBottom": 2,
-            "columns": 4,
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1023.png",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "C15 Star Baldock Hertfordshire",
-          "caption1": "\"The rear light and <i><a href=\"lightcheck.html\" class=\"text-primary\">brake light</a></i> bulb checking system is a very interesting project, but no real information on how this was fully implemented, would like to have known more specific info on this, thanks for your nice site”",
-          "title2": "Responsive",
-          "subtitle2": "FG Tremadoc North Wales",
-          "caption2": "“First of all, a great effort to you guys for all your good work. Its really a very amazing site, clean and uncluttered, not much in the way of how specific tasks are carried out with full and complete info, but still very informative\"",
-          "title3": "Web Fonts",
-          "subtitle3": "Louise Chelsea London SW3",
-          "caption3": "“At first view, looks like a nice innovative site, liked the great focus and time that was given to the project designs, especially the rover 200 security fitted <i><a href=\"satnav.html\" class=\"text-primary\">satnav system</a></i>&nbsp;and bulb checking one, cant fault the effort\"",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Emma West Yorkshire",
-          "caption4": "“amazing website very well put together through alot of hardwork very straight to the point on car resolutions just shows how much with experience over the years of love of cars keep it up”",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-5if"
+          "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS SAY</span>",
+          "subtitle": "About features, and information on our MG-Rover Information Pages&nbsp;",
+          "testimonial": [
+            {
+              "text": "<p>\"The rear light and brake light bulb checking system is a very interesting project, but no real information on how this was fully implemented, would like to have known more specific info on this, thanks for your nice site”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "C15 Star Baldock Hertfordshire",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“First of all, a great effort to you guys for all your good work. Its really a very amazing site, clean and uncluttered, not much in the way of how specific tasks are carried out with full and complete info, but still very informative\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "FG Tremadoc North Wales",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative site, liked the great focus and time that was given to the project designs, especially the rover 200 security fitted satnav system, and bulb checking one, cant fault the effort\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Louise Chelsea London SW3",
+              "authorBio": "User"
+            },
+            {
+              "authorName": "Emma Yorkshire",
+              "authorBio": "Developer",
+              "text": "<p>“amazing website very well put together through alot of hardwork very straight to the point on car resolutions just shows how much with experience over the years of love of cars keep it up”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-5hv"
         },
         {
           "_params": {

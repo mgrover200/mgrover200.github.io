@@ -4641,7 +4641,6 @@ section.form .container {
 
 
 
-
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4739,22 +4738,19 @@ section.form .container {
 #msg-box8-4sr .lead {
   color: #ffffff;
 }
-#testimonials3-5hv .mbr-section-title {
+#header3-5ie .mbr-section-title,
+#header3-5ie .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5ie .mbr-section-title {
   color: #475577;
 }
-#testimonials3-5hv .mbr-author-name {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-}
-#testimonials3-5hv .mbr-section-subtitle {
-  color: #475577;
-}
-#testimonials3-5hv .mbr-section-title SPAN {
+#header3-5ie .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
 }
-#testimonials3-5hv .card-footer > div {
-  color: #c1c1c1;
+#header3-5ie .mbr-section-subtitle {
+  color: #475577;
 }
 #form1-5gd .form-control-label {
   color: #ffffff;
