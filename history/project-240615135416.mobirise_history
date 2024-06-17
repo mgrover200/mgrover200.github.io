@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "marcos.html",
+    "currentPage": "lightcheck.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7155,
+    "uniqCompNum": 7145,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7255,7 +7255,7 @@
           "_anchor": "content7-3c1",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "text1": "<p></p><p>Year 2010 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.00 % vol</p><p>HC----------------------10 ppm</p><p>Lambda-----------------1.00</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natural Idle Test</span><br></p><p>Engine Speed---manual check</p><p>CO--------------------0.00 % vol</p><p><br></p><p></p><p></p><p></p>",
@@ -7272,6 +7272,24 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Below on a warm up run prior to the 2011 mot, using the cisco flip video camera, prior to dashcams becoming popular.&nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content1-5fl"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
@@ -7285,7 +7303,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/00116-mg-rover-emissions-1600x608.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -7304,24 +7322,6 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-5ft"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The emissions test in most cases, is generally carried out after all the other vehicle checks have been completed, not as you arrive, this allows the engine to cool down slightly and will show the tester if the car is in a genuine and tip top condition, and has not been thrashed just to get it through the emissions. Above on a warm up run prior to the 2011 mot, using the cisco flip video camera, prior to dashcams becoming popular.&nbsp;&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "content1-5ih"
         },
         {
           "_params": {
@@ -14459,7 +14459,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "1",
@@ -14643,33 +14643,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/009-marcos-the-1970s-compilation-1362x226.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5iq"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
@@ -14706,12 +14679,12 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-5io"
+          "_anchor": "image2-5c1"
         },
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>Our appreciation to the contributor for a short and rare insight into their extensive collection of brochures, cine film footage, photo's and videos compiled over a period of 26 years from early 1966 to mid 1992</p>",

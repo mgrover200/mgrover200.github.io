@@ -18,6 +18,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -571,6 +572,9 @@ section.form .container {
   color: #efefef;
 }
 #msg-box8-4ri .mbr-section-title I {
+  font-family: 'Lora', serif;
+}
+#msg-box8-4ri .mbr-section-title SPAN {
   font-family: 'Lora', serif;
 }
 #msg-box5-573 SPAN {
@@ -2735,12 +2739,12 @@ section.form .container {
 #content7-3c1 .lead {
   color: #565656;
 }
-#content1-5fl P {
-  font-size: 17px;
-}
 #msg-box8-5ft .mbr-section-title,
 #msg-box8-5ft .lead {
   color: #fff;
+}
+#content1-5ih P {
+  font-size: 17px;
 }
 #content1-5cm P {
   text-align: center;
