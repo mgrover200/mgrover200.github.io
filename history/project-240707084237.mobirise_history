@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7194,
+    "uniqCompNum": 7191,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14885,9 +14885,150 @@
           }
         },
         {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#475577",
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#475577",
+              "border-color": "#475577"
+            },
+            "H4": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\"><i>Navigation 200/ZR</i></span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Garmin nuvi 200 was used for this project after being mounted onto a self designed multi-directional alloy support bracket. <a href=\"satnav.html\" class=\"text-primary\">More Info.</a>",
+          "title2": "<span style=\"font-weight: normal;\">Coolant 200/ZR</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Showing the 'reed sensor' and optional coolant low level warning modules, created for the Rover 200 now installed into the MG&nbsp;&nbsp;<a href=\"coolsensor.html\" class=\"text-primary\">More Info.</a>",
+          "title3": "<span style=\"font-weight: normal;\">Ignition Switch ZR</span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel, so it can be detached. <a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\">More Info.</a>&nbsp;",
+          "title4": "<span style=\"font-weight: normal;\">Oil Sump Removal 200</span>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "With sump removed years of tarnished oil is evident, using wire wool etc. <a href=\"oilsump.html\" class=\"text-primary\">More Info.</a>",
+          "title5": "<span style=\"font-weight: normal;\">Fuel Filter 200/ZR</span>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "To release the fuel filter 14mm and 19mm spanners were both used as shown. <a href=\"fuelfilter.html\" class=\"text-primary\">More Info.</a>",
+          "title6": "<span style=\"font-weight: normal;\">Gearbox Oil 200</span>",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "At the time bluecol antifreeze is shown being used in the system in 2004. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-primary\">More Info.</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-5jk"
+        },
+        {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },

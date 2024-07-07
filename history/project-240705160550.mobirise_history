@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7194,
+    "uniqCompNum": 7168,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14844,138 +14844,102 @@
           "_anchor": "msg-box8-5iw"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yetton-1600x850.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#565656",
-            "overlayOpacity": "0.4"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "With various aspects of servicing and maintenance, including driver assisted&nbsp; features and vehicle monitoring. For our 1996 Rover 200 and 2010 ZR 120+&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MG-ROVER Maintenance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobiri.se\" data-toolbar=\"-mbrBtnMove\">Driver Assist Projects</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-5j4",
+          "_name": "content1",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px",
+            "P": {
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center",
-              "color": "#f7da64"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5jl"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Russian</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content1-5jo"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><i>Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
+              "font-size": "36px",
               "text-align": "center"
             },
             "DIV": {
-              "color": "#565656"
+              "color": "#000000"
             }
           },
-          "_anchor": "content1-5jp"
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>WEBSITE COOKIES POLICY</p>",
+          "_anchor": "content1-5ix"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Our Cookie Policy for this site, explains that you consent to the use of cookies, what cookies are,how we use cookies, how third parties may use cookies on this website. Your choices regarding cookies, and further information regarding cookies..</p>",
+          "_anchor": "content1-5iy"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Cookies are small pieces of text sent by your web browser, by a web site you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognise you and to make your next visit easier, and the Service more useful to you. Cookies can be \"persistent\" or \"session\" cookies.</p>",
+          "_anchor": "content1-5iz"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>How this website uses cookies. When you use and access the Service, we may place a number of cookies files in your web browser. We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences</p>",
+          "_anchor": "content1-5j0"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>We use both session and persistant cookies on the Service, and we use different types of cookies to run the Service. Essential cookies, we may use essential cookies to authenticate users, and prevent fraudulent use of users accounts. In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of our website pages.</p>",
+          "_anchor": "content1-5j1"
         },
         {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#475577"
+            "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-5jq"
+          "_anchor": "content1-5j2"
         },
         {
           "_tags": [

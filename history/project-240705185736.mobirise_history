@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7194,
+    "uniqCompNum": 7175,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14846,8 +14846,8 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
+            "showText": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -14864,8 +14864,8 @@
             "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "With various aspects of servicing and maintenance, including driver assisted&nbsp; features and vehicle monitoring. For our 1996 Rover 200 and 2010 ZR 120+&nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MG-ROVER Maintenance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobiri.se\" data-toolbar=\"-mbrBtnMove\">Driver Assist Projects</a>",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MG-ROVER Maintenance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Driver Assist Projects</a>",
           "_tags": [
             "Theme"
           ],
@@ -14877,7 +14877,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center",
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
               "font-size": "36px"
@@ -14886,96 +14886,323 @@
         },
         {
           "_params": {
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0072-scroll-1182x90.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00100-sunroof-500x200.jpg",
+              "linkInNewWindow": false,
+              "link": "https://mgrover200.github.io/sunroof.html",
+              "alt": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Replacing Sunroof Seal</i></span>",
+          "text": "At this stage we decided to replace the ageing sunroof seal. With plastic side trims removed (shown) the six securing bolts were all&nbsp; accessed using a T25 star bit.&nbsp;<a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-primary\">More Info.</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            },
+            "H3": {
+              "color": "#475577"
+            }
+          },
+          "_anchor": "msg-box5-5j5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00102-ignition-500x200.jpg",
+              "link": "https://mgrover200.github.io/ignitionswitch.html",
               "alt": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\"><i>Ignition Switch YXB-100350</i></span>",
+          "text": "With column covers removed, gave better access to the 2 small screws that holds ignition switch to barrel. At this stage it can be detached, from the multi-connector. <a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\">More Info.</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-5jl"
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-5j6"
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00103-navigation-500x200.jpg",
+              "linkInNewWindow": false,
+              "link": "satnav.html",
+              "alt": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Navigation System 200/ZR</i></span>",
+          "text": "This unique security fitted satnav project originally created for the 200 back in 2008, and now installed into the MG since 2010 was designed to be concealed within the centre air vent. <a href=\"satnav.html\" class=\"text-primary\">More Info.</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-5j7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00104-dashcam-500x200.jpg",
+              "link": "dashcam.html",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Dual Dashcam System ZR&nbsp;</i></span>",
+          "text": "Opposed to using supplied screen mount, an alloy support bracket was created and is shown located above right of rear view mirror, with camera viewing screen in a closed position.<a href=\"dashcam.html\" class=\"text-primary\">&nbsp;More Info.</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-5j8"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftestpage.html\" class=\"text-black\">Russian</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content1-5jo"
+          "text": "<p>Cookies are small pieces of text sent by your web browser, by a web site you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognise you and to make your next visit easier, and the Service more useful to you. Cookies can be \"persistent\" or \"session\" cookies.</p>",
+          "_anchor": "content1-5iz"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p><i>Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#565656"
-            }
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
           },
-          "_anchor": "content1-5jp"
+          "text": "<p>How this website uses cookies. When you use and access the Service, we may place a number of cookies files in your web browser. We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences</p>",
+          "_anchor": "content1-5j0"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>We use both session and persistant cookies on the Service, and we use different types of cookies to run the Service. Essential cookies, we may use essential cookies to authenticate users, and prevent fraudulent use of users accounts. In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of our website pages.</p>",
+          "_anchor": "content1-5j1"
         },
         {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#475577"
+            "bgColor": "#efefef"
           },
-          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "text": "<p>desktop app.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
-            "DIV": {
-              "color": "#efefef"
-            },
             "P": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-5jq"
+          "_anchor": "content1-5j2"
         },
         {
           "_tags": [
