@@ -4995,7 +4995,6 @@ section.form .container {
 
 
 
-
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5077,23 +5076,14 @@ section.form .container {
   color: #ffffff;
   font-size: 46px;
 }
-#msg-box8-5k7 .mbr-section-title,
-#msg-box8-5k7 .lead {
-  color: #fff;
-}
-#msg-box8-5k7 .mbr-section-title {
+#header1-5kp .mbr-section-title {
+  font-size: 48px;
   font-family: 'Lora', serif;
+  text-align: center;
+  color: #f7da64;
+}
+#header1-5kp .mbr-section-title SPAN {
   font-size: 36px;
-  color: #f3c649;
-  text-align: center;
-}
-#msg-box8-5k7 .lead P {
-  font-family: 'Lora', serif;
-  font-size: 25px;
-  text-align: center;
-}
-#msg-box8-5k7 .lead {
-  color: #ffffff;
 }
 #content1-5jo P {
   text-align: center;
