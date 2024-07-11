@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "torque.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7224,
+    "uniqCompNum": 7212,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -574,15 +574,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            },
-            ".lead": {
-              "color": "#ffffff"
+              "font-size": "22px"
             }
           },
           "_params": {
@@ -604,8 +601,8 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Cabin Located Fuse Panel 2004 ZR</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>CABIN LOCATED FUSE BOX 2004 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1156,7 +1153,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00115-mgrover-coolant-level-sensor-1600x375.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1169,13 +1166,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Coolant Level Warning Sensor</i></p>",
+          "text": "<p><i>Coolant Low Level Warning Sensor&nbsp;</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5km"
+          "_anchor": "msg-box8-4rz"
         },
         {
           "_tags": [
@@ -1305,16 +1302,66 @@
           },
           "_anchor": "content1-22c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out. Along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp;&nbsp;</p>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00115-mgrover-coolant-level-sensor-1600x375.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>COOLANT LEVEL WARNING SENSOR&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5k9"
+        },
+        {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
@@ -1402,7 +1449,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5kj"
+          "_anchor": "content1-5hz"
         },
         {
           "_tags": [
@@ -1600,12 +1647,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "22px"
             },
             ".lead": {
               "color": "#ffffff"
@@ -1630,8 +1677,8 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Engine Bay Located Fuse Box 2004 ZR</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>ENGINE BAY LOCATED FUSE BOX 2004 ZR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -3838,12 +3885,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "22px"
             },
             ".lead": {
               "color": "#ffffff"
@@ -3868,8 +3915,8 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Oil Sump Removal Rover 200</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>OIL SUMP ROVER 200</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -7805,7 +7852,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cabinheater003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7818,13 +7865,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Cold Cabin Heater ZR</i></p>",
+          "text": "<p><i>Cold Cabin Heater Problem 2004 ZR</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5kn"
+          "_anchor": "msg-box8-4s0"
         },
         {
           "_tags": [
@@ -7962,6 +8009,54 @@
           ],
           "_name": "content1",
           "_anchor": "content1-4wi"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cabinheater003.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>COLD CABIN HEATER ZR</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5ka"
         },
         {
           "_params": {
@@ -8268,7 +8363,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8287,7 +8382,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5kl"
+          "_anchor": "msg-box8-4s2"
         },
         {
           "_tags": [
@@ -8479,7 +8574,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
@@ -8508,6 +8603,54 @@
             }
           },
           "_anchor": "content1-57f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/yxb.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>YXB-100350 Ignition Switch</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5kb"
         },
         {
           "_params": {
@@ -8600,7 +8743,7 @@
               "text-align": "center"
             }
           },
-          "_anchor": "content1-5kk"
+          "_anchor": "content1-5i2"
         },
         {
           "_tags": [
@@ -8796,12 +8939,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "22px"
             },
             ".lead": {
               "color": "#ffffff"
@@ -8826,8 +8969,8 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Sunroof Panel and Damp Headlining</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>SUNROOF PANEL AND DAMP HEADLINING</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -9971,12 +10114,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#ffffff"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+              "font-size": "22px"
             },
             ".lead": {
               "color": "#ffffff"
@@ -10001,8 +10144,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Cylinder Head Torque Settings</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>ENGINE TORQUE SETTINGS</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -10679,15 +10822,12 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "36px",
-              "color": "#f7da64"
+              "color": "#efefef"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            },
-            ".lead": {
-              "color": "#ffffff"
+              "font-size": "22px"
             }
           },
           "_params": {
@@ -10709,8 +10849,8 @@
             "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>Tailgate Wiring Problems</i></p>",
+          "title": "<span style=\"font-weight: normal;\">MG-ROVER INFORMATION PAGES</span>",
+          "text": "<p>TAILGATE LOOM WITH PROBLEMS</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
