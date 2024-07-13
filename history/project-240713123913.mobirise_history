@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7239,
+    "uniqCompNum": 7235,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14644,53 +14644,32 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p><i>Purge Valve and the Emissions</i></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5l1",
-          "_styles": {
-            "DIV": {
-              "color": "#475577"
-            },
-            "P": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The purge valve an electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors are then moved from the charcoal canister to the fuel injector then burned off inside the engine, The purge valve flow is monitored with sensors to determine a precise amount, helping in some way with the vehicles emissions.</p>",
+          "text": "<p>Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
+              "color": "#000000",
+              "text-align": "left",
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-5kz"
+          "_anchor": "content1-5kv"
         },
         {
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
+            "imageSize": "70",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -14709,9 +14688,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00109-purgevalve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0098-mgzr-engine-fuse-box-814x415.jpg",
               "link": "",
-              "alt": "",
+              "alt": "mg-zr-fuse-box",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -14726,9 +14706,9 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Purge Valve Location</i></span>",
-          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber on the bulkhead, bad condition of the rubber, could well be a contributing factor on how annoying. <a href=\"purgevalve.html\" class=\"text-primary\">MORE INFO.</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<span style=\"font-weight: normal;\"><i>Engine Fuse Box List</i></span>",
+          "text": "<b>F1</b> Engine management system, automatic transmission selector, speedo 10amp (red) <br><b>F2</b> Engine management system, fuel pump 20amp (yellow) <br><b>F3</b> Engine management glow plug relay 10amp (red) <br><b>F4</b> Aircon relay, cooling fan relay 10amp (red).",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"enginefuse.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -14738,42 +14718,19 @@
               "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "21px"
+            },
+            "P": {
+              "font-size": "17px"
             },
             "SPAN": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "25px"
+              "font-size": "22px",
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
-          "_anchor": "msg-box5-5l0"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5l2"
+          "_anchor": "msg-box5-5kw"
         },
         {
           "_params": {
