@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
 
 
 
@@ -554,6 +557,25 @@ section.form .container {
 }
 #header1-5jv .mbr-section-title SPAN {
   font-size: 36px;
+}
+#content1-5l3 DIV {
+  color: #475577;
+}
+#content1-5l3 P {
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+}
+#content1-5l4 P {
+  font-size: 17px;
+}
+#msg-box5-5l5 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box5-5l5 SPAN {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
 }
 #content1-5d1 P {
   text-align: center;
