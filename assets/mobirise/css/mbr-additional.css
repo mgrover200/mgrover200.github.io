@@ -4576,6 +4576,7 @@ section.form .container {
 
 
 
+
 #ext_menu-349 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4686,6 +4687,9 @@ section.form .container {
 }
 #header3-5ie .mbr-section-subtitle {
   color: #475577;
+}
+#features3-5if P {
+  font-family: 'Raleway', sans-serif;
 }
 #form1-5gd .form-control-label {
   color: #ffffff;
@@ -4908,7 +4912,7 @@ section.form .container {
 #msg-box8-4sc .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 36px;
-  color: #c1c1c1;
+  color: #f7da64;
   text-align: center;
 }
 #msg-box8-4sc .lead P {
@@ -4920,7 +4924,7 @@ section.form .container {
 }
 #content1-5bz P {
   color: #475577;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 30px;
   text-align: center;
 }
@@ -5084,6 +5088,16 @@ section.form .container {
 }
 #header1-5kp .mbr-section-title SPAN {
   font-size: 36px;
+}
+#header3-5lr .mbr-section-title,
+#header3-5lr .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5lr .mbr-section-title {
+  color: #2969b0;
+}
+#header3-5lr .mbr-section-subtitle {
+  color: #000000;
 }
 #content1-5jo P {
   text-align: center;

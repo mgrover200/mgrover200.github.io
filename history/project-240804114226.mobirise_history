@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7264,
+    "uniqCompNum": 7260,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14651,8 +14651,8 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#efefef"
           },
           "media": {
@@ -14673,33 +14673,47 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-5lo"
+          "_anchor": "image2-5li"
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#2969b0"
+              "text-align": "left"
             },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
+            ".lead P": {
+              "text-align": "right"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/000000-1597x755.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "REFORM PARTY UK",
-          "meta": "<a href=\"https://www.reformparty.uk/\" class=\"text-black\">HELP TO SAVE BRITAIN AND OUR HERITAGE</a>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-5lr"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5ln"
         },
         {
           "_params": {
