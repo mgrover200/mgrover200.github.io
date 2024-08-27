@@ -10,6 +10,14 @@
 
 
 
+
+
+
+
+
+
+
+
 body,
 input,
 textarea,
@@ -546,18 +554,63 @@ section.form .container {
   font-size: 36px;
   text-align: center;
 }
-#header1-5jv .mbr-section-title {
-  font-size: 48px;
+#msg-box8-5mv .mbr-section-title,
+#msg-box8-5mv .lead {
+  color: #fff;
+}
+#msg-box8-5mv .mbr-section-title {
   font-family: 'Lora', serif;
-  text-align: center;
+  font-size: 36px;
   color: #f7da64;
 }
-#header1-5jv .mbr-section-title SPAN {
-  font-size: 36px;
+#msg-box8-5mv .lead P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  text-align: center;
 }
-#header1-5jv .mbr-section-lead {
-  font-family: 'Lora', serif;
+#msg-box8-5mv .lead {
   color: #ffffff;
+}
+#msg-box5-5mx H3 {
+  color: #475577;
+  font-size: 22px;
+}
+#msg-box5-5mx SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+#msg-box5-5my H3 {
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+  color: #475577;
+}
+#msg-box5-5mz H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box5-5mz SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+#msg-box5-5n0 H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  color: #475577;
+}
+#msg-box5-5n1 H3 {
+  color: #475577;
+  font-family: 'Lora', serif;
+  font-size: 22px;
+}
+#msg-box5-5n1 SPAN {
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-5n2 H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  color: #475577;
 }
 #header3-5ls .mbr-section-title,
 #header3-5ls .mbr-section-subtitle {
