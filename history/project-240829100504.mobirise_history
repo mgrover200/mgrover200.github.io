@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7366,
+    "uniqCompNum": 7356,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -267,12 +267,39 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5lj"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -637,33 +664,6 @@
             }
           },
           "_anchor": "msg-box5-5n2"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5ok"
         },
         {
           "_params": {
@@ -2544,7 +2544,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00127-policecar-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2563,7 +2563,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5oe"
+          "_anchor": "msg-box8-5nu"
         },
         {
           "_tags": [
@@ -2590,7 +2590,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "45",
+            "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2676,7 +2676,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "45",
+            "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -2735,6 +2735,40 @@
             "bgColor": "#efefef"
           },
           "text": "<p>So another low cost safety addition added to the old MG, no electrical wiring, switch or any power supply needed, the visible light emitting from the fibre optics, are clear to view, and not a distraction. Also with no need for a second person to assist, or an implement to hold down brake pedal while going round to do the usual light check's. &nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00125-police-car-1600x300.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5o8"
         },
         {
           "_tags": [
@@ -3699,7 +3733,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00119-satnav-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -4241,7 +4275,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/00126-rover-sump-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -4260,7 +4294,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5of"
+          "_anchor": "msg-box8-5nl"
         },
         {
           "_tags": [
@@ -6746,7 +6780,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5ol"
+          "_anchor": "msg-box8-5nt"
         },
         {
           "_tags": [
@@ -7247,7 +7281,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00125-emissions-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -8658,7 +8692,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00123-yxb-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -10382,7 +10416,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00126-torque-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -10715,6 +10749,40 @@
             }
           },
           "_anchor": "content1-4gm"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00124-torque-1600x300.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5o9"
         },
         {
           "_styles": {
@@ -13119,7 +13187,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00124-manifold-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
