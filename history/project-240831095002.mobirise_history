@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "emissions.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7379,
+    "uniqCompNum": 7370,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3918,33 +3918,6 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0068-mg-rover-satnav-1109x131.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5or"
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#efefef"
@@ -7330,12 +7303,6 @@
           "_anchor": "msg-box8-5nq"
         },
         {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>On a vehicle which has passed all of the required criteria, steering, brakes, electrics and then fails on just the emissions, can be a problem and  inconvenience, especially on these cars. When this could have been checked before hand by doing an emissions test prior to the mot, some smaller garages, will offer to do a basic emissions test with no charge, or maybe for just a couple of quid.</p>",
           "_tags": [
             "Theme"
           ],
@@ -7345,7 +7312,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-5ot"
+          "_anchor": "content1-35r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>On a vehicle which has passed all of the required criteria, steering, brakes, electrics and then fails on just the emissions, can be a problem and  inconvenience, especially on these cars. When this could have been checked before hand by doing an emissions test prior to the mot, some smaller garages, will offer to do a basic emissions test with no charge, or maybe for just a couple of quid.</p>"
         },
         {
           "_params": {
@@ -7358,15 +7331,9 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-5ou"
+          "_anchor": "content1-5ir"
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Then a good long drive to achieve the vehicles fully operating and running temperatures, arriving at the test station a few minutes before our appointment, knowing the successful emissions test done a few days earlier, should not be too much, if anything of the slightest concern.</p>",
           "_tags": [
             "Theme"
           ],
@@ -7376,7 +7343,13 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-5ov"
+          "_anchor": "content1-35s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>Then a good long drive to achieve the vehicles fully operating and running temperatures, arriving at the test station a few minutes before our appointment, knowing the successful emissions test done a few days earlier, should not be too much, if anything of the slightest concern.</p>"
         },
         {
           "_params": {
@@ -7422,7 +7395,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".lead": {
-              "color": "#000000"
+              "color": "#565656"
             }
           }
         },
@@ -7443,53 +7416,6 @@
             }
           },
           "_anchor": "content1-5ih"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/0067-mg-emissions-1600x600.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-5ox"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Out on a warm-up run in the ZR, on the way to the 2011 annual test. For the above video, and prior to the popularity of dashcams from 2013. onwards. We are using the cisco flip HD camera, located on the bottom corner of the windscreen of the drivers side, for a dynamic view.&nbsp; &nbsp; &nbsp; &nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5oy"
         },
         {
           "_params": {
