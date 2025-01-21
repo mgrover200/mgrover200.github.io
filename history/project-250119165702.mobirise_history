@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7487,
+    "uniqCompNum": 7485,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -15440,41 +15440,14 @@
           "_anchor": "image2-5rb"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Driver and Monitoring Features&nbsp;</i></span>",
-          "meta": "Applied from 2008 to 2016 for the Rover 200 and 04 MG-ZR",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5ry"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "50",
+            "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -15527,33 +15500,6 @@
             }
           },
           "_anchor": "msg-box5-5rq"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-5rx"
         },
         {
           "_params": {
