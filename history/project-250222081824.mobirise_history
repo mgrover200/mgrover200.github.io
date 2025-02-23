@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -16302,8 +16302,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -16424,7 +16424,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -17088,7 +17088,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -17148,7 +17148,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -17437,10 +17437,10 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Coolant Sensor 200/ZR",
+          "subtitle1": "Coolant Level Sensor Rover 200/ZR",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Responsive",
-          "subtitle2": "Navigation System 200/ZR",
+          "subtitle2": "Satellite Navigation Rover200/ZR",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "subtitle3": "Dual Dashcam System ZR",
@@ -17464,12 +17464,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-5un",
-          "_styles": {
-            "H5": {
-              "font-size": "16px"
-            }
-          }
+          "_anchor": "features3-5un"
         },
         {
           "_params": {
