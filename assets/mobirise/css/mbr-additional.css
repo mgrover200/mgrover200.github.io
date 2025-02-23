@@ -30,6 +30,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -688,6 +689,21 @@ section.form .container {
   color: #475577;
   font-size: 22px;
   font-family: 'Raleway', sans-serif;
+}
+#header3-5up .mbr-section-title,
+#header3-5up .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5up .mbr-section-title {
+  color: #475577;
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-5up .mbr-section-title SPAN {
+  font-size: 22px;
+}
+#features3-5uq H5 {
+  font-size: 16px;
 }
 #content1-5d1 P {
   text-align: center;
