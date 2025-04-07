@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7652,
+    "uniqCompNum": 7650,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14493,7 +14493,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Multi Connector (in open position)</i></span>",
-          "text": "Coil pack connectors were then disconnected, this part of the wiring can be withdrawn with the removal process of the inlet manifold. after the multi-connector, with the sliding locking tab (shown in the open position) is first detached.",
+          "text": "Coilpack connectors were then disconnected, this part of the wiring can be withdrawn with the removal process of the inlet manifold. after the multi-connector, with the sliding locking tab (shown in the open position) is first detached.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -16310,8 +16310,8 @@
           "caption1": "Cooling system did not need to be drained, just syphoned out, and replaced with new tank.",
           "title2": "<span style=\"font-weight: normal;\"><i>Rover 200 Oil Sump</i></span>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back.",
-          "title3": "<span style=\"font-weight: normal;\"><i>Ignition Switch 200/ZR</i></span>",
+          "caption2": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back onto the 200.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Ignition Switch ZR</i></span>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "With column covers removed, gave better access to the ignition switch barrel.",
           "title4": "<span style=\"font-weight: normal;\"><i>Engine Torque Settings</i></span>",
@@ -16381,6 +16381,131 @@
             },
             "H3": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/07-mg-rover-engine-bay-fuse-box-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "enginefuse.html",
+              "alt": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/08-mg-rover-cabin-fuse-paner-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "cabinfuse.html",
+              "alt": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/09-mg-rover-inlet-manifold-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "inletmanifold.html",
+              "alt": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/010-mg-rover-emissions-purge-valve-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "purgevalve.html",
+              "alt": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/011-mg-rover-body-colour-codes-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/colourcodes.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\"><i>Engine Bay Fuse Box ZR</i></span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Information page concentrates on our 2004 MG ZR engine bay fuse box, which circuit each fuse, fusible links, and relays serves and protects.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cabin Fuse Panel ZR</i></span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Information page concentrates on our 2004 MG ZR cabin located fuse box, of each fuse, and relays serves.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "The 4 x 8mm throttle body bolts&nbsp; removed, easier and less of a disturbance with accelerator cable attached.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Purge Valve Location</i></span>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Shown located on top of the charcoal canister, canister is fixed into a bracket containing an isolation rubber.",
+          "title5": "<span style=\"font-weight: normal;\"><i>MG Rover Colour Codes</i></span>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "MG-Rover original vehicle paint codes listed as AAC to ZGN from year 1963 up to and including 2005.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5we",
+          "_styles": {
+            "H4": {
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },

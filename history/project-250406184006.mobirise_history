@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -16310,8 +16310,8 @@
           "caption1": "Cooling system did not need to be drained, just syphoned out, and replaced with new tank.",
           "title2": "<span style=\"font-weight: normal;\"><i>Rover 200 Oil Sump</i></span>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back.",
-          "title3": "<span style=\"font-weight: normal;\"><i>Ignition Switch 200/ZR</i></span>",
+          "caption2": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back onto the 200.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Ignition Switch ZR</i></span>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "With column covers removed, gave better access to the ignition switch barrel.",
           "title4": "<span style=\"font-weight: normal;\"><i>Engine Torque Settings</i></span>",
@@ -16381,6 +16381,294 @@
             },
             "H3": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/07-mg-rover-engine-bay-fuse-box-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "enginefuse.html",
+              "alt": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/08-mg-rover-cabin-fuse-paner-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "cabinfuse.html",
+              "alt": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/09-mg-rover-inlet-manifold-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "inletmanifold.html",
+              "alt": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/010-mg-rover-emissions-purge-valve-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "purgevalve.html",
+              "alt": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/011-mg-rover-body-colour-codes-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/colourcodes.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\"><i>Engine Bay Fuse Box ZR</i></span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Our 2004 MG ZR engine bay fuse box, which circuit each fuse, fusible links, and relays serves and protects.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cabin Fuse Panel ZR</i></span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Information page concentrates on our 2004 MG ZR cabin located fuse box, of each fuse, and relays serves.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Multi-connector, with the sliding locking tab (shown in the open position) is first detached.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Purge Valve Location</i></span>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Shown located on top of the charcoal canister, canister is fixed into a bracket containing an isolation rubber.",
+          "title5": "<span style=\"font-weight: normal;\"><i>MG Rover Colour Codes</i></span>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "MG-Rover original vehicle paint codes listed as AAC to ZGN from year 1963 up to and including 2005.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5we",
+          "_styles": {
+            "H4": {
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/015-mg-rover-satellite-navigation-1600x200.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Navigation System 200 ZR</i></span>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"satnav.html\" data-toolbar=\"-mbrBtnMove\">More Info</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-5wi",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/016-mg-rover-cold-cabin-heater-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "cabinheater.html",
+              "alt": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/017-mg-rover-engine-coolant-flow-route-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "coolsystem.html",
+              "alt": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/018-mg-rover-audio-remotes-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "audioremotes.html",
+              "alt": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/019-mg-rover-blown-bulb-notifier-zr-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "lightcheck.html",
+              "alt": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/020-mg-rover-sunroof-seal-365x240.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/sunroof.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\"><i>Cold Cabin Heater ZR</i></span>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "The heater matrix valve is basically a SAAB C900 unit usually comes supplied with 4 new coolant hoses attached, these cars are now old, so this was replaced during a more in depth fault finding procedure.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Coolant Flow Route</i></span>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Coolant elbow joint In conventional systems, the thermostat is usually located on the outlet from the engine, the location on the K Series is at the rear, allowing the engine to reach its temperature more quickly and evenly with short periods of opening and closing.",
+          "title3": "<span style=\"font-weight: normal;\"><i>Audio Remote Controls ZR</i></span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "On this particular model, the acceptance of fitting steering wheel audio remote controls is shown, and can be seen with the blue wire already attached on the back of this unit.",
+          "title4": "Remove",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "<span style=\"font-weight: normal;\"><i>Sunroof Weather Seal</i></span>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Sunroof panel tilted, showing one side of the 6 bolts, after removing the two plastic side panel covers, access to removing these can be done with sunroof in its closed position, and a safer option.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5wj",
+          "_styles": {
+            "H4": {
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
