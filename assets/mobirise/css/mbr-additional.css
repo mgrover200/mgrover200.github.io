@@ -1932,6 +1932,10 @@ section.form .container {
 #content1-ph P {
   font-size: 17px;
 }
+#msg-box3-5z1 .mbr-section-title,
+#msg-box3-5z1 .lead {
+  color: #000;
+}
 #content1-5cg P {
   text-align: center;
   font-size: 18px;
@@ -3728,6 +3732,10 @@ section.form .container {
 #msg-box5-3u8 P {
   text-align: left;
 }
+#msg-box3-5z0 .mbr-section-title,
+#msg-box3-5z0 .lead {
+  color: #000;
+}
 #content1-5cv P {
   text-align: center;
   font-size: 18px;
@@ -5352,12 +5360,15 @@ section.form .container {
   font-size: 25px;
 }
 #msg-box1-5xf H3 {
-  color: #ffffff;
+  color: #e25041;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
 #msg-box1-5xf SPAN {
   font-size: 32px;
+}
+#msg-box1-5xf H2 {
+  color: #ffffff;
 }
 #msg-box5-5xg H3 {
   color: #475577;
@@ -5409,7 +5420,10 @@ section.form .container {
   font-size: 32px;
 }
 #msg-box1-5xp SPAN {
-  font-size: 32px;
+  font-size: 36px;
+}
+#msg-box1-5xp H2 {
+  color: #ffffff;
 }
 #msg-box5-5xq H3 {
   color: #475577;

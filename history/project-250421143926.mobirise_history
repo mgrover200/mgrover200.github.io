@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7742,
+    "uniqCompNum": 7736,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -5549,41 +5549,6 @@
             "bgColor": "#efefef"
           },
           "text": "<p>Access to 3 of the sump bolts did require that the flywheel cover plate is removed to get to them, tools that were used for this project were 19mm for sump drainage bolt 10mm for the 14 sump bolts, and 8mm for the 3 cover plate bolts, for reference the 200 oil sump drain bolt is 19mm, The drain bolt for the ZR is smaller at 15mm. This old project was completed during 2005.</p>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MODERN STYLES",
-          "text": "<p>Quick view of all pages available on this site <a href=\"index.html\" class=\"text-primary\">MORE</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5z1"
         },
         {
           "_params": {
@@ -11275,7 +11240,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Location of Drain /Filler Bolts</i></span>",
-          "text": "If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. each one of the 17mm drain and filler bolts, require being tightened to 25Nm or 18lbf ft or hand tight plus.",
+          "text": "If the oil has never been drained off, it can be assumed both bolts, especially the drain bolt, is going to be more difficult to remove. each one of the 17mm drain and filler bolts, require being tightened to 25Nm or 18lbf ft torque, or hand tight plus.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -11388,8 +11353,8 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "0",
+            "showButton": true,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -11405,13 +11370,13 @@
             "overlayOpacity": 0.5
           },
           "title": "MODERN STYLES",
-          "text": "<p>Quick view of all pages available on this site <a href=\"index.html\" class=\"text-primary\">MORE</a></p>",
+          "text": "<p>A Complete list of all .</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_name": "msg-box3",
-          "_anchor": "msg-box3-5z0"
+          "_anchor": "msg-box3-5yv"
         },
         {
           "_params": {
