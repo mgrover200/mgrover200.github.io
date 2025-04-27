@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7749,
+    "uniqCompNum": 7748,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1628,7 +1628,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -1680,8 +1680,9 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
-              "font-size": "16px"
+              "color": "#ffffff",
+              "font-size": "16px",
+              "text-align": "center"
             }
           },
           "_anchor": "footer1-2u2",
@@ -2242,7 +2243,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -2753,7 +2754,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -3297,7 +3298,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -3815,7 +3816,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -4454,7 +4455,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -5023,7 +5024,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -5649,7 +5650,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -6096,7 +6097,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -6574,7 +6575,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -7020,7 +7021,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -7542,7 +7543,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -8163,7 +8164,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -8652,7 +8653,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -9156,7 +9157,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -9655,7 +9656,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -10266,7 +10267,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -10947,7 +10948,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -11410,7 +11411,48 @@
               "color": "#565656"
             }
           },
-          "_anchor": "content1-5z8"
+          "_anchor": "content1-5f9"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead": {
+              "color": "#475577"
+            },
+            ".lead P": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p><i>Quick view of all pages available&nbsp;<a href=\"index.html\" class=\"text-info\">MORE</a></i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5z7"
         },
         {
           "_params": {
@@ -11442,8 +11484,9 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
-              "font-size": "16px"
+              "color": "#ffffff",
+              "font-size": "16px",
+              "text-align": "center"
             }
           },
           "_anchor": "footer1-31m",
@@ -12151,7 +12194,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -12585,7 +12628,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -13121,7 +13164,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -13688,7 +13731,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -14179,7 +14222,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -14716,7 +14759,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -15156,7 +15199,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -15439,7 +15482,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -16094,7 +16137,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
@@ -17690,11 +17733,11 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#475577"
+            "bgColor": "#efefef"
           },
-          "text": "<p><i>Information supplied is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
+          "text": "<p><i>Information supplied is referenced only to our own 1996 Rover 200 Series, and 2004 MG-ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
@@ -17707,10 +17750,33 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#cccccc"
+              "color": "#565656"
             }
           },
           "_anchor": "content1-5w4"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
+          },
+          "text": "<p><a href=\"satnav.html\" class=\"text-primary\">Satellite Navigation</a>&nbsp; <a href=\"audioremotes.html\" class=\"text-primary\">Audio Remotes</a>&nbsp; <a href=\"dashcam.html\" class=\"text-primary\">Dual Dashcams</a>&nbsp; <a href=\"lightcheck.html\" class=\"text-primary\">Bulb Monitoring</a>&nbsp; <a href=\"coolsensor.html\" class=\"text-primary\">Coolant Level Sensor</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#efefef"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-5l8"
         },
         {
           "_tags": [
@@ -17719,7 +17785,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "font-size": "16px"
             }
           },
