@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7785,
+    "uniqCompNum": 7789,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -275,8 +275,8 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/backing-947x366.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
@@ -309,8 +309,8 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Engine Cooling System</i></span>",
-          "text": "Coolant elbow In conventional systems, the thermostat is usually located on the outlet from the engine, the K Series is at the rear.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "Coolant elbow In conventional systems, the thermostat is usually located on the outlet from the engine, the K Series is at the rear. <a href=\"coolsystem.html\" class=\"text-primary\">MORE</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -374,7 +374,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Coolant Sensor 200/ ZR</i></span>",
-          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160.",
+          "text": "Cooling system did not need to be drained, just syphoned out, and replaced with a new coolant tank. RPCF000160.<a href=\"coolsensor.html\" class=\"text-primary\"> MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -386,16 +386,19 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5y4"
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -411,9 +414,9 @@
             "overlayColor": "#475577",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Cold Cabin Heater ZR</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>COLD CABIN HEATER ZR</i></span>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/cabinheater.html\" data-toolbar=\"-mbrBtnMove\">COLD CABIN HEATER</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/cabinheater.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
           "_tags": [
             "Theme"
           ],
@@ -426,7 +429,9 @@
               "font-size": "25px"
             },
             "SPAN": {
-              "font-size": "32px"
+              "font-size": "30px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "msg-box1-5y5"
@@ -475,7 +480,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Oil Sump Cleaning 200</i></span>",
-          "text": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back onto the 200, filled with oil and new oil filter fitted.",
+          "text": "Sump now cleaned, and with new LVF-100290 gasket, ready to go back onto the 200, with fresh oil and new oil filter fitted. <a href=\"oilsump.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -535,7 +540,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Precise Oil Level Checking</i></span>",
-          "text": "To solve this problem, came up with the idea of using a semi rigid plastic tube, one from an old waxoyl kit was just ideal for this",
+          "text": "To solve this problem, came up with the idea of using a semi rigid plastic tube, one from an old waxoyl kit was just ideal for this. <a href=\"oilchecking.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -547,6 +552,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5y7"
@@ -595,7 +603,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Our Oil Filling Procedure</i></span>",
-          "text": "Our none messy filling procedure, to insert into the filler hole, a clear plastic tube attached to a base removed old redex container.",
+          "text": "Our none messy filling procedure, to insert into the filler hole, a clear plastic tube attached to a base removed old redex container. <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -613,7 +621,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": true,
             "inverse": false,
@@ -632,9 +640,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\"><i>YXB-100350 Ignition Switch</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>YXB-100350 IGNITION SWITCH</i></span>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/ignitionswitch.html\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/ignitionswitch.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
           "_tags": [
             "Theme"
           ],
@@ -647,9 +655,9 @@
               "font-size": "36px"
             },
             "SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "32px"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box1-5y9"
@@ -698,7 +706,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Ignition Leads Fitting 200/ZR</i></span>",
-          "text": "Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing.",
+          "text": "Anticlockwise refers to looking directly at the distributor cap, as viewed standing over at the passenger side wing. <a href=\"ignitionleads.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -710,6 +718,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5ya"
@@ -758,7 +769,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Engine Fuse Box 2004 ZR</i></span>",
-          "text": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links.",
+          "text": "Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, of which circuit each fuse serves. <a href=\"enginefuse.html\" class=\"text-primary\">MORE. .</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -818,7 +829,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Cabin Located Fuse Panel 2004 ZR</i></span>",
-          "text": "Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves.",
+          "text": "Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse serves. <a href=\"cabinfuse.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -830,6 +841,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5yc"
@@ -878,7 +892,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>YMN 101940 Tailgate Wiring Loom</i></span>",
-          "text": "Wires inside the sleeve constantly fold over each other every time the tailgate is in use, so will fray and eventually break.",
+          "text": "Wires inside the sleeve constantly fold over each other every time the tailgate is in use, so will fray and eventually break. <a href=\"tailgate.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -896,7 +910,7 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": true,
             "inverse": false,
@@ -915,22 +929,24 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Navigation System 200/ZR&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>NAVIGATION SYSTEM 200/ZR&nbsp;</i></span>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/satnav.html\" data-toolbar=\"-mbrBtnMove\">NAVIGATION 200 ZR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/satnav.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "32px"
             },
             "SPAN": {
-              "font-size": "32px"
+              "font-size": "30px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "msg-box1-5ye"
@@ -979,7 +995,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Inlet Manifold Gasket</i></span>",
-          "text": "Coil pack connectors were then disconnected, this part of the wiring can be withdrawn with the removal process.",
+          "text": "Coil pack connectors were then disconnected, this part of the wiring can be withdrawn with the removal process. <a href=\"inletmanifold.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -991,6 +1007,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5yf"
@@ -1039,7 +1058,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Replacing the Fuel Filter</i></span>",
-          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. Then an 8mm spanner.",
+          "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. <a href=\"fuelfilter.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1099,7 +1118,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Purge Valve Location</i></span>",
-          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber.",
+          "text": "Shown located on top of the charcoal canister. The canister is fixed into a metal bracket containing an isolation rubber. <a href=\"purgevalve.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1111,13 +1130,16 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5yh"
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": true,
             "inverse": false,
@@ -1136,19 +1158,24 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Emissions Tests 2004 ZR</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>EMISSIONS TESTS 2004 ZR</i></span>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/emissions.html\" data-toolbar=\"-mbrBtnMove\">EMISSIONS ZR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mgrover200.github.io/emissions.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
           "_styles": {
             "H3": {
-              "color": "#cccccc",
+              "color": "#efefef",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "32px"
+            },
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
             }
           },
           "_anchor": "msg-box1-5yi"
@@ -1197,7 +1224,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Cylinder Head Torque Settings</i></span>",
-          "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft.",
+          "text": "Camshaft's bearing carrier's 26 x 10mm bolts, were then torqued to the shown specific order of 1 to 26 to just 10Nm or 7lb ft. <a href=\"torque.html\" class=\"text-primary\">MORE</a>..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1257,7 +1284,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Our Tools and Parts Guide</i></span>",
-          "text": "A small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference.",
+          "text": "A small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. <a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-primary\">MORE.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1269,6 +1296,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-5yk"
@@ -1317,7 +1347,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-Rover Colour Codes&nbsp;</i></span>",
-          "text": "Whats the vehicle paint colour code for my car, the original factory colour code information shown on these pages.",
+          "text": "Whats the vehicle paint colour code for my car, the original factory colour code information is shown on these pages. <a href=\"https://mgrover200.github.io/colourcodes.html\" class=\"text-primary\">MORE.&nbsp;&nbsp;</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -16331,8 +16361,8 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/joe-woods-4zaq5xy5m_c-unsplash-2000x1500.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
@@ -16383,6 +16413,9 @@
               "font-size": "25px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "color": "#232323"
             }
           }
         },
@@ -16396,8 +16429,8 @@
             "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/joe-woods-4zaq5xy5m_c-unsplash-2000x1500.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
@@ -16547,6 +16580,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "25px"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         },

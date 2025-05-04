@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+
+
+
 
 
 
@@ -602,6 +606,9 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box5-5y4 P {
+  text-align: left;
+}
 #msg-box1-5y5 H3 {
   color: #ffffff;
   font-family: 'Raleway', sans-serif;
@@ -609,6 +616,7 @@ section.form .container {
 }
 #msg-box1-5y5 SPAN {
   font-size: 32px;
+  font-family: 'Lora', serif;
 }
 #msg-box5-5y6 H3 {
   color: #475577;
@@ -619,6 +627,9 @@ section.form .container {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
+}
+#msg-box5-5y7 P {
+  text-align: left;
 }
 #msg-box5-5y8 H3 {
   color: #475577;
@@ -631,13 +642,16 @@ section.form .container {
   font-size: 36px;
 }
 #msg-box1-5y9 SPAN {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
   font-size: 32px;
 }
 #msg-box5-5ya H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
+}
+#msg-box5-5ya P {
+  text-align: left;
 }
 #msg-box5-5yb H3 {
   color: #475577;
@@ -649,23 +663,30 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box5-5yc P {
+  text-align: left;
+}
 #msg-box5-5yd H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
 #msg-box1-5ye H3 {
-  color: #efefef;
-  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-family: 'Lora', serif;
   font-size: 32px;
 }
 #msg-box1-5ye SPAN {
   font-size: 32px;
+  font-family: 'Lora', serif;
 }
 #msg-box5-5yf H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
+}
+#msg-box5-5yf P {
+  text-align: left;
 }
 #msg-box5-5yg H3 {
   color: #475577;
@@ -677,9 +698,16 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box5-5yh P {
+  text-align: left;
+}
 #msg-box1-5yi H3 {
-  color: #cccccc;
-  font-family: 'Raleway', sans-serif;
+  color: #efefef;
+  font-family: 'Lora', serif;
+  font-size: 32px;
+}
+#msg-box1-5yi SPAN {
+  font-family: 'Montserrat', sans-serif;
   font-size: 32px;
 }
 #msg-box5-5yj H3 {
@@ -692,15 +720,25 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box5-5yk P {
+  text-align: left;
+}
 #msg-box5-5yl H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box1-5ym H3 {
+  color: #cccccc;
+  font-size: 32px;
+}
 #msg-box5-5yn H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
+}
+#msg-box5-5yn P {
+  text-align: left;
 }
 #msg-box5-5yo H3 {
   color: #475577;
@@ -712,9 +750,13 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
 }
+#msg-box5-5yp P {
+  text-align: left;
+}
 #msg-box1-5yq H3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 32px;
+  color: #efefef;
 }
 #content1-5d1 P {
   text-align: center;
@@ -5343,6 +5385,9 @@ section.form .container {
   font-size: 25px;
   font-family: 'Raleway', sans-serif;
 }
+#msg-box5-5xc P {
+  color: #232323;
+}
 #msg-box5-5xe H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
@@ -5363,6 +5408,9 @@ section.form .container {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 25px;
+}
+#msg-box5-5xg P {
+  color: #000000;
 }
 #msg-box5-5xh H3 {
   color: #475577;
