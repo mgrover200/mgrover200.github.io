@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsystem.html",
+    "currentPage": "dashcam.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7815,
+    "uniqCompNum": 7817,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7818,6 +7818,95 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00131-flip-mino-hd%20-video-camera-500x200.jpg",
+              "link": "emissions.html#content1-60s",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>2011 Cisco Flip Mino HD Video Camera.</i></span>",
+          "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for off centre dynamic videos. Shown attached to a quick release, and modified mobile phone holder.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-613",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#c1c1c1",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Back in time 1990 to 2003 archives</i></span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-614"
+        },
+        {
+          "_params": {
             "showText": false,
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -7826,7 +7915,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00111-sanyo-vmd6p-8-mm-camera-1224x183.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00132-ford-granada-wales-experience-1106x207.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -7849,7 +7938,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Shown above the 2011 Cisco Flip Mino HD video camera. Prior to dashcams becoming more popular from around 2013 we used this attached to a quick release bracket. 1989 Sanyo VMD-6P shown then, in Dads 1981 Mk2 Granada that was mostly used for motoring journals.</p>",
+          "text": "<p>Shown above the 1990 Sanyo VMD-6P video camera, attached then, to Dads 1981 Mk2 Granada, that was used for motoring journals mostly around Snowdonia, and the road network of North Wales, to achieve a memorable collection of 'Armchair Motoring Videos' 1990-2003&nbsp; .</p>",
           "_tags": [
             "Theme"
           ],
@@ -8310,7 +8399,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "<p>On a warm-up run in the ZR, to the 2011 annual test, for this event we are using the cisco flip mino HD video camera.</p>",
+          "text": "<p>Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, HD video camera for off centre dynamic videos, As shown here, and taken during a several mile warm-up run in the 2004 ZR, to the 2011 annual test.</p>",
           "_tags": [
             "Theme"
           ],
@@ -15886,7 +15975,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Engine Cooling System</i></span>",
-          "text": "Coolant elbow In conventional systems, the thermostat is usually located on the outlet from the engine, the K Series is at the rear.",
+          "text": "Coolant elbow In conventional systems, the thermostat is usually located on the outlet from the engine, the K Series is at the rear. <a href=\"coolsystem.html\" class=\"text-primary\">MORE UPDATED</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
