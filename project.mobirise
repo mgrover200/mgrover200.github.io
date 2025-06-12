@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "coolsystem.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7843,
+    "uniqCompNum": 7845,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -13186,7 +13186,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -13261,13 +13261,79 @@
           },
           "_anchor": "content1-330",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>Cabin heater, or heater matrix, is basically a smaller version of the cars radiator, filled with hot coolant supplied via the smaller of the two elbow joints coolant hose, which then feeds hot air into the cabin as and when required, and is located in the cabin in an enclosed area between the centre console and engine bulkhead. The matrix heater does not require any form of air cooling properties.</p>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00000800.gif",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>All Seasons Motoring</i></span>",
+          "text": "Worth taking note, the temp gauge that usually shows a tad below half after a short drive. Will not always be an indication the engines (actual operating temperature) has yet been fully achieved till after a short period of time. A good heating system, especially during the winter months is essential.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "msg-box5-61v"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its constant re-circulating cooling process.</p>",
           "_tags": [
             "Theme"
           ],
@@ -13277,53 +13343,7 @@
               "font-size": "17px"
             }
           },
-          "_anchor": "content1-331",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its re-circulating cooling process.</p>"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00130-mg-rover-seasonal-driving-1106x207.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-612"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Worth taking note that the temp gauge which usually shows a tad below half after a drive on these vehicles, Will not always be an indication that the engines (actual operating temperature) has yet been fully achieved till after a further short period of time. A fully working, and well maintained  heating system&nbsp;<span style=\"font-size: 1.07rem;\">all year round, especially during the winter months is&nbsp;</span><span style=\"font-size: 1.07rem;\">essential.</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-47z"
+          "_anchor": "content1-61w"
         },
         {
           "_params": {
