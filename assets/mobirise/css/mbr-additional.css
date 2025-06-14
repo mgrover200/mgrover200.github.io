@@ -1612,6 +1612,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1745,13 +1746,20 @@ section.form .container {
 #header3-616 .mbr-section-title {
   color: #475577;
   font-family: 'Raleway', sans-serif;
+  text-align: left;
 }
 #header3-616 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
-  font-size: 36px;
+  font-size: 30px;
 }
 #header3-616 .mbr-section-subtitle {
   color: #475577;
+  text-align: left;
+}
+#msg-box5-620 H3 {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
 }
 #content1-5cr P {
   text-align: center;
