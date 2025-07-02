@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "satnav.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -4848,7 +4848,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00135-garmin-streetpilot-rover-200-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "Garmin Street Pilot i3 ",
               "linkInNewWindow": false
             },
             "video": {
@@ -4864,7 +4864,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Garmin Street Pilot i3</i></span>",
-          "text": "Shown after being fitted into the 1996 Rover 200, small screen, but useful and served its purpose very well. indeed, also took the option to power up with the supplied batteries. the fitting is a quick release when not in use. .&nbsp;&nbsp;",
+          "text": "During 2006, we fitted this reliable battery operated unit to the 200 that was to be in regular use for the next couple of years, location being ideal for the thumb wheel operation.&nbsp; &nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -7746,7 +7746,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0042-mobius-frony-camera-bracket-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "mobius dual dashcams",
               "linkInNewWindow": false
             },
             "video": {
@@ -7928,7 +7928,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00131-flip-mino-hd%20-video-camera-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "2011 Cisco Flip Mino HD Video Camera.",
               "linkInNewWindow": false
             },
             "video": {
@@ -7944,7 +7944,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>2011 Cisco Flip Mino HD Video Camera.</i></span>",
-          "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for our videos. Shown attached to a modified quick release, mobile phone holder. Which is still used occasionally.&nbsp;&nbsp;",
+          "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for our videos. Shown attached to a modified quick release, slide out mobile phone holder. Which is still used occasionally.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -14689,7 +14689,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577"
+              "color": "#efefef"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -14697,14 +14697,14 @@
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577"
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#444444"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS SAY</span>",
           "meta": "About features, and information on our MG-Rover Information Pages",
@@ -14728,7 +14728,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#444444",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -14817,7 +14817,11 @@
           "_styles": {
             "P": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#efefef"
+            },
+            "H5": {
+              "color": "#efefef"
             }
           }
         },
@@ -15469,7 +15473,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "Special request from family member, featuring ownership of their classic vehicle during the 1970's. The kit car built fibreglass body attached to box frame chassis 3M/5849 and powered by a Ford Zodiac V6 engine, was first registered XNR 778J on March 1st 1971. With&nbsp; parts and fittings sourced from numerous vehicles, most probably included from Triumph, Vauxhall, MG, Austin, Porsche, Commer, and Hillman Hunter etc.&nbsp;<div><br></div>",
+          "text": "Special request from family member, featuring ownership of their classic vehicle during the 1970's. The kit car built fibreglass body attached to box frame chassis, and powered by a Ford Zodiac V6 engine, was first registered XNR 778J on March 1st 1971. With&nbsp; parts and fittings sourced from numerous vehicles, most probably included from Triumph, Vauxhall, MG, Austin, Porsche, Commer, and Hillman Hunter etc.&nbsp;<div><br></div>",
           "_anchor": "content1-3o8"
         },
         {
@@ -16149,9 +16153,9 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "45",
             "paddingTop": "1",
@@ -16160,7 +16164,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/joe-woods-4zaq5xy5m_c-unsplash-2000x1500.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -16192,7 +16196,7 @@
           },
           "title": "<span style=\"font-weight: 400;\"><i>Engine Cooling System</i></span>",
           "text": "Coolant elbow In conventional systems, the thermostat is usually located on the outlet from the engine, the K Series is at the rear. <a href=\"coolsystem.html\" class=\"text-primary\">MORE UPDATED</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ENGINE COOLING SYSTEM</a>",
           "_tags": [
             "Theme"
           ],

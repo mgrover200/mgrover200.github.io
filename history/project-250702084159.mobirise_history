@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dashcam.html",
+    "currentPage": "comments.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7848,
+    "uniqCompNum": 7849,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -4691,7 +4691,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -4768,33 +4768,6 @@
           "text": "<p>When the centre air vent is inserted back into the vent opening during memory card access etc, left air vent will go directly back into vehicles heating duct system to continue providing air, while the right vent opening fits against the screen surround for a neat and professional finish.</p>"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00133-mg-rover-satellite-navigation-1106x207.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-615"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -4820,15 +4793,17 @@
             ".mbr-section-title": {
               "color": "#475577",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -4847,43 +4822,63 @@
         },
         {
           "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00134-mg-rover-garmin-streetpilot-1015x194.jpg",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00135-garmin-streetpilot-rover-200-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "Garmin Street Pilot i3 ",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "<span style=\"font-weight: normal;\"><i>Garmin Street Pilot i3</i></span>",
+          "text": "During 2006, we fitted this reliable battery operated unit to the 200 that was to be in regular use for the next couple of years, location being ideal for the thumb wheel operation.&nbsp; &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-617"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>The Garmin Street Pilot i3 satnav, shown after being fitted into the 1996 Rover 200, small screen, but useful and served its purpose very well. indeed, also took the option to power up with the supplied batteries. the fitting shown is fixed, for quick release option when not in use. .&nbsp;&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-618"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-620",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
@@ -7751,7 +7746,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/0042-mobius-frony-camera-bracket-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "mobius dual dashcams",
               "linkInNewWindow": false
             },
             "video": {
@@ -7933,7 +7928,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00131-flip-mino-hd%20-video-camera-500x200.jpg",
               "link": "",
-              "alt": ""
+              "alt": "2011 Cisco Flip Mino HD Video Camera.",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -7948,7 +7944,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>2011 Cisco Flip Mino HD Video Camera.</i></span>",
-          "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for our videos. Shown attached to a modified quick release, mobile phone holder. Which is still used occasionally.&nbsp;&nbsp;",
+          "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for our videos. Shown attached to a modified quick release, slide out mobile phone holder. Which is still used occasionally.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8043,7 +8039,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>1990 Sanyo VMD-6P Camcorder</i></span>",
-          "text": ".Shown above the 1990 Sanyo VMD-6P video camera, attached then, to Dads 1981 Mk2 Granada, that was used for motoring journals mostly around Snowdonia, and the road network of North Wales, to achieve a memorable collection of 'Armchair Motoring Videos' 1990-2003  .",
+          "text": ".Dads 1981 Mk2 Granada, that was used for motoring journals mostly around Snowdonia, and the road network of North Wales, to achieve a memorable collection of his 'Armchair Motoring Videos' 1990-2003  .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -8058,19 +8054,6 @@
               "font-size": "22px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p>Shown above the 1990 Sanyo VMD-6P video camera, attached then, to Dads 1981 Mk2 Granada, that was used for motoring journals mostly around Snowdonia, and the road network of North Wales, to achieve a memorable collection of 'Armchair Motoring Videos' 1990-2003&nbsp; .</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-61z"
         },
         {
           "_params": {
@@ -14706,7 +14689,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#475577"
+              "color": "#efefef"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -14714,14 +14697,14 @@
               "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577"
+              "color": "#efefef"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#565656"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS SAY</span>",
           "meta": "About features, and information on our MG-Rover Information Pages",
@@ -14745,7 +14728,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#565656",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -14834,7 +14817,11 @@
           "_styles": {
             "P": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#efefef"
+            },
+            "H5": {
+              "color": "#efefef"
             }
           }
         },
@@ -15486,7 +15473,7 @@
             "paddingBottom": "0",
             "bgColor": "#efefef"
           },
-          "text": "Special request from family member, featuring ownership of their classic vehicle during the 1970's. The kit car built fibreglass body attached to box frame chassis 3M/5849 and powered by a Ford Zodiac V6 engine, was first registered XNR 778J on March 1st 1971. With&nbsp; parts and fittings sourced from numerous vehicles, most probably included from Triumph, Vauxhall, MG, Austin, Porsche, Commer, and Hillman Hunter etc.&nbsp;<div><br></div>",
+          "text": "Special request from family member, featuring ownership of their classic vehicle during the 1970's. The kit car built fibreglass body attached to box frame chassis, and powered by a Ford Zodiac V6 engine, was first registered XNR 778J on March 1st 1971. With&nbsp; parts and fittings sourced from numerous vehicles, most probably included from Triumph, Vauxhall, MG, Austin, Porsche, Commer, and Hillman Hunter etc.&nbsp;<div><br></div>",
           "_anchor": "content1-3o8"
         },
         {
