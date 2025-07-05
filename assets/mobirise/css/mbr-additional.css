@@ -1787,6 +1787,7 @@ section.form .container {
 
 
 
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1885,12 +1886,29 @@ section.form .container {
 #msg-box8-5of .lead {
   color: #ffffff;
 }
+#header3-62e .mbr-section-title,
+#header3-62e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-62e .mbr-section-title {
+  color: #efefef;
+}
+#header3-62e .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-62e .mbr-section-subtitle {
+  color: #efefef;
+}
 #content1-pd P {
   text-align: left;
   font-size: 17px;
 }
+#content1-pd DIV {
+  color: #ffffff;
+}
 #msg-box5-20e H3 {
-  color: #475577;
+  color: #ffffff;
   font-size: 20px;
 }
 #msg-box5-20e SPAN {
@@ -1901,6 +1919,7 @@ section.form .container {
 #msg-box5-20e P {
   text-align: left;
   font-size: 17px;
+  color: #ffffff;
 }
 #msg-box5-3ab H3 {
   color: #475577;
@@ -1910,6 +1929,7 @@ section.form .container {
 #msg-box5-3ab P {
   text-align: left;
   font-size: 17px;
+  color: #ffffff;
 }
 #msg-box5-3ab SPAN {
   font-size: 22px;
@@ -1918,6 +1938,9 @@ section.form .container {
 }
 #content1-1ld P {
   font-size: 17px;
+}
+#content1-1ld DIV {
+  color: #ffffff;
 }
 #msg-box5-20f H3 {
   color: #475577;
@@ -1931,26 +1954,21 @@ section.form .container {
 #msg-box5-20f P {
   text-align: left;
   font-size: 17px;
-  color: #000000;
-}
-#msg-box8-5on .mbr-section-title,
-#msg-box8-5on .lead {
-  color: #fff;
+  color: #ffffff;
 }
 #content1-ph P {
   font-size: 17px;
 }
-#content1-5cg P {
-  text-align: center;
-  font-size: 18px;
+#content1-ph DIV {
+  color: #ffffff;
 }
-#content1-60n P {
+#content1-62f P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   text-align: center;
 }
-#content1-60n DIV {
-  color: #efefef;
+#content1-62f DIV {
+  color: #c1c1c1;
 }
 #footer1-2u2 P {
   color: #c1c1c1;
@@ -5265,7 +5283,7 @@ section.form .container {
   color: #efefef;
 }
 #features3-624 P {
-  color: #efefef;
+  color: #ffffff;
 }
 #content1-5w4 P {
   font-family: 'Raleway', sans-serif;

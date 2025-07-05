@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7865,
+    "uniqCompNum": 7862,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -5163,7 +5163,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -5185,37 +5185,6 @@
           "_anchor": "msg-box8-5of"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#efefef"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#565656"
-          },
-          "title": "<span style=\"font-weight: normal;\">OIL SUMP REMOVAL 200&nbsp;</span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-62e"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -5224,18 +5193,15 @@
             "P": {
               "text-align": "left",
               "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "content1-pd",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#565656"
+            "bgColor": "#efefef"
           },
-          "text": "<p>During one of our services, we removed and cleaned out the oil sump, lowering of exhaust manifold was required making it easier and more accessible, The exhaust system did not need splitting any time during this whole procedure, just exhaust manifold detached then lowered to rest on alternator bracket, giving clearance from exhaust system to withdraw sump from under the car.</p>"
+          "text": "<p>During one of our services, we removed and cleaned out the oil sump, lowering of exhaust manifold was required making it easier and more accessible, The exhaust system did not need splitting any time during this whole procedure, just exhaust manifold detached then lowered to rest on alternator bracket, giving clearance from exhaust system to withdraw sump from underneath the car.</p>"
         },
         {
           "_tags": [
@@ -5244,7 +5210,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff",
+              "color": "#475577",
               "font-size": "20px"
             },
             "SPAN": {
@@ -5255,13 +5221,12 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "17px",
-              "color": "#ffffff"
+              "font-size": "17px"
             }
           },
           "_anchor": "msg-box5-20e",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5272,7 +5237,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5321,8 +5286,7 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "17px",
-              "color": "#ffffff"
+              "font-size": "17px"
             },
             "SPAN": {
               "font-size": "22px",
@@ -5333,10 +5297,10 @@
           },
           "_anchor": "msg-box5-3ab",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -5344,7 +5308,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5387,16 +5351,13 @@
           "_styles": {
             "P": {
               "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "content1-1ld",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#565656"
+            "bgColor": "#efefef"
           },
           "text": "<p>To first  commence, engine oil was drained off and front of vehicle jacked up, offside road wheel was then removed. Working in sequence, each of the 10mm sump bolts were removed, a total of 14 then sump withdrawn from under the car via the removed offside road wheel, the 200 steel sump on assembly, needs a LVF-100290 gasket. The alloy ZR sump requires a bead of sealant. &nbsp;&nbsp;</p>"
         },
@@ -5419,12 +5380,12 @@
             "P": {
               "text-align": "left",
               "font-size": "17px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-20f",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -5435,7 +5396,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5471,6 +5432,40 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5on"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -5478,24 +5473,67 @@
           "_styles": {
             "P": {
               "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#ffffff"
             }
           },
           "_anchor": "content1-ph",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
-            "bgColor": "#565656"
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
           },
           "text": "<p>Access to 3 of the sump bolts did require that the flywheel cover plate is removed to get to them, tools that were used for this project were 19mm for sump drainage bolt 10mm for the 14 sump bolts, and 8mm for the 3 cover plate bolts, for reference the 200 oil sump drain bolt is 19mm, The drain bolt for the ZR is smaller at 15mm. This old project was completed during 2005.</p>"
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00155-scroll%20feature-1165x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5tm"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Foilsump.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-5cg"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#444444"
+            "bgColor": "#475577"
           },
           "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
@@ -5510,10 +5548,10 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-62f"
+          "_anchor": "content1-60n"
         },
         {
           "_tags": [
@@ -16181,7 +16219,7 @@
               "color": "#efefef"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           }
         },
