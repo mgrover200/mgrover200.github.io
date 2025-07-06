@@ -1891,21 +1891,21 @@ section.form .container {
   text-align: center;
 }
 #header3-62e .mbr-section-title {
-  color: #efefef;
+  color: #475577;
 }
 #header3-62e .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 36px;
 }
 #header3-62e .mbr-section-subtitle {
-  color: #efefef;
+  color: #475577;
 }
 #content1-pd P {
   text-align: left;
   font-size: 17px;
 }
 #content1-pd DIV {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-20e H3 {
   color: #ffffff;
@@ -1919,7 +1919,7 @@ section.form .container {
 #msg-box5-20e P {
   text-align: left;
   font-size: 17px;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-3ab H3 {
   color: #475577;
@@ -1929,7 +1929,7 @@ section.form .container {
 #msg-box5-3ab P {
   text-align: left;
   font-size: 17px;
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-3ab SPAN {
   font-size: 22px;
@@ -1940,7 +1940,7 @@ section.form .container {
   font-size: 17px;
 }
 #content1-1ld DIV {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-20f H3 {
   color: #475577;
@@ -1954,21 +1954,25 @@ section.form .container {
 #msg-box5-20f P {
   text-align: left;
   font-size: 17px;
-  color: #ffffff;
+  color: #000000;
 }
 #content1-ph P {
   font-size: 17px;
 }
 #content1-ph DIV {
-  color: #ffffff;
+  color: #000000;
 }
-#content1-62f P {
+#content1-62k P {
+  text-align: center;
+  font-size: 18px;
+}
+#content1-62j P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   text-align: center;
 }
-#content1-62f DIV {
-  color: #c1c1c1;
+#content1-62j DIV {
+  color: #efefef;
 }
 #footer1-2u2 P {
   color: #c1c1c1;
@@ -2567,8 +2571,6 @@ section.form .container {
 
 
 
-
-
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2668,12 +2670,27 @@ section.form .container {
 #msg-box8-5ol .lead {
   color: #ffffff;
 }
+#header3-62h .mbr-section-title,
+#header3-62h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-62h .mbr-section-title {
+  color: #475577;
+}
+#header3-62h .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+}
+#header3-62h .mbr-section-subtitle {
+  color: #475577;
+}
 #content1-ky DIV {
   text-align: left;
   font-size: 17px;
+  color: #000000;
 }
 #msg-box5-5qb H3 {
-  color: #475577;
+  color: #ffffff;
   font-size: 20px;
 }
 #msg-box5-5qb SPAN {
@@ -2684,17 +2701,24 @@ section.form .container {
 #msg-box5-5qb P {
   font-size: 17px;
   text-align: left;
+  color: #000000;
 }
 #content1-5ux P {
   font-size: 17px;
+}
+#content1-5ux DIV {
+  color: #000000;
 }
 #msg-box5-5uw H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
 }
+#msg-box5-5uw P {
+  color: #000000;
+}
 #msg-box5-3es H3 {
-  color: #7e9b9f;
+  color: #efefef;
   font-size: 20px;
 }
 #msg-box5-3es SPAN {
@@ -2705,9 +2729,13 @@ section.form .container {
 #msg-box5-3es P {
   font-size: 17px;
   text-align: left;
+  color: #000000;
 }
 #content1-5uy P {
   font-size: 17px;
+}
+#content1-5uy DIV {
+  color: #000000;
 }
 #header3-61x .mbr-section-title,
 #header3-61x .mbr-section-subtitle {
@@ -2723,46 +2751,27 @@ section.form .container {
   font-size: 30px;
 }
 #header3-61x .mbr-section-subtitle {
-  color: #475577;
+  color: #efefef;
   text-align: left;
 }
 #msg-box5-613 H3 {
-  color: #475577;
+  color: #efefef;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
 }
-#header3-614 .mbr-section-title,
-#header3-614 .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-613 P {
+  color: #000000;
 }
-#header3-614 .mbr-section-title {
-  color: #475577;
-  font-family: 'Raleway', sans-serif;
-  text-align: left;
-}
-#header3-614 .mbr-section-title SPAN {
-  font-family: 'Lora', serif;
-  font-size: 30px;
-}
-#header3-614 .mbr-section-subtitle {
-  color: #475577;
-  text-align: left;
-}
-#msg-box5-61y H3 {
-  color: #475577;
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-}
-#content1-5cp P {
+#content1-62p P {
   text-align: center;
   font-size: 18px;
 }
-#content1-60v P {
+#content1-62o P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   text-align: center;
 }
-#content1-60v DIV {
+#content1-62o DIV {
   color: #efefef;
 }
 #footer1-2u2 P {
