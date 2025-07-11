@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7908,
+    "uniqCompNum": 7904,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -286,7 +286,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#565656"
+            "bgColor": "#444444"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -310,7 +310,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#222222",
+            "bgColor": "#444444",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -415,10 +415,10 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#cccccc"
+              "color": "#efefef"
             },
             "P": {
-              "color": "#cccccc"
+              "color": "#ffffff"
             }
           },
           "_anchor": "features3-63f"
@@ -6204,126 +6204,6 @@
           "text": "<p>Overlooked and not changed for several years, dirty fuel filters seriously affects performance, including very bad idling issues, safety concerning the fuel system, so this was carried out on a cold engine as a precaution. The charcoal canister may restrict access to removal of the fuel filter, much easier if this is first removed. Also releasing the fuel filler cap for a few seconds, may reduce any pressure in the fuel lines?</p>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00133%20rover%20fuel%20filter-500x200.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Fuel Filter Location</i></span>",
-          "text": "As shown, this item is fitted very close up to the charcoal canister making the filter a difficult removal and fitting process, also not wanting to cross thread the filters fittings.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-63m",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00132%20fuel%20filter%20change%20mgzr-500x200.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Charcoal Canister Removed</i></span>",
-          "text": "Makes for an easier working area with the charcoal canister out of the way, Once the bond between rubber gasket and the bulkhead bracket has been released.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "msg-box5-63n"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -6350,7 +6230,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6387,13 +6267,82 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>During&nbsp; Filter Removal</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>Removing Fuel Filter</i></span>",
           "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. Then an 8mm spanner for releasing the fuel filter from the bulkhead holding clamp.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#7e9b9f",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box5-1v3",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
             "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0089-mg-rover-charcoal-canister-500x200.jpg",
+              "link": "",
+              "alt": "replacing the vehicles fuel filter on the 2004 ZR",
+              "title": "Vehicles bulkhead location of the fuel filter",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Fuel Filter Location&nbsp;</i></span>",
+          "text": "As stated, makes for an easier working area with the charcoal canister out of the way, Once the bond between rubber gasket and bracket&nbsp; heated up over the years from its location, have been separated.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -6421,7 +6370,7 @@
           },
           "_anchor": "content1-1l6",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
@@ -10268,7 +10217,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00116-rover%20200-gearbox-oil-500x200.jpg",
               "link": "",
-              "alt": "1996 rover 200 gearbox oil change",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -10328,7 +10277,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00120-rover-200-gearbox-oil-500x200.jpg",
               "link": "",
-              "alt": "1996 rover 200 gearbox oil change",
+              "alt": "",
               "linkInNewWindow": false
             },
             "video": {
