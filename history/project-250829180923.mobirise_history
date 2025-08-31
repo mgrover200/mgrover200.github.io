@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gearboxoil.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7904,
+    "uniqCompNum": 7915,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -286,7 +286,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#444444"
+            "bgColor": "#565656"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -310,7 +310,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#222222",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -415,10 +415,10 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#efefef"
+              "color": "#cccccc"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#cccccc"
             }
           },
           "_anchor": "features3-63f"
@@ -1335,7 +1335,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00105-mg-rover-coolant-level-sensor-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "mg rover coolant sensor",
               "linkInNewWindow": false
             },
             "video": {
@@ -2418,7 +2418,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Brake and Tail Lights Notifier ZR</i></span>",
-          "text": "Optic cables were inserted into rear of the dial panel, under cabin's temp gauge placed in a specific sequence, outer ones brake light bulbs, inner tail light bulbs. (illustration)",
+          "text": "Optic cables were inserted into rear of the dial panel, directly under the temp gauge, then placed in a specific order, the outer ones, brake light bulbs, and the inner ones, the tail light bulbs.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5244,7 +5244,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
@@ -5256,6 +5256,9 @@
             "P": {
               "text-align": "left",
               "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#232323"
             }
           },
           "_anchor": "content1-4ob"
@@ -5285,7 +5288,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-63d"
+          "_anchor": "image2-63q"
         },
         {
           "_tags": [
@@ -6204,6 +6207,126 @@
           "text": "<p>Overlooked and not changed for several years, dirty fuel filters seriously affects performance, including very bad idling issues, safety concerning the fuel system, so this was carried out on a cold engine as a precaution. The charcoal canister may restrict access to removal of the fuel filter, much easier if this is first removed. Also releasing the fuel filler cap for a few seconds, may reduce any pressure in the fuel lines?</p>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00133%20rover%20fuel%20filter-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>Fuel Filter Location</i></span>",
+          "text": "As shown, this item is fitted very close up to the charcoal canister making the filter a difficult removal and fitting process, also not wanting to cross thread the filters fittings.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-63m",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00132%20fuel%20filter%20change%20mgzr-500x200.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>Charcoal Canister Removed</i></span>",
+          "text": "Makes for an easier working area with the charcoal canister out of the way, Once the bond between rubber gasket and the bulkhead bracket has been released.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "msg-box5-63n"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -6230,7 +6353,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6267,82 +6390,13 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Removing Fuel Filter</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>During&nbsp; Filter Removal</i></span>",
           "text": "To release the fuel filter unions a 14mm and 19mm open ended spanners were both used as shown. Then an 8mm spanner for releasing the fuel filter from the bulkhead holding clamp.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#7e9b9f",
-              "font-size": "20px"
-            },
-            "SPAN": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "msg-box5-1v3",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0089-mg-rover-charcoal-canister-500x200.jpg",
-              "link": "",
-              "alt": "replacing the vehicles fuel filter on the 2004 ZR",
-              "title": "Vehicles bulkhead location of the fuel filter",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Fuel Filter Location&nbsp;</i></span>",
-          "text": "As stated, makes for an easier working area with the charcoal canister out of the way, Once the bond between rubber gasket and bracket&nbsp; heated up over the years from its location, have been separated.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
@@ -6370,7 +6424,7 @@
           },
           "_anchor": "content1-1l6",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
@@ -9106,7 +9160,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>YXB-100350 Ignition Switch&nbsp;</i></span>",
-          "text": "Not regarded as a difficult job, just a bit tedious, working in a confined space, so a younger family member had the task of removing and replacing the switch.&nbsp; &nbsp;.",
+          "text": "Not regarded as a difficult job, just tedious, working in a confined space, so a family member had the experience of replacing the switch, Also shows that only the key tip 'starts' the engine.&nbsp; &nbsp; &nbsp; .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -9123,6 +9177,66 @@
             },
             "P": {
               "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/00121-mg-rover-ignition-keys-500x200.jpg",
+              "link": "",
+              "alt": "mg rover ignition key set",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Ignition Key Set and fobs</i></span>",
+          "text": "Having only one key and fob supplied with the vehicle, we had new&nbsp; keys cut, along with a set of 3 barcoded key fobs, a good safety&nbsp; feature, for lost keys etc or if any other problems arise.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-63o",
+          "_styles": {
+            "H3": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
             }
           }
         },
@@ -10217,7 +10331,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00116-rover%20200-gearbox-oil-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "1996 rover 200 gearbox oil change",
               "linkInNewWindow": false
             },
             "video": {
@@ -10277,7 +10391,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00120-rover-200-gearbox-oil-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "1996 rover 200 gearbox oil change",
               "linkInNewWindow": false
             },
             "video": {
@@ -15428,14 +15542,14 @@
             "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
           "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
@@ -15452,7 +15566,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -15460,14 +15574,14 @@
               "font-size": "32px"
             },
             ".mbr-section-subtitle": {
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#444444"
+            "bgColor": "#efefef"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -15488,10 +15602,10 @@
             "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitlkkked-1600x800.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -15597,18 +15711,91 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63r"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00155-scroll%20feature-1165x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63s"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-63t"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#565656"
+            "bgColor": "#475577"
           },
           "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
@@ -15623,10 +15810,10 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-5w4"
+          "_anchor": "content1-63u"
         },
         {
           "_tags": [

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ignitionswitch.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7909,
+    "uniqCompNum": 7918,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -271,7 +271,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#475577"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -279,14 +279,14 @@
               "font-size": "32px"
             },
             ".mbr-section-subtitle": {
-              "color": "#efefef"
+              "color": "#475577"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#565656"
+            "bgColor": "#efefef"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -310,7 +310,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#222222",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -384,19 +384,19 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "AUDIO REMOTE CONTROLS",
-          "caption1": "The Rover 200 had audio remotes fitted, but not the ZR, after trial and errors this was achieved.",
+          "caption1": "The Rover 200 had audio remotes fitted, but not the ZR, trial and errors this was achieved. <i><a href=\"audioremotes.html\" class=\"text-black\">More Info.</a></i>",
           "title2": "Responsive",
           "subtitle2": "BRAKE LIGHT MONITORING",
-          "caption2": "2016 designed a monitoring and visual notification system to a specific blown brake, or tail light bulb.",
+          "caption2": "2016 designed a monitoring and visual notification system to a specific blown brake, or tail light bulb. <a href=\"lightcheck.html\" class=\"text-black\"><i>More Info.</i></a>",
           "title3": "Web Fonts",
           "subtitle3": "SATELLITE NAVIGATION",
-          "caption3": "Stealth navigation system applied initially to the 1996 Rover 200 and much later on, the 2004 ZR.",
+          "caption3": "Stealth navigation system applied initially to the 1996 Rover 200 and <br>later on, the 2004 ZR. <i><a href=\"satnav.html\" class=\"text-primary\">More Info.&nbsp;</a></i>",
           "title4": "Unlimited Sites",
           "subtitle4": "COOLANT LEVEL SENSOR",
-          "caption4": "Low coolant warning, applied to both the 200/ZR with in-car visual and audible notifications.&nbsp;&nbsp;",
+          "caption4": "Low coolant warning, applied to both the 200/ZR with in-car visual and audible notifications. <a href=\"coolsensor.html\" class=\"text-primary\"><i>More Info&nbsp;&nbsp;</i></a>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "DUAL DASHCAM SYSTEM",
-          "caption5": "In 2014 fitted mobius dual dashcams to the ZR, as a much better update to the DVR 207 we were testing.&nbsp;",
+          "caption5": "In 2014 fitted mobius dual dashcams to the ZR, as a much better update to the DVR 207 we tested. <a href=\"dashcam.html\" class=\"text-primary\">More Info.</a>&nbsp;",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -415,19 +415,65 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#cccccc"
+              "color": "#000000"
             },
             "P": {
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "features3-63f"
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00155-scroll%20feature-1165x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63x"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-63w"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#565656"
+            "bgColor": "#475577"
           },
           "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
@@ -442,10 +488,10 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-63g"
+          "_anchor": "content1-63v"
         },
         {
           "_tags": [
@@ -5244,7 +5290,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "text": "<p>Listed below are a small and random selection from our original 2004 spanners, and sockets, applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
@@ -5256,6 +5302,9 @@
             "P": {
               "text-align": "left",
               "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#232323"
             }
           },
           "_anchor": "content1-4ob"
@@ -5285,7 +5334,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-63d"
+          "_anchor": "image2-63q"
         },
         {
           "_tags": [
@@ -15563,7 +15612,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -15571,14 +15620,14 @@
               "font-size": "32px"
             },
             ".mbr-section-subtitle": {
-              "color": "#efefef"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#444444"
+            "bgColor": "#efefef"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -15599,10 +15648,10 @@
             "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitlkkked-1600x800.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -15708,18 +15757,91 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0071-mg-rover-partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63r"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00155-scroll%20feature-1165x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63s"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fgearboxoil.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-63t"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#565656"
+            "bgColor": "#475577"
           },
           "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
@@ -15734,10 +15856,10 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-5w4"
+          "_anchor": "content1-63u"
         },
         {
           "_tags": [
