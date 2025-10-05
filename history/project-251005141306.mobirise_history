@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7950,
+    "uniqCompNum": 7945,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -271,7 +271,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#475577"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -279,14 +279,14 @@
               "font-size": "32px"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000"
+              "color": "#475577"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#cccccc"
+            "bgColor": "#efefef"
           },
           "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS LIKE&nbsp;</span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -298,19 +298,19 @@
         },
         {
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": false,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "5",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/untitlkkked-1600x800.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -383,20 +383,20 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Audio Controls ZR",
-          "caption1": "The Rover 200 had audio remotes fitted, but not the ZR, after trial and errors this was achieved.",
+          "subtitle1": "AUDIO REMOTE CONTROLS",
+          "caption1": "The Rover 200 had audio remotes fitted, but not the ZR, trial and errors this was achieved<i>. <a href=\"audioremotes.html\" class=\"text-primary\">More Info.</a></i>",
           "title2": "Responsive",
-          "subtitle2": "Lights Monitoring ZR",
-          "caption2": "2016 designed a monitoring and visual notification system to a specific blown brake, or tail light bulb.",
+          "subtitle2": "BRAKE LIGHT MONITORING",
+          "caption2": "2016 designed a monitoring and visual notification system to a specific blown brake, or tail light bulb<i>. <a href=\"lightcheck.html\" class=\"text-primary\">More Info.</a></i>",
           "title3": "Web Fonts",
-          "subtitle3": "Navigation 200 ZR&nbsp;",
-          "caption3": "Stealth navigation system applied initially to the 1996 Rover 200 and much later on, the 2004 ZR.",
+          "subtitle3": "SATELLITE NAVIGATION",
+          "caption3": "Stealth navigation system applied initially to the 1996 Rover 200 and <br>later on, the 2004 ZR. <i><a href=\"satnav.html\" class=\"text-primary\">More Info.</a><a href=\"satnav.html\" class=\"text-primary\">&nbsp;</a></i>",
           "title4": "Unlimited Sites",
-          "subtitle4": "Coolant Sensor 200 ZR",
-          "caption4": "Low coolant warning, applied to both the 200/ZR with in-car visual and audible notifications.&nbsp;&nbsp;",
+          "subtitle4": "COOLANT LEVEL SENSOR",
+          "caption4": "Low coolant warning, applied to both the 200/ZR with in-car visual and audible notifications. <i><a href=\"coolsensor.html\" class=\"text-primary\">More Info.&nbsp;</a></i>",
           "title5": "Trendy Website Blocks",
-          "subtitle5": "Dashcam System ZR&nbsp;&nbsp;",
-          "caption5": "In 2014 fitted mobius dual dashcams to the ZR, as a much better update to the DVR 207 we were testing.&nbsp;",
+          "subtitle5": "DUAL DASHCAM SYSTEM",
+          "caption5": "In 2014 fitted mobius dual dashcams to the ZR, as a much better update to the DVR 207 we tested. <i><a href=\"dashcam.html\" class=\"text-primary\">More Info.&nbsp;</a></i>",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
@@ -415,14 +415,59 @@
               "color": "#475577"
             },
             "H5": {
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#000000"
             },
             "P": {
               "color": "#000000"
             }
           },
-          "_anchor": "features3-64t"
+          "_anchor": "features3-63f"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00155-scroll%20feature-1165x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63x"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">French</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">German</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Dutch</a>&nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=pl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Polish&nbsp;</a><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\"> Italian</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Spanish</a>&nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Findex.html\" class=\"text-black\">Russian</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-63w"
         },
         {
           "_params": {
@@ -15890,6 +15935,133 @@
               "font-size": "20px"
             },
             "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00130%20mg%20rover%20cooling%20system-365x246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "coolsystem.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00134%20mg-rover%20cold%20cabin%20heater-365x245.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "cabinheater.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00136%20mg-rover%20ignition%20switch-365x246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/ignitionswitch.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00137%20mg-rover%20ignition%20leads-365x246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "ignitionleads.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/00138%20mg-rover%20sunroof-365x246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/sunroof.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">K Series Cooling System</span>",
+          "subtitle1": "K Series Cooling System",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "Cold Cabin Heater ZR",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Ignition Switch ZR",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Ignition Leads 200 ZR",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Sunroof Headlining ZR",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-64m",
+          "_styles": {
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#000000"
+            },
+            "H5": {
+              "font-size": "20px",
               "color": "#000000"
             }
           }
