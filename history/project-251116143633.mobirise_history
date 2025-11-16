@@ -14436,24 +14436,16 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "7",
-            "bgColor": "#cccccc"
+            "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>No further page updates are available</i></span>",
-          "meta": "Our 1996 Rover 200 Series, and 2004 ZR are no longer with us&nbsp;&nbsp;",
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
