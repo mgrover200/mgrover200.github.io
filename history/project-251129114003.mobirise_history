@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8047,
+    "uniqCompNum": 8046,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -267,27 +267,24 @@
         },
         {
           "_params": {
-            "showText": true
+            "paddingTop": "7",
+            "paddingBottom": "5",
+            "bgColor": "#cccccc"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nomoreupdates-1400x936.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "No further page updates are to be made available&nbsp;",
+          "text": "<p>No further page updates will be made available on this website. Our old 1996 Rover 200 Series, is no longer with us, and the 2004 ZR 120+ is now off the road for an indefinite period of time.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-67i"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-67f"
         },
         {
           "_params": {
