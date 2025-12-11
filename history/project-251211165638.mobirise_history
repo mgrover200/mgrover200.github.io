@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8080,
+    "uniqCompNum": 8076,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -266,69 +266,28 @@
           "_anchor": "msg-box8-5mv"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nomoreupdates-1400x936.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000blank-1600x397.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "No further page updates are to be made available&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-68e"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#7e9b9f"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>No further page updates are available at this time</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-68f"
+          "_name": "image1",
+          "_anchor": "image1-67i"
         },
         {
           "_params": {
@@ -14387,71 +14346,6 @@
           "_anchor": "msg-box8-5mk"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000blank-1600x397.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-68c"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#7e9b9f"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>No further page updates are available at this time</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-68d"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -15204,7 +15098,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Rover 200 electric windows conversion (c) 2005&nbsp; &nbsp;&nbsp;</i></span>",
-          "text": "Parts used were from our old MK2 Ford Granada, our set-up was to have a direct switched feed when parked up and ignition off.&nbsp;",
+          "text": "Parts used were from our old MK2 Ford Granada, our set-up was to have a direct switched feed when parked up with ignition off.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8080,
+    "uniqCompNum": 8065,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -266,69 +266,28 @@
           "_anchor": "msg-box8-5mv"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nomoreupdates-1400x936.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000blank-1600x397.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text": "No further page updates are to be made available&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-68e"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#7e9b9f"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>No further page updates are available at this time</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-68f"
+          "_name": "image1",
+          "_anchor": "image1-67i"
         },
         {
           "_params": {
@@ -14387,71 +14346,6 @@
           "_anchor": "msg-box8-5mk"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/00000blank-1600x397.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-68c"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#7e9b9f"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>No further page updates are available at this time</i></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-68d"
-        },
-        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -14946,68 +14840,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00150-mgrover-parts-store-500x200.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>Rover 200 parts and tool store (c) 2004</i></span>",
-          "text": "On weekends away, this at the time, was an ideal storage area, for basic parts, which also incorporated a locking tool box.&nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-682",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00144-mgrover-navigation-system-500x200.jpg",
-              "link": "satnav.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -15067,7 +14901,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00145-mgrover-oil-sump-500x200.jpg",
-              "link": "oilsump.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -15127,7 +14961,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00146-mgrover-dual-horn-setup-500x200.jpg",
-              "link": "twinhorns.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -15151,66 +14985,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-67y",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00152-mgrover-electric-window-conversion-500x200.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Rover 200 electric windows conversion (c) 2005&nbsp; &nbsp;&nbsp;</i></span>",
-          "text": "Parts used were from our old MK2 Ford Granada, our set-up was to have a direct switched feed when parked up and ignition off.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-685",
           "_styles": {
             "H3": {
               "color": "#475577",
@@ -15348,7 +15122,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -15367,7 +15141,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/00148-mgrover-brake-light-checking-500x200.jpg",
-              "link": "lightcheck.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -15391,246 +15165,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-680",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00149-mgrover-make-do-and-mend-508x204.jpg",
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Original items saves on new parts 200/ ZR</i></span>",
-          "text": "Not much you can do with the ignition switch, except to get a new unit, however the door lock mechanism etc, can be re-built.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-681",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00151-mgrover-interior-lining-500x200.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Glove Box-Ashtray-Door Pockets 200/ZR</i></span>",
-          "text": "Using the more 'supple' rover metro boot carpet to line out various interior areas for camera equipment memory cards etc.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-683",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00153-mgrover-dual-dashcams-500x200.jpg",
-              "linkInNewWindow": false,
-              "link": "dashcam.html",
-              "alt": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Mobius Dashcams fitted to the ZR</i></span>",
-          "text": "To power up the mobius monitoring system a drivers side dashboard located button switch, activates each of the cameras.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-686",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00154-mgrover-gearbox-oil-change-500x200.jpg",
-              "link": "https://mgrover200.github.io/gearboxoil.html",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Rover 200 gearbox oil change in 2004&nbsp;</i></span>",
-          "text": "Our none messy filling procedure, with oil now running directly into the gearbox, at the time bluecol antifreeze was used.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-687",
           "_styles": {
             "H3": {
               "color": "#475577",
