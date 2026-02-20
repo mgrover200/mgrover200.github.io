@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8116,
+    "uniqCompNum": 8113,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14406,17 +14406,19 @@
           "_anchor": "msg-box8-5mk"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": 4,
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/00000blank-1600x397.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#cccccc",
@@ -14424,99 +14426,49 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00161%20mgzr%20fuel%20filter-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00162%20200-25-zr%20ignition%20switch-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00163%20mgrover%20navigation-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00164%20cooling%20system-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this&nbsp;",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your&nbsp;",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-69f"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-694"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#7e9b9f"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>No further page updates are available at this time</i></span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-68d"
         },
         {
           "_params": {
