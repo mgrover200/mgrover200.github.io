@@ -14411,7 +14411,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "5",
@@ -14434,7 +14434,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "fuelfilter.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14445,7 +14445,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14456,7 +14456,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "satnav.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14467,7 +14467,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "coolsensor.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14478,7 +14478,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "lightcheck.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14524,12 +14524,6 @@
             "H4": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "font-size": "15px"
-            },
-            "SPAN": {
-              "font-size": "19px"
             }
           }
         },
@@ -14556,7 +14550,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
