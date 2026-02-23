@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8132,
+    "uniqCompNum": 8131,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -385,10 +385,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
-              "font-size": "16px"
+              "font-size": "15px"
             },
             "SPAN": {
-              "font-size": "20px"
+              "font-size": "19px"
             }
           },
           "_anchor": "features3-69j"
@@ -11452,6 +11452,24 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<i><a href=\"additional.html\" class=\"text-primary\">something for the week-end</a></i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-698",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -14804,10 +14822,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "P": {
-              "font-size": "16px"
+              "font-size": "15px"
             },
             "SPAN": {
-              "font-size": "20px"
+              "font-size": "19px"
             }
           }
         },
@@ -14858,7 +14876,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-69v"
+          "_anchor": "msg-box8-69u"
         },
         {
           "_params": {

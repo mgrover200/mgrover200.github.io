@@ -11452,6 +11452,24 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<i><a href=\"additional.html\" class=\"text-primary\">something for the week-end</a></i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-698",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
