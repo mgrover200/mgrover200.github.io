@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "torque.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8163,
+    "uniqCompNum": 8161,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -271,7 +271,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "5",
@@ -392,6 +392,55 @@
             }
           },
           "_anchor": "features3-69j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-69m"
         },
         {
           "_params": {
@@ -15625,7 +15674,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "5",
@@ -15748,6 +15797,55 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6a0"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -15799,9 +15897,9 @@
         }
       ]
     },
-    "projects.html": {
+    "testpage2.html": {
       "settings": {
-        "title": "projects",
+        "title": "testpage2",
         "meta_descr": "view a selection of some useful, low cost, no cost, personalised  items applied to our Rover 200/25/ZR ",
         "header_custom": "",
         "footer_custom": "",
@@ -16035,31 +16133,53 @@
           "_anchor": "header3-68p"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#cccccc"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-6ap"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6am"
         },
         {
           "_params": {
