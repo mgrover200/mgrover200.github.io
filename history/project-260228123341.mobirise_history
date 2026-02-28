@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8210,
+    "uniqCompNum": 8208,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -13237,9 +13237,89 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5o0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#444444"
+          },
+          "title": "<span style=\"font-weight: normal;\">WHAT OUR VISITORS SAY</span>",
+          "meta": "About features, and information on our MG-Rover Information Pages",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5ie"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": false,
             "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -13252,8 +13332,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.7"
           },
-          "title": "<span style=\"font-weight: 400;\">WHAT OUR VISITORS SAY</span>",
-          "subtitle": "About features, and information on our MG-Rover Information Pages",
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "crescent85@pobroadband.co.uk",
@@ -13297,10 +13377,10 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "font-size": "46px"
             },
             ".mbr-section-subtitle": {
-              "color": "#cccccc"
+              "color": "#475577"
             }
           }
         },
