@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsystem.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8208,
+    "uniqCompNum": 8205,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1425,24 +1425,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-6bq"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<a href=\"comments.html\" class=\"text-black\">Comment</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-6bx",
-          "_styles": {
-            "DIV": {
-              "text-align": "right"
-            }
-          }
         },
         {
           "_params": {
@@ -8095,24 +8077,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<a href=\"comments.html\" class=\"text-black\">Comment</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "content1-6by"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -12033,24 +11997,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<a href=\"comments.html\" class=\"text-black\">Comment</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "content1-6bz"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -13318,7 +13264,118 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showImages": false,
+            "showTitles": false,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "C15 Star Baldock Hertfordshire",
+          "caption1": "\"The rear light and brake light bulb checking system is a very interesting project, but no real information on how this was fully implemented, would like to have known more specific info on this, thanks for your nice site”",
+          "title2": "Responsive",
+          "subtitle2": "FG Tremadoc North Wales",
+          "caption2": "“First of all, a great effort to you guys for all your good work. Its really a very amazing site, clean and uncluttered, not much in the way of how specific tasks are carried out with full and complete info, but still very informative\"",
+          "title3": "Web Fonts",
+          "subtitle3": "Louise Chelsea London SW3",
+          "caption3": "“At first view, looks like a nice innovative site, liked the great focus and time that was given to the project designs, especially the rover 200 security fitted <i>satnav system</i>&nbsp;and bulb checking one, cant fault the effort\"",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Emma West Yorkshire",
+          "caption4": "“amazing website very well put together through a lot of hard work very straight to the point on car resolutions just shows how much with experience over the years for the love of cars.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-5if",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#efefef"
+            },
+            "H5": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#ffffff",
             "paddingTop": "1",
