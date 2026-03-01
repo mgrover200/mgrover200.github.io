@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsensor.html",
+    "currentPage": "projects.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8238,
+    "uniqCompNum": 8235,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1228,12 +1228,6 @@
           "_anchor": "header3-62s"
         },
         {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p>Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years, and a good safety feature. That activates an instant audible warning, as coolant&nbsp; should drop to a level more than below the specified minimum safety mark..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1249,7 +1243,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-6cs"
+          "_anchor": "content1-1c5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature. That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark..&nbsp;</p>"
         },
         {
           "_params": {
@@ -1295,7 +1295,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor 200/ZR</i></span>",
-          "text": "Cooling system did not need being drained, just syphoned out, then replaced with the new coolant tank. Reed sensor connector can be seen here..",
+          "text": "Cooling system did not need being drained, just syphoned out, then replaced with the new coolant tank. After inserting the all important reed sensor, which can be seen here.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1378,12 +1378,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. Visual checks on coolant level, are still carried out. With other routine vehicle checks. A manual activation test mode, is removing coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp; &nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1398,7 +1392,13 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-6ct"
+          "_anchor": "content1-22c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. not relied upon as a fit and forget. Visual checks on coolant level, and hoses, are still carried out Along with other routine vehicle checks and servicing This feature incorporates a manual activation test mode, by removing the coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp; &nbsp;</p>"
         },
         {
           "_params": {
@@ -14790,17 +14790,18 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. Visual checks on coolant level, are still carried out. With other routine vehicle checks. A manual activation test mode, is removing coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp; &nbsp;</p>",
+          "text": "<p>Having installed a coolant low level warning sensor into the old 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years of service with a good safety feature. That will activate an instant audible warning alert soon as the coolant tank, should for any reason, start to drop to a level that is much more than below the coolants specified minimum safety mark..&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
+              "text-align": "left",
               "font-size": "17px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -14809,7 +14810,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "content1-6cr"
+          "_anchor": "content1-6cq"
         },
         {
           "_params": {
