@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "lightcheck.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8259,
+    "uniqCompNum": 8283,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -263,135 +263,63 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6da"
+          "_anchor": "msg-box8-6e2"
         },
         {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00161%20mgzr%20fuel%20filter-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "fuelfilter.html",
-              "alt": "",
-              "linkInNewWindow": false
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#475577"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00162%20200-25-zr%20ignition%20switch-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
           },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00163%20mgrover%20navigation-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "satnav.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00164%20cooling%20system-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "coolsensor.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00165%20monitoring%20system-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "lightcheck.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i>Fuel Filter</i></span>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Makes for an easier working area with charcoal canister out of the way,&nbsp;",
-          "title2": "<span style=\"font-weight: 400;\"><i>Ignition Switch</i></span>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "With column covers removed, gave better access to the small screws.&nbsp;",
-          "title3": "<span style=\"font-weight: 400;\"><i>Navigation 200/ZR</i></span>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "The drivers line of view was achieved with using precise adjustments.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Coolant Sensor</i></span>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Cooling system did not need being drained, just syphoned out.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Monitoring System ZR</i></span>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Safe driving. You never know, who is going to sneak in behind you.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"fuelfilter.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"lightcheck.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+          "_name": "header3",
+          "_anchor": "header3-6dv"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
             },
-            "P": {
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "20px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
-          "_anchor": "features3-69j"
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6dx"
         },
         {
           "_params": {
@@ -14143,7 +14071,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00129-woodsome-1600x372.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/new%20hoyland-1600x535.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -14151,7 +14079,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -14162,135 +14090,63 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6ar"
+          "_anchor": "msg-box8-6e1"
         },
         {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00161%20mgzr%20fuel%20filter-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "fuelfilter.html",
-              "alt": "",
-              "linkInNewWindow": false
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#475577"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00162%20200-25-zr%20ignition%20switch-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
           },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00163%20mgrover%20navigation-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "satnav.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00164%20cooling%20system-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "coolsensor.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00165%20monitoring%20system-366x244.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "lightcheck.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i>Fuel Filter</i></span>",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Makes for an easier working area with charcoal canister out of the way,&nbsp;",
-          "title2": "<span style=\"font-weight: 400;\"><i>Ignition Switch</i></span>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "With column covers removed, gave better access to the small screws.&nbsp;",
-          "title3": "<span style=\"font-weight: 400;\"><i>Navigation 200/ZR</i></span>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "The drivers line of view was achieved with using precise adjustments.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Coolant Sensor</i></span>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Cooling system did not need being drained, just syphoned out.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Monitoring System ZR</i></span>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Safe driving. You never know, who is going to sneak in behind you.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"fuelfilter.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"lightcheck.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-69f",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+          "_name": "header3",
+          "_anchor": "header3-6dz"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
             },
-            "P": {
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "20px"
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
-          }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6e0"
         },
         {
           "_params": {
@@ -14548,7 +14404,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6bh"
+          "_anchor": "msg-box8-6ds"
         },
         {
           "_styles": {
@@ -14582,7 +14438,7 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#cccccc"
           },
@@ -14617,14 +14473,14 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-6dd",
           "_styles": {
             "DIV": {
               "text-align": "center",
               "font-size": "15px",
               "color": "#efefef"
             }
-          }
+          },
+          "_anchor": "content1-6dy"
         },
         {
           "_tags": [

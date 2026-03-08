@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8283,
+    "uniqCompNum": 8296,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -298,7 +298,7 @@
           "_params": {
             "showText": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "media": {
@@ -14071,7 +14071,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new%20hoyland-1600x535.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -14080,7 +14080,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000000",
+            "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
@@ -14090,7 +14090,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6e1"
+          "_anchor": "msg-box8-6ed"
         },
         {
           "_styles": {
@@ -14123,9 +14123,66 @@
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Coolant Sensor&nbsp; &nbsp; Cold Cabin Heater&nbsp; &nbsp; Cooling System&nbsp; &nbsp; Ignition Switch&nbsp; &nbsp; Ignition Leads&nbsp; &nbsp; Tailgate Wiring&nbsp; &nbsp; Engine Fuses&nbsp;&nbsp;&nbsp;&nbsp;Cabin Fuses</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6ea",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Sunroof&nbsp; &nbsp; Sump&nbsp; &nbsp; Torque&nbsp; &nbsp; Oil Level&nbsp;&nbsp;&nbsp;&nbsp;Inlet Manifold&nbsp; &nbsp; <a href=\"fuelfilter.html\" class=\"text-black\">Fuel Filter&nbsp;</a> &nbsp; Emissions&nbsp; &nbsp; Dual Horns&nbsp; &nbsp; Remotes&nbsp; &nbsp; Dashcams&nbsp; &nbsp; Lights Checking&nbsp; &nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6eb",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>Navigation&nbsp; &nbsp; Colour Codes&nbsp; &nbsp; Purge Valve&nbsp; &nbsp; Parts Guide&nbsp; &nbsp; Gearbox Oil</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6ec",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
             "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
           "media": {
@@ -14146,7 +14203,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-6e0"
+          "_anchor": "image2-6ef"
         },
         {
           "_params": {
