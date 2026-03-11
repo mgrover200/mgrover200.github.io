@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 
 
@@ -5391,6 +5392,7 @@ section.form .container {
 
 
 
+
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5489,22 +5491,49 @@ section.form .container {
 #msg-box8-6ed .lead {
   color: #ffffff;
 }
-#header3-6dz .mbr-section-title,
-#header3-6dz .mbr-section-subtitle {
+#header3-6er .mbr-section-title,
+#header3-6er .mbr-section-subtitle {
   text-align: center;
 }
-#header3-6dz .mbr-section-title {
+#header3-6er .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 32px;
   color: #475577;
 }
-#header3-6dz .mbr-section-subtitle {
+#header3-6er .mbr-section-subtitle {
   color: #475577;
+}
+#header3-6ex .mbr-section-title,
+#header3-6ex .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6ex .mbr-section-title {
+  color: #475577;
+  font-family: 'Indie Flower', cursive;
 }
 #features3-6eh H5 {
   color: #475577;
 }
+#features3-6eh H4 {
+  color: #444444;
+}
 #features3-6ei H5 {
+  color: #475577;
+}
+#features3-6ei H4 {
+  color: #444444;
+}
+#features4-6ez .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-6ez .iconbox {
+  background-color: #cccccc;
+  border-color: #cccccc;
+}
+#features3-6eo H4 {
+  color: #444444;
+}
+#features3-6et H4 {
   color: #475577;
 }
 #content1-63u P {
