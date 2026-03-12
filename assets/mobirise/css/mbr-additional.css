@@ -5393,6 +5393,7 @@ section.form .container {
 
 
 
+
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5516,12 +5517,14 @@ section.form .container {
 }
 #features3-6eh H5 {
   color: #475577;
+  font-size: 15px;
 }
 #features3-6eh H4 {
   color: #444444;
 }
 #features3-6ei H5 {
   color: #475577;
+  font-size: 15px;
 }
 #features3-6ei H4 {
   color: #444444;
@@ -5529,8 +5532,23 @@ section.form .container {
 #features3-6eo H4 {
   color: #444444;
 }
+#features3-6eo H5 {
+  font-size: 15px;
+}
 #features3-6et H4 {
   color: #475577;
+}
+#features3-6et H5 {
+  font-size: 15px;
+}
+#header3-6f8 .mbr-section-title,
+#header3-6f8 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6f8 .mbr-section-title {
+  color: #475577;
+  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
 }
 #content1-63u P {
   font-family: 'Raleway', sans-serif;
