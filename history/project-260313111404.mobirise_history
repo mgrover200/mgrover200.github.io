@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8337,
+    "uniqCompNum": 8333,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14407,15 +14407,18 @@
         },
         {
           "_params": {
-            "showText": false
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tools-partsi-1400x149.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
               "width": 1400,
               "link": "",
-              "alt": "",
+              "alt": "mg rover parts guide",
               "linkInNewWindow": false
             },
             "video": {
@@ -14426,8 +14429,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-6fk"
+          "_name": "image2",
+          "_anchor": "image2-6fg"
         },
         {
           "_params": {
