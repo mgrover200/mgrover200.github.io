@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8368,
+    "uniqCompNum": 8366,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -822,7 +822,7 @@
             }
           },
           "title1": "<span style=\"font-weight: 400;\">Navigation</span>",
-          "subtitle1": "Rover 200",
+          "subtitle1": "2008 Rover Project",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<span style=\"font-weight: 400;\">Paint Codes</span>",
           "subtitle2": "From 1963-2005",
@@ -886,31 +886,36 @@
           "_anchor": "header3-6fw"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_params": {
+            "showTitle": false,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fuses-tools-parts-1574x168.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-6gf"
+          "_name": "content5",
+          "_anchor": "content5-6gd"
         },
         {
           "_params": {
@@ -15240,7 +15245,7 @@
             }
           },
           "title1": "<span style=\"font-weight: 400;\">Navigation</span>",
-          "subtitle1": "Rover 200",
+          "subtitle1": "2008 Rover Project",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<span style=\"font-weight: 400;\">Paint Codes</span>",
           "subtitle2": "From 1963-2005",
@@ -15304,31 +15309,36 @@
           "_anchor": "header3-6f8"
         },
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_params": {
+            "showTitle": false,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fuses-tools-parts-1574x168.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-6ge"
+          "_name": "content5",
+          "_anchor": "content5-6gc"
         },
         {
           "_params": {
