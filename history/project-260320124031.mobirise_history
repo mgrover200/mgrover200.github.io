@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8414,
+    "uniqCompNum": 8407,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -277,12 +277,7 @@
               "color": "#475577"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -291,13 +286,13 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Projects Review 200/ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW</i></span>",
+          "meta": "&nbsp;MG-Rover Information Pages",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6hp"
+          "_anchor": "header3-6dv"
         },
         {
           "_params": {
@@ -390,22 +385,22 @@
           },
           "title1": "<span style=\"font-weight: 400;\">Gearbox Oil</span>",
           "subtitle1": "1996 Rover 200",
-          "caption1": "Oil change on the 1996 Rover 200 R.65 gearbox.",
+          "caption1": "Oil change on the Rover 200 with R.65 gearbox is straight foreward.",
           "title2": "<span style=\"font-weight: normal;\">Purge Valve</span>",
           "subtitle2": "How it works",
-          "caption2": "Electrically operated solenoid collects fuel vapors.",
+          "caption2": "The purge valve an electrically operated solenoid collects fuel vapors from the fuel tank.",
           "title3": "<span style=\"font-weight: 400;\">Paint Codes</span>",
           "subtitle3": "1963 to 2005.",
-          "caption3": "Paint colour code for my car, factory code info",
+          "caption3": "Whats the vehicle paint colour code for my car, original factory colour code information.",
           "title4": "<span style=\"font-weight: normal;\">Navigation</span>",
           "subtitle4": "Rover 200/ZR",
-          "caption4": "Security fitted satnav project created for the Rover 200.",
+          "caption4": "This unique security fitted satnav project created for the 1996 Rover 200.",
           "title5": "<span style=\"font-weight: normal;\">Fuel Filter</span>",
           "subtitle5": "Replacing Filter",
-          "caption5": "Not changed for several years, affects performance.",
+          "caption5": "Not changed for several years, dirty fuel filters seriously affects performance.",
           "title6": "<span style=\"font-weight: 400;\">Sunroof&nbsp;</span>",
           "subtitle6": "Damp Headlining",
-          "caption6": "Passenger side headlining showing damp signs.",
+          "caption6": "Noticed the front corner on the passenger side roof headlining was showing signs.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/colourcodes.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1282,18 +1277,16 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
               "color": "#475577",
-              "font-size": "15px"
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#565656"
             }
           },
           "_params": {
@@ -1302,13 +1295,13 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Sensor</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "title": "<span style=\"font-weight: 400;\">COOLANT LEVEL SENSOR</span>",
+          "meta": "Monitoring and notification of coolant level",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6hm"
+          "_anchor": "header3-62s"
         },
         {
           "_params": {
@@ -7917,18 +7910,15 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
               "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#565656"
             }
           },
           "_params": {
@@ -7937,13 +7927,13 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Cold Cabin Heater</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "title": "<span style=\"font-weight: normal;\">COLD CABIN HEATER ZR&nbsp;</span>",
+          "meta": "Replacing cabin heater valve",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6hn"
+          "_anchor": "header3-62r"
         },
         {
           "_params": {
@@ -11611,18 +11601,15 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
               "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#565656"
             }
           },
           "_params": {
@@ -11631,13 +11618,13 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Engine Cooling System</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "title": "<span style=\"font-weight: 400;\">ENGINE COOLING SYSTEM</span>",
+          "meta": "Coolant route around the engine",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6ho"
+          "_anchor": "header3-62t"
         },
         {
           "_params": {
@@ -14400,12 +14387,7 @@
               "color": "#475577"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -14427,7 +14409,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -14867,12 +14849,7 @@
               "color": "#475577"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#475577"
             }
           },
           "_params": {
@@ -14887,7 +14864,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6hj"
+          "_anchor": "header3-68p"
         },
         {
           "_params": {
