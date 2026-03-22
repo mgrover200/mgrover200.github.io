@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -266,13 +266,47 @@
           "_anchor": "msg-box8-6e2"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#475577"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577",
+              "font-size": "15px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6iw"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "2",
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
