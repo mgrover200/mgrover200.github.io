@@ -4239,7 +4239,7 @@
               "font-size": "17px"
             },
             "DIV": {
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "content1-pd",
@@ -4269,7 +4269,7 @@
             "P": {
               "text-align": "left",
               "font-size": "17px",
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "msg-box5-20e",
@@ -4335,7 +4335,7 @@
             "P": {
               "text-align": "left",
               "font-size": "17px",
-              "color": "#000000"
+              "color": "#232323"
             },
             "SPAN": {
               "font-size": "22px",
@@ -4402,7 +4402,7 @@
               "font-size": "17px"
             },
             "DIV": {
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "content1-1ld",
@@ -4432,7 +4432,7 @@
             "P": {
               "text-align": "left",
               "font-size": "17px",
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "msg-box5-20f",
@@ -4493,7 +4493,7 @@
               "font-size": "17px"
             },
             "DIV": {
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "content1-ph",
@@ -4508,25 +4508,15 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "32px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "25px"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Additional Information :</i></span>",
+          "title": "Title with Solid Background Color",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -4577,8 +4567,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Detachable Wooden Car Ramps</i></span>",
-          "text": "For other jobs, we drive the vehicle onto home made ramps, which are safer, plus extra working space than traditional metal ones.&nbsp;&nbsp;",
+          "title": "<span style=\"font-weight: 400;\"><i>Detachable Wooden rAMPS</i></span>",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -4591,9 +4581,6 @@
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "color": "#000000"
             }
           }
         },

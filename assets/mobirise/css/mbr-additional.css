@@ -1770,6 +1770,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1889,7 +1891,7 @@ section.form .container {
   font-size: 17px;
 }
 #content1-pd DIV {
-  color: #232323;
+  color: #000000;
 }
 #msg-box5-20e H3 {
   color: #ffffff;
@@ -1903,7 +1905,7 @@ section.form .container {
 #msg-box5-20e P {
   text-align: left;
   font-size: 17px;
-  color: #232323;
+  color: #000000;
 }
 #msg-box5-3ab H3 {
   color: #475577;
@@ -1913,7 +1915,7 @@ section.form .container {
 #msg-box5-3ab P {
   text-align: left;
   font-size: 17px;
-  color: #232323;
+  color: #000000;
 }
 #msg-box5-3ab SPAN {
   font-size: 22px;
@@ -1924,7 +1926,7 @@ section.form .container {
   font-size: 17px;
 }
 #content1-1ld DIV {
-  color: #232323;
+  color: #000000;
 }
 #msg-box5-20f H3 {
   color: #475577;
@@ -1938,13 +1940,34 @@ section.form .container {
 #msg-box5-20f P {
   text-align: left;
   font-size: 17px;
-  color: #232323;
+  color: #000000;
 }
 #content1-ph P {
   font-size: 17px;
 }
 #content1-ph DIV {
-  color: #232323;
+  color: #000000;
+}
+#header3-6jx .mbr-section-title,
+#header3-6jx .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6jx .mbr-section-title {
+  color: #475577;
+  font-size: 32px;
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#header3-6jx .mbr-section-title SPAN {
+  font-size: 25px;
+}
+#msg-box5-6jw H3 {
+  color: #475577;
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-6jw P {
+  color: #000000;
 }
 #content1-6i7 P {
   text-align: center;
