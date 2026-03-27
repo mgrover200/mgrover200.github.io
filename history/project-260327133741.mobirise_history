@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8498,
+    "uniqCompNum": 8497,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3763,7 +3763,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Finalising the completed fitting</i></span>",
-          "text": "Facia panel removed, checking access to memory card, and dashboard switches, also still requires a screen surround at this stage, the 5 part build was assembled inside the dashboard.&nbsp; &nbsp; &nbsp;",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3889,33 +3889,6 @@
           "text": "<p>When not in use, the unit remains un-detectable from inside the vehicle, and more importantly from the outside, all wiring is concealed in the dashboard, with no cradle or suction marks being evident. Created for the 1996 Rover 200. Project Design and Installation. (c) 2008&nbsp;&nbsp;</p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-size": "25px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "title": "<span style=\"font-weight: 400;\">Additional Info</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6k1"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -3923,7 +3896,7 @@
             "inverse": true,
             "imageSize": "50",
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4029,7 +4002,7 @@
             "paddingBottom": "1",
             "bgColor": "#475577"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+ <a href=\"https://mgrover200.github.io/comments.html\" class=\"text-primary\">Review this page&nbsp;&nbsp;</a></i></p>",
+          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
