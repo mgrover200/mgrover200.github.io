@@ -2703,6 +2703,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2870,6 +2871,16 @@ section.form .container {
 }
 #content1-5uy DIV {
   color: #000000;
+}
+#header3-6k2 .mbr-section-title,
+#header3-6k2 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6k2 .mbr-section-title {
+  color: #475577;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+  text-align: left;
 }
 #msg-box5-613 H3 {
   color: #475577;

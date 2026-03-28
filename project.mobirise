@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "satnav.html",
+    "currentPage": "dashcam.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8498,
+    "uniqCompNum": 8499,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3763,7 +3763,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Finalising the completed fitting</i></span>",
-          "text": "Facia panel removed, checking access to memory card, and dashboard switches, also still requires a screen surround at this stage, the 5 part build was assembled inside the dashboard.&nbsp; &nbsp; &nbsp;",
+          "text": "Facia panel removed, for access to memory card, and dashboard switches. Also shown still requires a screen surround at this stage. Then the 5 part build was assembled inside the dashboard.&nbsp; &nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3883,7 +3883,7 @@
           "_anchor": "content1-394",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
           "text": "<p>When not in use, the unit remains un-detectable from inside the vehicle, and more importantly from the outside, all wiring is concealed in the dashboard, with no cradle or suction marks being evident. Created for the 1996 Rover 200. Project Design and Installation. (c) 2008&nbsp;&nbsp;</p>"
@@ -7292,7 +7292,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
           "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 64gb micro cards we have installed in the cameras, have a combined recording time before being over written. Which are sufficient to review any incidents en-route.</p>",
@@ -7311,6 +7311,33 @@
           "_anchor": "content1-5uy"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#475577",
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "title": "<span style=\"font-weight: 400;\">Additional Info</span>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6k2"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -7318,7 +7345,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
