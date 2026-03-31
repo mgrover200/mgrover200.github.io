@@ -1752,6 +1752,10 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: left;
 }
+#header3-6k1 .mbr-section-subtitle {
+  text-align: left;
+  color: #475577;
+}
 #msg-box5-620 H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
@@ -1977,6 +1981,10 @@ section.form .container {
 }
 #header3-6jx .mbr-section-title SPAN {
   font-size: 25px;
+}
+#header3-6jx .mbr-section-subtitle {
+  text-align: left;
+  color: #475577;
 }
 #msg-box5-6jw H3 {
   color: #475577;
@@ -2882,6 +2890,10 @@ section.form .container {
   font-family: 'Lora', serif;
   text-align: left;
 }
+#header3-6k2 .mbr-section-subtitle {
+  text-align: left;
+  color: #475577;
+}
 #msg-box5-613 H3 {
   color: #475577;
   font-family: 'Raleway', sans-serif;
@@ -3604,12 +3616,13 @@ section.form .container {
   font-size: 32px;
   font-family: 'Lora', serif;
   color: #475577;
+  text-align: left;
 }
 #header3-6d4 .mbr-section-subtitle {
   color: #475577;
 }
 #header3-6d4 .mbr-section-title SPAN {
-  font-size: 30px;
+  font-size: 25px;
 }
 #content1-6d5 P {
   text-align: left;
@@ -4808,6 +4821,8 @@ section.form .container {
 
 
 
+
+
 #ext_menu-334 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4955,6 +4970,25 @@ section.form .container {
 }
 #content1-4yf DIV {
   color: #232323;
+}
+#header3-6kq .mbr-section-title,
+#header3-6kq .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6kq .mbr-section-title {
+  color: #475577;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#header3-6kq .mbr-section-subtitle {
+  color: #475577;
+  text-align: left;
+}
+#msg-box5-6kr H3 {
+  color: #475577;
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
 }
 #content1-6hu P {
   text-align: center;
@@ -5712,6 +5746,7 @@ section.form .container {
 
 
 
+
 #ext_menu-67j .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5826,12 +5861,15 @@ section.form .container {
 #header3-6js .mbr-section-title SPAN {
   font-family: 'Lora', serif;
 }
-#content1-6ha P {
+#content1-6ki P {
   text-align: center;
 }
-#content1-6gv DIV {
-  text-align: center;
+#content1-6kp P {
+  font-family: 'Raleway', sans-serif;
   font-size: 15px;
+  text-align: center;
+}
+#content1-6kp DIV {
   color: #efefef;
 }
 #footer1-67n P {
