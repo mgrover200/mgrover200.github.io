@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8554,
+    "uniqCompNum": 8552,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -217,58 +217,218 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00140-yetton-1280x699.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "With various aspects of servicing, maintenance, including driver assisted features and vehicle monitoring. For our 1996 Rover 200 and 2004 ZR 120+",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#f7da64",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6e2"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".mbr-section-lead": {
-              "color": "#efefef"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/gearboxoil.html",
+              "alt": "",
+              "linkInNewWindow": false
             }
           },
-          "_anchor": "header1-6lk"
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/02-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/purgevalve.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/colourcodes.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/04-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/satnav.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/05-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/fuelfilter.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/06-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/sunroof.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<span style=\"font-weight: 400;\">Gearbox Oil</span>",
+          "subtitle1": "1996 Rover 200",
+          "caption1": "Oil change on the 1996 Rover 200 R.65 gearbox.",
+          "title2": "<span style=\"font-weight: normal;\">Purge Valve</span>",
+          "subtitle2": "How it works",
+          "caption2": "Electrically operated solenoid collects fuel vapors.",
+          "title3": "<span style=\"font-weight: 400;\">Paint Codes</span>",
+          "subtitle3": "1963 to 2005.",
+          "caption3": "Paint colour code for my car, factory code info",
+          "title4": "<span style=\"font-weight: normal;\">Navigation</span>",
+          "subtitle4": "Rover 200/ZR",
+          "caption4": "Security fitted satnav project created for the Rover 200.",
+          "title5": "<span style=\"font-weight: normal;\">Fuel Filter</span>",
+          "subtitle5": "Replacing Filter",
+          "caption5": "Not changed for several years, affects performance.",
+          "title6": "<span style=\"font-weight: 400;\">Sunroof&nbsp;</span>",
+          "subtitle6": "Damp Headlining",
+          "caption6": "Passenger side headlining showing damp signs.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"purgevalve.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/colourcodes.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"fuelfilter.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/sunroof.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H4": {
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "features3-6h0"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scrollll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6h1"
         },
         {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#232323"
+            "bgColor": "#475577"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;&nbsp;</i></p>",
           "_tags": [
             "Theme"
           ],
@@ -281,10 +441,10 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#f7da64"
+              "color": "#efefef"
             }
           },
-          "_anchor": "content1-6ll"
+          "_anchor": "content1-63v"
         },
         {
           "_tags": [
@@ -2182,7 +2342,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>BULB MONITOR ZR</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -2700,7 +2860,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>AUDIO REMOTES ZR</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -3354,7 +3514,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>NAVIGATION 200/ZR</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -4012,7 +4172,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>OIL SUMP 200</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -4670,7 +4830,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>PAINT CODES</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -5147,7 +5307,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>PARTS GUIDE</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -5593,7 +5753,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>PURGE VALVE</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -6043,7 +6203,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>FUEL FILTER</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -6622,7 +6782,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>DASHCAM ZR&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -7269,7 +7429,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>EMISSIONS ZR</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -7710,7 +7870,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>OIL LEVEL CHECK</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -9443,7 +9603,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>SUNROOF</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -9986,7 +10146,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>GEARBOX OIL</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -10541,7 +10701,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>ENGINE TORQUE</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -11677,7 +11837,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>TWIN HORNS ZR</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"
@@ -13227,7 +13387,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>INLET MANIFOLD</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>PROJECTS REVIEW 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
           "_tags": [
             "Theme"

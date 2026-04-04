@@ -9,8 +9,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -547,37 +545,26 @@ section.form .container {
   font-size: 36px;
   text-align: center;
 }
-#msg-box8-6e2 .mbr-section-title,
-#msg-box8-6e2 .lead {
-  color: #fff;
-}
-#msg-box8-6e2 .mbr-section-title {
-  font-family: 'Lora', serif;
-  font-size: 36px;
+#header1-6lk .mbr-section-title {
   color: #f7da64;
-}
-#msg-box8-6e2 .lead P {
-  font-family: 'Raleway', sans-serif;
-  font-size: 19px;
+  font-size: 36px;
+  font-family: 'Lora', serif;
   text-align: center;
 }
-#msg-box8-6e2 .lead {
-  color: #ffffff;
+#header1-6lk .mbr-section-title SPAN {
+  font-size: 46px;
+  font-family: 'Slabo 27px', serif;
 }
-#features3-6h0 SPAN {
-  font-family: 'Lora', serif;
+#header1-6lk .mbr-section-lead {
+  color: #efefef;
 }
-#features3-6h0 H4 {
-  color: #475577;
-  font-family: 'Lora', serif;
-}
-#content1-63v P {
+#content1-6ll P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
   text-align: center;
 }
-#content1-63v DIV {
-  color: #efefef;
+#content1-6ll DIV {
+  color: #f7da64;
 }
 #footer1-2u2 P {
   color: #c1c1c1;
@@ -3354,6 +3341,9 @@ section.form .container {
 #content1-4wi DIV {
   color: #232323;
 }
+#content1-6li P {
+  text-align: center;
+}
 #content1-60f P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
@@ -4693,6 +4683,9 @@ section.form .container {
 #content1-61w DIV {
   color: #232323;
 }
+#content1-6lj P {
+  text-align: center;
+}
 #content1-60g P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
@@ -5697,6 +5690,9 @@ section.form .container {
 }
 #msg-box8-6ds .lead {
   color: #ffffff;
+}
+#msg-box8-6ds .mbr-section-title SPAN {
+  font-size: 36px;
 }
 #header3-6js .mbr-section-title,
 #header3-6js .mbr-section-subtitle {
