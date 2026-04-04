@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8547,
+    "uniqCompNum": 8545,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1487,24 +1487,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-6hd"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">French&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">German&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Spanish&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\">Dutch&nbsp;</a> &nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\"> Italian&nbsp;</a> &nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Fcoolsensor.html\" class=\"text-black\"> Russian</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-6ld"
         },
         {
           "_params": {
@@ -15050,7 +15032,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00140-yetton-1280x699.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/imagetesting-2000x1064.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -15059,8 +15041,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
           "text": "With various aspects of servicing, maintenance, including driver assisted features and vehicle monitoring. For our 1996 Rover 200 and 2004 ZR 120+",
@@ -15091,26 +15073,20 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#232323"
+            "paddingBottom": 1,
+            "bgColor": "#444444"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "text": "<p><a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=fr&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\">French&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=de&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\">German&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=es&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\">Spanish&nbsp;</a> &nbsp; <a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=nl&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\">Dutch&nbsp;</a> &nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=it&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\"> Italian&nbsp;</a> &nbsp;<a href=\"https://translate.google.com/translate?hl=&amp;sl=en&amp;tl=ru&amp;u=https%3A%2F%2Fmgrover200.github.io%2Ftailgate.html\" class=\"text-warning\"> Russian</a></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
               "text-align": "center"
-            },
-            "DIV": {
-              "color": "#f7da64"
             }
           },
-          "_anchor": "content1-6le"
+          "_anchor": "content1-6lc"
         },
         {
           "_tags": [

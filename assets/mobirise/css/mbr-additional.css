@@ -943,6 +943,9 @@ section.form .container {
 #content1-6ct DIV {
   color: #000000;
 }
+#content1-6ld P {
+  text-align: center;
+}
 #content1-60e P {
   font-family: 'Raleway', sans-serif;
   font-size: 15px;
@@ -5482,6 +5485,7 @@ section.form .container {
 
 
 
+
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5576,8 +5580,13 @@ section.form .container {
 #header1-6l7 .mbr-section-lead {
   color: #efefef;
 }
-#content1-6lc P {
+#content1-6le P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
   text-align: center;
+}
+#content1-6le DIV {
+  color: #f7da64;
 }
 #footer1-5j3 P {
   color: #c1c1c1;
