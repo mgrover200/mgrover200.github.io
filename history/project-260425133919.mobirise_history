@@ -15397,7 +15397,7 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
@@ -15419,86 +15419,68 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/02-main-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/purgevalve.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/07lnk-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/enginefuse.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04lnk-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/03-main-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/010link-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/oilsump.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/05-main-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/fuelfilter.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title1": "<span style=\"font-weight: normal;\">Purge valve</span>",
+          "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\">Engine fuses</span>",
+          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: normal;\">Ignition switch</span>",
+          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: normal;\">Colour codes</span>",
+          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: normal;\">Oil sump</span>",
+          "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: normal;\">Fuel filter</span>",
+          "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -15511,17 +15493,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-6md",
-          "_styles": {
-            "H4": {
-              "color": "#c1c1c1"
-            },
-            "SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
-            }
-          }
+          "_anchor": "features3-6md"
         },
         {
           "_params": {
