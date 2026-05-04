@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8613,
+    "uniqCompNum": 8608,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -15053,7 +15053,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00141-%20kirkview-1280x491.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/00140-yetton-1280x699.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -15062,28 +15062,32 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
-          "title": "<i>MG-ROVER INFORMATION PAGES</i>",
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
           "text": "With various aspects of servicing, maintenance, including driver assisted features and vehicle monitoring. For our 1996 Rover 200 and 2004 ZR 120+",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-6n8",
+          "_anchor": "header1-6l7",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "color": "#f7da64"
-            },
-            ".mbr-section-title I": {
+              "color": "#f7da64",
               "font-size": "36px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-section-lead": {
+              "color": "#efefef"
             }
           }
         },
@@ -15204,6 +15208,7 @@
             "Theme"
           ],
           "_name": "features3",
+          "_anchor": "features3-6md",
           "_styles": {
             "H4": {
               "color": "#c1c1c1"
@@ -15213,8 +15218,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
             }
-          },
-          "_anchor": "features3-6n6"
+          }
         },
         {
           "_params": {
