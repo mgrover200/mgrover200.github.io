@@ -5489,6 +5489,7 @@ section.form .container {
 
 
 
+
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5570,21 +5571,38 @@ section.form .container {
   color: #ffffff;
   font-size: 46px;
 }
-#header1-6n8 .mbr-section-title {
-  font-size: 46px;
-  font-family: 'PT Serif', serif;
+#msg-box8-6nu .mbr-section-title,
+#msg-box8-6nu .lead {
+  color: #fff;
+}
+#msg-box8-6nu .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 36px;
   color: #f7da64;
 }
-#header1-6n8 .mbr-section-title I {
-  font-size: 36px;
-  font-family: 'PT Serif', serif;
+#msg-box8-6nu .lead P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  text-align: center;
 }
-#features3-6n6 H4 {
-  color: #c1c1c1;
+#msg-box8-6nu .lead {
+  color: #ffffff;
 }
-#features3-6n6 SPAN {
+#header3-6nv .mbr-section-title,
+#header3-6nv .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6nv .mbr-section-title {
   font-family: 'Lora', serif;
-  font-size: 18px;
+  font-size: 32px;
+  color: #475577;
+}
+#header3-6nv .mbr-section-subtitle {
+  color: #475577;
+  font-size: 15px;
+}
+#header3-6nv .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-6le P {
   font-family: 'Raleway', sans-serif;
@@ -5592,7 +5610,7 @@ section.form .container {
   text-align: center;
 }
 #content1-6le DIV {
-  color: #f7da64;
+  color: #ffffff;
 }
 #footer1-5j3 P {
   color: #c1c1c1;
@@ -5707,20 +5725,20 @@ section.form .container {
 #msg-box8-6ds .mbr-section-title SPAN {
   font-size: 36px;
 }
-#header3-6js .mbr-section-title,
-#header3-6js .mbr-section-subtitle {
+#header3-6nr .mbr-section-title,
+#header3-6nr .mbr-section-subtitle {
   text-align: center;
 }
-#header3-6js .mbr-section-title {
+#header3-6nr .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 32px;
   color: #475577;
 }
-#header3-6js .mbr-section-subtitle {
+#header3-6nr .mbr-section-subtitle {
   color: #475577;
   font-size: 15px;
 }
-#header3-6js .mbr-section-title SPAN {
+#header3-6nr .mbr-section-title SPAN {
   font-family: 'Lora', serif;
 }
 #content1-6kp P {
