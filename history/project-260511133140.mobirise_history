@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "cabinheater.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8643,
+    "uniqCompNum": 8639,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -217,103 +217,66 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#f7da64"
-            },
-            ".lead P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "19px",
-              "text-align": "center"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/00140-yetton-1280x699.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "With various aspects of servicing, maintenance, including driver assisted features and vehicle monitoring. For our 1996 Rover 200 and 2004 ZR 120+",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-6nz"
-        },
-        {
+          "_name": "header1",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
             ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#475577"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "font-size": "46px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".mbr-section-lead": {
+              "color": "#efefef"
             }
           },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#cccccc"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6o0"
+          "_anchor": "header1-6lk"
         },
         {
           "_params": {
             "showImages": true,
-            "showTitles": false,
-            "showSubtitles": true,
+            "showTitles": true,
+            "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -324,51 +287,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04asnow-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/enginefuse.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/02asnow-1-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/05asnow-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/oilsump.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/03asnaow-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/audioremotes.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/06asnow-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/02-main-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -377,9 +296,20 @@
               "linkInNewWindow": false
             }
           },
-          "media6": {
+          "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/01%20asnow-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/07lnk-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/enginefuse.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/04lnk-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -388,23 +318,56 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Fuse Box",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/colourcodes.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/010link-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/oilsump.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/05-main-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/fuelfilter.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Purge valve</span>",
+          "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "Colour Codes",
+          "title2": "<span style=\"font-weight: normal;\">Engine fuses</span>",
+          "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Oil Sump",
+          "title3": "<span style=\"font-weight: normal;\">Ignition switch</span>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Audio Controls",
+          "title4": "<span style=\"font-weight: normal;\">Colour codes</span>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Purge Valve&nbsp;",
+          "title5": "<span style=\"font-weight: normal;\">Oil sump</span>",
+          "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Ignition",
+          "title6": "<span style=\"font-weight: normal;\">Fuel filter</span>",
+          "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -416,40 +379,23 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-6o1"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "mg rover parts guide",
-              "linkInNewWindow": false
+          "_styles": {
+            "H4": {
+              "color": "#c1c1c1"
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            "SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6o2"
+          "_anchor": "features3-6me"
         },
         {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#475577"
+            "bgColor": "#232323"
           },
           "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
           "_tags": [
@@ -464,7 +410,7 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             }
           },
           "_anchor": "content1-6ll"
