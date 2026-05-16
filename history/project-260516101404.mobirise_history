@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dashcam.html",
+    "currentPage": "granada.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8662,
+    "uniqCompNum": 8661,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7131,68 +7131,8 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0043-sanyo%20vmd-6p%20camcorder-500x200.jpg",
-              "link": "",
-              "alt": "sanyo vmd 6p camcorde",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>1989 Sanyo VMD-6P Camcorder</i></span>",
-          "text": "Back in time to the 1990's and a family members&nbsp; journal of 'Armchair Motoring Videos' compiled many years ago, after several visits over time to North Wales. <a href=\"https://mgrover200.github.io/granada.html\" class=\"text-primary\">More Info</a> on camera set-up only.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-6ol",
-          "_styles": {
-            "H3": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
             "showText": false,
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
@@ -16060,7 +16000,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Shown between the years of 1997 to 2003, when being used to video and compile a (private collection) of, Armchair Motoring Videos for home use, ideal to reflect back on during the winter months, used for this, was the 1989 Sanyo VMD-6P. around North Wales, from Llangollen along the A5 to capel curig, down to Machynlleth, then taking the B4393 via Llynvyrnwy to Bala, and on to llangollen. with many other video routes.&nbsp; &nbsp; &nbsp;&nbsp;",
+          "text": "Shown between the years of 1997 to 2003, when being used to video and compile a private collection of, Armchair Motoring Videos for home use, ideal to reflect back on during the winter months. Camera used for this was the 1989 Sanyo VMD-6P. in and around North Wales, from Llangollen along the A5 to to capel curig, down to Machynlleth, then taking the B4393 via Llynvyrnwy to Bala, and finally to llangollen.&nbsp; &nbsp; &nbsp;&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -16075,7 +16015,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
