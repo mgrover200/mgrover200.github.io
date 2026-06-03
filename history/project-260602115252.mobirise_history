@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "emissions.html",
+    "currentPage": "cabinheater.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8682,
+    "uniqCompNum": 8681,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7484,6 +7484,27 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>The emissions test is carried out after all vehicle checks have been completed, not as you arrive, this allows the engine to cool down and show that the car is in a genuine tip top condition, and not been thrashed just to get it through. We have had a fair share of advisories over the years, but no&nbsp; fails, so the excellent emissions are one less of a worry.&nbsp;&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-5ih"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
@@ -7508,7 +7529,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/00141%20warm%20up%20run%20before%20m.o.t-1600x600.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -7520,34 +7541,13 @@
             "overlayOpacity": "0.3"
           },
           "title": "M.O.T WARM UP RUN 2011&nbsp;",
-          "text": "Using the Flip Mino video camera for a dynamic view.",
+          "text": "Using the Flip Mino video camera for dynamic view.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6p5"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p>The emissions test is carried out after all vehicle checks have been completed, not as you arrive, this allows the engine to cool down and show that the car is in a genuine tip top condition, and not been thrashed just to get it through. We have had a fair share of advisories over the years, but no&nbsp; fails, so the excellent emissions are one less of a worry.&nbsp;&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-5ih"
+          "_anchor": "msg-box8-6p3"
         },
         {
           "_params": {
