@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8728,
+    "uniqCompNum": 8711,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -217,48 +217,114 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_inherit": "header1",
           "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
             ".mbr-section-title": {
-              "color": "#fac51c",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
             },
-            ".mbr-section-lead": {
-              "color": "#efefef",
-              "font-size": "20px"
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
             },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px"
+            ".lead": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/zzzzzzz-1280x1024.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#475577",
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlay": false,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.3"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER&nbsp; INFORMATION PAGES</i></span>",
-          "text": "With various aspects of servicing, maintenance, including driver assisted features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-6qf"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6nz"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#475577"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577",
+              "font-size": "15px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 ZR</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6o0"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6o2"
         },
         {
           "_params": {
@@ -799,10 +865,37 @@
           "_anchor": "content1-1js",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>The cable and connector shown across front of the fuse panel, formed part of a project we were still working on a couple of winters ago, The fitting of driver and front passenger heated seat elements, a good choice for the MG and with a quick warm up time of only several seconds.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mp"
         },
         {
           "_params": {
@@ -1251,8 +1344,8 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. Visual checks on coolant level, are still carried out. With other routine vehicle checks. A manual activation test mode, is removing coolant cap on a 'cold engine' and holding down the internal magnet.&nbsp; &nbsp;</p>",
@@ -1271,6 +1364,33 @@
             }
           },
           "_anchor": "content1-6ct"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mk"
         },
         {
           "_params": {
@@ -1790,10 +1910,37 @@
           "_anchor": "content1-3b7",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>Midi Fusible Links: <b>FL 7</b> Starter 40 amp (green) <b>FL 8</b> Cooling 20 amp (blue) <b>FL 9</b> Lights 40 amp (green) <b>FL 10</b> Blower 30 amp (pink) <b>FL 11</b> Cooling 30 amp (pink) <b>FL 12</b> ABS 40 amp (green). <b>Relay 1</b> Fuel Pump. <b>Relay 2</b> Starter Motor.<b>Relay 3</b> Cooling Fan. <b>Relay 4</b> Main Relay. <b>Relay 5</b> Blower Motor. <b>Relay 6</b> Front Fog Lights. <b style=\"\">Relay 7</b> A/C Compressor.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mo"
         },
         {
           "_params": {
@@ -2281,10 +2428,37 @@
           "_anchor": "content1-35m",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>The main aspect of this motoring safety feature, is to know instantly, when a tail or brake light bulb is out, and to identify which of the bulbs needs to be replaced, keeping safe and driving legal. You never know, who is going to sneak in behind you. Design and Installation (c) 2016</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6n0"
         },
         {
           "_params": {
@@ -2900,7 +3074,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>Audio remote steering wheel controls now fitted, which now eliminates those critical split seconds taking your eyes of road to randomly mess around with volume and track changing, with remotes fitted, they are much more convenient, and a good safety feature..</p>",
@@ -2914,6 +3088,33 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6my"
         },
         {
           "_params": {
@@ -3358,7 +3559,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Finalising the completed fitting</i></span>",
-          "text": "Facia panel removed, for access to memory card, and dashboard switches. Also shown still requires a screen surround at this final stage. Then the build was attached to inside 0f the dashboard..&nbsp; &nbsp; &nbsp;",
+          "text": "Facia panel removed, for access to memory card, and dashboard switches. Also shown still requires a screen surround at this stage. Then the 5 part build was assembled inside the dashboard.&nbsp; &nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3418,7 +3619,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0094%20mgzr%20dashcam-seats-navigation-buttons-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0093-satnav-and-dashcam-button-500x200.jpg",
               "link": "",
               "alt": "0093-satnav-and-dashcam-button.JPG",
               "linkInNewWindow": false
@@ -3436,7 +3637,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Location of Power Switch</i></span>",
-          "text": "Easy access and convenient location, of the power switch for the navigation system. added to later years when transferred into the ZR, and now shown next to the dashcam, and seat heater switch..&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;.",
+          "text": "Easy access and convenient location, of the power switch for the navigation system. Now shown alongside dual dashcam switch added in later years when transferred into the 2004 ZR&nbsp; &nbsp; &nbsp; &nbsp; .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -3545,6 +3746,33 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6n1"
         },
         {
           "_params": {
@@ -4179,6 +4407,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mr"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -4639,7 +4894,7 @@
           "_anchor": "content7-1mg",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text1": "<p>NCF - Pendelican&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1975-1981</span></p><p>NCG - Porcelain&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1981-1989</span></p><p>NCP - Old English&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White surfacer 95-03</span></p><p>NDC - Tudor White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1987</span></p><p>NDJ - Dover White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2002-2003</span></p><p>NMA - Glacier White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1970-1979</span></p><p>NMC - Leyland White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1978-1983</span></p><p>NME - Ermine White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1990</span></p><p>NMF - Arum White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1985</span></p><p>NMM - White Diamond&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1993</span></p><p>NNX - Old English&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1993-2002</span></p>",
@@ -4650,6 +4905,33 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scrollll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6ji"
         },
         {
           "_tags": [
@@ -5048,6 +5330,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6p1"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -5443,7 +5752,7 @@
           "_anchor": "content1-20g",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
           "text": "<p>A damaged fuel filler cap seal wont create much of a vacuum within the fuel tank, so forcing the valve to activate for longer periods when maybe its not always required to do so. The valve is just clipped onto the top of the charcoal canister, with an option to test and try others. &nbsp;&nbsp;</p>"
@@ -5464,10 +5773,37 @@
           "_anchor": "content1-20i",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>Tapping sound of the purge valve, can be mistaken for sounding like&nbsp; fuel injectors clicking, high tension leads arcing, or the sound of a slack tappet. However the tapping sound on some purge valves, are nothing more than a nuisance, and should just about be audible for short periods, but not permanent as fumes are purged from the canister.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6n2"
         },
         {
           "_params": {
@@ -6017,10 +6353,37 @@
           "_anchor": "content1-1l6",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>To safeguard the above, usually doing up the fuel clamp holder's 8mm bolt the very last. prior to testing. the Halfords HFF-236 fuel filter that was used for this service, The new filter will need several seconds for it to prime on the very first start up of the engine, then its just one final check on each of the two fuel pipe unions for any leaks.&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mv"
         },
         {
           "_params": {
@@ -6651,7 +7014,7 @@
             "inverse": true,
             "imageSize": "52",
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6702,6 +7065,33 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mz"
         },
         {
           "_params": {
@@ -7143,7 +7533,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>The emissions test is carried out after all vehicle checks have been completed, not as you arrive, this allows the engine to cool down and show that the car is in a genuine tip top condition, and not been thrashed just to get it through. We have had a fair share of advisories over the years, but no&nbsp; fails, so the excellent emissions are one less of a worry.&nbsp;&nbsp;</p>",
@@ -7630,10 +8020,37 @@
           "_anchor": "content1-10d",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>The MG does not use any oil between each of its yearly oil and filter changes, so will always show our own preference of a tad just below the maximum mark. Shown is for 'intermittent usage'taken on a cold engine. After checking for a correct oil level reading, the original dipstick can then be returned back.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mt"
         },
         {
           "_params": {
@@ -8112,7 +8529,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, is essential.</p>",
@@ -8131,6 +8548,33 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mi"
         },
         {
           "_params": {
@@ -8803,6 +9247,33 @@
         },
         {
           "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6ml"
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
@@ -9400,10 +9871,37 @@
           "_anchor": "content1-2lo",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "Before panel is placed back into roof aperture, tilt mechanism needed to be in the (closed) position, with the glass panel centralised, and level with the car roof...each of the six bolts can be inserted and tightened, testing the roof operation is needed before each of the plastic side trims were fitted back, if any further adjustments are required."
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mq"
         },
         {
           "_params": {
@@ -9918,7 +10416,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>This gearbox oil change is based on a vehicle parked on level ground. To achieve a correct oil fill level, is when oil begins to slowly trickle out from the filler hole. Oil used in the 200 gearbox is a SAE75W-80W to an API GL5 viscosity, around 1.75 litres up to the correct level.</p>",
@@ -9932,6 +10430,33 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6n3"
         },
         {
           "_params": {
@@ -10593,7 +11118,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>Applying a light smear of oil to the filters rubber gasket wont 'scrunch' it up when screwing back on, then using some folded 'coarse' sandpaper along with hand pressure only, would be sufficient to tighten it up, then a good run out to circulate all fluids. Rover 200 project 2004.&nbsp;</p>",
@@ -10608,6 +11133,33 @@
             }
           },
           "_anchor": "content1-4go"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6ms"
         },
         {
           "_params": {
@@ -11004,7 +11556,7 @@
           "_anchor": "content6-3bu",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text1": "<p>Black ------------ 2.5 square mm - Heated Rear Window--earth wire</p><p>Black/Green ------ 2.5 square mm - Heated Rear Window--live wire</p><p>Orange ----------- 1.0 square mm - Central Door Locking - wire 1</p><p>Pink --------------- 1.0 square mm - Central Door Locking - wire 2&nbsp;</p><p>MK1 and MK2 except for 2004 MK2 onwards (wire 2 is a earth wire)</p>",
@@ -11014,6 +11566,33 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mn"
         },
         {
           "_params": {
@@ -11429,10 +12008,37 @@
           "_anchor": "content1-32m",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "Bumper to wing 4 x 10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts are not the easiest to remove, will be corroded and may need replacing. Along the bottom edge are 3 x 10mm bolts, in the middle 6 cross head screws, 3 located at each corner, leading edge 5 x 10mm bolts."
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mx"
         },
         {
           "_params": {
@@ -11978,7 +12584,7 @@
         {
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its constant re-circulating cooling process.</p>",
@@ -11997,6 +12603,33 @@
             }
           },
           "_anchor": "content1-61w"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mj"
         },
         {
           "_params": {
@@ -12451,7 +13084,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown directly above Comprises of Leoni high tension leads, Denso 100730 coil packs, NGK BKR6E 6962 Sparkplugs. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm..</p>",
@@ -12465,6 +13098,33 @@
               "color": "#232323"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mm"
         },
         {
           "_params": {
@@ -12977,10 +13637,37 @@
           "_anchor": "content1-33m",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>Prior to fitting a new manifold gasket LKJ 101110 no sealant is required, the unit was cleaned internally, this needs a good clean to the internal space for the mixing of a combined flow of fuel and air. Also as stated a good polish to the throttle body internals.</p>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00130%20tools%20and%20parts-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "mg rover parts guide",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6mu"
         },
         {
           "_params": {
