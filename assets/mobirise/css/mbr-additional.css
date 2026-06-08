@@ -5517,6 +5517,7 @@ section.form .container {
 
 
 
+
 #ext_menu-5iv .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5598,16 +5599,22 @@ section.form .container {
   color: #ffffff;
   font-size: 46px;
 }
-#header5-6px .mbr-section-title {
-  color: #fac51c;
+#msg-box8-6qi .mbr-section-title,
+#msg-box8-6qi .lead {
+  color: #fff;
+}
+#msg-box8-6qi .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#header5-6px .mbr-section-lead {
-  color: #efefef;
-  font-size: 20px;
-}
-#header5-6px .mbr-section-title SPAN {
   font-size: 36px;
+  color: #f7da64;
+}
+#msg-box8-6qi .lead P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+#msg-box8-6qi .lead {
+  color: #ffffff;
 }
 #content1-6le P {
   font-family: 'Raleway', sans-serif;
