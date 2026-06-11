@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dashcam.html",
+    "currentPage": "twinhorns.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8737,
+    "uniqCompNum": 8736,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -6391,7 +6391,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>DVR 207 Flip Screen 2013</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>DVR 207 Flip Screen 2013 to 2014 &nbsp;</i></span>",
           "text": "Opposed to using the supplied screen mount, we created our own designed alloy support bracket, shown located above right of rear view mirror, with camera viewing screen in the closed position.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6423,7 +6423,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>Shown below from 2014 to present, now with front and rear remote activated mobius cameras being installed, smaller than the above DVR 207 about the size of a 'tic tac' box, compact and with no viewing screen. Makes for a very secure and stealth fitting with this particular model of 'clown catchers' With each lens recording in wide angle mode.&nbsp; &nbsp;</p>",
+          "text": "<p>Shown below from 2014 to present, now with front and rear remote activated mobius cameras being installed, smaller than the above DVR 207 about the size of a 'tic tac' box, compact and with no viewing screen, makes for a very secure and stealth fitting with this particular model of 'clown catchers' With each lens recording in wide angle mode.&nbsp; &nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -6445,7 +6445,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6464,9 +6464,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0044%20mobius%20dashcams-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0042-mobius-frony-camera-bracket-500x200.jpg",
               "link": "",
-              "alt": "",
+              "alt": "mobius dual dashcams",
               "linkInNewWindow": false
             },
             "video": {
@@ -6481,26 +6481,99 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Mobius Camera Locations 2014</i></span>",
-          "text": "Attached to support bracket, high level positioning of the camera required changing passenger 18\" wiper to a 20\" inch to sweep rain from windscreen/lens area Centre position of rear camera has the USB power cable, fed in along inside of rear trim panel.    .&nbsp; &nbsp;&nbsp;",
+          "title": "<span style=\"font-weight: normal;\"><i>Mobius Front Camera Location 2014</i></span>",
+          "text": "Attached to alloy support bracket, high level positioning of the camera required changing passenger 18\" wiper to a 20\" inch to sweep rain from windscreen/lens area..&nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-6qo",
+          "_anchor": "msg-box5-5uw",
           "_styles": {
             "H3": {
               "color": "#475577",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
+            },
+            "P": {
+              "color": "#000000"
             }
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#efefef",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-3es",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
             "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0041-mobius-rear-dashcam-500x200.jpg",
+              "link": "",
+              "alt": "remote activated camera's, applied to the 2004 ZR",
+              "title": "mg-zr dual dashcams",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Mobius Rear Camera Location 2014&nbsp; &nbsp;</i></span>",
+          "text": "Centre position of the rear located mobius camera, shown slipped into the supplied holding bracket, high level and discreet, with the USB power cable, fed in along inside of rear trim panel. &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
@@ -6562,7 +6635,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Cisco Flip Mino HD Video Camera. 2011</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>2011 Cisco Flip Mino HD Video Camera.</i></span>",
           "text": "Prior to dashcams becoming more popular in late 2013. We used the Flip Mino, for our videos. Shown attached to a modified quick release, slide out mobile phone holder. Which is still used occasionally.&nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6625,8 +6698,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Sanyo VMD-6P Camcorder 1990</i></span>",
-          "text": "Back in time to the 1990's family members use of attaching the camcorder to their MK2 Granada to compile journals of several 'Armchair Motoring Videos' 1997 to 1999 around North Wales.",
+          "title": "<span style=\"font-weight: 400;\"><i>1989 Sanyo VMD-6P Camcorder</i></span>",
+          "text": "Back in time to the 1990's a family members use of attaching the camcorder to their MK2 Granada to compile a journal of 'Armchair Motoring Videos' in and around North Wales.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
