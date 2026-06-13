@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "comments.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8749,
+    "uniqCompNum": 8741,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -13213,18 +13213,18 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#ffffff",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/00141%20warm%20up%20run%20before%20m.o.t-1600x600.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00117-form-image-1280x1024.jpg",
+            "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "overlay": false,
+            "bgColor": "#c1c1c1",
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
-          "title": "WHAT OUR VISITORS SAY",
+          "title": "<span style=\"font-weight: 400;\">WHAT OUR VISITORS SAY</span>",
           "subtitle": "About features, and information on our MG-Rover Information Pages",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
@@ -13244,7 +13244,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -13258,20 +13258,50 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-6r0",
+          "_anchor": "form1-5gd",
           "_styles": {
             ".form-control-label": {
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#efefef",
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
-              "color": "#efefef"
+              "color": "#cccccc"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/scrollll-1182x90.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6ky"
         },
         {
           "_params": {
@@ -14430,7 +14460,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "5",
-            "bgColor": "#cccccc"
+            "bgColor": "#fff"
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop.</p>",
@@ -14442,28 +14472,38 @@
           "_anchor": "content7-6qq"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#475577"
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/xxxxxxx-1574x105.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#cccccc"
-            }
-          },
-          "_anchor": "content1-6qx"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6qs"
         },
         {
           "_tags": [
