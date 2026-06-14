@@ -3384,8 +3384,6 @@ section.form .container {
 
 
 
-
-
 #ext_menu-2b3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -3523,23 +3521,6 @@ section.form .container {
 }
 #msg-box5-4a2 P {
   color: #232323;
-}
-#header3-6d4 .mbr-section-title,
-#header3-6d4 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-6d4 .mbr-section-title {
-  font-size: 32px;
-  font-family: 'Lora', serif;
-  color: #475577;
-  text-align: left;
-}
-#header3-6d4 .mbr-section-subtitle {
-  color: #475577;
-}
-#header3-6d4 .mbr-section-title SPAN {
-  font-size: 22px;
-  font-family: 'Raleway', sans-serif;
 }
 #content1-6d5 P {
   text-align: left;
@@ -5616,6 +5597,10 @@ section.form .container {
 }
 #msg-box8-6qp .lead {
   color: #ffffff;
+}
+#msg-box8-6ra .mbr-section-title,
+#msg-box8-6ra .lead {
+  color: #fff;
 }
 #content1-6qx P {
   font-family: 'Raleway', sans-serif;

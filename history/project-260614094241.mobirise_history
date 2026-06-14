@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8759,
+    "uniqCompNum": 8758,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -8476,8 +8476,43 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#475577",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_params": {
-            "paddingTop": "1",
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>Ignition Switch Internal View</i></span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6d4"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
@@ -8622,7 +8657,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;&nbsp;</span></p>",
+          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges.&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -8633,6 +8668,19 @@
             }
           },
           "_anchor": "content1-57f"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6ci"
         },
         {
           "_params": {
@@ -14388,10 +14436,10 @@
             "showTitle": false,
             "showText": false,
             "showButton": false,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/glosbak-1600x600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/capture-241x226.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -14400,8 +14448,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": "0.2"
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -14410,7 +14458,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6ra"
+          "_anchor": "msg-box8-6r9"
         },
         {
           "_params": {

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "ignitionswitch.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8759,
+    "uniqCompNum": 8749,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -8476,8 +8476,43 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#475577",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_params": {
-            "paddingTop": "1",
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>Ignition Switch Internal View</i></span>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6d4"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
@@ -8622,7 +8657,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;&nbsp;</span></p>",
+          "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges.&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -8633,6 +8668,19 @@
             }
           },
           "_anchor": "content1-57f"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6ci"
         },
         {
           "_params": {
@@ -14379,38 +14427,19 @@
           "_anchor": "msg-box8-6qp"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "3",
+            "paddingTop": 1,
             "paddingBottom": "5",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/glosbak-1600x600.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "bgColor": "#cccccc"
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-6ra"
+          "_name": "content7",
+          "_anchor": "content7-6qq"
         },
         {
           "_params": {
