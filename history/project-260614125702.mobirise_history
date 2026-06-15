@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsensor.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8763,
+    "uniqCompNum": 8759,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1151,7 +1151,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0095%20coolant%20level%20sensor-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00105-mg-rover-coolant-level-sensor-500x200.jpg",
               "link": "",
               "alt": "mg rover coolant sensor",
               "linkInNewWindow": false
@@ -1169,7 +1169,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Coolant Level Sensor 200/ZR</i></span>",
-          "text": "Cooling system did not need being drained, just partly syphoned out, then replaced with the new coolant tank. reed sensor connector can can just about be seen under the tank.",
+          "text": "Cooling system did not need being drained, just syphoned out, then replaced with the new coolant tank. Reed sensor connector can be seen here..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1217,7 +1217,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0096%20coolant%20sensor-500x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0094-coolant%20level%20sensors-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -1235,7 +1235,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Parts required for installation</i></span>",
-          "text": "Coolant Tank RPCF000160 Sensor RPCJ000040. peizo buzzer and the dashboard 'bulb', are an easy fit. and a really good back-up..&nbsp;",
+          "text": "Coolant Tank RPCF000160 Sensor RPCJ000040. peizo buzzer and the Optional dashboard 'bulb' an easy fit but not really required.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -6626,7 +6626,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Sanyo VMD-6P Camcorder 1990</i></span>",
-          "text": "Back in time to family members use of camcorder on their MK2 Granada to compile a collection of 'Armchair Motoring Videos' between 1991 to 2003 in and around North Wales.",
+          "text": "Back in time to family members use of camcorder on their MK2 Granada to compile a collection of 'Armchair Motoring Videos' between the years of 1991 to 2003 around North Wales.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -14389,7 +14389,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/glosbak-1600x600.jpg",
             "parallax": true,
@@ -14625,16 +14625,34 @@
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           },
           "_params": {
-            "showTitle": false,
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/partsguide%20header-1597x280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/llangollen-1600x410.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -14643,32 +14661,149 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "<span style=\"font-weight: 400;\"><i>1981 FORD GRANADA MK2 2.8 GL</i></span>",
+          "text": "<i>A brief look at our family owned Ford Granada, bought from new in 1981, modified in early 1990,&nbsp; smooth drive and reliable, went on to serve well for over 24 years&nbsp;</i>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6rb"
+          "_anchor": "msg-box8-6ds"
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#fff"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "Shown between the years of 1997 to 2003, when being used to video and compile a private collection of, Armchair Motoring Videos for home use, ideal to reflect back on during the winter months. Camera used for this was the 1989 Sanyo VMD-6P. in and around North Wales, from Llangollen along the A5 to to capel curig, down to Machynlleth, then taking the B4393 via Llynvyrnwy onto Bala, and finally to llangollen.&nbsp; &nbsp; &nbsp;&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_anchor": "content7-6rc"
+          "_name": "content1",
+          "_anchor": "content1-6od"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/01-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/02-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/03-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/04-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/05-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/06-granada-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Sanyo VMD-6P Camcorder",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "Leaving llangollen 1997",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Granada modified 1990",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Interior around 1992",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Front facing used mostly",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Along the A5 to capel curig",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-6o6"
         },
         {
           "_params": {
