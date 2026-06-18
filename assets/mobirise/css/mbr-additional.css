@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -544,16 +545,26 @@ section.form .container {
   font-size: 36px;
   text-align: center;
 }
-#header5-6qf .mbr-section-title {
-  color: #fac51c;
+#msg-box8-6s3 .mbr-section-title,
+#msg-box8-6s3 .lead {
+  color: #fff;
+}
+#msg-box8-6s3 .mbr-section-title {
   font-family: 'Lora', serif;
-}
-#header5-6qf .mbr-section-lead {
-  color: #efefef;
-  font-size: 20px;
-}
-#header5-6qf .mbr-section-title SPAN {
   font-size: 36px;
+  color: #f7da64;
+}
+#msg-box8-6s3 .lead P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+#msg-box8-6s3 .lead {
+  color: #ffffff;
+}
+#msg-box8-6s4 .mbr-section-title,
+#msg-box8-6s4 .lead {
+  color: #fff;
 }
 #content1-6ll P {
   font-family: 'Raleway', sans-serif;
