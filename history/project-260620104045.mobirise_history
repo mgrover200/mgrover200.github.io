@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "torque.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8806,
+    "uniqCompNum": 8797,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -3837,7 +3837,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#475577",
             "overlayOpacity": "0.3"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
@@ -10313,7 +10313,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0091%20mg-rover%20cylinder%20head%20torque-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0023-cylinder-head.jpg",
               "link": "",
               "alt": "",
               "title": "cylinder-head-t0rque",
@@ -10383,7 +10383,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0090%20mgrover%20camshaft%20carrier-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0024-cam-carrier.jpg",
               "link": "",
               "alt": "",
               "title": "camshaft-carrier-torque",
@@ -10501,7 +10501,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/0089%20rover%20engine%20top%20cover-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0092-mg-rover-engine-top-cover-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -14789,24 +14789,38 @@
           "_anchor": "msg-box8-6rm"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop .</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop .</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop .</p>",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content7",
-          "_anchor": "content7-6si",
-          "_styles": {
-            ".lead": {
-              "color": "#000000"
-            }
-          }
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6s2"
         },
         {
           "_params": {
