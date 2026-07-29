@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -15316,8 +15316,8 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
+            "showTitles": false,
+            "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
             "paddingTop": "0",
@@ -15419,12 +15419,12 @@
           "title6": "<span style=\"font-weight: 400;\"><i>Dashcam System .</i></span>",
           "subtitle6": "High level, discreet, dual activated dashcams ZR 2014.&nbsp;",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/lightcheck.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/torque.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/dashcam.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">AUDIO REMOTES ZR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">IGNITION 200/25/ZR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/lightcheck.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BRAKE CHECKING ZR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">NAVIGATION 200/ZR</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/torque.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TORQUE SETTINGS</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/dashcam.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DASHCAMS ZR&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -15456,7 +15456,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
