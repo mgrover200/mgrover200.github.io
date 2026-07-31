@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8829,
+    "uniqCompNum": 8826,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -257,7 +257,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>With various aspects of servicing, and maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "text": "<p><i>With various aspects of servicing, and maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+&nbsp;</i><a href=\"https://mgrover200.github.io/projects.html\" class=\"text-warning\" style=\"\">more.</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -318,7 +318,7 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           },
           "_anchor": "content1-6ll"
@@ -15078,7 +15078,7 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#efefef"
+              "color": "#cccccc"
             }
           },
           "_anchor": "content1-6qx"
@@ -15320,8 +15320,8 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
+            "showTitles": false,
+            "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
             "paddingTop": "0",
@@ -15413,7 +15413,7 @@
           "subtitle2": "Taking a look inside the ignition switch, how its assembled.&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "<span style=\"font-weight: 400;\"><i>Brake and Tail Lights</i></span>",
-          "subtitle3": "Our 2016 project for the ZR, to notify if a rear bulb is out 2016.",
+          "subtitle3": "Our 2016 project for the ZR, to notify if a light bulb is out.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "<span style=\"font-weight: 400;\"><i>Navigation System</i></span>",
           "subtitle4": "Our own design, for the Rover 200/25/ZR, created in 2008.",
@@ -15424,12 +15424,12 @@
           "title6": "<span style=\"font-weight: 400;\"><i>Dashcam System .</i></span>",
           "subtitle6": "High level, discreet, dual activated dashcams ZR 2014.&nbsp;",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/lightcheck.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/torque.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/dashcam.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">AUDIO REMOTES ZR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/lightcheck.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">BRAKE CHECKING ZR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/satnav.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">NAVIGATION 200/ZR</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/torque.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">TORQUE SETTINGS</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/dashcam.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DASHCAMS ZR&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -15446,12 +15446,9 @@
             },
             "SPAN": {
               "font-size": "17px"
-            },
-            ".btn": {
-              "font-size": "10px"
             }
           },
-          "_anchor": "features3-6t7"
+          "_anchor": "features3-6t1"
         },
         {
           "_styles": {
@@ -15464,7 +15461,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
@@ -15488,28 +15485,39 @@
           "_anchor": "msg-box8-6t2"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px",
+              "color": "#cccccc"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "16px"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#cccccc"
+            }
+          },
           "_params": {
+            "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#475577"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "title": "<span style=\"font-weight: 400;\"><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120 +</i></span>",
+          "meta": "Our projects page is available <a href=\"https://mgrover200.github.io/projects.html\" class=\"text-primary\">Here</a>&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#efefef"
-            }
-          },
-          "_anchor": "content1-6t6"
+          "_name": "header3",
+          "_anchor": "header3-6t5"
         },
         {
           "_tags": [
