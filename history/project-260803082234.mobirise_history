@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8846,
+    "uniqCompNum": 8844,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14869,7 +14869,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -14887,17 +14887,17 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6tp"
+          "_anchor": "msg-box8-6tm"
         },
         {
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -14914,86 +14914,86 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00143-mg-rover%20torque%20settings-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/torque.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00144-rover%20200%2025%20zr%20ignition%20switch-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00145-coolant%20level%20sensor%20200-25-zr-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/coolsensor.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00147-engine%20oil%20sump%20removal%20rover%20200-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/oilsump.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00146-sunroof%20200-25-zr-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/sunroof.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/00148-gearbox%20oil%20change%20rover%20200-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/000blank-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/gearboxoil.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: 400;\"><i>Engine Torque</i></span>",
+          "title1": "<span style=\"font-weight: 400;\"><i>Audio&nbsp; Controls ZR.</i></span>",
           "subtitle1": "After trial and error, we eventually got this fitted and working.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<span style=\"font-weight: 400;\"><i>Ignition Switch ZR</i></span>",
           "subtitle2": "Taking a look inside the ignition switch, how its assembled.&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Coolant&nbsp; Sensor</i></span>",
+          "title3": "<span style=\"font-weight: 400;\"><i>Brake and Tail Lights</i></span>",
           "subtitle3": "Our 2016 project for the ZR, to notify if a rear bulb is out 2016.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Oil Sump 200</i></span>",
+          "title4": "<span style=\"font-weight: 400;\"><i>Navigation System</i></span>",
           "subtitle4": "Our own design, for the Rover 200/25/ZR, created in 2008.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Sunroof&nbsp; Removal</i></span>",
+          "title5": "<span style=\"font-weight: 400;\"><i>Engine Torque</i></span>",
           "subtitle5": "Tightening sequence during head gasket replacement.",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Gearbox Oil&nbsp; 200</i></span>",
+          "title6": "<span style=\"font-weight: 400;\"><i>Dashcam System .</i></span>",
           "subtitle6": "High level, discreet, dual activated dashcams ZR 2014.&nbsp;",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
@@ -15009,7 +15009,7 @@
           "_anchor": "features3-6su",
           "_styles": {
             "H4": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "19px"
