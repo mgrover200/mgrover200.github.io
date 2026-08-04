@@ -2293,6 +2293,7 @@ section.form .container {
 
 
 
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2437,6 +2438,20 @@ section.form .container {
 }
 #content1-20i DIV {
   color: #000000;
+}
+#features3-6tt H4 {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+}
+#features3-6tt H5 {
+  color: #efefef;
+}
+#features3-6tt SPAN {
+  font-size: 17px;
+}
+#features3-6tt .btn {
+  font-size: 10px;
 }
 #content1-60z P {
   font-family: 'Raleway', sans-serif;
@@ -5731,7 +5746,7 @@ section.form .container {
   color: #ffffff;
 }
 #features3-6su H4 {
-  color: #232323;
+  color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
 }
