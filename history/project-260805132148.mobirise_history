@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gearboxoil.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8861,
+    "uniqCompNum": 8854,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -4911,7 +4911,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/partsguide%20header-1597x280.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -4919,9 +4919,9 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
           "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
@@ -4930,7 +4930,7 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6u2"
+          "_anchor": "msg-box8-5ny"
         },
         {
           "_styles": {
@@ -5093,33 +5093,6 @@
             }
           },
           "_anchor": "content1-4nz"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rover%20200-25-zr%20partsguide-1109x135.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6u3"
         },
         {
           "_params": {
@@ -9962,7 +9935,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#cccccc"
           },
           "text": "<p>This gearbox oil change is based on a vehicle parked on level ground. To achieve a correct oil fill level, is when oil begins to slowly trickle out from the filler hole. Oil used in the 200 gearbox is a SAE75W-80W to an API GL5 viscosity, around 1.75 litres up to the correct level.</p>",
@@ -9974,24 +9947,6 @@
           "_styles": {
             "DIV": {
               "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<p><a href=\"https://mgrover200.github.io/purgevalve.html\" class=\"text-black\">Purge Valve&nbsp;</a> &nbsp; <a href=\"https://mgrover200.github.io/partsguide.htm\" class=\"text-black\">Parts Guide&nbsp;</a> &nbsp; <a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-black\">Sun Roof</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/cabinfuse.html\" class=\"text-black\">Cabin Fuse</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/enginefuse.html\" class=\"text-black\">Engine Fuse</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/coolsystem.html\" class=\"text-black\">Cooling System</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-6u1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
             }
           }
         },
