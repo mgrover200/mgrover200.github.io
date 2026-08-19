@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "coolsystem.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8862,
+    "uniqCompNum": 8893,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -903,7 +903,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -7701,7 +7701,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -11604,7 +11604,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 1
       },
       "components": [
         {
@@ -11889,7 +11889,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00106-cooling-system-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-mg-rover-cooling-system-500x200.jpg",
               "link": "",
               "alt": "mg-rover-coolant-elbow-joint",
               "linkInNewWindow": false
@@ -12001,7 +12001,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/00107-heater-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-mg-rover-cooling-system-matrix-valve-500x200.jpg",
               "link": "",
               "alt": "saab-matrix-valve",
               "linkInNewWindow": false
@@ -13155,7 +13155,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -13429,7 +13429,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -14717,7 +14717,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -14894,43 +14894,45 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hoylandswaine-1600x402.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/partsguide-header-1597x280.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#475577",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "text": "<p><i>With various aspects of servicing, and maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6tk"
+          "_anchor": "msg-box8-6uu"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#7e9b9f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -14939,118 +14941,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00143-mg-rover%20torque%20settings-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/torque.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00144-rover%20200%2025%20zr%20ignition%20switch-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00145-coolant%20level%20sensor%20200-25-zr-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/coolsensor.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00147-engine%20oil%20sump%20removal%20rover%20200-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/oilsump.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00146-sunroof%20200-25-zr-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/sunroof.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/00148-gearbox%20oil%20change%20rover%20200-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/gearboxoil.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i>Engine Torque</i></span>",
-          "subtitle1": "After trial and error, we eventually got this fitted and working.",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: 400;\"><i>Ignition Switch ZR</i></span>",
-          "subtitle2": "Taking a look inside the ignition switch, how its assembled.&nbsp;",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Coolant&nbsp; Sensor</i></span>",
-          "subtitle3": "Our 2016 project for the ZR, to notify if a rear bulb is out 2016.",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Oil Sump 200</i></span>",
-          "subtitle4": "Our own design, for the Rover 200/25/ZR, created in 2008.",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Sunroof&nbsp; Removal</i></span>",
-          "subtitle5": "Tightening sequence during head gasket replacement.",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Gearbox Oil&nbsp; 200</i></span>",
-          "subtitle6": "High level, discreet, dual activated dashcams ZR 2014.&nbsp;",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/audioremotes.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/lightcheck.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">COOLANT SENSOR&nbsp;</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/satnav.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/torque.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/dashcam.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "19px"
-            },
-            "H5": {
-              "color": "#efefef"
-            },
-            "SPAN": {
-              "font-size": "17px"
-            },
-            ".btn": {
-              "font-size": "10px"
-            }
-          },
-          "_anchor": "features3-6tv"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6ut"
         },
         {
           "_params": {
