@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cabinheater.html",
+    "currentPage": "coolsystem.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -1312,6 +1312,33 @@
             }
           },
           "_anchor": "content1-6ct"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rover%20200-25-zr%20partsguide-1109x135.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6v1"
         },
         {
           "_params": {
@@ -8013,7 +8040,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-mg-rover-cold-cabin-heater-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/0097%20coolant%20heater%20valve-500x200.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -8109,9 +8136,9 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6-mg-rover-matrix-heater-valve-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/00108-matrix-valve-500x200.jpg",
               "link": "",
-              "alt": "matrix heater valve rover200 and mg-zr",
+              "alt": "coolant sensor rover200 and mg-zr",
               "linkInNewWindow": false
             },
             "video": {
