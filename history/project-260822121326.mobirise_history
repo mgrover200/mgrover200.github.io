@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "emissions.html",
+    "currentPage": "coolsystem.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8895,
+    "uniqCompNum": 8894,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -7107,10 +7107,15 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#fac51c",
+              "font-size": "36px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px"
+              "color": "#fac51c"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_params": {
@@ -7120,7 +7125,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/36-mg-rover-emissions-test-run-2011-m.o.t-1600x600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/36-mg-rover-warm-up-run-before-the-m.o.t-1600x600.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -7130,16 +7135,16 @@
             },
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
-          "title": "M.O.T WARM UP RUN 2011",
+          "title": "M.O.T WARM UP RUN 2011&nbsp;",
           "text": "Using the Flip Mino video camera for a dynamic view.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6v2"
+          "_anchor": "msg-box8-6p5"
         },
         {
           "_params": {
