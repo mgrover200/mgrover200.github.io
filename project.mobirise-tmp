@@ -1,0 +1,70 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "MG Rover",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#90a878",
+        "secondaryColor": "#efefef",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#232323",
+        "#444444",
+        "#565656",
+        "#222222"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 8895,
+    "versionPublish": "5.6.0",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "noImageResize": "true",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Start of StatCounter Code for Default Guide -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11479801; \r\nvar sc_invisible=1; \r\nvar sc_security=\"eb066dbe\"; \r\nvar scJsHost = ((\"https:\" == document.location.protocol) ?\r\n\"https://secure.\" : \"http://www.\");\r\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\r\nscJsHost+\r\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\r\n</script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\r\nMade Easy - StatCounter\" href=\"http://statcounter.com/\"\r\ntarget=\"_blank\"><img class=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11479801/0/eb066dbe/1/\" alt=\"Web\r\nAnalytics Made Easy - StatCounter\"></a></div></noscript>\r\n<!-- End of StatCounter Code for Default Guide -->",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": false,
+    "siteUrl": "https://mgrover200.github.io/",
+    "sitemapSwitcherAuto": false,
+    "sitemapSwitcher": "on",
+    "siteFonts": [],
+    "imageResize": true,
+    "mbrsiteDomain": "dcumeu0ugf",
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "I accept information supplied, can not always be featured on these pages.   "
+    },
+    "cookiesAlert": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
