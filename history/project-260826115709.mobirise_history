@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dashcam.html",
+    "currentPage": "coolsensor.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8899,
+    "uniqCompNum": 8898,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -6337,7 +6337,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/68-dashcam-1600x333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/new%20hoyland-1600x535.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -6415,20 +6415,77 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
-          "text": "Opposed to using the supplied windscreen mounted fitting. We set about creating our own, suitable, and more stable alloy support bracket, located above right of the rear view mirror. With the camera viewing screen shown in its closed position.&nbsp;",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/42-mg-rover-dual-dashcams-2004-mg-zr-500x200.jpg",
+              "link": "",
+              "alt": "remote activated camera's, applied to the 2004 ZR",
+              "title": "mg-zr dual dashcams",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>DVR 207 Flip Screen 2013</i></span>",
+          "text": "Opposed to using the supplied screen mount, we created our own designed alloy support bracket, shown located above right of rear view mirror, with camera viewing screen in the closed position.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-6v6"
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "color": "#475577",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            },
+            "P": {
+              "font-size": "17px",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-5qb"
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": 1,
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
@@ -10160,7 +10217,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
