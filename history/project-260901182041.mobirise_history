@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8911,
+    "uniqCompNum": 8908,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14860,12 +14860,47 @@
           "_anchor": "msg-box8-6va"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#efefef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#7e9b9f"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECT SELECTIONS</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6vd"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "6",
@@ -14884,40 +14919,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/81-mg-rover-cooling-system-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/coolsystem.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/82-mg-rover-coolant-level%20sensor-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/coolsensor.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/83-mg-rover-cooling-system-matrix-valve-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/cabinheater.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/84-mg-rover-yxb-100350-ignition-switch-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81-ignition-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14926,48 +14928,81 @@
               "linkInNewWindow": false
             }
           },
-          "media5": {
+          "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/85-mg-rover-ignition-leads-fitting-sequence-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/82-cooling-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/ignitionleads.html",
+              "link": "https://mgrover200.github.io/coolsystem.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/83-fuel-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/fuelfilter.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/84-oilsump-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/oilsump.html",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/85-fuel-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://mgrover200.github.io/sunroof.html",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/86-mg-rover-tailgate-wiring-harness-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/86-coolsensor-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/tailgate.html",
+              "link": "https://mgrover200.github.io/coolsensor.html",
               "alt": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: 400;\"><i>Cooling System</i></span>",
-          "subtitle1": "Coolant elbow joint In conventional systems, is located on the outlet.",
+          "title1": "<span style=\"font-weight: normal;\"><i>Ignition Switch</i></span>",
+          "subtitle1": "This is attached to bottom of key barrel with two small screws.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: normal;\"><i>Coolant Sensor</i></span>",
-          "subtitle2": "A coolant low level warning sensor, has been a good safety feature.",
+          "title2": "<span style=\"font-weight: normal;\"><i>Cooling System</i></span>",
+          "subtitle2": "Cabin heater matrix, is basically a smaller version of the cars radiator.",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Cabin Heater</i></span>",
-          "subtitle3": "Cabin Heater matrix, is basically a smaller version of the cars radiator",
+          "title3": "<span style=\"font-weight: normal;\"><i>Fuel Filter</i></span>",
+          "subtitle3": "New filter is placed in the clamp with correct fuel flow direction.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Ignition Switch</i></span>",
-          "subtitle4": "To replace the YXB-100350 ignition switch. attached to key barrel.",
+          "title4": "<span style=\"font-weight: normal;\"><i>Oil Sump 200</i></span>",
+          "subtitle4": "Access to the sump bolts, did require flywheel cover plate being removed.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
-          "subtitle5": "Anti-clockwise refers to looking directly at the distributor cap.",
+          "title5": "<span style=\"font-weight: normal;\"><i>Sun Roof</i></span>",
+          "subtitle5": "Before glass panel is placed back, mechanism needs to be closed.",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Tailgate Loom</i></span>",
-          "subtitle6": "Over time the tailgate wires will fray cause problems, and break.",
+          "title6": "<span style=\"font-weight: normal;\"><i>Coolant Sensor</i></span>",
+          "subtitle6": "A coolant low level warning sensor,&nbsp; has been a good safety feature.",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/coolsensor.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/coolsystem.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/fuelfilter.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/oilsump.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mgrover200.github.io/sunroof.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -14991,6 +15026,41 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "32px",
+              "color": "#efefef"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef",
+              "font-size": "15px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#7e9b9f"
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECT SELECTIONS</i></span>",
+          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6vf"
         },
         {
           "_params": {
