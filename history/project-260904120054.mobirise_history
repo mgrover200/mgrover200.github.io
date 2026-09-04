@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8923,
+    "uniqCompNum": 8920,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14999,8 +14999,8 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15131,13 +15131,47 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/89-woodsome-1600x200.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#90a878",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6vq"
+        },
+        {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 2,
             "columns": "6",
             "bgImageRadio": false,
@@ -15199,43 +15233,37 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/98-mg-rover-fitting-remotes-to-2004-mg-zr-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/audioremotes.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/99-mobius%20dashcams-366x243.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/dashcam.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title1": "<span style=\"font-weight: 400;\"><i>Inlet Manifold&nbsp;</i></span>",
-          "subtitle1": "Coolant can be drained off, or just&nbsp; syphoned to a lower level.",
+          "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<span style=\"font-weight: 400;\"><i>Fuel Filter Change</i></span>",
-          "subtitle2": "To release the fuel filter unions open ended spanners were both used.",
+          "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "<span style=\"font-weight: 400;\"><i>Emissions Testing</i></span>",
-          "subtitle3": "Our own procedure before taking the test, is to add some fuel additive.",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "<span style=\"font-weight: 400;\"><i>Dual Horns ZR</i></span>",
-          "subtitle4": "Access to horns, was really, only to have steering on full right lock.",
+          "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Audio Remotes ZR</i></span>",
-          "subtitle5": "Wiring from out of the loom was not found. so routed my own wiring.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Mobius Dashcams</i></span>",
-          "subtitle6": "Power is supplied using dual USB cables, with 64gb micro cards.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
