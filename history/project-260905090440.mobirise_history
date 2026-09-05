@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8930,
+    "uniqCompNum": 8923,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -15138,7 +15138,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": 2,
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15258,170 +15258,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/100-mg-rover-bulb-monitoring-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/lightcheck.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/101-rover%20navigation-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/satnav.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/102-rover%20colour%20codes-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/103-purge%20valve-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/purgevalve.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/104-partsguide-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/partsguide.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/105-mg-rover-gear-box-drain-and-fill-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/gearboxoil.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i>Tail Bulbs Notifier</i></span>",
-          "subtitle1": "You will never know, just who is going to sneak in behind you.",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: 400;\"><i>Navigation 200/ZR</i></span>",
-          "subtitle2": "When not in use, the unit remains un-detectable from inside.",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Colour Codes</i></span>",
-          "subtitle3": "Original vehicle paint codes listed from 1963 and up to 2005.",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Purge Valve</i></span>",
-          "subtitle4": "Purge valve solenoid collects fuel vapors from the fuel tank.",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Parts Guide 2004</i></span>",
-          "subtitle5": "A small and random selection from our original, tools and parts.",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Gear Box Oil</i></span>",
-          "subtitle6": "Our none messy filling procedure, inserted into the filler hole.",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-6vv",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            "H4": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/89-woodsome-1600x200.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-6w1"
         },
         {
           "_params": {
