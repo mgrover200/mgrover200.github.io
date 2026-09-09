@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8954,
+    "uniqCompNum": 8950,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1139,27 +1139,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-6iv"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<i>View all Features, and Projects, that are available on our <a href=\"https://mgrover200.github.io/projects.html\" class=\"text-info\">Web Pages.</a></i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "content1-6wo"
         },
         {
           "_params": {
@@ -7902,27 +7881,6 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<i>View all Features, and Projects, that are available on our <a href=\"https://mgrover200.github.io/projects.html\" class=\"text-info\">Web Pages.</a></i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "content1-6wp"
-        },
-        {
-          "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgColor": "#cccccc"
@@ -11832,12 +11790,13 @@
           "_styles": {
             "DIV": {
               "text-align": "center",
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px"
             }
           },
-          "_anchor": "content1-6wn"
+          "_anchor": "content1-6wl"
         },
         {
           "_params": {
