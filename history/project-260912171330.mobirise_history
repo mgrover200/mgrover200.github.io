@@ -1256,7 +1256,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/4-mg-rover-coolant-sensor-warning-modules-1-500x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-mg-rover-coolant-sensor-warning-modules-500x100.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -7853,10 +7853,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#232323"
+              "color": "#475577"
             },
             ".mbr-section-subtitle": {
-              "color": "#232323",
+              "color": "#475577",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -7869,7 +7869,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>COLD CABIN HEATER</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -7881,9 +7881,30 @@
         },
         {
           "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<i>View all Features, and Projects, that are available on our <a href=\"https://mgrover200.github.io/projects.html\" class=\"text-info\">Web Pages.</a></i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-6wp"
+        },
+        {
+          "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The only problem with the cooling system since getting the one owner ZR in 2010 Was having no heat in the cabin, we had replaced the radiator, that was corroded along the bottom edge, probably due to a long term incorrect coolant mix, top and bottom radiator hoses fitted, then a correct fill of 5.5 litres of OAT coolant, but the heater was not throwing much out.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7906,7 +7927,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Using a further trial and elimination process, the cabin heater control dial was set to hot position, radiator bottom hose detached and coolant drained off yet again. The first to check were the heater control valve, the cabin heater control dial, and then the heater matrix..</p>",
           "_tags": [
@@ -7938,7 +7959,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7977,7 +7998,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#232323",
+              "color": "#475577",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -7989,7 +8010,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident so&nbsp; attention turned to the matrix valve.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -8012,7 +8033,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process, There is an easy fix, but these cars are now old, and would now benefit from new heater hoses.&nbsp; &nbsp;",
           "_tags": [
@@ -8034,7 +8055,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8074,7 +8095,7 @@
           "_anchor": "msg-box5-5a0",
           "_styles": {
             "H3": {
-              "color": "#232323",
+              "color": "#475577",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -8096,7 +8117,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, is essential.</p>",
           "_tags": [
