@@ -1092,7 +1092,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -10860,7 +10860,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -10882,10 +10882,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#000000"
+              "color": "#475577"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000",
+              "color": "#475577",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -10898,7 +10898,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>TAILGATE WIRING LOOM</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -10922,14 +10922,14 @@
             },
             "DIV": {
               "font-size": "17px",
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "content1-324",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The tailgate wiring loom YMN 101940 of the 200/25/ZR tend to cause plenty of electrical problems, in the section where wires pass from body to tailgate through a rubber sleeve. Located on each side of the tailgate, the sleeve on the left contains water supply tube for rear screen wash. sleeve on the right carries a multitude of electrical wires."
         },
@@ -10940,7 +10940,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#475577",
               "font-size": "20px"
             },
             "SPAN": {
@@ -10952,7 +10952,7 @@
             "P": {
               "font-size": "17px",
               "text-align": "left",
-              "color": "#000000"
+              "color": "#232323"
             }
           },
           "_anchor": "msg-box5-325",
@@ -10968,7 +10968,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11012,13 +11012,13 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>Black ------------ 2.5 square mm - Heated Rear Window--earth wire</p><p>Black/Green ------ 2.5 square mm - Heated Rear Window--live wire</p><p>Orange ----------- 1.0 square mm - Central Door Locking - wire 1</p><p>Pink --------------- 1.0 square mm - Central Door Locking - wire 2&nbsp;</p><p>MK1 and MK2 except for 2004 MK2 onwards (wire 2 is a earth wire)</p>",
           "text2": "<p>Light Green/Grey -- 1.0 square mm - Rear Wiper Motor - wire 1</p><p>Brown/Green ------ 1.0 square mm - Rear Wiper Motor - wire 2</p><p>Red/Green ---------1.0 square mm - Rear Wiper Motor - wire 3</p><p>Red/Orange ------- 0.5 square mm - Number Plate Lamps - live wire</p><p>Green/Purple ----- 1.0 square mm - High Brake Light - live wire</p><p>Purple/Red -------- 1.0 square mm - Boot/Tailgate Door Switch.</p>",
           "_styles": {
             ".lead": {
-              "color": "#000000"
+              "color": "#232323"
             }
           }
         },
