@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "projects.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8978,
+    "uniqCompNum": 8971,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -9878,7 +9878,7 @@
             "paddingBottom": "1",
             "bgColor": "#475577"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+&nbsp;</i></p>",
+          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+ <a href=\"https://mgrover200.github.io/comments.html\" class=\"text-warning text-primary\">Page&nbsp;Review</a>-<a href=\"https://mgrover200.github.io/projects.html\" class=\"text-warning\">Projects</a></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -14825,33 +14825,52 @@
           "_anchor": "msg-box8-6va"
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#000"
             },
-            ".mbr-section-title": {
+            ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#000000",
-              "font-size": "30px"
+              "font-size": "46px"
             },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
+            ".lead": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#475577"
+            },
+            ".mbr-section-title": {
+              "color": "#475577"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECTS / MAINTENANCE PAGES</i></span>",
-          "meta": "MOST VIEWED ROVER 200 and ZR PROJECTS",
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECTS</i></span>",
+          "text": "A RANDOM SELECTION OF ROVER 200 and ZR PROJECTS",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-6xc"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6x6"
         },
         {
           "_params": {
@@ -14878,87 +14897,87 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/92-mg-rover-camshaft-carrier-torque-settings-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/91-oilsump-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/torque.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/81-mg-rover-cooling-system-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101-rover%20navigation-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/coolsystem.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/103-purge%20valve-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/100-mg-rover-bulb-monitoring-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/purgevalve.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/102-rover%20colour%20codes-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/98-mg-rover-fitting-remotes-to-2004-mg-zr-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-rover-sunroof-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/99-mobius%20dashcams-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/sunroof.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/106-view-more-info-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/84-mg-rover-yxb-100350-ignition-switch-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/projects.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: 400;\"><i>Engine Torque</i></span>",
-          "subtitle1": "A numbered sequence, to complete cylinder head fitting.",
+          "title1": "<span style=\"font-weight: 400;\"><i>Oil Sump 200</i></span>",
+          "subtitle1": "Oil sump removal and clean out, on our 1996 Rover 200 series.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: 400;\"><i>Cooling System</i></span>",
-          "subtitle2": "Coolant elbow joint in conventional systems, is located on outlet.",
+          "title2": "<span style=\"font-weight: 400;\"><i>Navigation</i></span>",
+          "subtitle2": "When not in use, the unit remains totally un-detected",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Purge Valve</i></span>",
-          "subtitle3": "Purge valve solenoid collects fuel vapors from the fuel tank.",
+          "title3": "<span style=\"font-weight: 400;\"><i>Bulb Notifier</i></span>",
+          "subtitle3": "You will never know, just who is going to sneak in behind you.",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Colour Codes</i></span>",
-          "subtitle4": "Original vehicle paint codes listed from 1963 and up to 2005.",
+          "title4": "<span style=\"font-weight: 400;\"><i>Audio Remotes</i></span>",
+          "subtitle4": "Wiring from loom was not found. so routed own wiring.",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Sunroof Panel</i></span>",
-          "subtitle5": "Damp headlining on 2004 ZR, cleaned, drain channel.",
+          "title5": "<span style=\"font-weight: 400;\"><i>Dashcams</i></span>",
+          "subtitle5": "Power supplied using USB cables, with 64gb micro cards.",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>View More</i></span>",
-          "subtitle6": "Selection of our 200 and ZR Information&nbsp; Pages.",
+          "title6": "<span style=\"font-weight: 400;\"><i>Ignition Switch</i></span>",
+          "subtitle6": "Replacing the YXB-100350 switch. attached to key barrel.",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -15004,7 +15023,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#f7da64",
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
@@ -15295,13 +15314,13 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECTS / MAINTENANCE PAGES</i></span>",
-          "meta": "A SELECTION OF ROVER 200 and ZR PROJECTS",
+          "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PROJECTS PAGE</i></span>",
+          "meta": "RANDOM SELECTION OF ROVER 200 and ZR PROJECTS",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-6xd"
+          "_anchor": "header3-6x0"
         },
         {
           "_params": {
@@ -15383,7 +15402,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/86-tailgate-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/86-mg-rover-tailgate-wiring-harness-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
