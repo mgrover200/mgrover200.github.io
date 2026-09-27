@@ -4554,6 +4554,7 @@ section.form .container {
 
 
 
+
 #ext_menu-32n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4726,6 +4727,18 @@ section.form .container {
 }
 #content1-61w DIV {
   color: #000000;
+}
+#msg-box3-6xx .mbr-section-title,
+#msg-box3-6xx .lead {
+  color: #000;
+}
+#msg-box3-6xx .mbr-section-title {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+#msg-box3-6xx .mbr-section-title SPAN {
+  font-size: 30px;
 }
 #content1-60g P {
   font-family: 'Raleway', sans-serif;
