@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9000,
+    "uniqCompNum": 8998,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -1315,50 +1315,6 @@
             }
           },
           "_anchor": "content1-6ct"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Cold Cabin Heater ZR&nbsp;</i></span>",
-          "text": "The only problem with the cooling system since getting the one owner ZR in 2010 Was having no heat in the cabin, we had replaced the radiator, that was corroded.",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/cabinheater.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6xy"
         },
         {
           "_params": {
@@ -8076,7 +8032,7 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#efefef"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, is essential.</p>",
@@ -8095,50 +8051,6 @@
               "color": "#000000"
             }
           }
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Engine Cooling System</i></span>",
-          "text": "How the cooling system works. Water pump pushes coolant..into engine block, then flows into cylinder head getting hotter as it circulates, coolant exits from coolant elbow.",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/coolsystem.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6xz"
         },
         {
           "_params": {
@@ -12136,7 +12048,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Sensor&nbsp;</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Warning Sensor&nbsp;</i></span>",
           "text": "Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years.",
           "_tags": [
             "Theme"
