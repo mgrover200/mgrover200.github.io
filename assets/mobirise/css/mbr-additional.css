@@ -3572,15 +3572,17 @@ section.form .container {
 #content1-57f DIV {
   color: #000000;
 }
-#msg-box5-6l3 H3 {
+#msg-box3-6y0 .mbr-section-title,
+#msg-box3-6y0 .lead {
+  color: #000;
+}
+#msg-box3-6y0 .mbr-section-title {
   color: #475577;
+  font-family: 'Raleway', sans-serif;
   font-size: 22px;
 }
-#msg-box5-6l3 SPAN {
-  font-family: 'Raleway', sans-serif;
-}
-#msg-box5-6l3 P {
-  color: #000000;
+#msg-box3-6y0 .mbr-section-title SPAN {
+  font-size: 30px;
 }
 #content1-60h P {
   font-family: 'Raleway', sans-serif;
@@ -4790,6 +4792,7 @@ section.form .container {
 
 
 
+
 #ext_menu-334 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4938,6 +4941,18 @@ section.form .container {
 }
 #content1-4yf DIV {
   color: #000000;
+}
+#msg-box3-6y1 .mbr-section-title,
+#msg-box3-6y1 .lead {
+  color: #000;
+}
+#msg-box3-6y1 .mbr-section-title {
+  color: #475577;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+#msg-box3-6y1 .mbr-section-title SPAN {
+  font-size: 30px;
 }
 #content1-60i P {
   font-family: 'Raleway', sans-serif;
