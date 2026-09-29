@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coolsystem.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9004,
+    "uniqCompNum": 9002,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -568,7 +568,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#475577"
             },
             ".mbr-section-subtitle": {
               "color": "#475577",
@@ -839,54 +839,10 @@
           "_anchor": "content1-1js",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#efefef"
           },
           "text": "<p>The cable and connector shown across front of the fuse panel, formed part of a project we were still working on a couple of winters ago, The fitting of driver and front passenger heated seat elements, a good choice for the MG and with a quick warm up time of only several seconds.</p>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Warning Sensor&nbsp;</i></span>",
-          "text": "Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years.",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/enginefuse.html\" data-toolbar=\"-mbrBtnMove\">ENGINE FUSE-PAGE VIEW</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6y3"
         },
         {
           "_params": {
@@ -1261,7 +1217,7 @@
           "_anchor": "msg-box5-5t8",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -1330,7 +1286,7 @@
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#475577"
+              "color": "#7e9b9f"
             },
             "P": {
               "color": "#000000"
@@ -1379,7 +1335,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "0",
@@ -1402,7 +1358,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/cabinheater.html\" data-toolbar=\"-mbrBtnMove\">CABIN HEATER-PAGE VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/cabinheater.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6xy"
         },
@@ -1675,7 +1631,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#475577"
             },
             ".mbr-section-subtitle": {
               "color": "#475577",
@@ -1929,50 +1885,6 @@
             "bgColor": "#efefef"
           },
           "text": "<p>Midi Fusible Links: <b>FL 7</b> Starter 40 amp (green) <b>FL 8</b> Cooling 20 amp (blue) <b>FL 9</b> Lights 40 amp (green) <b>FL 10</b> Blower 30 amp (pink) <b>FL 11</b> Cooling 30 amp (pink) <b>FL 12</b> ABS 40 amp (green). <b>Relay 1</b> Fuel Pump. <b>Relay 2</b> Starter Motor.<b>Relay 3</b> Cooling Fan. <b>Relay 4</b> Main Relay. <b>Relay 5</b> Blower Motor. <b>Relay 6</b> Front Fog Lights. <b style=\"\">Relay 7</b> A/C Compressor.</p>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "color": "#475577",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Warning Sensor&nbsp;</i></span>",
-          "text": "Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years.",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/cabinfuse.html\" data-toolbar=\"-mbrBtnMove\">CABIN FUSE-PAGE VIEW</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6y2"
         },
         {
           "_params": {
@@ -8043,7 +7955,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -8145,7 +8057,7 @@
           "_anchor": "msg-box5-5a0",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -8205,7 +8117,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "0",
@@ -8228,7 +8140,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/coolsystem.html\" data-toolbar=\"-mbrBtnMove\">COOLING SYSTEM-PAGE VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/coolsystem.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6xz"
         },
@@ -8620,7 +8532,7 @@
           "_anchor": "msg-box5-4a2",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-size": "22px"
             },
             "SPAN": {
@@ -8732,7 +8644,7 @@
           "_anchor": "msg-box5-6rs",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -8786,7 +8698,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/10-mg-rover-ignition-switch-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9-mg-rover-ignition-key-and-fob-486x191.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -8813,7 +8725,7 @@
           "_anchor": "msg-box5-5us",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -8865,7 +8777,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "0",
@@ -8888,7 +8800,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/ignitionleads.html\" data-toolbar=\"-mbrBtnMove\">IGNITION LEADS-PAGE VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/ignitionleads.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6y0"
         },
@@ -10992,7 +10904,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#475577"
             },
             ".mbr-section-subtitle": {
               "color": "#475577",
@@ -11993,7 +11905,7 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
-              "color": "#475577"
+              "color": "#7e9b9f"
             }
           }
         },
@@ -12095,7 +12007,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
-              "color": "#475577"
+              "color": "#7e9b9f"
             },
             "P": {
               "text-align": "left",
@@ -12191,13 +12103,10 @@
               "font-size": "30px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".lead": {
-              "color": "#000000"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "0",
@@ -12216,11 +12125,11 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: 400;\"><i>Coolant Level Sensor&nbsp;</i></span>",
-          "text": "Coolant level sensor, has been trouble free for many years.",
+          "text": "Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years.",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/coolsensor.html\" data-toolbar=\"-mbrBtnMove\">COOLANT SENSOR-PAGE VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/coolsensor.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6xx"
         },
@@ -12592,7 +12501,7 @@
           "_anchor": "msg-box5-554",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -12660,7 +12569,7 @@
           "_anchor": "msg-box5-553",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#7e9b9f",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -12712,7 +12621,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButton": true,
             "paddingTop": "0",
@@ -12735,7 +12644,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/ignitionswitch.html\" data-toolbar=\"-mbrBtnMove\">IGNITION SWITCH-PAGE VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mgrover200.github.io/ignitionswitch.html\" data-toolbar=\"-mbrBtnMove\">PAGE VIEW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6y1"
         },
