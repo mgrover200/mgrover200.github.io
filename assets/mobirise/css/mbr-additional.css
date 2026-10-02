@@ -9,6 +9,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -545,26 +548,46 @@ section.form .container {
   font-size: 36px;
   text-align: center;
 }
-#msg-box8-6s3 .mbr-section-title,
-#msg-box8-6s3 .lead {
+#msg-box8-6yb .mbr-section-title,
+#msg-box8-6yb .lead {
   color: #fff;
 }
-#msg-box8-6s3 .mbr-section-title {
+#msg-box8-6yb .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 36px;
   color: #f7da64;
 }
-#msg-box8-6s3 .lead P {
+#msg-box8-6yb .lead P {
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
   text-align: center;
 }
-#msg-box8-6s3 .lead {
+#msg-box8-6yb .lead {
   color: #ffffff;
 }
-#msg-box8-6s4 .mbr-section-title,
-#msg-box8-6s4 .lead {
-  color: #fff;
+#header3-6yc .mbr-section-title,
+#header3-6yc .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6yc .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 32px;
+  color: #7e9b9f;
+}
+#header3-6yc .mbr-section-subtitle {
+  color: #475577;
+  font-size: 15px;
+}
+#header3-6yc .mbr-section-title SPAN {
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#features3-6yd H4 {
+  font-family: 'Lora', serif;
+  color: #475577;
+}
+#features3-6yd H5 {
+  color: #222222;
 }
 #content1-6ll P {
   font-family: 'Raleway', sans-serif;

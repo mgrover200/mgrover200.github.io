@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "testpage.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9014,
+    "uniqCompNum": 9011,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -243,78 +243,45 @@
             "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/800.gif",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/partsguide-header-1597x280.jpg",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring: 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "text": "<p><i>With various aspects of servicing, and maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-6yb"
+          "_anchor": "msg-box8-6s3"
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#7e9b9f"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#efefef"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>MOST VIEWED POPULAR PAGES&nbsp;</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-6yc"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#7e9b9f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -323,111 +290,14 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/92-mg-rover-camshaft-carrier-torque-settings-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/torque.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/81-mg-rover-cooling-system-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/coolsystem.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/103-purge%20valve-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/purgevalve.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/102-rover%20colour%20codes-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/90-rover-sunroof-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/sunroof.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/104-partsguide-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/partsguide.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "<span style=\"font-weight: 400;\"><i>Engine Torque</i></span>",
-          "subtitle1": "A numbered sequence, to complete cylinder head fitting.",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: 400;\"><i>Cooling System</i></span>",
-          "subtitle2": "Coolant elbow joint in conventional systems, is located on outlet.",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Purge Valve</i></span>",
-          "subtitle3": "Purge valve solenoid collects fuel vapors from the fuel tank.",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Colour Codes</i></span>",
-          "subtitle4": "Original vehicle paint codes listed from 1963 and up to 2005.",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Sunroof Panel</i></span>",
-          "subtitle5": "Damp headlining on 2004 ZR, cleaned, drain channel.",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Parts Guide</i></span>",
-          "subtitle6": "A random selection from our tools and parts guide.",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#475577"
-            },
-            "H5": {
-              "color": "#222222"
-            }
-          },
-          "_anchor": "features3-6yd"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6s4"
         },
         {
           "_params": {
@@ -3593,7 +3463,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>The best option of where to fit.</i></span>",
-          "text": "We had numerous options, where to place the unit, and eventually chose a secure and discreet placement in the center vent, the design was created to allow a dual boost of heat from left air vent only.&nbsp; &nbsp;",
+          "text": "We had numerous options, where to place the unit, and eventually chose a secure and discreet placement in the center vent, the design allowed a more heat boost. Now from out of the left air vent only.&nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
