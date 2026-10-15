@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9077,
+    "uniqCompNum": 9080,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14879,7 +14879,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -14900,7 +14900,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/coolsystem.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14911,7 +14911,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/coolsensor.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14922,7 +14922,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/cabinheater.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14933,7 +14933,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/ignitionswitch.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14944,7 +14944,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/ignitionleads.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
@@ -14955,28 +14955,28 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/tailgate.html",
+              "link": "",
               "alt": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "<span style=\"font-weight: 400;\"><i>Cooling System</i></span>",
-          "subtitle1": "Cooling System",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<span style=\"font-weight: 400;\"><i>Coolant Sensor</i></span>",
-          "subtitle2": "Coolant Sensor",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<span style=\"font-weight: 400;\"><i>Cabin Heater</i></span>",
-          "subtitle3": "Cold Heater&nbsp;",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "<span style=\"font-weight: 400;\"><i>Ignition Switch</i></span>",
-          "subtitle4": "Ignition Switch",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "<span style=\"font-weight: 400;\"><i>Ignition Leads</i></span>",
-          "subtitle5": "Ignition Leads",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "<span style=\"font-weight: 400;\"><i>Tailgate Loom</i></span>",
-          "subtitle6": "Tailgate Loom",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -14988,18 +14988,32 @@
             "Theme"
           ],
           "_name": "features3",
+          "_anchor": "features3-707"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "<i>The above vehicles, owned for many years, are no longer with us. <a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Page Previews</a> are available.</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-706",
           "_styles": {
-            "H4": {
+            "DIV": {
+              "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px",
               "color": "#000000"
             },
-            "H5": {
-              "color": "#000000",
+            "I": {
               "font-size": "16px"
             }
-          },
-          "_anchor": "features3-6zs"
+          }
         },
         {
           "_params": {
