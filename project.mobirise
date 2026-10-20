@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9116,
+    "uniqCompNum": 9117,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -425,7 +425,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<i>The above vehicles, of which we<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-info\"> owned for many years,</a>&nbsp;are no longer with us.&nbsp;</i>",
+          "text": "<i>The above vehicles, of which we&nbsp;owned for many years,&nbsp;are no longer with us.&nbsp;</i>",
           "_tags": [
             "Theme"
           ],
@@ -1259,10 +1259,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -1275,7 +1275,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>COOLANT LEVEL SENSOR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -1289,7 +1289,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years, and a good safety feature, that activates an instant audible warning, if coolant should drop to a level more than below specified minimum safety mark..&nbsp;</p>",
           "_tags": [
@@ -1322,7 +1322,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1362,7 +1362,7 @@
           "_anchor": "msg-box5-5t8",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -1377,72 +1377,9 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/4-mg-rover-coolant-sensor-warning-modules-1-500x100.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>Parts required for installation</i></span>",
-          "text": "Coolant Tank RPCF000160 Sensor RPCJ000040. peizo buzzer and dashboard bulb, are an easy fit. and a really good back-up..&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-69p",
-          "_styles": {
-            "H3": {
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#475577"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. Visual checks on coolant level, are still carried out with other routine vehicle checks. A manual activation test mode, is removing coolant cap on a 'cold engine' then with ignition on, hold down the sensors internal magnet.&nbsp; &nbsp;</p>",
           "_tags": [
@@ -4514,6 +4451,55 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-718"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -7551,10 +7537,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -7567,7 +7553,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>COLD CABIN HEATER</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -7581,7 +7567,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The only problem with the cooling system since getting the one owner ZR in 2010 Was having no heat in the cabin, we had replaced the radiator, that was corroded along the bottom edge, probably due to a long term incorrect coolant mix, top and bottom radiator hoses fitted, then a correct fill of 5.5 litres of OAT coolant, but the heater was not throwing much out.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7604,7 +7590,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Using a further trial and elimination process, the cabin heater control dial was set to hot position, radiator bottom hose detached and coolant drained off yet again. The first to check were the heater control valve, the cabin heater control dial, and then the heater matrix..</p>",
           "_tags": [
@@ -7636,7 +7622,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7675,10 +7661,13 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-6rg"
@@ -7687,7 +7676,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident so&nbsp; attention turned to the matrix valve.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7710,7 +7699,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process, There is an easy fix, but these cars are now old, and would now benefit from new heater hoses.&nbsp; &nbsp;",
           "_tags": [
@@ -7737,7 +7726,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7777,7 +7766,7 @@
           "_anchor": "msg-box5-5a0",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -7799,7 +7788,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, is essential.</p>",
           "_tags": [
@@ -8085,10 +8074,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -8101,7 +8090,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>IGNITION SWITCH YXB-100350</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -8128,7 +8117,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>An annoying problem some time ago, was a suspected fault with the ignition switch, no dash panel lights, just the sound of the fuel pump being primed. Only time to get a display, was initiating 'quick positive' turns of the ignition key. for an eventual start-up. So we ruled out other ignition related problems, then fitted a new switch. .&nbsp;</p>"
         },
@@ -8149,7 +8138,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered, and column covers removed. bottom part is secured with 3 screws cabin fuse box lid needs removing. Switch is attached to bottom of key barrel with two small screws, ignition key barrel, is factory secured, and does not need to be removed.at anytime during this process.</p>"
         },
@@ -8166,7 +8155,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8206,7 +8195,7 @@
           "_anchor": "msg-box5-4a2",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px"
             },
             "SPAN": {
@@ -8223,7 +8212,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Ignition switch shown top of page. After being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care. and attention, the only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide.&nbsp;</p>",
           "_tags": [
@@ -8261,7 +8250,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions that is being selected, lower part of the rotor has slots, that open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents situated under the collar of the rotor.&nbsp; &nbsp;</p>"
         },
@@ -8278,7 +8267,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8318,7 +8307,7 @@
           "_anchor": "msg-box5-6rs",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -8332,7 +8321,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures the spring resistance for ignition key quick return, as during the normal engine starting procedures.</p>",
           "_tags": [
@@ -8359,7 +8348,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8399,7 +8388,7 @@
           "_anchor": "msg-box5-5us",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -8415,7 +8404,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;&nbsp;</span></p>",
           "_tags": [
@@ -11355,10 +11344,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -11371,7 +11360,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>K SERIES ENGINE COOLING SYSTEM</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -11385,7 +11374,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>How the cooling system works. Water pump pushes coolant..into engine block, then flows into cylinder head getting hotter as it circulates, coolant exits from coolant elbow. Along top hose into radiator to be cooled, then out of bottom hose up along the coolant rail to the thermostat, then back to water pump, constantly repeating the cooling process.</p>",
           "_tags": [
@@ -11419,7 +11408,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11465,7 +11454,10 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
-              "color": "#475577"
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           }
         },
@@ -11473,7 +11465,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Cold coolant coming in by stages allows the engine to retain heat while it gradually reaches normal operating temperature, and so avoids stressing the casting through a sudden heat shock, Cooling system, under normal driving heats up very fast, lack of a constant coolant flow in an engine working hard from cold, can be a contributing factor of head gasket failure.&nbsp; &nbsp;",
           "_tags": [
@@ -11494,7 +11486,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The K series achieve this very quickly within the first mile or even less, a well maintained cooling system may have tepid air slightly evident at the face level air vents.in as little as 0.2 tenths of a mile, this first sign of a warm up process should remain constant during all seasons of the year, including extreme winter temperatures.&nbsp;&nbsp;",
           "_tags": [
@@ -11524,7 +11516,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/bluegreen-452x302.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11567,7 +11559,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "P": {
               "text-align": "left",
@@ -11601,7 +11593,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Cabin heater, matrix, is basically a smaller version of the cars radiator, filled with hot coolant supplied via the smaller of the two elbow joints coolant hose, which then feeds hot air into the cabin, the heater is located in an enclosed area between the centre console and engine bay bulkhead, and will not&nbsp; require any form of air cooling properties..&nbsp;</p>"
         },
@@ -11609,7 +11601,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Worth taking note, the temp gauge that usually shows a tad below half after a short drive. Will not always be an indication the engines actual operating temperature has yet been fully achieved till after a short period of time. A good heating system, especially during the winter months is essential..</p>",
           "_tags": [
@@ -11627,7 +11619,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its constant re-circulating cooling process.</p>",
           "_tags": [
