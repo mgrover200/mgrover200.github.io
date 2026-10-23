@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "previews.html",
+    "currentPage": "satnav.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9111,
+    "uniqCompNum": 9122,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -425,7 +425,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<i>The above vehicles, of which we owned for many years, are no longer with us.&nbsp;</i>",
+          "text": "<i>The above vehicles, of which we&nbsp;owned for many years,&nbsp;are no longer with us.&nbsp;</i>",
           "_tags": [
             "Theme"
           ],
@@ -713,10 +713,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -729,7 +729,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>CABIN FUSE PANEL MG-ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -758,7 +758,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Information page concentrates specifically on our 2004 MG ZR cabin located fuse box, of which circuit each fuse, and relays serves and protects, contents vary between different models and years, and so should only be regarded as a basic reference guide.</p>"
         },
@@ -770,7 +770,7 @@
           "_styles": {
             "H3": {
               "font-size": "20px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "SPAN": {
               "color": "#475577",
@@ -796,7 +796,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -809,7 +809,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/16-.mg-rover-cabin-fuse-panel-2004-mg-zr-500x252.jpg",
+              "src": "@PROJECT_PATH@/assets/images/16-mg-rover-cabin-fuse-panel-500x252.jpg",
               "link": "",
               "alt": "Cabin located fuse panel of the 2004 MG-ZR",
               "title": "mg-zr cabin fuse panel",
@@ -848,7 +848,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Centre Column: 10 </b>headlight RH main beam 10amp.<b>11</b> DRL interior lights (expo) 10amp.<b>12</b> headlight LH main beam 10amp.<b>13</b> LH side and tail lights LH headlight levelling, glovebox, clock, interior lights 10amp.<b>14</b> headlight RH dipped beam 10amp. <b>15</b> RH side and tail lights RH headlight levelling number plate light 10amp. <b>16</b> headlight LH dipped beam 10amp.<b>17</b> blower motor 20amp.<b> 18</b> seat heaters 20amp.&nbsp;</p>"
         },
@@ -871,7 +871,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Right Column:</b>&nbsp;<b>19</b> CD / Radio 10amp <b>20</b> engine start 10amp <b>21</b> front screen wipers 15amp <b>22</b> door mirrors 10amp <b>23</b> ABS system 10amp <b>24</b> brake lights, reversing lights 10amp <b>25</b> SCU, clock, instrument pack, engine management 10amp <b>26</b>&nbsp;rear screen wiper, heated washer jets, A/C illumination, seat heaters, DRL 15amp&nbsp;&nbsp;<b>27</b> SRS airbag 5amp&nbsp; Additional fuses shown located left of main fuse panel are spares.</p><p> </p><p><br></p><p>&nbsp;</p>"
         },
@@ -887,7 +887,7 @@
               "color": "#000000"
             },
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "font-size": "20px"
@@ -912,7 +912,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -925,7 +925,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/17-.mg-rover-cabin-fuses-and-relays-661x249.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17-mg-rover-cabin-fuse-relays-661x249.jpg",
               "link": "",
               "alt": "Cabin located fuse panel of the 2004 MG-ZR",
               "title": "Cabin fuse box relays and fuses 2004 MG-ZR",
@@ -964,7 +964,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Fuses in the main panel are usually colour coded, and range from 5 amp to 30 amp The fuse panel will only accept the narrow pointed mini blade fuses shown here, along with the fuse puller. The blue flat blade fuse shown, may fit other fuse panels, but not our own 2004 ZR&nbsp;&nbsp;</p>"
         },
@@ -985,7 +985,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The cable and connector shown across front of the fuse panel, formed part of a project we were still working on a couple of winters ago, The fitting of driver and front passenger heated seat elements, a good choice for the MG and with a quick warm up time of only several seconds.</p>"
         },
@@ -1259,10 +1259,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -1275,7 +1275,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>COOLANT LEVEL SENSOR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -1289,7 +1289,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Having installed a coolant low level warning sensor into the 200 several years ago, then transferred into the MG during 2010, its been trouble free over many years, and a good safety feature, that activates an instant audible warning, if coolant should drop to a level more than below specified minimum safety mark..&nbsp;</p>",
           "_tags": [
@@ -1322,7 +1322,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1362,7 +1362,7 @@
           "_anchor": "msg-box5-5t8",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -1388,7 +1388,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1401,7 +1401,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/4-mg-rover-coolant-sensor-warning-modules-1-500x100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-mg-rover-coolsensor-500x100.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -1425,24 +1425,24 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-69p",
           "_styles": {
             "H3": {
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#475577"
+              "color": "#000000"
             },
             "P": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "msg-box5-719"
         },
         {
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>In any event, a reasonable amount of coolant would still be in circulation, allowing time to park up and investigate. Visual checks on coolant level, are still carried out with other routine vehicle checks. A manual activation test mode, is removing coolant cap on a 'cold engine' then with ignition on, hold down the sensors internal magnet.&nbsp; &nbsp;</p>",
           "_tags": [
@@ -1730,10 +1730,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -1746,7 +1746,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>ENGINE FUSE BOX MG-ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -1775,7 +1775,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Information page concentrates specifically on our 2004 MG ZR engine bay fuse box, and which circuit each fuse, fusible links, and relays serves and protects. Contents will vary between different models and years, and so should only be regarded, as a basic reference guide.</p>"
         },
@@ -1786,7 +1786,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "21px"
@@ -1815,7 +1815,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1828,7 +1828,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14-mg-rover-2004-mg-zr-engine-fuse-box-717x367.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14-mg-rover-engine-fuses-717x367.jpg",
               "link": "",
               "alt": "mg-zr-fuse-box",
               "title": "",
@@ -1854,7 +1854,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>F5</b> Anti theft alarm, and CDL 25amp (clear) <b>F6</b> Front fog lamps 15amp (blue) <b>F7</b> Hazard lights, indicators (15amp (blue) <b>F8</b> Engine management 15amp (blue) <b>F9</b> Air conditioning 10amp (red)<b> F10</b> Fuel pump 20amp (yellow).</p>",
           "_tags": [
@@ -1884,7 +1884,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1897,7 +1897,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/15-mg-rover-engine-bay-fuses-and-relays-1-500x200.jpg",
+              "src": "@PROJECT_PATH@/assets/images/15-mg-rover-relays-and-fuses-500x200.jpg",
               "link": "",
               "alt": "zr engine fuses",
               "title": "",
@@ -1924,7 +1924,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "21px"
@@ -1960,7 +1960,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>FL 1</b> Alternator 150 mega amp. <b>FL 2</b> Aux ignition 40 amp. <b>FL 3</b> Ignition 40 amp. <b>FL 4</b> Cabin fuse box 40 amp. <b>FL 5</b> Not required. <b>FL 6</b> Glow plug 80 amp. Mega fusible links are the metal type, the highest rated one is 150 mega amp for the alternator..</p>"
         },
@@ -1981,7 +1981,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Midi Fusible Links: <b>FL 7</b> Starter 40 amp (green) <b>FL 8</b> Cooling 20 amp (blue) <b>FL 9</b> Lights 40 amp (green) <b>FL 10</b> Blower 30 amp (pink) <b>FL 11</b> Cooling 30 amp (pink) <b>FL 12</b> ABS 40 amp (green). <b>Relay 1</b> Fuel Pump. <b>Relay 2</b> Starter Motor.<b>Relay 3</b> Cooling Fan. <b>Relay 4</b> Main Relay. <b>Relay 5</b> Blower Motor. <b>Relay 6</b> Front Fog Lights. <b style=\"\">Relay 7</b> A/C Compressor.</p>"
         },
@@ -2254,10 +2254,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -2270,7 +2270,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>TAIL LIGHTS NOTIFIER MG-ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -2298,7 +2298,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>A quick check on our vehicle lights every week or so, you could not predict when a blown bulb would have actually occurred during any period from that time. As the tail and especially the brake lights are important for safety and legal requirements, a basic monitoring system was now being considered, for the MG over next few weeks.</p>"
         },
@@ -2315,7 +2315,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2358,7 +2358,7 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "P": {
               "color": "#000000"
@@ -2400,7 +2400,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2452,7 +2452,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>So another low cost safety addition added to the old MG, no electrical wiring, switch, or any power supply needed, the visible light emitting from the fibre optics, are clear to view, and not a distraction. Also with no need for a second person to assist, or an implement to hold down brake pedal while going round to do the usual light check's. &nbsp;</p>"
         },
@@ -2473,7 +2473,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The main aspect of this motoring safety feature, is to know instantly, when a tail or brake light bulb is out, and to identify which of the bulbs needs to be replaced, keeping safe and driving legal. You never know, who is going to sneak in behind you. Design and Installation (c) 2016</p>"
         },
@@ -2746,10 +2746,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -2762,7 +2762,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>AUDIO REMOTE CONTROLS ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -2791,7 +2791,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Replacing radio/cassette player as fitted to the 200 with CD/Radio, is a straight foreward plug and play option, replacement was a Kenwood KDC 3031A including a wiring kit, Auto-leads PC99-X04 multi stalk adaptor and PC99-KEN patch lead. Taking note that some HU's wont accept the use of audio remotes unless specified.</p>"
         },
@@ -2802,7 +2802,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -2830,7 +2830,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2882,7 +2882,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>An option later to transfer into the MG was not to be straight foreward, as remote controls are not fitted as standard, so an audio remote control was first sourced prior to this install. To commence this fitting the battery was disconnected, working from rear of the steering wheel the 2 T30 torx bolts were removed and air bag taken out from the vehicle.&nbsp;</p>"
         },
@@ -2903,7 +2903,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>To install the steering wheel audio remote control, careful and precise cutting soon had it looking as good as a factory fit, the two black remote control wires were then pinned into horn connector to left of the red horn wire, the air bag now placed back and secured, blue and yellow airbag connector seated correctly with a good positive click.</p>"
         },
@@ -2924,7 +2924,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Access to rotary coupler required, lowering of the steering wheel, removal of each column cover gave easy access, lower cover secured with 3 cross head screws, top cover just prises off, the pink and white remote wires were now visible. (shown below) these two wires leave rear of the rotary coupler, and where we spliced in the extended pink and white wires..</p>"
         },
@@ -2941,7 +2941,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2984,7 +2984,7 @@
               "font-size": "21px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#475577"
+              "color": "#000000"
             },
             "SPAN": {
               "font-size": "22px",
@@ -3013,7 +3013,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>At this stage of testing, we are using the specified, PC99-X39 multi stalk adaptor kit, the remotes would not function correctly, so tried fitting the new Rover Freelander MSA that made no difference. As a last resort tried and tested my old original PC99-X04 multi stalk adaptor, specified for the Rover 200/400/800. that we had as a spare.&nbsp;</p>"
         },
@@ -3021,7 +3021,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "This has since worked perfectly, from being fitted quite a number of years ago. And would also have seemed fair to have had this option already added to the MG as standard, to save all the hassle. With remotes fitted, they are more convenient, and good safety feature.",
           "_tags": [
@@ -3297,10 +3297,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -3313,7 +3313,7 @@
             "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>NAVIGATION SYSTEM 200/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -3340,7 +3340,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>This unique security fitted satnav project originally created for the 200 in 2008, and now installed into the MG since 2010 was designed to be concealed within the centre air vent, out of sight, and activated from a dashboard located switch Garmin nuvi 200 was used for this project mounted onto a self designed multi-directional alloy support bracket.</p>"
         },
@@ -3357,7 +3357,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3397,7 +3397,7 @@
           "_anchor": "msg-box5-3qu",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -3416,7 +3416,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The drivers line of view was achieved using precise adjustments to enable a correct angle of full screen viewing, navigation options, and touch screen. operations. The advantages other than security, is the screen being shaded away from low winter sun driving conditions, the&nbsp; donor vent is removable for memory card access, and to rear of dash switches.</p>",
           "_tags": [
@@ -3432,9 +3432,9 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>When the centre air vent is inserted back into the vent opening during memory card access etc, left air vent will go directly back into vehicles heating duct system to continue providing air, while the right vent opening fits against the screen surround for a professional finish.</p>",
           "_tags": [
@@ -3464,10 +3464,148 @@
           "_anchor": "content1-394",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
           },
           "text": "<p>When not in use, the unit remains un-detectable from inside the vehicle, and more importantly from the outside, all wiring is concealed in the dashboard, with no cradle or suction marks being evident. Created for the 1996 Rover 200. Project Design and Installation. (c) 2008&nbsp;&nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/366%20x%20243-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/139-satnav-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/140-satnav-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/141-satnav-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/131-navigation-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/366%20x%20243-366x243.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-71c"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "Shown above during construction, and fitting, into the 1996 Rover 200 Series. in late 2008.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-71d",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -3736,10 +3874,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -3752,7 +3890,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>OIL SUMP REMOVAL 200</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -3780,7 +3918,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>During one of our services, we removed and cleaned out the oil sump, lowering of exhaust manifold made it more accessible, exhaust system did not need splitting at any time during this procedure, just manifold detached then lowered to rest on alternator bracket, giving clearance to withdraw sump from under the vehicle</p>"
         },
@@ -3791,7 +3929,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -3819,7 +3957,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3861,7 +3999,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "24px"
@@ -3891,7 +4029,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3943,7 +4081,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Engine oil was drained off and front of vehicle jacked up, offside road wheel removed. Working in sequence, each of the 10mm sump bolts were removed, a total of 14 then and sump withdrawn from under the car via the removed offside road wheel, the 200 steel sump on assembly, needs a LVF-100290 gasket.</p>"
         },
@@ -3954,7 +4092,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -3982,7 +4120,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4034,7 +4172,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Access to 3 of the sump bolts did require flywheel cover plate removed, tools used for this project were 19mm for sump drainage bolt 10mm for the 14 sump bolts, and 8mm for the 3 cover plate bolts, for reference the 200 oil sump drain bolt is 19mm, The drain bolt for the ZR is smaller at 15mm. This old project was completed during 2005.</p>"
         },
@@ -4305,10 +4443,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -4321,7 +4459,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>MG-ROVER PAINT CODES 1963 T0 2005</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -4340,13 +4478,16 @@
             "P": {
               "text-align": "left",
               "font-size": "17px"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           },
           "_anchor": "content1-14q",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Whats the vehicle paint colour code for my car, the original factory colour code information shown on these pages includes a list of 300, which is most or all of the MG-Rover original vehicle paint codes listed as AAC to ZGN from year 1963 up to and including 2005.</p>"
         },
@@ -4367,7 +4508,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p></p><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">AAC - Maple Brown&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1974-1975</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">AAE - Russet Brown&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1976-1985</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ACC - Mexico Brown&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1971-1974</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ACP - Hunstman Brown&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1976-1984</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ACV - Roan Brown&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1984-1985</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">AFM - Antelope&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1984-1984</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ANC - Cirrus Grey&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1984-1984</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ANT - Rick Raisin&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1990-1990</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">BMF - Lynx Bronze&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1992</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">CAA - Carmine Red&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1973-1981</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">CAB - Pimento Red&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1972-1976</span></div><div><p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><div><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">.</span></p></div><p></p></div>",
           "text2": "<p>CAQ - Nightfire Red 2&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1995-2002</span></p><p>CBT - Nightfire Red 3&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pearl 2003-2004</span></p><p>CCB - Monza Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1970-1975</span></p><p>CCC - Masai Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1971-1985</span></p><p>CCK - Bordeaux Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1981-1981</span></p><p>CCZ - Monza Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1998-1999</span></p><p>CDE - Carnelian Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1979-1981</span></p><p>CDM - Mulberry Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2000</span></p><p>CDW - Dorchester Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2000</span></p><p>CDX - Copper Leaf Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2002</span></p><p>CEB - Damson Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1999-2000.</span></p>",
@@ -4382,7 +4523,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>CNL - Mini Red Hot&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1994</span></p><p>COF - Flame Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1999</span></p><p>COG - Cherry Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1988-1996</span></p><p>COQ - Nightfire Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pearl 1990-1999</span></p><p>COS - Cranberry Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1990-1994</span></p><p>CPQ - Flame Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1992-2002</span></p><p>CPX - Nevada Sorbet&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1995-1996</span></p><p>CPY - Bright Red Sealer&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1996-1999</span></p><p>CUA - Cassis Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1987-1987</span></p><p>CUF - Corallin Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1995</span></p><p>CUF - Portofino Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1997.</span></p>",
           "text2": "<p>CUY - Montpellier Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1995-1999</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">DME - Rose Pink&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1989-1995</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EAB - Kinversand&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1999-2001</span></p><p>EAC - Volcano Pearl&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1996-1999</span></p><p>EAF - Cayman&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1998-2000</span></p><p>EAP - Paprika Pearl&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2002-2002</span></p><p>EMC - Flamenco Red&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1974-1979</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">FAB - Inca Yellow&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">1976-1981</span></p><p>FAL - Trophy Yellow&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surfacer 2002-2003</span></p><p>FAR - Trophy Yellow&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2001-2002</span></p><p>FCA - Almond Yellow&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1971-1975.</span></p>",
@@ -4402,7 +4543,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>GDH - Calypso Gold&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 2003-2003</span></p><p>GMA - Harvest Gold&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1972-1976</span></p><p>GMB - Antique Gold&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1976-1976</span></p><p>GMD - Cashmere&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1982-1986</span></p><p>GMF - Shantung Gold&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1989</span></p><p>GMK - White Gold&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1992-1996</span></p><p>GMN - White Gold 2&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1995-2002</span></p><p>GUD - Sahara&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1995-1996</span></p><p>GUF - Cordoba Gold Pearl&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">met 1999-2001</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">HAA - British Racing Green 1970-1981</span><br></p><p>HAB - Java Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1975-1981.</span></p>",
           "text2": "<p>HAC - Emerald Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1972-1975</span></p><p>HAE - Brooklands Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1976-1981</span></p><p>HAF - Epsom Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1995-2002</span></p><p>HAK - Almond Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1997-1999</span></p><p>HAM - British Racing Green met 1995-1999</p><p>HAW - Kensington Green met 1995-99</p><p>HBL - Cypress Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1988</span></p><p>HCA - Cameron Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1971-1974</span></p><p>HCC - Ascot Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1986-1992</span></p><p>HCC - Deep Bronze&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Green 1986-1992</span></p><p>HCD - Light Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1987-1992.</span></p>",
@@ -4422,7 +4563,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>HFD - Celadon Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pearl 1999-1999</span></p><p>HFF - British Racing&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Green 3 mica 1999-03</span></p><p>HFH - Alumina Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 2000-2002</span></p><p>HFJ - Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1996-2002</span></p><p>HFN - Le Mans Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 2001-2002</span></p><p>HFT - Alumina Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surfacer 2002-2003</span></p><p>HFW - Le Mans Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pearl 2001-2002</span></p><p>HFY - Arbour Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 2003-2003</span></p><p>HMD - Green Mallard&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1972-1975</span></p><p>HMK - Atlantic Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1983-1989</span></p><p>HMN - British Racing&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Green 1968-1972.</span></p>",
           "text2": "<p>HMW - Opaline&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1982-1985</span></p><p>HMY - Dark Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1983-1989</span></p><p>HNA - Amulet&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1985-1995</span></p><p>HNA - British Racing&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Green metallic 1988-99</span></p><p>HNF - Dark Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1985-1994</span></p><p>HNR - Stone Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1988-1992</span></p><p>HOR - Willow&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1993-1998</span></p><p>HPD - Le Mans Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1993-1996</span></p><p>HPE - Woodcote Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1994-1999</span></p><p>HYF - Brooklands Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1993-1999</span></p><p>HYJ - Coniston Green&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1998-2001.</span></p>",
@@ -4442,7 +4583,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>JAV - Cayman Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1996-1999</span></p><p>JAX - Kingfisher Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1995-1997</span></p><p>JBH - Wedgwood&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Blue 2 metallic 1999-02</span></p><p>JBR - Steel Blue 2&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2001</span></p><p>JCA - Scarab Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1973-1975</span></p><p>JCC - Marine Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1965-1984</span></p><p>JCF - Atlantis Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1976-1980</span></p><p>JCJ - Cavalry Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1980-1981</span></p><p>JCP - Stratos Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1984-1985</span></p><p>JCP - Tasman Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1984-1985</span></p><p>JEC - Sapphire Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1984-84.</span></p>",
           "text2": "<p>JEL - Wedgewood Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-02</span></p><p>JEN - Surf Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1997-1999</span></p><p>JEY - Atlantic Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2000</span></p><p>JFB - Steel Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1999-2000</span></p><p>JFK - Hawaiian Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1997-1999</span></p><p>JFL - Paul Smith Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1999-2000</span></p><p>JFM - Royal Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">pearl 2002-2002</span></p><p>JFN - Antigua Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1999-1999</span></p><p>JFR - Bermuda Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1998-1999</span></p><p>JFU - Island Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1999-2000</span></p><p>JFV - Trophy Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 2001-2002.</span></p>",
@@ -4462,7 +4603,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>JNF - Moonraker&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1982-1988</span></p><p>JNH - Cornflower Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1989</span></p><p>JNN - Eclipse Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1985</span></p><p>JNS - Nightwatch Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1986-1988</span></p><p>JNW - Caspian Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1991</span></p><p>JNW - Azure Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1992</span></p><p>JPD - Henley Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1993</span></p><p>JPE - Lipari Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1986-1989</span></p><p>JPS - Excalibur Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1984-1994</span></p><p>JPW - Atlantic Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1987-1998</span></p><p>JPX - Nightwatch Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1987-1987</span></p>",
           "text2": "<p>JPY - Florence Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1987-1994</span></p><p>JQN - Sky Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1989-1993</span></p><p>JQV - Nordic Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1990-1994</span></p><p>JQW - Midnight Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1990-2002</span></p><p>JQW - Midnight Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2002-2003</span></p><p>JRJ - Tahiti Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1997-2002</span></p><p>JRN - Ocean Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1992-1996</span></p><p>JSA - Electric Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1992-1996</span></p><p>JSJ - Oxford Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1994-2001</span></p><p>JUH - Windjammer Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1990-1997</span></p><p>JUK - Marseille Blue&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica met 1990-1992</span></p>",
@@ -4482,7 +4623,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>LBG - Grey primer&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surfacer 2002-2003</span></p><p>LCB - Mid Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1965-1984</span></p><p>LDL - Regent Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1984-1984</span></p><p>LDR - Regent Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1984-1984</span></p><p>LEF - X Power Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 2002-2002</span></p><p>LMB - Cumulus Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1973-1980</span></p><p>LMY - Nimbus Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1985-1992</span></p><p>LMZ - Steel Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1987-1992</span></p><p>LNJ - Strata Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1986-1992</span></p><p>LNL - Cygnet Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1983-1992</span></p><p>LOC - Hurricane Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1987-1989</span></p>",
           "text2": "<p>LOG - Tempest Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1988-1994</span></p><p>LOQ - Tempest Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1990-1995</span></p><p>LOZ - Storm Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1990-1994</span></p><p>LQS - Yukon Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1996-1996</span></p><p>LQW - Antracite&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1998-2001</span></p><p>LUS - Pennine Grey&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1993-1996</span></p><p>LVD - Charcoal Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1994-2001</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">MAL - Blenheim Silver&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1999-2002</span></p><p>MBB - Starlight Silver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 2002-2003</span></p><p>MCB - Argent Silver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">metallic 1971-81</span></p><p>MDH - Platinum Silver&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">surfacer 1996-2002</span></p>",
@@ -4502,7 +4643,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>NCF - Pendelican&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1975-1981</span></p><p>NCG - Porcelain&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1981-1989</span></p><p>NCP - Old English&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White surfacer 95-03</span></p><p>NDC - Tudor White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1987</span></p><p>NDJ - Dover White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2002-2003</span></p><p>NMA - Glacier White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1970-1979</span></p><p>NMC - Leyland White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1978-1983</span></p><p>NME - Ermine White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1990</span></p><p>NMF - Arum White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1982-1985</span></p><p>NMM - White Diamond&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1993</span></p><p>NNX - Old English&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">White 1993-2002</span></p>",
           "text2": "<p>NUC - Alpine White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1991-1997</span></p><p>NUC - Savarin White&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1991-1997</span></p><p>PAK - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1995-1999</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">PBT - Pearl Black&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 2003-2004</span></p><p>PMA - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1983-1989</span></p><p>PMC - Raven Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">2002-2003</span></p><p>PMD - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1997-1997</span></p><p>PMF - Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1999</span></p><p>PMQ - Japan Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mat 1994-1997</span></p><p>PNF - Java Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">mica 1999-2002</span></p><p>PUE - Beluga Black&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">1988-1999</span></p>",
@@ -4512,6 +4653,55 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-718"
         },
         {
           "_tags": [
@@ -4756,10 +4946,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -4772,7 +4962,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>OUR TOOLS AND PARTS GUIDE</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -4786,7 +4976,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Listed below are a small and random selection from our original 2004 spanners, sockets, and applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;</p>",
           "_tags": [
@@ -4821,7 +5011,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Alternator Belt</b> QH-QBR5737. <b>Alternator</b> Bosch 85 YLE-102430.<b> Air Filter</b> Champion U631. Fram CA5358.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Air Temp Sensor</b> NNK-10001. <b>Brake Pads</b> HBP 345. <b>Brake Cylinder</b> SJC-100300.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Camshaft Oil Seal Front</b> LUC100290. <b>Camshaft Oil Seal Rear</b> LUC-100220. <b>Cam Cover Gasket</b> LDR 102000&nbsp;</span><span style=\"line-height: 1.5;\"><b>Catalytic Converter </b>WAG 103370. <b>Cylinder Head Gasket</b> LVB-0000320. <b>Coil Packs</b> Denso 100730.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> RPCF000160. <b>Coolant</b> <b>Sensor</b> RPCJ000040. <b>Coolant Cap</b> PCD100160. <b>Crank Sprocket</b> LHH 100490.</span></p>"
         },
@@ -4842,7 +5032,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Crankshaft Sensor</b> ADU 7340. <b>Distributor Cap</b> HDC504. <b>Door Switches</b> YUE-100570. <b>Fuel Filter</b> HFF-236.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Fuel Rail</b> O Ring BAU-5325. <b>Fuel</b> <b>VaporTrap</b> NPC 10001. <b>Fuel Pressure Regulator</b>. NNK-10001.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HT Leads</b> Bosch B731. Leoni 2015 ZR. <b>Heater Control Valve</b> JJB100240. <b>Heater</b> <b>Risistor Pack</b> JGM 10002.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Heater Matrix Valve</b> PCH003300.<b> Inlet Manifold Gasket</b>. LKJ 101110. <b>Idle Air Control Valve</b> MLZ 100090.</span></p><p><b>Lambda Sensor</b> MHK-10006.<b> Oil Filters </b>Champion B-104. HOF-213.</p>"
         },
@@ -4863,7 +5053,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>P.A.S Belts </b>Unipart GMB 30755. Bosch 7880. <b>Rotor Arm</b> HRA529. <b>Radiator</b> Nissens 64209.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Top Radiator Hose</b> PCH 115731. <b>Sparkplugs</b> Champion RC9YCC. NGK BKR6E 6962.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Sump Gasket</b> LVF 100290. <b>Sump Bolt Washer</b> CL UAM2857. <b>Starter Motor</b> Hella CS610-1.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Throttle Position</b> <b>Sensor</b> MHB 10144. <b>Tailgate Wiring Loom</b> YMN-101940. <b>Thermostat Seal</b> CDU3858.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Water Pump</b> HWP 632. <b>Washer Pumps</b> Valeo 140796. <b>Wiper Motor Rear </b>Valeo 530 08-002.<b>&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wiper Motor Front</b> DLB-101380.</span></p>"
         },
@@ -4871,7 +5061,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Alternator</b><i style=\"font-weight: bold;\">&nbsp;</i>8..10..13..15mm. <b>Air Temp Sensor</b>&nbsp;19mm. <b>Armrest</b> 7..8..10mm. <b>Air bag</b> T.30. <b>Bonnet catch</b> 10mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Battery clamp</b> 13mm. <b>Brake caliper</b> 12mm. <b>Coolant temp sensor</b> 19mm. <b>Coolant elbow</b> 8mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Coolant Tank</b> 8mm. <b>Coolant bleed screw</b> 8mm. <b>Cylinder head cover</b> 8mm. <b>Cylinder</b> <b>head bolts</b> 12 torx.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cam sprockets</b> 17mm. <b>Camshaft carrier</b> 8mm. <b>Crankshaft bolt</b> 22mm. <b>Cambelt cover </b>8..10mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Cambelt tensioner</b> 8mm. <b>Engine mount</b> 15..18mm. <b>Exhaust manifold</b> 17mm.</span></p>",
           "_tags": [
@@ -4892,7 +5082,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><b>Front bumper</b> 10mm. <b>Fuel filter</b> 8..14..19mm. <b>Fuel inlet union</b> 8mm. <b>Gearbox</b> drain / fill 17mm.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Glovebox</b> 8mm. <b>Inlet manifold</b> 13mm.<b> I.A.C.V</b> T.20..T.30..10mm. <b>Lambda sensor</b> 22mm.&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Light lens</b> (rear) 8mm. <b>Rotor arm</b> 8mm. <b>Seats</b> (rear) 10mm. <b>Seat frame</b> Star 50. <b>Sump plug</b> 19mm</span></p><p><b>Sump bolts</b> 10mm. <b>Sparkplugs</b> 16mm. <b>Starter motor</b> 13mm. <b>Sunroof</b> glass panel T.25.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Wheel nuts</b> 19mm. <b>Wiper arms</b> 13mm.</span></p>",
           "_tags": [
@@ -4914,12 +5104,12 @@
             "showText": false,
             "paddingTop": "0",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/53-mg-rover-200-25-zr-parts-guide-1088x166.jpg",
+              "src": "@PROJECT_PATH@/assets/images/53-.mg-rover-parts-guide-1088x166.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -5203,10 +5393,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -5219,7 +5409,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>EMISSIONS PURGE VALVE</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -5246,7 +5436,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The purge valve an electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors then moved from charcoal canister to the fuel injector and burned off inside the engine, The purge valve flow is monitored with sensors to determine a precise amount, to help in reducing the vehicles emissions.</p>"
         },
@@ -5263,7 +5453,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5303,7 +5493,7 @@
           "_anchor": "msg-box5-5a3",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -5322,7 +5512,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Tapping sound of the purge valve, can be mistaken for sounding like&nbsp; fuel injectors clicking, high tension leads arcing, or the sound of a slack tappet. However the tapping sound on some purge valves, are nothing more than a nuisance, and should just about be audible for short periods, but not permanent as fumes are purged from the canister.</p>",
           "_tags": [
@@ -5356,7 +5546,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Also a damaged fuel filler cap seal wont create much of a vacuum within the fuel tank, so forcing the valve to activate for longer periods when maybe its not always required to do so. As the valve is just clipped on to top of the charcoal canister, there is an option to test and try others. &nbsp;&nbsp;</p>"
         },
@@ -5627,10 +5817,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -5643,7 +5833,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>REPLACING THE FUEL FILTER</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -5674,7 +5864,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Not changed for several years, dirty fuel filters seriously affects performance, including bad idling issues, safety concerning the fuel system, so this was carried out on a cold engine. Charcoal canister may restrict access to the filter, easier if this is removed, releasing the fuel filler cap for a few seconds, will reduce pressure in the fuel lines?</p>"
         },
@@ -5691,7 +5881,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5731,7 +5921,7 @@
           "_anchor": "msg-box5-63m",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -5754,7 +5944,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5793,7 +5983,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
@@ -5813,7 +6003,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -5840,7 +6030,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5879,7 +6069,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>With old filter removed, new filter is placed in the clamp with fuel directional flow (arrow) pointing upwards, this is marked on side of the new&nbsp; filter.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Always found it good practice first securing top and bottom fuel pipe unions, this will centralise the filter in the clamp, its all too easy to cross thread the brass fittings which can be a cause of fuel leakage..</span></p>",
           "_tags": [
@@ -5913,7 +6103,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>To safeguard the above, usually doing up the fuel clamp holder's 8mm bolt the very last. prior to testing. the Halfords HFF-236 fuel filter that was used for this service, The new filter will need several seconds for it to prime on the very first start up of the engine, then its just one final check on each of the two fuel pipe unions for any leaks.&nbsp;</p>"
         },
@@ -6185,10 +6375,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -6201,7 +6391,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>DUAL ACTIVATED DASHCAMS ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -6227,7 +6417,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "2013 the DVR 207 was used for testing. Video quality was good, and performed well, over a 12 month period, only exception, the annoying buzzing sound coming from the unit, due to earlier models not having a membrane inserted behind the menu buttons, an easy fix, but still needed to update to a more better quality dual camera system."
         },
@@ -6235,7 +6425,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Opposed to using the supplied windscreen mounted fitting. We set about creating our own, suitable, and more stable alloy support bracket, located above right of the rear view mirror. With the camera viewing screen shown in its closed position.&nbsp;",
           "_tags": [
@@ -6248,7 +6438,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Shown below from 2014 to present, now with front and rear remote activated mobius cameras being installed, smaller than the above DVR 207 about the size of a 'tic tac' box, compact and with no viewing screen. Makes for a very secure and stealth fitting with this particular model of 'clown catchers' With each lens recording in wide angle mode.&nbsp; &nbsp;</p>",
           "_tags": [
@@ -6278,7 +6468,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -6318,7 +6508,7 @@
           "_anchor": "msg-box5-6qo",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -6329,7 +6519,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>To power up the mobius monitoring system a drivers side dashboard located button switch activates each camera simultaneously, power is supplied using dual USB cables. the 64gb micro cards we have installed in the cameras, have a combined recording time before being over written. Which are sufficient to review any incidents en-route.</p>",
           "_tags": [
@@ -6613,10 +6803,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -6629,7 +6819,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>M.O.T EMISSIONS TESTING ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -6643,7 +6833,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>On a vehicle which has passed all the required criteria, steering, brakes, electrics, then fails on the emissions, can be a problem and  inconvenience. When this could have been checked before, With an emissions test prior to the mot, most garages, will offer to do a basic emissions test with no charge, or just a couple of quid.</p>",
           "_tags": [
@@ -6664,7 +6854,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Not all emissions tests are going to be successful, a short and direct drive to the testing station is one of them, engine may be hot, but wont be at its full working and operating temperature. Our own procedure before taking the pre-booked annual test, is to add some fuel additive.</p>",
           "_tags": [
@@ -6677,7 +6867,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p><i>A Few Test's During Year 2010 to 2020&nbsp;</i></p>",
           "_tags": [
@@ -6693,7 +6883,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "DIV": {
-              "color": "#7e9b9f"
+              "color": "#000000"
             }
           }
         },
@@ -6706,7 +6896,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p></p><p>Year 2010 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.00 % vol</p><p>HC----------------------10 ppm</p><p>Lambda-----------------1.00</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Natural Idle Test</span><br></p><p>Engine Speed---manual check</p><p>CO--------------------0.00 % vol</p><p><br></p><p></p><p></p><p></p>",
           "text2": "<p>Year 2015 Engine temp measurement, by manual observation of cooling fan.</p><p>Fast Idle Test</p><p>Engine Speed---manual check</p><p>CO-------------------0.03 % vol</p><p>HC----------------------12 ppm</p><p>Lambda-----------------1.01</p><p>Natural Idle Test</p><p>Engine Speed---manual check</p><p>CO--------------------0.04 % vol</p>",
@@ -6725,7 +6915,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "A good long drive to achieve the vehicles fully operating and running temperatures, arriving at the test station a few minutes before our appointment, knowing the successful emissions test done a few days earlier, should not be too much of the slightest concern.",
           "_tags": [
@@ -6783,7 +6973,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The emissions test is carried out after all vehicle checks have been completed, not as you arrive, this allows the engine to cool down and show that the car is in a genuine tip top condition, and not been thrashed just to get it through. We have had a fair share of advisories over the years, but no&nbsp; fails, so the excellent emissions are one less of a worry.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7068,10 +7258,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -7084,7 +7274,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>CHECKING ENGINE OIL LEVEL</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -7113,7 +7303,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Oil level dipsticks used in the 200 and ZR are not the best for a precise reading, plastic one for the 200, in most cases snap off leaving the tip of it floundering in the sump after many years of use. Wire one getting smeared while being withdrawn from out of the dipstick tube. So a 'correct' oil level reading will not always be possible.</p>"
         },
@@ -7124,7 +7314,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -7152,7 +7342,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7194,7 +7384,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -7222,7 +7412,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7274,7 +7464,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The MG does not use any oil between each of its yearly oil and filter changes, so will always show our own preference of a tad just below the maximum mark. Shown is for 'intermittent usage'taken on a cold engine. After checking for a correct oil level reading, the original dipstick can then be returned back.</p>"
         },
@@ -7551,10 +7741,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -7567,7 +7757,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>COLD CABIN HEATER</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -7581,7 +7771,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The only problem with the cooling system since getting the one owner ZR in 2010 Was having no heat in the cabin, we had replaced the radiator, that was corroded along the bottom edge, probably due to a long term incorrect coolant mix, top and bottom radiator hoses fitted, then a correct fill of 5.5 litres of OAT coolant, but the heater was not throwing much out.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7604,7 +7794,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Using a further trial and elimination process, the cabin heater control dial was set to hot position, radiator bottom hose detached and coolant drained off yet again. The first to check were the heater control valve, the cabin heater control dial, and then the heater matrix..</p>",
           "_tags": [
@@ -7636,7 +7826,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7675,10 +7865,13 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box5-6rg"
@@ -7687,7 +7880,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Next was a possibility of a blocked heater matrix, with a clean tube attached to the inlet pipe, a light blow through test expelled clean and clear coolant same with doing the outlet pipe, no blockage was evident so&nbsp; attention turned to the matrix valve.&nbsp;&nbsp;</p>",
           "_tags": [
@@ -7710,7 +7903,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The heater matrix valve was now suspected, it routes hot coolant circulating around the engine, to the cabin heater. An internal fault in the valve, could restrict this process, There is an easy fix, but these cars are now old, and would now benefit from new heater hoses.&nbsp; &nbsp;",
           "_tags": [
@@ -7737,7 +7930,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7777,7 +7970,7 @@
           "_anchor": "msg-box5-5a0",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -7799,7 +7992,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>With heater dial still set to the 'hot' position, commenced on the filling procedure, till free flowing coolant emerged from coolant rail, the 8mm bleed bolt fitted back, then a check on coolant level, hoses etc, a fully working heater all year round, is essential.</p>",
           "_tags": [
@@ -8085,10 +8278,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -8101,7 +8294,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>IGNITION SWITCH YXB-100350</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -8128,7 +8321,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>An annoying problem some time ago, was a suspected fault with the ignition switch, no dash panel lights, just the sound of the fuel pump being primed. Only time to get a display, was initiating 'quick positive' turns of the ignition key. for an eventual start-up. So we ruled out other ignition related problems, then fitted a new switch. .&nbsp;</p>"
         },
@@ -8149,7 +8342,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>To replace the YXB-100350 ignition switch. Steering wheel is lowered, and column covers removed. bottom part is secured with 3 screws cabin fuse box lid needs removing. Switch is attached to bottom of key barrel with two small screws, ignition key barrel, is factory secured, and does not need to be removed.at anytime during this process.</p>"
         },
@@ -8166,7 +8359,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8206,7 +8399,7 @@
           "_anchor": "msg-box5-4a2",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px"
             },
             "SPAN": {
@@ -8223,7 +8416,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Ignition switch shown top of page. After being dismantled with top part, lower part, and rotor removed, The unit is just clipped together, so can be dis-assembled with extreme care. and attention, the only parts that are removable are the rotating key position selector, from the centre spindle, and the small spring loaded guide.&nbsp;</p>",
           "_tags": [
@@ -8261,7 +8454,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Located around the outer edge are various contacts a total of 5 which activates any of the key positions that is being selected, lower part of the rotor has slots, that open and close each contact as key is being turned during engine start and stop procedures, guide selector corresponds to indents situated under the collar of the rotor.&nbsp; &nbsp;</p>"
         },
@@ -8278,7 +8471,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8318,7 +8511,7 @@
           "_anchor": "msg-box5-6rs",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -8332,7 +8525,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Any other way round, will just result in ignition key rotating freely and doing nothing, top cover now added, which holds and secures the spring resistance for ignition key quick return, as during the normal engine starting procedures.</p>",
           "_tags": [
@@ -8359,7 +8552,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8399,7 +8592,7 @@
           "_anchor": "msg-box5-5us",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "22px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -8415,7 +8608,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>A question often asked, is it ok to oil my ignition key to give it a smoother action when inserted into the ignition key barrel. W<span style=\"font-size: 1.07rem; line-height: 1.5;\">hen the key has been lightly oiled, or given a light smear of graphite grease to both the separated edges This will help loosen each of the individual key security spring loaded digits within the barrel, giving it a smoother glide free key action. Applies only to our own personal experience.&nbsp;&nbsp;</span></p>",
           "_tags": [
@@ -8699,10 +8892,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -8715,7 +8908,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>SUNROOF DAMP HEADLINING</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -8745,7 +8938,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Noticed the front corner on the MG passenger side roof headlining was showing signs of being damp, after a sustained rainfall. Investigating the problem before winter weather sets in, showed a build up of hard sediment, had formed over the years in the nearside drainage tube. A damp headlining is bad news at any time, more so in the winter months."
         },
@@ -8756,7 +8949,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -8785,7 +8978,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8833,7 +9026,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8846,7 +9039,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/19-mg-rover-damp-head-lining-500x214.jpg",
+              "src": "@PROJECT_PATH@/assets/images/137-mg-rover-leaking-sunroof-509x217.jpg",
               "link": "",
               "alt": "car with blocked sunroof drainage tube",
               "linkInNewWindow": false
@@ -8870,10 +9063,9 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-6oo",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -8881,7 +9073,8 @@
             "P": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "msg-box5-71a"
         },
         {
           "_styles": {
@@ -8889,7 +9082,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -8903,7 +9096,7 @@
             "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>REPLACING THE GLASS SEAL&nbsp;</i></span>",
           "meta": "By John Smith posted July 20, 2016",
@@ -8930,7 +9123,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>So replaced the sunroof seal, with side trims removed the 6 securing bolts were next, with a T25 star bit, and roof panel in its (closed position) was pushed out from inside the vehicle while a second person retrieves it, glass panel on a covered flat area, old seal was removed, and glass cleaned, sealant applied to new seal, and bonded. With&nbsp; joining at the (rear) then left to cure.</p>"
         },
@@ -8947,7 +9140,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8990,7 +9183,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "SPAN": {
               "font-size": "22px",
@@ -9006,7 +9199,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Good preparation and using quality silicone sealant should make this fitting a one off for the life of the vehicle, A new type of seal available has a 'soft close' velvet edge, compared to an older all rubber seal, that can grab at the roof opening, lifting it away from the glass panel after years of use, some older cars may still have the original ones fitted.</p>",
           "_tags": [
@@ -9038,7 +9231,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Before panel is placed back into roof aperture, tilt mechanism needed to be in the (closed) position, with the glass panel centralised, and level with the car roof...each of the six bolts can be inserted and tightened, testing the roof operation is needed before each of the plastic side trims were fitted back, if any further adjustments are required."
         },
@@ -9279,7 +9472,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/89-woodsome-1600x200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -9309,10 +9502,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -9325,7 +9518,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>GEARBOX OIL 1996 ROVER 200</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -9353,7 +9546,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Oil change on the Rover 200 with R.65 gearbox is straight foreward, easily done at ground level, to release the 2 x 17mm drain and refill bolts, ring spanners were used, drain bolt is usually magnetised, so may have a small &nbsp;amount of swarf attached, this is normal. After allowing gearbox oil to drain, bolt was wiped clean and replaced, with a new. washer."
         },
@@ -9370,7 +9563,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/zzzzzz-704x612.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9410,7 +9603,7 @@
           "_anchor": "msg-box5-63i",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
@@ -9433,7 +9626,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9473,7 +9666,7 @@
           "_anchor": "msg-box5-63j",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
@@ -9498,7 +9691,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9541,7 +9734,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "23px",
-              "color": "#475577",
+              "color": "#000000",
               "text-align": "left"
             },
             "SPAN": {
@@ -9559,7 +9752,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>This gearbox oil change is based on a vehicle parked on level ground. To achieve a correct oil fill level, is when oil begins to slowly trickle out from the filler hole. Oil used in the 200 gearbox is a SAE75W-80W to an API GL5 viscosity, around 1.75 litres up to the correct level.</p>",
           "_tags": [
@@ -9840,10 +10033,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -9856,7 +10049,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>ENGINE TORQUE SETTINGS</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -9884,7 +10077,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The surfaces of engine block and cylinder head were each meticulously cleaned, before the new gasket is fitted, each of the 10 cylinder head bolts were inserted back, head bolts require a size 12 torx bit. Prior to inserting the head bolts, oil was applied to the cleaned bolt threads, before being tightened in the correct sequence."
         },
@@ -9923,7 +10116,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9965,7 +10158,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -9994,7 +10187,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10042,7 +10235,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10055,7 +10248,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/27-.mg-rover-gasket-cover-506x217.jpg",
+              "src": "@PROJECT_PATH@/assets/images/136-mg-rover-manifold-gasket-506x217.jpg",
               "link": "",
               "alt": "camshaft-gasket-cover-LDR-102000",
               "title": "engine-top-cover-torque",
@@ -10082,7 +10275,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
@@ -10113,7 +10306,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10153,7 +10346,7 @@
           "_anchor": "msg-box5-57r",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -10173,7 +10366,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>At this stage, and with a good lubrication of engine oil applied to each of the cam bearing surfaces before assembly, regarded as good practice prior to the engines initial first start up. We now have the air filter, oil filter. And correct amount of engine oil, and coolant to be added. .</p>",
           "_tags": [
@@ -10201,14 +10394,14 @@
               "font-size": "32px"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>OIL FILTER INFORMATION</i></span>",
           "meta": "By John Smith posted July 20, 2016",
@@ -10222,7 +10415,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Fitting the oil filter, without it first being&nbsp; 'primed' is bad news. the engine will be starved of lubrication during the critical few seconds, it will take before it is actually filled, and ready to begin circulating the fresh oil around the engine.</p>",
           "_tags": [
@@ -10243,7 +10436,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Applying a light smear of oil to the filters rubber gasket wont 'scrunch' it up when screwing back on, then using some folded 'coarse' sandpaper along with hand pressure only, would be sufficient to tighten it up, then a good run out to circulate all fluids. Rover 200 project 2004.&nbsp;</p>",
           "_tags": [
@@ -10528,10 +10721,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -10544,7 +10737,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>TAILGATE WIRING LOOM</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -10575,7 +10768,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The tailgate wiring loom YMN 101940 of the 200/25/ZR tend to cause plenty of electrical problems, in the section where wires pass from body to tailgate through a rubber sleeve. Located on each side of the tailgate, the sleeve on the left contains water supply tube for rear screen wash. sleeve on the right carries a multitude of electrical wires."
         },
@@ -10586,7 +10779,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -10614,7 +10807,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -10658,7 +10851,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text1": "<p>Black ------------ 2.5 square mm - Heated Rear Window--earth wire</p><p>Black/Green ------ 2.5 square mm - Heated Rear Window--live wire</p><p>Orange ----------- 1.0 square mm - Central Door Locking - wire 1</p><p>Pink --------------- 1.0 square mm - Central Door Locking - wire 2&nbsp;</p><p>MK1 and MK2 except for 2004 MK2 onwards (wire 2 is a earth wire)</p>",
           "text2": "<p>Light Green/Grey -- 1.0 square mm - Rear Wiper Motor - wire 1</p><p>Brown/Green ------ 1.0 square mm - Rear Wiper Motor - wire 2</p><p>Red/Green ---------1.0 square mm - Rear Wiper Motor - wire 3</p><p>Red/Orange ------- 0.5 square mm - Number Plate Lamps - live wire</p><p>Green/Purple ----- 1.0 square mm - High Brake Light - live wire</p><p>Purple/Red -------- 1.0 square mm - Boot/Tailgate Door Switch.</p>",
@@ -10935,10 +11128,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -10951,7 +11144,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>INSTALLING TWIN HORNS MG-ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -10976,7 +11169,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Replacing the useless single horn of the MG, and then adding a much more responsive twin horn installation much like, and if not even better than the positive sounding ones which were originally fitted as standard equipment to the old Rover 200 series. ."
         },
@@ -10993,7 +11186,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11033,7 +11226,7 @@
           "_anchor": "msg-box5-3s4",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "22px"
@@ -11065,7 +11258,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Access to horns, was really, only to have the steering on full right lock, to pull back arch liner, but working in a tight space to do a proper job is always going to be difficult. So as other maintenance was to be included with fitting new horns, so the bumper was removed</p>"
         },
@@ -11084,7 +11277,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Bumper to wing 4 x 10mm bolts, 2 at each side, accessed by pulling back wheel arch liners, require having the steering on full alternate lock, these 4 bolts are not the easiest to remove, will be corroded and may need replacing. Along the bottom edge are 3 x 10mm bolts, in the middle 6 cross head screws, 3 located at each corner, leading edge 5 x 10mm bolts."
         },
@@ -11355,10 +11548,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -11371,7 +11564,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>K SERIES ENGINE COOLING SYSTEM</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -11385,7 +11578,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>How the cooling system works. Water pump pushes coolant..into engine block, then flows into cylinder head getting hotter as it circulates, coolant exits from coolant elbow. Along top hose into radiator to be cooled, then out of bottom hose up along the coolant rail to the thermostat, then back to water pump, constantly repeating the cooling process.</p>",
           "_tags": [
@@ -11419,7 +11612,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11465,7 +11658,10 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px",
-              "color": "#475577"
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           }
         },
@@ -11473,7 +11669,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Cold coolant coming in by stages allows the engine to retain heat while it gradually reaches normal operating temperature, and so avoids stressing the casting through a sudden heat shock, Cooling system, under normal driving heats up very fast, lack of a constant coolant flow in an engine working hard from cold, can be a contributing factor of head gasket failure.&nbsp; &nbsp;",
           "_tags": [
@@ -11494,7 +11690,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "The K series achieve this very quickly within the first mile or even less, a well maintained cooling system may have tepid air slightly evident at the face level air vents.in as little as 0.2 tenths of a mile, this first sign of a warm up process should remain constant during all seasons of the year, including extreme winter temperatures.&nbsp;&nbsp;",
           "_tags": [
@@ -11524,7 +11720,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/bluegreen-452x302.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -11567,7 +11763,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
-              "color": "#475577"
+              "color": "#000000"
             },
             "P": {
               "text-align": "left",
@@ -11601,7 +11797,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Cabin heater, matrix, is basically a smaller version of the cars radiator, filled with hot coolant supplied via the smaller of the two elbow joints coolant hose, which then feeds hot air into the cabin, the heater is located in an enclosed area between the centre console and engine bay bulkhead, and will not&nbsp; require any form of air cooling properties..&nbsp;</p>"
         },
@@ -11609,7 +11805,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Worth taking note, the temp gauge that usually shows a tad below half after a short drive. Will not always be an indication the engines actual operating temperature has yet been fully achieved till after a short period of time. A good heating system, especially during the winter months is essential..</p>",
           "_tags": [
@@ -11627,7 +11823,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>A coolant circulation check is to feel the radiator top hose it will be hot, and radiators bottom hose should be warm after coolant has been cooled prior to it going back into the engine to continue on its constant re-circulating cooling process.</p>",
           "_tags": [
@@ -11913,10 +12109,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -11929,7 +12125,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>IGNITION LEADS 200/25/ZR</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -11957,7 +12153,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "Removing ignition leads from distributor cap, or from sparkplugs without making a note of the correct fitting sequence, is an easy mistake to do, ignition leads on the distributor cap requires number 1 plug lead being inserted into uppermost connection,while others are placed in an anticlockwise direction of 3-4-2 for a correct firing order of the K16 engine.&nbsp;"
         },
@@ -11974,7 +12170,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12014,7 +12210,7 @@
           "_anchor": "msg-box5-554",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -12042,7 +12238,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12082,7 +12278,7 @@
           "_anchor": "msg-box5-553",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -12101,7 +12297,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>The ignition leads and the coil pack set up in the 2004 ZR shown directly above Comprises of Leoni high tension leads, Denso 100730 coil packs, NGK BKR6E 6962 Sparkplugs. Parts previously used in the Rover 200.Champion RC9YCC Sparkplugs. Bosch 731 HT Ignition Leads. HDC 504 Distributor Cap, and HRA 529 Rotor Arm..</p>",
           "_tags": [
@@ -12382,10 +12578,10 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#7e9b9f"
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "15px"
             },
             ".mbr-section-title SPAN": {
@@ -12398,7 +12594,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>INLET MANIFOLD GASKET</i></span>",
           "meta": "About features, and driver notifications on our MG-Rover Information Pages",
@@ -12425,7 +12621,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Always found the better option when replacing the inlet manifold gasket is not just detached from cylinder head while new gasket is fitted, but removed from the vehicle, makes it easier to work on, and better access for cleaning of the unit Throttle body was also removed, taking the opportunity for cleaning and polishing the internals.</p>"
         },
@@ -12436,7 +12632,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -12464,7 +12660,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12477,7 +12673,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/31-mg-rover-inlet-manifold-500x202.jpg",
+              "src": "@PROJECT_PATH@/assets/images/138-mg-rover-inlet-manifold-gasket-515x210.jpg",
               "link": "",
               "alt": "throttle body O ring MKG 100250",
               "title": "",
@@ -12516,7 +12712,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Coolant can be drained off, or syphoned to a lower level, vacuum hoses and various connectors are removed during the &nbsp;process. Most obvious one the brake servo vacuum hose, others not necessarily in order are the fuel feed and fuel return hoses, fuel return rail attached with 2 x 8mm bolts, and will require new BAU-5325 fuel O rings.</p>"
         },
@@ -12537,7 +12733,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>During removal of the inlet manifold, the underside nuts would have normally been difficult to get at. With throttle body removed it was made that much easier, and with a better reach in access, for the 4 difficult lower 13mm nuts, for the top 3 nuts we just used a ring spanner.&nbsp;</p>"
         },
@@ -12548,7 +12744,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#475577",
+              "color": "#000000",
               "font-size": "20px"
             },
             "SPAN": {
@@ -12576,7 +12772,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -12628,7 +12824,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "text": "<p>Prior to fitting a new manifold gasket LKJ 101110 no sealant is required, the unit was cleaned internally, this needs a good clean to the internal space for the mixing of a combined flow of fuel and air. Also as stated a good polish to the throttle body internals.</p>"
         },
@@ -15321,7 +15517,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Tailgate Loom</i></span>",
-          "text": "Wires inside the sleeve constantly fold over each other every time the tailgate is in use, so will fray and eventually break, damaged wires will create electrical problems, soldering a couple of broken wires is not a problem, although a replacement loom is a better option.",
+          "text": "Wires inside the sleeve constantly fold over each other every time the tailgate is in use, so will fray and eventually break, damaged wires will create electrical problems, soldering a couple of broken wires is not a problem.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -15699,7 +15895,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Engine Oil Level</i></span>",
-          "text": "Oil level dipsticks used in the 200 and ZR are not the best for a precise reading, plastic one for the 200, in most cases snap off leaving the tip of it floundering in the sump after many years of use. Wire one getting smeared while being withdrawn from out of the dipstick tube.",
+          "text": "Oil level dipsticks used in the 200 and ZR are not the best for a precise reading, plastic one for the 200, in most cases snap off leaving the tip of it floundering in the sump after many years of use. Wire one getting smeared while being withdrawn.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -15745,7 +15941,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/117-mg-rover-inlet-manifold-multi-connector-366x243.jpg",
-              "link": "",
+              "link": "https://mgrover200.github.io/inletmanifold.html",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -15990,7 +16186,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/121-mg-rover-fitting-remotes-to-2004-mg-zr-366x243.jpg",
-              "link": "",
+              "link": "https://mgrover200.github.io/audioremotes.html",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -16007,7 +16203,7 @@
             }
           },
           "title": "<span style=\"font-weight: 400;\"><i>Audio Remotes ZR</i></span>",
-          "text": "Replacing radio/cassette player as fitted to the 200 with CD/Radio, is a straight foreward plug and play option, replacement was a Kenwood KDC 3031A including a wiring kit, Auto-leads PC99-X04 multi stalk adaptor and PC99-KEN patch lead. Taking note that some HU's wont accept the use of audio remotes unless specified.",
+          "text": "Replacing radio/cassette player as fitted to the 200 with CD/Radio, is a straight foreward plug and play option, replacement was a Kenwood KDC 3031A including a wiring kit, Auto-leads PC99-X04 multi stalk adaptor and PC99-KEN patch lead.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -16177,8 +16373,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/124-rover%20navigation-366x243.jpg",
-              "link": "satnav.html",
+              "src": "@PROJECT_PATH@/assets/images/135-rover-200-navigation-366x243.jpg",
+              "link": "https://mgrover200.github.io/satnav.html",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -16201,13 +16397,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-711",
+          "_anchor": "msg-box5-717",
           "_styles": {
             "H3": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "25px",
-              "color": "#000000"
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           }
         },
@@ -16276,14 +16474,13 @@
         },
         {
           "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": true,
-            "ShowTexts": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false,
+            "inverse": true,
+            "imageSize": "30",
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -16294,110 +16491,174 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/123-mg-rover-bulb-monitoring-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
               "active": true,
-              "link": "https://mgrover200.github.io/lightcheck.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/124-rover%20navigation-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/satnav.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/125-rover%20colour%20codes-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/colourcodes.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media4": {
-            "image": {
+              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/126-purge%20valve-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
+              "linkInNewWindow": false,
               "link": "https://mgrover200.github.io/purgevalve.html",
-              "alt": "",
-              "linkInNewWindow": false
+              "alt": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/127-partsguide-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/partsguide.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/128-mg-rover-gear-box-drain-and-fill-366x243.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://mgrover200.github.io/gearboxoil.html",
-              "alt": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Brake Light Check",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "Navigation 200 ZR",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Colour Codes",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Purge Valve",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Parts Guide",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Gearbox Oil",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title": "<span style=\"font-weight: 400;\"><i>Purge Valve</i></span>",
+          "text": "The purge valve an electrically operated solenoid collects fuel vapors from the fuel tank and stores them in the charcoal canister, fuel vapors then moved from charcoal canister to the fuel injector and burned off inside the engine.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-713",
           "_styles": {
-            "H5": {
-              "color": "#000000",
-              "font-size": "16px"
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/127-partsguide-366x243.jpg",
+              "linkInNewWindow": false,
+              "link": "https://mgrover200.github.io/partsguide.html",
+              "alt": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_anchor": "features3-700"
+          "title": "<span style=\"font-weight: 400;\"><i>Parts Guide</i></span>",
+          "text": "Listed below are a small and random selection from our original 2004 spanners, sockets, and applications guide with part numbers for easy reference. Although available at the time, some may now be obsolete, and therefore not to be totally relied upon..&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-714",
+          "_styles": {
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/128-mg-rover-gear-box-drain-and-fill-366x243.jpg",
+              "linkInNewWindow": false,
+              "link": "https://mgrover200.github.io/gearboxoil.html",
+              "alt": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>Gearbox Oil 200</i></span>",
+          "text": "Oil change on the Rover 200 with R.65 gearbox is straight foreward, easily done at ground level, to release the 2 x 17mm drain and refill bolts, ring spanners were used, drain bolt is usually magnetised, so may have a small  amount of swarf attached.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-715",
+          "_styles": {
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {
