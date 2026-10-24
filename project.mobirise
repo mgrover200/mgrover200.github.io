@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9122,
+    "uniqCompNum": 9123,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -308,7 +308,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -418,31 +418,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-70a"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<i>The above vehicles, of which we&nbsp;owned for many years,&nbsp;are no longer with us.&nbsp;</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px",
-              "color": "#000000"
-            },
-            "I": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "content1-70b"
         },
         {
           "_params": {
@@ -3464,7 +3439,7 @@
           "_anchor": "content1-394",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
           "text": "<p>When not in use, the unit remains un-detectable from inside the vehicle, and more importantly from the outside, all wiring is concealed in the dashboard, with no cradle or suction marks being evident. Created for the 1996 Rover 200. Project Design and Installation. (c) 2008&nbsp;&nbsp;</p>"
@@ -3476,8 +3451,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3494,7 +3469,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/366%20x%20243-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/145-satnav-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3527,7 +3502,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/141-satnav-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/143-satnav-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3538,7 +3513,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/142-satnav-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/144-satnav-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3549,7 +3524,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/366%20x%20243-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/142-satnav-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3594,7 +3569,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Shown above during construction, and fitting, into the 1996 Rover 200 Series. in late 2008.",
+          "text": "<i>Shown during construction and fitting, into the 1996 Rover 200 in 2008.</i>",
           "_tags": [
             "Theme"
           ],
@@ -3603,7 +3578,10 @@
           "_styles": {
             "DIV": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#475577",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
             }
           }
         },
