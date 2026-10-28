@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "dashcam.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9131,
+    "uniqCompNum": 9132,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -6491,7 +6491,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -6529,7 +6529,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: 400;\"><i>Mobius Camera Locations 2014 to 2026</i></span>",
+          "title": "<span style=\"font-weight: 400;\"><i>Mobius Camera 2014 to 2026</i></span>",
           "text": "Attached to support bracket, high level positioning of the camera required changing passenger 18\" wiper to a 20\" inch to sweep rain from windscreen/lens area Centre position of rear camera has the USB power cable, fed in along inside of rear trim panel.    .&nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -6542,7 +6542,11 @@
               "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "22px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -6552,7 +6556,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>To power up the mobius monitoring system a drivers side dashboard located switch, activates each camera simultaneously, power is supplied using dual USB cables. the 64gb micro cards we have installed in the cameras, have a combined recording time before being over written. Which are sufficient to review any incidents en-route.</p>",
+          "text": "<p>Power to the mobius monitoring system, is shown located next to the satellite navigation switch, that will activate each cameras simultaneously, using dual USB cables. the 64gb micro cards we have installed in the cameras, have a good recording time before being over written.</p>",
           "_tags": [
             "Theme"
           ],
@@ -6611,7 +6615,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Cisco Flip Mino Video Camera 2011 to 2013</i></span>",
-          "text": "Prior to dashcams being more available in later years, we used this mini camcorder from 2011 to 2013, a good quality unit, but with only the recording time of an hour, so was only ideal for short trips.&nbsp;&nbsp;",
+          "text": "Prior to dashcams being more available in later years, we used this mini camcorder from 2011 to 2013, a good unit, but with a limited recording time, positioned offset in the ZR, for a dynamic view.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -6626,6 +6630,64 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead": {
+              "color": "#f7da64",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "19px"
+            },
+            ".lead I": {
+              "font-size": "20px"
+            },
+            ".lead B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".lead SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/149-mg-zr-video-camera-1600x466.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#90a878",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: 400;\"><i>NORTH YORKSHIRE TOUR 2011</i></span>",
+          "text": "<span style=\"font-size: 20px;\">Part 3 Helmsley To York</span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-71n"
         },
         {
           "_params": {

@@ -2642,6 +2642,9 @@ section.form .container {
 
 
 
+
+
+
 #ext_menu-1yl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2781,6 +2784,10 @@ section.form .container {
   color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
+  text-align: left;
+}
+#msg-box5-6qo P {
+  text-align: left;
 }
 #content1-5uy P {
   font-size: 17px;
@@ -2792,6 +2799,31 @@ section.form .container {
   color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
+}
+#msg-box8-71n .mbr-section-title,
+#msg-box8-71n .lead {
+  color: #fff;
+}
+#msg-box8-71n .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  color: #f7da64;
+}
+#msg-box8-71n .lead {
+  color: #f7da64;
+  text-align: center;
+}
+#msg-box8-71n .lead P {
+  font-size: 19px;
+}
+#msg-box8-71n .lead I {
+  font-size: 20px;
+}
+#msg-box8-71n .lead B {
+  font-family: 'Lora', serif;
+}
+#msg-box8-71n .lead SPAN {
+  font-family: 'Lora', serif;
 }
 #content1-62o P {
   font-family: 'Raleway', sans-serif;
