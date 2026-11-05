@@ -11,7 +11,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -581,15 +580,6 @@ section.form .container {
 #header3-709 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 30px;
-}
-#content1-71h DIV {
-  text-align: center;
-  font-family: 'Lora', serif;
-  font-size: 15px;
-  color: #475577;
-}
-#content1-71h I {
-  font-size: 16px;
 }
 #content1-6ll P {
   font-family: 'Raleway', sans-serif;
@@ -1873,6 +1863,7 @@ section.form .container {
   color: #000000;
   font-family: 'Lora', serif;
   font-size: 24px;
+  text-align: left;
 }
 #msg-box5-3ab P {
   text-align: left;
@@ -3366,6 +3357,7 @@ section.form .container {
   color: #000000;
   font-family: 'Lora', serif;
   font-size: 18px;
+  text-align: left;
 }
 #msg-box5-5a0 SPAN {
   font-size: 22px;
@@ -3375,6 +3367,7 @@ section.form .container {
   color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
+  text-align: left;
 }
 #content1-4wi P {
   font-family: 'Raleway', sans-serif;
@@ -3564,9 +3557,11 @@ section.form .container {
   color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
+  text-align: left;
 }
 #msg-box5-6rs P {
   color: #000000;
+  text-align: left;
 }
 #content1-4y6 DIV {
   color: #000000;
@@ -3756,9 +3751,11 @@ section.form .container {
   color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
+  text-align: left;
 }
 #msg-box5-71a P {
   color: #000000;
+  text-align: left;
 }
 #header3-6op .mbr-section-title,
 #header3-6op .mbr-section-subtitle {
@@ -4720,6 +4717,7 @@ section.form .container {
   font-family: 'Lora', serif;
   font-size: 20px;
   color: #000000;
+  text-align: left;
 }
 #msg-box5-48e P {
   text-align: left;
@@ -5778,6 +5776,9 @@ section.form .container {
 }
 #content1-71g I {
   font-size: 16px;
+}
+#content1-71g SPAN {
+  font-size: 15px;
 }
 #content1-6t6 P {
   font-family: 'Raleway', sans-serif;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dashcam.html",
+    "currentPage": "index.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -308,7 +308,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -418,31 +418,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-70a"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<i>The Rover/ZR vehicles, which we owned from 2004 to 2026, are no longer with us.&nbsp;</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px",
-              "color": "#475577"
-            },
-            "I": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "content1-71h"
         },
         {
           "_params": {
@@ -2394,7 +2369,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "45",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -3983,7 +3958,8 @@
               "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left"
             },
             "P": {
               "text-align": "left",
@@ -4002,7 +3978,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -8075,7 +8051,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -8126,7 +8102,8 @@
               "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "18px",
+              "text-align": "left"
             },
             "SPAN": {
               "font-size": "22px",
@@ -8137,7 +8114,8 @@
               "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px"
+              "font-size": "17px",
+              "text-align": "left"
             }
           }
         },
@@ -8616,7 +8594,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": "0",
@@ -8667,10 +8645,12 @@
               "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "22px",
+              "text-align": "left"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           }
         },
@@ -9221,10 +9201,12 @@
               "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "22px",
+              "text-align": "left"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-71a"
@@ -10420,7 +10402,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>Camshaft Cover Gasket</i></span>",
-          "text": "A new cam cover gasket was fitted, this went on dry, or with sealant added, to the cleaned surfaces, and fitted correct way round its marked up. LDR-102000 was used for this project.",
+          "text": "A new cam cover gasket was fitted, this went on with sealant added, to the cleaned surfaces, and fitted correct way round its marked up. for this. LDR-102000 gasket was used for this project.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -11865,7 +11847,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "50",
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -11916,7 +11898,8 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             "P": {
               "text-align": "left",
@@ -14979,7 +14962,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<i>The above vehicles we owned from 2004 to 2026 are longer with us.&nbsp;</i>",
+          "text": "<span style=\"font-size: 16px;\"><i><a href=\"https://mgrover200.github.io/dashcam.html\" class=\"text-black\">DASHCAM</a> and </i><a href=\"https://mgrover200.github.io/satnav.html\" class=\"text-black\">NAVIGATION</a><i> system updates</i></span>",
           "_tags": [
             "Theme"
           ],
@@ -14994,6 +14977,9 @@
             },
             "I": {
               "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "15px"
             }
           },
           "_anchor": "content1-71g"
@@ -15300,7 +15286,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "30",
+            "imageSize": "26",
             "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -15366,8 +15352,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "1",
+            "imageSize": "26",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15432,9 +15418,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "26",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -15498,7 +15484,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "30",
+            "imageSize": "26",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -15564,9 +15550,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": "26",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
