@@ -5685,7 +5685,6 @@ section.form .container {
 
 
 
-
 #ext_menu-6sy .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5791,7 +5790,8 @@ section.form .container {
 #header3-703 .mbr-section-title {
   font-family: 'Lora', serif;
   font-size: 32px;
-  color: #565656;
+  color: #000000;
+  text-align: center;
 }
 #header3-703 .mbr-section-subtitle {
   color: #000000;
@@ -5800,18 +5800,6 @@ section.form .container {
 #header3-703 .mbr-section-title SPAN {
   font-family: 'Lora', serif;
   font-size: 30px;
-}
-#content1-71g DIV {
-  text-align: center;
-  font-family: 'Lora', serif;
-  font-size: 15px;
-  color: #475577;
-}
-#content1-71g I {
-  font-size: 16px;
-}
-#content1-71g SPAN {
-  font-size: 15px;
 }
 #content1-6t6 P {
   font-family: 'Raleway', sans-serif;
@@ -5825,6 +5813,8 @@ section.form .container {
   color: #c1c1c1;
   font-size: 16px;
 }
+
+
 
 
 
@@ -5966,6 +5956,23 @@ section.form .container {
 #features3-71z H5 {
   color: #000000;
   font-size: 15px;
+}
+#msg-box8-720 .mbr-section-title,
+#msg-box8-720 .lead {
+  color: #fff;
+}
+#msg-box8-720 .mbr-section-title {
+  font-family: 'Lora', serif;
+  font-size: 36px;
+  color: #f7da64;
+}
+#msg-box8-720 .lead P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+#msg-box8-720 .lead {
+  color: #ffffff;
 }
 #content1-701 P {
   font-family: 'Raleway', sans-serif;

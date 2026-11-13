@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9144,
+    "uniqCompNum": 9154,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -14866,7 +14866,8 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#565656"
+              "color": "#000000",
+              "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
@@ -14885,7 +14886,7 @@
             "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 MG-ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "meta": "About features, and driver notifications on our MG-Rover <a href=\"https://mgrover200.github.io/previews.html\" class=\"text-info\" style=\"font-style: normal;\">Information Pages</a>",
           "_tags": [
             "Theme"
           ],
@@ -15010,34 +15011,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-707"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<span style=\"font-size: 16px;\"><i><a href=\"https://mgrover200.github.io/dashcam.html\" class=\"text-black\">DASHCAM</a> and </i><a href=\"https://mgrover200.github.io/satnav.html\" class=\"text-black\">NAVIGATION</a><i> system updates</i></span>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px",
-              "color": "#475577"
-            },
-            "I": {
-              "font-size": "16px"
-            },
-            "SPAN": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "content1-71g"
         },
         {
           "_params": {
@@ -15346,7 +15319,7 @@
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bluegreen-452x302.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#cccccc",
@@ -15415,7 +15388,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/110-tailgate%20loom-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81-mg-rover-tailgate-loom-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15467,7 +15440,7 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
@@ -15592,7 +15565,7 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
@@ -15717,8 +15690,8 @@
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15834,6 +15807,55 @@
               "font-size": "15px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px",
+              "color": "#f7da64"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
+          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-720"
         },
         {
           "_params": {
