@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "previews.html",
+    "currentPage": "torque.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9154,
+    "uniqCompNum": 9162,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -10201,7 +10201,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -10227,7 +10227,8 @@
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
-              "font-size": "15px"
+              "font-size": "15px",
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -10242,7 +10243,7 @@
             "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>ENGINE TORQUE SETTINGS</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "meta": "About features, and driver notifications on our MG-Rover<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-primary\"> </a><a href=\"https://mgrover200.github.io/previews.html\" class=\"text-info\" style=\"\">Information Pages</a>",
           "_tags": [
             "Theme"
           ],
@@ -15830,11 +15831,11 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
             "parallax": false,
