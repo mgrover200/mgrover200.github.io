@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9152,
+    "uniqCompNum": 9167,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -10201,7 +10201,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
@@ -10227,7 +10227,8 @@
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
-              "font-size": "15px"
+              "font-size": "15px",
+              "text-align": "center"
             },
             ".mbr-section-title SPAN": {
               "font-family": "'Lora', serif",
@@ -10242,7 +10243,7 @@
             "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>ENGINE TORQUE SETTINGS</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "meta": "About features, and driver notifications on our MG-Rover<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-primary\"> </a><a href=\"https://mgrover200.github.io/previews.html\" class=\"text-info\" style=\"\">Information Pages</a>",
           "_tags": [
             "Theme"
           ],
@@ -14866,7 +14867,8 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "32px",
-              "color": "#565656"
+              "color": "#000000",
+              "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
@@ -14885,34 +14887,12 @@
             "bgColor": "#cccccc"
           },
           "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 MG-ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
+          "meta": "About features, and driver notifications on our MG-Rover <a href=\"https://mgrover200.github.io/previews.html\" class=\"text-info\" style=\"font-style: normal;\">Information Pages</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-703"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<i>All that is available on our&nbsp;<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Web Pages</a></i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "color": "#475577",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "content1-727"
         },
         {
           "_params": {
@@ -14939,7 +14919,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/129-rover200-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14950,7 +14930,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/130-armrest-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14961,7 +14941,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/131-navigation-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14972,7 +14952,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/132-zr%20grill-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14983,7 +14963,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/133-tool%20tray-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14994,7 +14974,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/134-dashcam-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zzzzzzz-200x133.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15031,7 +15011,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-707"
+          "_anchor": "features3-72m"
         },
         {
           "_params": {
@@ -15409,7 +15389,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/110-tailgate%20loom-366x243.jpg",
+              "src": "@PROJECT_PATH@/assets/images/81-mg-rover-tailgate-loom-366x243.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15438,8 +15418,8 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -15851,11 +15831,11 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
             "parallax": false,
@@ -15865,7 +15845,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
