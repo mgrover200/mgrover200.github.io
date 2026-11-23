@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "previews.html",
+    "currentPage": "gearboxoil.html",
     "name": "MG Rover",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9172,
+    "uniqCompNum": 9193,
     "versionPublish": "5.6.0",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "noImageResize": "true",
@@ -476,7 +476,7 @@
           "_styles": {
             "P": {
               "color": "#c1c1c1",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "_anchor": "footer1-2u2",
@@ -492,7 +492,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved"
+          "text": "<i>MG-Rover Information Pages (c) 2004 All Rights Reserved</i>"
         }
       ]
     },
@@ -14859,46 +14859,10 @@
           "_anchor": "msg-box8-6zp"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#000000",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#475577",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#cccccc"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 MG-ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-703"
-        },
-        {
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
@@ -15021,24 +14985,216 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p><b><a href=\"https://mgrover200.github.io/oilsump.html\" class=\"text-black\">Oil Sump</a>&nbsp; &nbsp;<a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-black\"> Ignition Switch</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-black\">Sunroof&nbsp; </a>&nbsp;<a href=\"https://mgrover200.github.io/coolsensor.html\" class=\"text-black\"> Coolant Sensor&nbsp;</a> &nbsp; <a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-black\">Gearbox Oil</a></b></p>",
+          "text": "<b>Torque</b>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-72r",
+          "_anchor": "content1-72z",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><b><a href=\"https://mgrover200.github.io/oilsump.html\" class=\"text-black\" style=\"\">Oil sump</a>&nbsp; &nbsp;<a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-black\"> Ignition switch&nbsp;</a> &nbsp;<a href=\"https://mgrover200.github.io/gearboxoil.html\" class=\"text-black\"> Gearbox oil&nbsp;</a> &nbsp; <a href=\"https://mgrover200.github.io/coolsensor.html\" class=\"text-black\">Coolant sensor</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Previews&nbsp;</a>&nbsp;&nbsp;&nbsp;</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-72w",
           "_styles": {
             "P": {
               "text-align": "center",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "15px"
+              "font-size": "13px"
             },
             "DIV": {
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<a href=\"https://mgrover200.github.io/oilsump.html\" class=\"text-primary\">Oil sump </a>.<a href=\"https://mgrover200.github.io/ignitionswitch.html\" class=\"text-primary\"> Ignition switch</a> .<a href=\"https://mgrover200.github.io/satnav.html\" class=\"text-primary\"> Navigation</a> . Gearbox oil . Coolant sensor . Fuel filter",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-739",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<b>Colour Codes</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-730",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><a href=\"https://mgrover200.github.io/partsguide.html\" class=\"text-black\">Parts guide</a>&nbsp; &nbsp;<a href=\"https://mgrover200.github.io/fuelfilter.html\" class=\"text-black\"> Fuel filter&nbsp;</a> &nbsp;<a href=\"https://mgrover200.github.io/enginefuse.html\" class=\"text-black\">&nbsp;Engine fuse box&nbsp;&nbsp;</a>&nbsp; <a href=\"https://mgrover200.github.io/cabinfuse.html\" class=\"text-black\">Cabin fuse panel&nbsp;</a> &nbsp; <a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Previews</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-732",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<b>Purge Valve</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-733",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><a href=\"https://mgrover200.github.io/sunroof.html\" class=\"text-black\">Sun roof</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/ignitionleads.html\" class=\"text-black\">Ignition leads</a>&nbsp; &nbsp;<a href=\"https://mgrover200.github.io/inletmanifold.html\" class=\"text-black\"> Inlet manifold</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/satnav.html\" class=\"text-black\">Navigation</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Previews</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-734",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<b>Cooling System</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-735",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><a href=\"https://mgrover200.github.io/oilchecking.html\" class=\"text-black\">Oil check</a>&nbsp; &nbsp;<a href=\"https://mgrover200.github.io/twinhorns.html\" class=\"text-black\"> Twin horns</a>&nbsp; &nbsp; <a href=\"https://mgrover200.github.io/dashcam.html\" class=\"text-black\">Dashcams</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-black\">Previews</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-736",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<b>Cabin Heater</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-737",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<b>Tailgate loom</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-738",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
               "color": "#475577"
             }
           }
@@ -15049,7 +15205,7 @@
             "paddingBottom": "1",
             "bgColor": "#475577"
           },
-          "text": "<p><i>Information is referenced only to our 1996 Rover 200 and 2004 ZR 120+</i></p>",
+          "text": "<i>Navigation . <a href=\"https://mgrover200.github.io/dashcam.html\" class=\"text-primary\">Dashcam</a> . <a href=\"https://mgrover200.github.io/audioremotes.html\" class=\"text-primary\">Audio remotes</a> . <a href=\"https://mgrover200.github.io/emissions.html\" class=\"text-primary\">Emissions</a> . <a href=\"https://mgrover200.github.io/lightcheck.html\" class=\"text-primary\">Bulb monitoring</a> . <a href=\"https://mgrover200.github.io/twinhorns.html\" class=\"text-primary\">Horns</a> .&nbsp;<a href=\"https://mgrover200.github.io/previews.html\" class=\"text-primary\"> Previews</a></i>",
           "_tags": [
             "Theme"
           ],
@@ -15062,7 +15218,11 @@
               "text-align": "center"
             },
             "DIV": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "I": {
+              "font-size": "13px"
             }
           },
           "_anchor": "content1-6t6"
@@ -15075,7 +15235,7 @@
           "_styles": {
             "P": {
               "color": "#c1c1c1",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -15090,7 +15250,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "MG-Rover Information Pages (c) 2004 All Rights Reserved",
+          "text": "<i>MG-Rover Information Pages (c) 2004 All Rights Reserved</i>",
           "_anchor": "footer1-6t4"
         }
       ]
@@ -15303,41 +15463,6 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-6zv"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "32px",
-              "color": "#000000"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-size": "15px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#cccccc"
-          },
-          "title": "<span style=\"font-weight: 400;\"><i>1996 ROVER 200 SERIES/2004 MG-ZR</i></span>",
-          "meta": "About features, and driver notifications on our MG-Rover Information Pages",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-70h"
         },
         {
           "_params": {
@@ -15722,7 +15847,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -15838,55 +15963,6 @@
               "font-size": "15px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "36px",
-              "color": "#f7da64"
-            },
-            ".lead P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "19px",
-              "text-align": "center"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/80-woodsome-1600x372.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>MG-ROVER INFORMATION PAGES</i></span>",
-          "text": "<p><i>With various aspects of servicing, maintenance, including driver assisted  features and vehicle monitoring. For our 1996 Rover 200 and the 04 ZR 120+</i></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-720"
         },
         {
           "_params": {
